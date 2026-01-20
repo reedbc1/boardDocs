@@ -1,0 +1,166 @@
+{
+  "name": "Regular Meeting",
+  "description": "Library Board",
+  "unique": "BL3ML65AF186",
+  "date": "2020-11-16T00:00:00Z"
+}
+
+---
+
+ST. LOUIS COUNTY LIBRARY DISTRICT
+MEETING OF THE BOARD via ZOOM
+1640 SOUTH LINDBERGH BLVD.
+MONDAY, NOVEMBER 16, 2020
+ 3:30 p.m.
+ATTENDANCE:
+Members present:
+Lynn Beckwith, Ed.D., President
+Johnny Wang, Vice-President
+Ted Sanditz, Treasurer
+Joan Barry, Member
+Laura Horwitz, Secretary
+ADMINISTRATORS AND GUESTS ATTENDING: Kristen Sorth, Director and CEO; Eric Button, Deputy Director; Barbara Turkington, Assistant Director, Administration; Laura Taylor, CFO; Gib Van Cleve, Assistant Director, ITS; Steve Hunter, Assistant Director, Operations; and Lisa Stump, Lashly and Baer.
+OTHERS ATTENDING: Sandra Williams, Executive Assistant; Angela Brooks, Small Business Employee Relations Coordinator.
+Dr. Beckwith began the meeting by reading a statement regarding public comments.  He gave details regarding the responses and when they could be expected.
+MINUTES
+The Library Board approved the October 19, 2020 minutes (Wang/Sanditz).
+PUBLIC COMMENTS
+The following letters were addressed to the Board and read by Executive Assistant Sandra Williams.  Letters were from: Asim Thakore, Rachel Frisch, Maddie Moore, David L. Bulger, Allie Fry, Gesenia A Phillips, Lindsey Lutz and Ulaa Kuziez.  There were 28 identical letters from the following persons: Michelle Chicoineau, Caroline Vericker, Evan, Amelia Zimmerman, Geneva Lee, Tony Dang, Madison Sullivan, Frances Metzger, Nikolai Osinoff, Parris King-Levine, Sunny, Celeste Schilly, Lauren Kalt, Ashley Poetz, Liam Gibbs, McKenna Leckrone, Rachel McGuide, Kristen Wilke, Elizabeth Wagner, Katie Judson, Alexa Drouin, Hannah Bisch, A concerned community member, Kathryn Schott and Patti Curtis.
+TREASURER'S REPORT
+Laura Taylor, Chief Financial Officer, presented the following information.
+Maintenance and Operating Fund Financial Statements:
+Revenues
+	District Taxes – TIF – In October, the Library District received $63,520 in Tax Increment Financing.  The funds received represent the Library District’s share of the Payment in Lieu of Taxes (P.I.L.O.T.) fees that were declared surplus.
+	Athletes & Entertainers Tax - The Library District received $17,000 in October from St. Louis County’s distribution of the Athletes and Entertainers Tax. This was the first of two payments for the State of Missouri’s 2021 fiscal year. The next payment is expected in March of 2021.
+	State Aid – In October, the Library District received a $214,787 from the State of Missouri’s distribution of State Aid to libraries.  This was the first of two payments expected for the State of Missouri’s 2021 fiscal year.  The next payment is expected in March of 2021.
+Expenses
+· Collection – eMedia Circulation – In October, the Library District incurred $333,189 in expenses for its eMedia collection.  The Library District has seen increased spending in eMedia resources this year as patrons continue to utilize eBooks, Audiobooks, and Movies/Videos.
+Expenses
+	CARES Act Grant – In October, the Library District paid $2,300,000 to T-mobile for WiFi Hotspots.  This purchase was funded through the $4,000,000 CARES Act as part of the Digital Equity Initiative. Almost 10,000 hotspots have already been distributed to students and school districts throughout St. Louis County.
+Capital Projects Fund Financial Statements
+Balance Sheet – 2016 Debt Issuance
+	Construction in Progress – Total Construction in Progress for October 2020 was $53,970.  The expenses included payments for:
+		Construction costs for Mid County - $35,604
+		Facilities Master Plan Administrator payment of - $10,938
+The Library Board approved of the November Treasurer's Report subject to audit (Sanditz/Wang).
+DIRECTOR'S REPORT
+Kristen Sorth, CEO, reported the following.
+Library Update
+	She shared the Dashboard report for October with the Board.  Total circulation for October 2020 was 47% lower than October 2019.  eMedia circulation in contrast, was 30% higher than eMedia circulation in October 2019.   32% of the Library’s total circulation in September came from eMedia.  In October of 2019, eMedia made up just 13% of our circulation.  The Dashboard contains a table that compares circulation for each type of media in October, 2020 compared to October, 2019.  (Plan: Promote Literacy 1.1)
+	She said the Library was awarded a $75,000 grant from PNC to fund the purchase of 115 hotspot and Chromebook kits that will be checked out for public use at Bridgeton Trails, Florissant Valley, Indian Trails, Jamestown Bluffs, Prairie Commons, Lewis & Clark, Natural Bridge, Rock Road and Weber Road. Distribution of the kits began on November 9th.   Within the first few hours of the announcement, 33 holds had been placed on the kits which will help meet the need for public computing access particularly while the library remains closed. Thirty-five of the kits will remain at the assigned branch for immediate patron checkout.  The other 80 units will be holdable and float throughout the district. The kits can be checked out on adult cards only for 14 days.  (Plan: Sense of Community 2.1)
+	1,115 patrons have registered online for a Library card and requested to have their cards mailed to their home. Of this number, 797 were new registrations, the remaining patrons were replacements of existing accounts. (Plan: Maximize Access 1.1)
+	Ms. Sorth said the Library continues to partner with the St. Louis County Public Health Department to provide free drive-thru COVID-19 testing.  Flu shots are also available at the same time.  Testing and vaccinations take place in the branch parking lots from 8:00 a.m. – noon on Tuesdays and Thursdays.  Locations include Bridgeton Trails, Florissant Valley, Grant’s View, HQ, Jamestown Bluffs, Lewis & Clark, Meramec Valley, Natural Bridge, Oak Bend, Prairie Commons, Rock Road, Sachs and Weber Road. (Plan: Sense of Community 2.1)
+	The History and Genealogy Department hosted their first Virtual Expo on November 7th. The morning session had 89 attendees and the afternoon session had 59. Each session featured four speakers/organizations. The next Expo is scheduled for December 5th. Public feedback from the expo was very positive. Attendees can connect to organizations that can help them discover the history of their family and community. Representatives of St. Louis-area organizations will give presentations followed by question and answer sessions. (Plan: Promote Literacy 3.4)
+	She said the Winter Reading Challenge kicks off December 1, 2020 and runs through January 31, 2021. Last year over 23,000 people participated in the club, which offers fun incentives and reading opportunities for the whole family. Participants can track their reading online or by printing a paper log at home. Everyone is asked to complete at least 5 activities to complete the challenge. Those who complete the reading challenges will be entered into a prize raffle. Winners will be chosen in each age group. (Plan: Promote Literacy 1.2)
+	The Adult Services Department was contacted by St. Louis Community College-Forest Park about the Career Online High School program after they were made aware of our relationship with the STLCC-Florissant Valley campus. The St. Louis Community College Foundation will provide 3 credit scholarships to our latest graduates. She said the Library is so thankful to STLCC for providing our COHS graduates with a seamless opportunity to continue their education and sincerely appreciate their partnership and generosity. (Plan: Sense of Community 2.1)
+	Ms. Sorth said in the past month, the Library has partnered with a number of local organizations like Forward Through Ferguson, Operation Hope, Center for Hearing and Speech, Academy of Science St. Louis, Fit and Food Connection etc., to provide impactful and well-attended virtual programming. The number of virtual programs hosted by Adult Services increased from 34 in September to 53 in October. The average attendance for each program also increased over 30%, and the webinars had 83 attendees on average. Many of those programs had well over 100 in attendance and a few reached more than 300. We are also celebrating another attendance record, as 423 people attended the Virtual Program: Forest Park Owls Hunting and Feeding on Monday, November 9. (Plan: Promote Literacy 3.4 and Sense of Community 2.3)
+	Total calls routed to Customer Connect for assistance for October totaled 9,927. This total is about 26% lower than October 2019. Total talk time for October increased 34% with an average call lasting 2 ½ minutes. In general, this follows the trend during COVID of fewer phone calls, but sharply increased call duration. Text/Chats and regular Mail inquiries from patrons continue to be a popular point of contact for patrons. Text/Chats for the year compared to the same timeframe of 2019 has increased 479%. When compared to the same timeframe of 2019, postal mail has increased 131%.  Training had its third highest call total for the year, answering 376 calls from patrons needing e-media and computer assistance. (Plan: Maximize Access 3.3)
+	She said the Mid-County Branch served as an absentee voting site and a mail-in drop off site for the St. Louis County Board of Elections from October 22 – November 1: 8:00 a.m. – 4:30 p.m., October 24 and October 31: 9:00 a.m. – 1:00 p.m. and November 2: 8:00 a.m. – 5:00 p.m.  Over 10,000 residents visited Mid-County to vote absentee.   Fifteen branches served as polling sites on November 3. (Plan: Sense of Community 2.1 and Promote Literacy 2.4)
+	Ms. Sorth said the Library will continue to provide vital services to the region.  A chart was shared that shows our accomplishments as of November 11.  Ms. Sorth said she is so thankful to the many community partners who have reached out to us to provide additional items to be distributed through our drive-thru meal sites.    (Plan: Sense of Community 2.1)
+	The final phase of Chromebook distribution for the Digital Equity Initiative concluded on November 13. In total, 6,015 Chromebooks were provided to 25 schools and school districts. This distribution met nearly half of the requests received from St. Louis County schools. (Plan: Promote Literacy 3.3)
+	There were pictures shown from various events that have taken place over the last month including Chromebook Distribution, Drive Thru Meals, Eye Thrive, Notary Services, Miriam Tutoring, Curbside Halloween and Free Comic Book Day.  (Plan: Promote Literacy 3.4 and Sense of Community 2.1)
+Library Administrative Updates
+	Ms. Sorth said that all employees, at the six branches that previously had off-duty officers provided by Hudson Security, received a survey on October 26th asking for their input on public safety at the Library.  Those branches include Florissant Valley, Indian Trails, Lewis & Clark, Natural Bridge, Rock Road and Weber Road.  The information gathered, along with information from the ten employee town hall meetings, was used to develop the Library’s plans for 2021 which will be discussed later in the meeting. (Plan: Sense of Community 1.3)
+	As mentioned previously, she said the Library been working with Lockton, the Library’s HR Consultant, on a complete revision to the performance management process and salary structure.  The salary structure will be discussed in the 2021 Library Budget.  The performance management form and process redesign is complete with a suggested format from Lockton created with input gathered from managers and employees.  Managers have started working on the performance evaluation process.  Other recommendations are included in the 2021 draft budget.
+	The three administrators overseeing branch services are visiting all twenty branches for an entire day during the month of November.  The purpose of these visits is to work side-by-side and check in with managers and employees as well as to collect information on how we can support the needs of the branches.  The information gathered will also be used to inform decision-making.
+	Administration recently learned that the Library’s worker’s compensation experience rating is .78 which is significantly lower than the industry standard of a 1 rating.  This should result in cost savings during the 2021 insurance renewals.
+	57% of all employees are participating in the Walk into Fall Challenge. With only half of the 33 teams reporting, employees have walked 10,672 miles as of November 1st. Out of 36 possible branches and departments, 34 are participating in the challenge. The challenge ends on Sunday, November 15, 2020.
+	She said the 21st Annual Staff Trivia Night was held virtually. It was hosted by the Staff Association on in the evening of Saturday, November 7th. There were seven teams with a total of 40 in attendance. There were five rounds of five questions, the hardest round was about SLCL history. The winning team was the Cruisers from MV (named after Julie Cruise because she attended most trivia nights). They won their choice of gift cards provided by the Staff Association.
+	Employees who participate in the Winter Reading Club and complete 5 of the 20 activities will be entered into a raffle to win a Samsung Galaxy Tablet. The winner will be announced in February when the challenge is finished.
+	Ms. Sorth announced that the Library was selected as the winner of the Technology Innovation Citizens Award issued by AT&T and Government Technology Magazine for their Special Districts Award Program. The award recognizes the Library’s work on the Digital Equity Initiative, providing hotspots, Chromebooks, and tutoring services. The Library will be recognized for this national award at a virtual summit on December 15. (Plan: Maximize Access 1.3)
+	The Library was selected as the winner of the National Philanthropy Day Changemakers Award. This award, issued by the Association of Professional Fundraisers, will be presented on November 19 during a virtual ceremony. This award recognizes the Library’s considerable efforts during COVID-19 to distribute essential resources to the community through the drive-thru service utilizing the strength of many partnerships.  It also recognizes our efforts to address digital inequity in the region. (Plan: Maximize Access 1.3)
+Library Construction and Facility Updates
+	Ms. Sorth said that site work for the new Administrative Building is underway.  We have the land disturbance permit, the MODOT permit for the new traffic light, and the permit for the mechanical and electrical systems from St. Louis County.  We are still waiting for the Building Permit to be issued by the City of Frontenac.  Foundation work is scheduled for next week and we are concerned about the continuing delay.  We have followed up with the City on numerous occasions.   (Plan: Maximize Access 2)
+	On July 20, 2020 the Library Board approved the hiring of IFS to mitigate the excessive noise levels being produced by the rooftop HVAC unit at Mid-County. That work has been successfully completed. Decibel level readings at the edge of the roof have dropped from over 75 to 54. St. Louis County noise requirements are no more than 65 dB (day) and 60 dB (night) at the property line. (Plan: Maximize Access 2.4)
+	She said on October 15, the fire supply line at Headquarters ruptured outside of the building, causing water to pour over the surface of the parking lot on the west side. This supply line provided water for the fire suppression system for the whole building. The damage, along with the routing of the pipe, meant that a simple repair was unlikely to succeed. It was decided that the best solution was to replace the entire length of pipe that had failed, from just behind the break all the way into the sprinkler control valve in the basement. Since the building was without its active fire suppression system, HQ was closed to staff for several days. The fix required the floor in the main reading room to be demolished and the dirt below hand-excavated to a depth of over six feet. Digging took more than three full days. Building Systems moved book ranges and provided protection for the materials in that area. Once the dig was completed, two core drills were needed in the foundation walls to provide a route for the new pipe into the building. The repair to the line was completed on October 22nd and the branch was re-opened for staff and curbside pickup the following day. The Board was kept informed of the situation throughout the duration of work. The repair work fell under the emergency procurement policy. The total cost of the work was $39,505, and a claim is being filed with our insurance provider.  The Policy states.
+	7. Emergencies. This Policy may be waived by the Director in writing in emergencies involving the health, welfare or safety of individuals or where significant damage or disruption of service would occur if corrective action is not taken quickly. Emergency procurement shall be made with such competition as is practicable under the circumstances. If the emergency does not allow sufficient time for the Procurement Process set forth hereunder, a complete report of actions taken shall be presented to the Board at the next regular or special meeting. (Plan: Maximize Access 2.4)
+Library Foundation
+	We were recently notified of two grant awards.
+		Delta Dental provided $10,000 and toothbrushes for the Born to Read bags, and
+		UPS contributed $5,000 to support the Born to Read program.
+Author Events (Plan: Promote Literacy 1.2)
+She said the Library has Livestream author events and recordings with the following authors. They are posted on our website as well as the HEC Facebook link - facebook.com/hectv and then archived at hecmedia.org. We are promoting on our social media and sending eblasts that direct patrons to the HEC sites.
+	Jan Greenberg, author of "World of Glass: The Art of Dale Chihuly,” Video premiere: Monday, November 16, 2020, 7:00 p.m. on Facebook.com/hectv.
+	Michael Cannell, author of "A Brotherhood Betrayed: The Man Behind the Rise and Fall of Murder, Inc.,” Thursday, November 19, 2020, 7:00 p.m., on Facebook.com/hectv.
+	Jane Smiley, author of "Perestroika in Paris,” Tuesday, December 15, 2020, 7:00 p.m., Video premiere: on Facebook.com/hectv.
+NEW BUSINESS
+CONSTRUCTION UPDATE
+Steve Hunter, Assistant Director of Operations, showed pictures of the construction at Eureka Hills. The building is now weather tight and drywall is taking place soon. He said painting is to begin next week. He also reported that the Frontenac site fencing has gone up. Foundation work on the building is scheduled to start soon.
+LAWN MAINTENANCE
+Steve Hunter, Assistant Director of Operations, presented the report for lawn care.
+He said on October 21, 2020, Library Administration issued an IFB for Lawn Maintenance at all library locations. The scope includes mowing, trimming, and fertilizing all lawn areas for the system. The bid was posted on the SLCL website and mailed to 19 local firms, including the seven M/WBE firms that identified as lawn care providers. Responses were due November 6, 2020. Eight firms responded.
+Firms were asked to provide pricing for three services: 1) mowing, trimming, and edging lawns, 2) fall leaf removal, and 3) a full-year fertilization program. The chart below shows the annual cost of all services based on 32 mowings and two leaf cleanups:
+			Firm
+			Annual Cost
+			Loyet Landscape Maintenance
+			$100,465
+			Surecut Solutions
+			$108,980
+			Schwartz Brothers Landscape Solutions
+			$138,880
+			St. Louis Lawn Care
+			$182,595
+			Ideal Landscaping Group
+			$209,072
+			SPR Services, LLC
+			$261,980
+			Barnes Landscaping LLC
+			$324,500
+			True Cut Lawn Services & Landscaping
+			$450,750
+The responses were reviewed by Steve Hunter and Matt Manwarring. It was determined that Loyet Landscape Maintenance submitted the lowest and best bid for the work.
+The Library Board approved the Administration recommendation to select Loyet Landscape Maintenance to provide Lawn Maintenance services to the Library District for all locations for the amount of $100,465 per year, and that it authorize the Director to enter into and execute a 3-year contract to that effect (Wang/Sanditz).
+DANIEL AND HENRY CONTRACT
+Laura Taylor, Chief Financial Officer, presented the following report.
+The Library’s three year contract with Daniel & Henry, the Library’s insurance broker, will expire at the end of November 2020. There is no statutory requirement to bid professional services unless Administration deems it necessary. We are extremely pleased with their work for the Library. Library Administration is recommending the approval of a new three-year contract with Daniel & Henry. The proposed agreement is attached. Lashly Baer has reviewed the agreement. Prior and proposed fees are as follows:
+                                         Prior Fees                           Proposed Fees
+2017 - $22,000                        2020 - $25,333
+2018 - $24,200                        2021 - $25,333
+2019 - $26,260                        2022 - $25,333
+The Library Board approved the Administration’s recommendation for a 3-year contract for Property and Casualty Insurance Brokerage services with The Daniel and Henry Co.(Barry/Wang).
+SECOND AMENDMENT TO PHASE 3 ARCHITECTURAL AND ENGINEERING SERVICES AGREEMENT WITH LAMAR JOHNSON COLLABORATIVE (FORMERLY BATESFORUM) ARCHITECTS
+Steve Hunter, Assistant Director of Operations, presented the following report.
+The scope of the original Phase 3 Architectural and Engineering Services Agreement with BatesForum Architects included design and construction of a single replacement facility for the existing Headquarters building and the development of a temporary facility from which staff would work during construction. The Library Board approved the agreement on July 17, 2017.
+The First Amendment to that Agreement addressed changes in scope that resulted from a strategic move to the development of two separate new facilities – one for administration and one for a new branch and event center. The amendment was approved by the Board on June 12, 2019.
+Project delays combined with a court-approved settlement agreement with the city of Frontenac have created additional costs for BatesForum (now Lamar Johnson Collaborative). Per the agreement, the Administrative Library Building has been reduced in size by 3,520 square feet, and the History & Genealogy Department has been removed from the Administrative Library and will be included in the new branch. Both of these changes required substantial redesign efforts. A summary of the additional fees related to this work is attached. It illustrates not only the negotiated fee increases, but also the closing out of some allowances that were not fully spent.
+An Amendment to address these additional fees, drafted by Landmark Contract Management and reviewed by Lashly & Baer, is attached.
+The original agreement indicated a not-to-exceed compensation of $4,019,570. The First Amendment adjusted that value to $4,499,281. The sum of the additional negotiated compensation represented in the Second Amendment is $454,328. The new total not-to-exceed compensation will be adjusted to $4,953,609.
+The Library Board approved the Second Amendment to the Phase 3 Architectural and Engineering Services Agreement with Lamar Johnson Collaborative and that it authorize the Director & CEO to enter into and execute said amendment (Horwitz/Barry).
+COLOCATION SERVICES
+Gib Van Cleve, Assistant Director of ITS, presented.
+In April of 2017, the Board approved a three-year contract for colocation services with Hostirian.  The Library’s disaster recovery site presence at Hostirian’s Westport facility commenced in December of 2017.  The current three-year contract with Hostirian expires in December.  The Library’s ITS department spent significant time and effort building our disaster recovery site in this colocation space. Hostirian won the 2017 RFP because of their low cost, location and flexibility.  They have delivered on all aspects of their proposal and have provided the Library with excellent colocation services.
+Physically moving our disaster recovery site to a different colocation facility at this time would be a difficult and expensive task.  Maintaining our existing disaster recovery site is a more prudent approach during the pandemic and the build out of the new administration building on Spoede Rd.  Given the expense, time, effort and complexity that would be involved with moving to a different colocation site, the Library Director has determined there to be a single source for the services, and it to be in the best interest of the Library to negotiate an amendment to the contract with Hostirian. The Library wishes to continue to utilize Hostirian’s services by amending the original contract and extending the term from three years to six years at the current annual rate of $13,240.  Doing so will allow us to maintain uninterrupted disaster preparedness for the Library’s network computing infrastructure throughout the construction efforts of the new administration building.
+Dr. Beckwith said he was concerned that there is no documentation stating that it is a sole source. The Library’s attorney and Director clarified the Library’s policy and stated that the selection complied with the policy.
+The Library Board approved amending the current colocation services contract with River City Internet Group, doing business as Hostirian maintaining the annual cost of $13,240 for a three year total of  $39,720 commencing January of 2021 through December of 2023 and that the Board authorize the Director to enter into and execute a contract to that effect. This expense will be paid for with funds from the technology budget.
+Aye: Ted Sanditz, Laura Horwitz, Joan Barry, Johnny Wang
+Nay: Lynn Beckwith
+COVID-19
+Kristen Sorth, CEO, presented.
+Ms. Sorth said that in March 2020, the Library Board of Trustees authorized the Director and CEO of the Library to implement any measures necessary to ensure the health and safety of employees and patrons during the COVID-19 pandemic, including but not limited to:  closing any or all Library facilities, modifying operating hours, establishing temporary rules for use of Library facilities and developing procedures to determine the work required, if any, of employees during any partial or complete closure.
+The Library Administration is preparing for changes due to the recent increase in COVID-19 cases in St. Louis County that have resulted in stricter guidelines from St. Louis County Department of Public Health.  Currently, Library facilities are not open to the public; however, Library employees do interact inperson with patrons through curbside delivery of materials and meals as well as over the telephone and virtually.  The Library Administration is recommending that the Library Board of Trustees hereby waives or amends its current personnel policies to permit the Library Director and CEO to provide paid leave to full and part-time employees during any period of partial or full closure, modification of hours or procedures of the work required, or other inability of employees to work as a result of COVID-19, in the manner determined by the Director and CEO and approved by Library legal counsel.  Paid time will be based on regular scheduled hours for full and part-time employees.  This paid leave will be referred to as “COVID-19 Leave.”
+The Library Board approved that they hereby waive or amend its current personnel policies to permit the Library Director and CEO, in the event of any full or partial closure of Library facilities, or further modifications of operating hours and procedures during 2020 as a result of COVID-19, to provide paid leave to employees during any such period of closure or modification of hours or procedures as a result of COVID-19 in the manner determined by the Director and CEO and approved by Library legal counsel, for the period up to and including December 31, 2020.  In addition, the Library Board authorizes the Director to develop procedures to determine the work required, if any, of employees during any partial or complete closure during 2020 (Horwitz/Barry).
+SHARED SERVICES AGREEMENT
+Jackie Hamilton, Development Manager, presented.
+Ms. Hamilton said the Shared Services Agreement defines the level of support provided by the Library to the Library Foundation and is a requirement of the Affiliation Agreement between the Library and the Foundation. In addition, the Foundation Board agrees to reimburse the Library for up to 100% of the salaries of the Manager, Development and the Friends Coordinator who utilize 100% of their time in performing services for the Foundation.
+The Library Board approved of the annual Shared Services Agreement. This agreement supersedes and thereby terminates the Shared Services Agreement dated January 1, 2020. The term of this new agreement will begin on January 1, 2021 and terminate onDecember 31, 2021 (Wang/Horwitz).
+DRAFT 2021 LIBRARY BUDGET
+Laura Talyor, CFO, presented the informational item.
+Ms. Taylor said the 2021 Budget document was prepared and approved by the Budget
+Committee consisting of the following individuals:
+Kristen Sorth – Director and CEO
+Eric Button – Deputy Director
+Barbara Turkington - Assistant Director, Advancement
+Gib Van Cleve – Assistant Director, ITS
+Steve Hunter – Assistant Director, Operations
+Laura Taylor – Chief Financial Officer
+The 2021 Budget document is attached.  The Library Budget is a spending guideline for the upcoming year. Projects discussed in the Budget document will be individually presented to the Library Board for review and approval during 2021 as outlined in the Library Board’s By-Laws. The Budget Revision is presented to the Library Board in September.
+The Library Board of Trustees set the 2020 tax rates at $0.235 for Residential assessments, $0.225 for Agricultural assessments, $0.246 for Commercial assessments and $ 0.275 for
+Personal Property assessments. These rates will provide 98% of the cash income to operate in
+2021. The Executive Summary on page 2 and the Revenue and Expenses on page 4 - 7 are a synopsis of the proposed 2021 Budget. The 2021 Budget has a surplus of $1.4 million.
+The 2021 Budget is an informational item for this month in order to give the Library Board of Trustees time to review the document and ask questions.  The Budget Committee would like to receive your questions by December 7 so we may respond accordingly before the December Library Board Meeting.  The Library Board of Trustees will vote on the 2021 Library Budget at the December Meeting.   That vote will allow the Library to operate in 2021.
+ADJOURNMENT
+A motion to adjourn and convene Executive Session to discuss legal matters (Section 610.021(1) was made by Johnny Wang and seconded by Ted Sanditz.  All agreed with voice vote.
+The Board adjourned at 5:12 p.m. for executive session.
+Respectfully submitted by,
+_____________________________                                                  _____________
+Laura Horwitz, Board Secretary                                                        Date

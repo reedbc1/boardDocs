@@ -1,0 +1,108 @@
+{
+  "name": "Regular Meeting",
+  "description": "Library Board",
+  "unique": "AV3QVN66A53C",
+  "date": "2018-06-18T00:00:00Z"
+}
+
+---
+
+ST. LOUIS COUNTY LIBRARY DISTRICT
+MEETING OF THE BOARD
+HEADQUARTERS
+1640 SOUTH LINDBERGH BLVD.
+MONDAY, JUNE 18, 2018
+The monthly meeting of the Board of the St. Louis County Library District was held at the Headquarters Branch, 1640 South Lindbergh Blvd., St. Louis, MO 63131 on Monday, June 18, 2018 at 3:30 p.m. The agenda was posted in all branches of the Library District at least 24 hours before the meeting.
+ATTENDANCE:
+Library Board Members:
+Dr. Lynn Beckwith, President
+Michael Mulligan, Vice President
+Elena Kenyon, Treasurer
+Dr. Chingling Tai, Secretary
+Edith Cunnane was present via telephone
+ADMINISTRATORS AND GUESTS ATTENDING:
+Kristen Sorth, Library Director; Eric Button, Deputy Director; Barbara Turkington, Assistant Director, Advancement; Kris Mooney, Assistant Director, Administration; Gib Van Cleve, Assistant Director, ITS; Tom Curran, St. Louis County; and Lisa Stump, Attorney, Lashly & Baer.
+OTHERS ATTENDING:
+Chasidy Allen, Courtney Wood, Tiffany Davis, Cheri Remington, Emily Althoff, Stacey Lewis, Amy Hanaway, Julie Cruise, Sarah Brown, Scott Holl, Lauren Striebel, Meg Coyle, Connie Dee, Gina Sheridan, Deanna Davis, Sarah Wood, Chris Goodman, Nicole Higginbotham, Maureen Willmann, Anna Schurk, Conrad Rader, Allison Wisniewski, Carla Maxwell, Mary Arnhart, Rebecca Clarke, Mary Meyer, Matt Lakin, Anna Gonzalez, Marie Conlin, Lindsey Piech, Andrea Johnson, Ross Brand, Michael Hanson, Katie Keeven, Annie Fuller, Anne Bradley, Alaina Culbertson, Terra Baca, Stephanie Nordmann, Rachel Nowell, Kathy Muller, Barb Reale, Sri Upadhya, Roz Kohen and Sandra Williams.
+APPROVAL OF MINUTES
+The Board approved the May 21, 2018 minutes (Kenyon/Mulligan).
+PUBLIC COMMENTS
+There were no public comments.
+TREASURER’S REPORT
+Kris Mooney reported that, in May, the Collector of Revenue’s office released the 2017 taxes paid under protest, and the Library District received $9.3 million in revenue. The Library District has reached 99.5% of the budgeted current year tax revenue for 2018. Also, in May, the Library District was informed by the Collector of Revenue’s office the surplus calculation was incorrect and the Library received $7,271 too much. The Library District issued a check to the Collector of Revenue in May to pay back the amount received in error. Additionally, Eureka TIF declared a surplus in January and the Library District received a check in the amount of $14,079.
+The Library District spent just over $105,000 in Summer Reading Club expenses, most of which was used to purchase prizes to be used as incentives for completion of the program. The Library District also spent $29,104 to purchase 22 Automated External Defibrillators (AED). The old AED’s had surpassed their service life and needed to be replaced. There will be an AED at each branch location and headquarters. This expense was purchased on a cooperative contract and was included in the 2018 budget.
+Total Construction in Progress for May 2018 was $1,511,285. The expenses included payments for:
+		Construction costs for Grand Glaize - $503,383
+		Construction costs for Thornhill -  $442,686
+		Construction costs for Meramec Valley - $70,536
+		Construction Management services for Phase 2 buildings - $143,007
+		Facilities Master Plan Administrator - $39,090
+The Library Board approved of the May Treasurer's Report subject to audit (Cunnane/Mulligan).
+DIRECTOR'S REPORT
+Before beginning the report, Dr. Beckwith honored Director Kristen Sorth for 20 years of service at the Library. He said the Board made the best decision by hiring Ms. Sorth.
+Library Update
+	Ms. Sorth reported that the dashboard report for May contains a variety of statistical information for the Library, and she shared the report with the Board. The report included information about circulation, visits, programming, and PC usage. With three branches closed for construction, circulation is down almost 3% but visits are up 4%. This is the highest number of visits in May since 2014. The report also includes information about the most popular items in the collection. For the first time since 2016, a book other than Diary of a Wimpy Kid made it to the top of the juvenile book list. Ghosts, by Raina Telgemeier was the top juvenile title.
+	Several months ago, Eric Button gave a presentation to the Board on the Library’s efforts to reduce barriers to access. One of the things he mentioned was address verification. System Administration will soon be sending the last batch of expired patron cards to Unique Management for address verification. After this last batch is verified and renewed, System Administration will begin verifying eligible cards prior to their expiration date. Administration expects that by the end of July, patrons will no longer experience the inconvenience of an expired card. (Plan: Sense of Community 3.1)
+	The Library will host a mobile farmer’s market this summer at the Lewis & Clark Branch every Wednesday from 2:00 – 4:00 p.m. St. Louis MetroMarket is a non-profit mobile farmers’ market whose goal is to restore access to healthy, affordable food to St. Louis food deserts. Launched in 2013, the organization converted a donated city bus into a grocery store on wheels with a goal of bridging the physical, financial, and educational barriers in food deserts by supplying healthy foods in low-income, high need communities. (Plan: Sense of Community 2.2)
+	All branches and HQ have a copy of a new report that is a follow up to the For the Sake of All Report. Segregation in St. Louis: Dismantling the Divide is the product of a collaborative partnership involving ArchCity Defenders, Ascend STL, Metropolitan St. Louis Equal Housing Opportunity Council (EHOC), Empower Missouri, For the Sake of All, Invest STL, and Team TIF with funding from the Missouri Foundation for Health and Wells Fargo. The report presents an overview of more than a century of federal, state, and municipal policies, real estate practices, and development strategies that have kept far too many of the St. Louis region’s residents segregated in neighborhoods with less opportunity to advance economically and fewer resources to support health and well-being. (Plan: Sense of Community 2)
+	Ms. Sorth explained that the chess instruction, which was offered once a week in conjunction with the after school meals, was very popular. Because of the popularity, Library Administration has decided to continue the program in partnership with the St. Louis Chess Club during the summer. The Foundation is funding chess instruction at Lewis & Clark, Natural Bridge and Weber Road. (Plan: Sense of Community 2.2)
+	Despite the heat, the Summer Reading Club kickoff parties were a huge success. The number of attendees far exceeded our expectations. Daniel Boone had 2,100 people, Florissant Valley had 800 people, and Grant’s View had 1,125 people. Despite the stormy weather, HQ had 360 people in attendance.  (Plan: Increase Literacy 1.3)
+	Ms. Sorth asked for a report on the Truth, Racial Healing & Transformation Great Stories Club. As previously announced, the Library is one of 25 libraries selected to participate in the thematic reading and discussion program series that will engage underserved teens through literature-based library outreach programs and racial healing work. The Library is partnering with Lakeside School which is a secondary school that provides educational services for students who have been placed there by the St. Louis County Family Court.  This is what I learned from Teen Services Coordinator, Emily McIlvoy:
+In the month of May, I brought the first book, “The Hate U Give” by Angie Thomas, to Lakeside School for the TRHT GSC Grant. Beginning May 2 and ending on May 23, I met with two groups every Wednesday for 45 minutes each. I consistently saw around 12 -13 students each week, and it was usually the same students. Each week we listened to part of the award winning audiobook read by Bahni Turpin. After listening, I would pose a question to the group to start off discussion. We had some great discussions centered on code switching (changing your personality/the way you speak depending on what group of people you are with), interactions with police, police brutality, and having your voice be heard.  Students were encouraged to read in their spare time and I believe some did. The biggest achievement was that almost everyone brought his or her book each week to follow along with the audiobook!  On Friday June 1, we had our first racial healing circle, led by Leroy Clemons from W.K. Kellogg Foundation. He was one of the original facilitators and helped build the program in 2009 for adults. Thirteen students participated in the circle with five teachers and myself observing. The purpose of the healing circle is to encourage deep listening of others and to begin seeing things in a different light, to heal inside yourself. Mr. Leroy asked about the book: parts the students connected with in ways they could change their community. The students were honest and almost everyone shared. At times, the students shared very personal stories, and everyone felt comfortable sharing if they wanted to. The circle was only for 90 minutes and could have easily been extended for a much longer time. (Plan: Increase Literacy 1.3, 3.4, Sense of Community 2.2)
+	In celebration of National Poetry Month, patrons age 18 or older were invited to submit their original poems for inclusion in the inaugural St. Louis County Library poetry compilation. There were 137 poems submitted! The compilation will appear in the SELF-e Indie Missouri, an online collection of works available to all participating Missouri libraries, available in our eMedia collection. (Plan: Increase Literacy 1.2)
+	There were mentions of the St. Louis County Library in the local media in print, radio and television.  Ms. Sorth shared these articles with the Board. (Plan: Sense of Community 1.2)
+	There were a number of great photos to show the Board from several programs and events in May and June including:  Homeschool Explorations; Rocket Science at Sachs, author Ashley Eckstein at Grant’s View, Star Wars Fan Fest at Grant’s View, author Temple Grandin at HQ, author Jon Meacham at HQ, and Superpower Lab at Jamestown Bluffs. (Plan: Increase Literacy 3.4 and Sense of Community 2.3)
+Library Administrative Updates
+	Library employees will be participating in wellness screenings beginning in June and continuing through July. Employees who do not participate will pay $50 each month toward the cost of their health insurance.
+	Dan Lucas, the Library’s Manager of Safety and Security, has created emergency procedures in the event of an elevator failure. (Plan: Create Gathering Spaces 1.3)
+	Last week, Ms. Sorth presented at the Missouri Public Library Director’s annual meeting.  Her topic was Civility in the Workplace. (Plan: Sense of Community 3.3)
+	Assistant Director of Advancement, Barbara Turkington, was profiled in the local publication, Gazelle Magazine.
+	The Library's promotion of the Career Online High School program received a Superior rating as part of the NACIO (National Association of County Information Officers) Awards of Excellence. Congrats to Jennifer McBride and her staff for their great work promoting the program, which was covered extensively by radio, TV, and print media. (Plan: Sense of Community 1.2)
+Library Construction and Facility Update
+	The groundbreaking for the new Meramec Valley Branch was held on May 30 at 10:00 a.m. (Plan: Create Gathering Spaces)
+	The Library has received the next round of incentives from Ameren through their Missouri BizSavers program. The energy efficient improvements at the Daniel Boone Branch resulted in $11,191 in incentives for the Library.
+Library Foundation
+	The Foundation held a donor appreciation breakfast on June 5 and 71 people attended. The Foundation recognized two corporate sponsors, Laurie’s Shoes for Born to Read and STL City Wide for Career Online High School and Summer Lunch.  Author Joshua Zeitz discussed his new book on Lyndon Johnson.
+	The Foundation has sponsored four benches for the Jai Nagarkatti-Monsanto Company Reading Garden at the Sachs Branch. The first bench was dedicated on June 15 in honor of Marsha Ramey, the recently retired Branch Manager of the Sachs Branch. The employees wanted to do something to celebrate Marsha, so they raised money for a bench in her honor.
+Author Events
+	Ben Rhodes, “The World As it Is,” Monday, June 18, 2018, 7:00 p.m., Headquarters.
+	Georgia Hunter, “We Were the Lucky Ones,” Tuesday, June 19, 2018, 7:00 p.m., Headquarters.
+	The Belles & Brujas Tour, Thursday, June 21, 2018, 7:00 p.m., Headquarters. Featuring Authors, Dhonielle Clayton, Zoraida Cordova, Tracy Banghart and Mark Oshiro.
+	Susan Wiggs, “Between You & Me,” Monday, June 25, 2018, 7:00 p.m., Headquarters.
+	Dr. Mona Hanna-Attisha, “What the Eyes Don’t See,” Thursday, June 28, 2018, 7:00 p.m., Headquarters. Presented by the Medical Arts Series.
+	Karma Wilson, “A Dog Named Doug,” Monday, July 02, 2018, 6:30 p.m., Daniel Boone Branch.
+	W. Bruce Cameron, Max’s Story, Saturday, July 07, 2018 2:00 p.m., Headquarters; Co-sponsored by the Animal Protection Association of Missouri.
+	Scholastic Summer Reading Road Trip, Monday, July 16, 2018, 5:00 p.m., Headquarters.
+OLD BUSINESS
+None
+NEW BUSINESS
+CONSTRUCTION UPDATE
+In the absence of Steve Hunter, Ms. Sorth gave the construction and renovation update. Ms. Sorth shared that there are currently four branches under construction, and Headquarters is now under design. Construction pictures from Grand Glaize and Mid County were shared with the Board, and Meramec Valley’s groundbreaking photos were shared. Ms. Sorth explained that construction work at Thornhill Branch is moving forward. At Grant’s View, Musick Road was lowered and the project is expected to be completed in 2019.
+EDITH CUNNANE LEFT THE MEETING AFTER THE CONSTRUCTION UPDATE.
+EMPLOYEE BENEFITS - HEALTH INSURANCE
+Kris Mooney presented the Administration’s recommendation for Health Insurance coverage.
+The Library received the renewal for employee health insurance from our current carrier, Anthem Blue Cross Blue Shield. Initially Anthem’s renewal was 9.2%. With the assistance of Daniel and Henry, we were able to negotiate a lower renewal of 8%. This rate includes the required fees under the Affordable Care Act. With the Library Board’s approval, the employee rate will increase effective August 1, 2018 from $633.29 to $683.95 a month. The dependent coverage will increase from $717.07 to $774.44 a month. Dependent coverage is for the entire family. The employee is responsible for this amount if they elect to have dependent coverage. This increase will also affect the rates for the pre-65 insurance plan for retirees. The pre-65 insurance benefit is strictly voluntary and does not result in any cost to the Library.
+The Library will continue to have employees contribute $15 a month toward the cost of their individual health insurance. In addition, we will continue to have the Health Reimbursement Arrangement (HRA) as defined by the IRS which was approved by the Library Board in 2008. Through the arrangement, the Library’s insurance costs are reduced by combining a higher deductible plan with an HRA. Employees are reimbursed for the deductible and also benefit from the lower premiums. Beneflex administers the Library’s HRA and Flexible Spending Account plan. There will be no additional administrative costs with the exception of a renewal fee for each plan of $200 each.
+The Library Board approved Administration’s recommendation in consultation with Daniel and Henry to remain with Anthem (Kenyon/Tai). Daniel and Henry has reported that the average health insurance renewal this year is trending 11% – 13%. The 8% renewal from Anthem is below trend and under budget as the budgeted amount for the health insurance renewal was 10%.
+EMPLOYEE BENEFITS - DENTAL INSURANCE
+Kris Mooney presented the Administration’s recommendation for Dental Insurance coverage.
+The Library received the August 1, 2018 renewal for employee dental insurance from our current carrier, Delta Dental. There will be a 0% increase in employee and dependent rates. Dependent coverage is for the entire family. The employee rate will remain at $35.48 per month. The Library pays for this portion of the dental insurance. The dependent rate remains at $62.82 per month. The employee is responsible for this amount if they elect to have dependent coverage. In addition, the Library received a two-year rate hold from Delta Dental.
+ The Library Board approved Administration’s recommendation in consultation with Daniel and Henry to remain with Delta Dental (Mulligan/Kenyon). The budgeted amount for the dental insurance renewal was 10%).
+EMPLOYEE BENEFITS - VISION INSURANCE
+Kris Mooney presented the Administration’s recommendation for Vision Insurance coverage.
+The Library has a rate hold on the vision insurance. There will be a 0% increase for the Library’s vision insurance through VSP. This benefit is voluntary and does not result in any cost to the Library. The employee rate will remain at $8.35/month and dependent coverage will remain at $17.96/month.
+The Library Board approved the Administration’s recommendation in consultation with Daniel and Henry to remain with VSP for the Library’s optional vision insurance (Mulligan/Tai).
+EMPLOYEE BENEFITS - LIFE INSURANCE
+Kris Mooney presented the Administration’s recommendation for Life Insurance coverage.
+The Library has a rate hold on the life insurance. There will be a 0% increase for the Library’s basic life, accidental death and dismemberment (AD&D) and long-term disability (LTD) insurance through The Hartford. The rates for this year will continue to be $.27/$.010/$1000 for basic life/AD&D and $.19/$100 for long-term disability. There were no changes to the voluntary life insurance rates.
+The Library Board approved Administration’s recommendation in consultation with Daniel and Henry to remain with The Hartford for life, AD&D, LTD, and voluntary life insurance (Kenyon/Mulligan).
+EMPLOYEE BENEFITS - SHORT TERM DISABILITY INSURANCE
+Kris Mooney presented the Administration’s recommendation for Short Term Disability Insurance coverage.
+The Library has a rate hold on the short-term disability insurance. There will be a 0% increase for the Library’s short-term disability insurance through The Hartford. This benefit is voluntary and does not result in any cost to the Library.
+The Library Board approved Administration’s recommendation in consultation with Daniel and Henry to remain with The Hartford for the Library’s optional short term disability insurance (Mulligan/Tai).
+ADJOURNMENT
+Dr. Chingling Tai made a motion to adjourn and Elena Kenyon seconded.  All approved by voice vote. Aye: Chingling Tai, Elena G Kenyon, Michael Mulligan, Lynn Beckwith.
+The meeting adjourned at 4:07p.m.
+Respectfully submitted,
+__________________________________                                        ___________________
+Chingling Tai, Secretary                                                                                 Date

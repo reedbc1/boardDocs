@@ -1,0 +1,187 @@
+{
+  "name": "Regular Meeting",
+  "description": "Library Board",
+  "unique": "CL9Q8N6548A5",
+  "date": "2023-12-18T00:00:00Z"
+}
+
+---
+
+ST. LOUIS COUNTY LIBRARY DISTRICT
+MEETING OF THE BOARD
+THORNHILL BRANCH
+MONDAY, DECEMBER 18, 2023
+The monthly meeting of the Board of the St. Louis County Library District was held at Thornhill Branch, 12863 Willowyck, Dr., St. Louis, MO 63146 on Monday, December 18, 2023 at 3:30 p.m. The agenda had been posted in all branches of the Library District at least 24 hours before the meeting.
+ATTENDANCE:
+Library Board Members:
+Dr. Lynn Beckwith, President
+Joan Barry, Secretary
+Ted Sanditz, Treasurer
+Deborah Patterson, Member
+Johnny Wang, Vice-President, had an excused absence per Dr. Beckwith.
+ADMINISTRATORS AND GUESTS ATTENDING:
+Kristen Sorth, Library Director & CEO; Eric Button, Deputy Director; Laura Taylor, CFO; Steve Hunter, Assistant Director, Operations; Gib Van Cleve, Assistant Director, ITS; Jackie Hamilton, Assistant Director, Advancement; Jennifer Gibson, Assistant Director, Strategic Initiatives; Jennifer McBride, Assistant Director, Communications; Attorney Lisa Stump, Lashly Baer; and Dr. Monica Stewart, St. Louis County.
+OTHERS ATTENDING:
+Mary Arnhart, Nicole Clawson, Becky Maue, Kat Van Arsdale, Andrea Carter, Darien Jones, Kalin Preston, Keir Haug, Rachel Dippel, Nina Johnston, Katie Keeven, Rebecca Clarke, Hannah Axt, Lori Boschert, Carrie Robb, Carla Maxwell, Deanna Davis, Laura Kasak, Chasidy Allen, Amy Gibbons, Allison Wisniewski, Emily Althoff, Adeline Chow, Cheri Remington, Kim Ford, Terence McCoy, Terri Williams, Melissa Albers, and Sandy Williams.
+MINUTES
+The Library Board approved the November 20, 2023 Board Minutes (Patterson/Barry).
+PUBLIC COMMENTS
+Mr. Joe Schmidt, a patron of the Library, expressed concern about the changing of the hours. Dr. Beckwith responded that a response to his suggestion would be sent in a few days.
+TREASURER’S REPORT
+Laura Taylor, CFO, presented the following report.
+Maintenance and Operating Fund Financial Statements:
+Revenue
+	District Taxes - The total tax revenue for 2023 equals the total budgeted amount of $59.9 million.
+	Current Year Interest - In November, the Library District received $159,189 in interest. The total interest revenue is $2,855,495 which is 142% of the total budgeted amount of $2,015,000. The Library budgeted conservatively during the 2023 Budget Revision discussions in September 2023. Market conditions have improved considerably in 2023 compared to 2022.
+Expense
+	Equipment Service Agreements - In November, the Library District incurred a total of $55,448 in Equipment Service Agreements expense. Of this amount, $35,073 was paid to GFI Digital for copier and printer usage and $19,335 was paid to Today’s Business Solutions Inc. for Simple Scan, the Library’s scanning and faxing service for patrons, through 2024.
+	Technology - Equipment - In November, the Library District incurred a total of $53,499 in Technology - Equipment expense. Of this amount, $23,630 was paid to Today’s Business Solutions Inc. for the Simple Scan credit card readers approved by the Library Board at the April Board Meeting and $22,607 was paid to Dell Marketing LP for public and staff laptop and PC replacements, as well as a touchscreen and monitor base.
+Capital Improvements - In November, the Library District incurred a total of $2,070,958 in Capital Improvements expense. Of this amount, $1,906,008 was paid to Interior Construction Services, $45,644 to Lamar Johnson Collaborative, and $20,030 to Avison Young for services performed at the Clark Family Branch in October.
+The Library Board approved of the December 2023 Treasurer's Report subject to audit (Sanditz/Barry).
+DIRECTOR AND CEO'S REPORT
+Kristen Sorth delivered the Director's report.
+Library Update
+	The Dashboard report for November was shared.  Ms. Sorth said that circulation for the month increased 4% over total circulation in November, 2022.  eMedia circulation increased by 20% compared to this time last year and is 64% higher than eMedia circulation in 2019.  She said this is the first month that the statistics for visits are based on the new People Counters.  In the experience of Trafsys, the vendor, institutions generally see a 35% drop in reported numbers when moving from a gate counter to a camera system.  She said this was our experience with visits for November dropping by 27%.  The increased accuracy of the new counters eliminates double counting and over reporting.  This month, the Dashboard also includes a chart of visit and checkout totals by hour for November 2023. As the chart illustrates, just 1% of circulation and visits took place between the hours of 8:00 p.m. and 9:00 p.m. The busiest hour for circulation is between 11:00 a.m. and noon, when 13% of circulation takes place. The busiest hour for patrons to visit the Library is between 3:00 p.m. and 4:00 p.m., when 11.4% of the Library’s total daily visitors come into the library.  (Plan: Promote Literacy 1a, 3b; Increase Access 1c)
+	Ms. Sorth said a Request for Proposals (RFP) was issued last week with the intent of identifying a manufacturer for the fourth bookmobile that is being funded through a sponsorship by the McDonnell Family Foundation.  Specialty Vehicle Services (SVS) will once again provide consulting services to help draft the vehicle specifications, evaluate RFP responses, monitor the manufacturing process, and conduct a final vehicle inspection to ensure it is built according to the specifications.  This fourth unit is likely to be put into service in 2025. (Plan: Sense of Community 2a, 2c, 3a, Increase Access 1c)
+	She announced that a change in Library hours will become effective on January 2, 2024.  Administration has been answering questions from managers about the impact of this change on programming, meeting rooms, and staff scheduling.  All of their questions have been addressed and the necessary planning for this change is underway.  The public announcement of this change took place on December 8.  There has been very little public feedback about this change. (Plan: Increase Access 1c)
+	A team of employees is developing a plan to launch bookable Wi-Fi hotspots for patrons in the first quarter of 2024.  The procedures are being tested by a small group of employees.  Once any necessary adjustments are made, the Library will be able to offer 40-50 hotspots for patrons to reserve ahead of time.  The advantage of this booking approach is that a patron can reserve the device for a specific time period, such as a planned vacation.  Currently, a patron merely goes onto a waiting list, but the timing of receiving the device is uncertain.  She said the administrators believe this service will become very popular because of its convenience. (Plan: Promote Literacy 3b)
+	Ms. Sorth said that Administration and the management of Natural Bridge Branch, along with our partners at Epworth, have been participating in many community conversations in the Normandy community regarding concerns with students.  Beyond Housing hosted a community forum on December 5th and Deputy Director Eric Button, Natural Bridge Branch Manager, Kalin Preston, and Manager of Safety and Security, Dan Lucas, attended.  Inappropriate behaviors have been observed after school at the Library and many other locations along Natural Bridge Road.  The Library will continue to participate in these conversations to help identify solutions. Kalin Preston spoke to the board regarding the behavior problems at Natural Bridge. Discussion ensued.  (Plan: Sense of Community 3a, 3b, Increase Access 1c)
+	The MOBIUS Consortium is in the process of switching vendors.  Ahead of this migration, the connection to Prospector, which allows patrons to explore and request items from libraries around the United States, will be temporarily disconnected. The connection is expected to be reestablished sometime during Summer 2024. (Plan: Promote Literacy 1a)
+	In November, the Reference Department held a third offering of the program “Approaching the Job Search After 55.” This series was held at Florissant Valley at the beginning of the month and ended with a job fair on Wednesday, November 15th that brought in people seeking employment with 15 different employers, including the Library. (Plan: Promote Literacy 2d, 3a)
+	The Library’s databases offer so much for patrons.  Here are some interesting statistics for 2023.
+		According to Mango Languages usage, over 795 hours were spent by our patrons learning Spanish and 200 hours spent learning French.
+		In Transparent Language, 21% of the usage was used to learn Spanish. The second most learned language is German at 9%.
+		LOTE4Kids, the storybook language learning resource for children, had the highest usage on Fridays with Spanish as the most popular language.
+		PMP Certification Exam Prep and Become an Algebra Master were the top two courses completed in Udemy.
+		Daily Painting Challenge: 31 Painted Patterns and Daily Observations: Drawing Objects from Life were the most viewed classes in Creativebug.
+		Patrons have spent 1,247,917 minutes in Headspace, with 200,369 of those minutes focused on meditating. The top course in Headspace is “Managing Anxiety” and the top non-course is “The Wake Up.”
+		Entrepreneurs downloaded 727,179 records on businesses or consumers from Reference Solutions. (Plan: Promote Literacy 2c, 2d, 3a, 3c, 3d)
+	Starting the first week of February, volunteers from AARP, CORP, and Gateway Earned Income Tax Credit Coalition (EITC) will provide free, in-person tax assistance at five branches. These organizations helped over 1,600 patrons get free tax assistance in 2023, more than double the number from the year before. Customer Connect will start making appointments for AARP Tax-Aide on Wednesday, January 24th. (Plan: Sense of Community 3a, 3c)
+	Ms. Sorth said the Library, along with Recollect, is creating a Digital Archive Management System. The Digital Archive, made possible by a Library Services & Technology Act (LSTA) grant, will host some of the collections that may be found in History & Genealogy (H&G). The first documents include burial certificates of St. Louis, city directories of St. Louis City/County and other parts of Missouri, and a vast collection of yearbooks. This archive will continue to grow. Successful implementation means that H&G can begin eliminating outdated technology with limited access issues, put the materials in the hands of patrons across the world, and provide our branches with greater access to materials that are protected under copyright. H&G is set to ingest 1,000 digitized yearbooks, 79 city directories, and 200 burial certificates upon completion and configuration of our new digital platform. Additionally, third-party scanning companies are finishing with 1,000 pages of old St. Louis atlases and 8,000 pages of local area newspapers. (Plan: Promote Literacy 2d, 3b, 3d, Sense of Community 3c)
+	For a second year, the Library hosted programs to make cards in support of Project Holiday Cheer, an initiative organized by our community partner VOYCE to provide holiday cards to 40,000 long-term care residents in the metro St. Louis area. Additionally, all branches were designated as drop-off locations for card donations. The Library provided Project Holiday Cheer with over 3,800 cards this season which is over a 300% increase from last year’s contributions. This was a wonderful opportunity for some crafting programs to provide heartfelt, handmade cards to ease the loneliness long-term care residents in our community are vulnerable to, particularly during the winter holidays. (Plan: Promote Literacy 3d, Sense of Community 3a)
+	Ms. Sorth announced that Genealogy University is set to launch in 2024. Genealogy University is an initiative funded by a St. Louis County Library Foundation Allison Grant that will encourage patrons to enroll and attend four history or genealogy offerings conducted by Reference or History & Genealogy. Upon completion of the program track, participants will be rewarded with a free MyHeritage DNA kit to continue their genealogy journey.  The first cohort will consist of 25 individuals and participants will be selected by lottery. Another cohort is set to operate to begin in May. (Plan: Promote Literacy 2d, 3b, 3d)
+	She said the Library’s partnership with the Kranzberg Art Foundation will continue into 2024. This year, we hosted over 700 attendees at the monthly Jazz Jam at Lewis and Clark. Each month, patrons have been treated to the best musicians that St. Louis offers, with some even traveling from out of state to perform at the Jazz Jam. This program is hugely popular with Lewis and Clark patrons, and we look forward to a very exciting lineup for 2024. (Plan: Promote Literacy 3d, Sense of Community 1b, 3a)
+	The Library continues to provide vital services to the region shown on the chart below. (Plan: Sense of Community 3a, 3b, 3c, Increase Access 1, 1c)
+	There were mentions of the St. Louis County Library in the local media in print, radio and television.  Those articles were shared. (Plan: Increase Access 2)
+	Ms. Sorth projected pictures from various events and programs that have taken place over the last month including: Welcome to Watercolor at Sachs, Kindergarten Prep at Jamestown Bluffs, 55+ Job Fair at Florissant Valley, Author Adia Harvey Winfield at the J, Author H.W. Brands at the History Museum, Beercember at Grant’s View and author Jan Brett at Daniel Boone.  (Plan: Promote Literacy 1b, 1c, 3d; Sense of Community 1b, 3a, 3b, 3c)
+Impact Stories
+	Ms. Sorth said that this past summer a 70-year-old patron at Lewis & Clark contacted the Library to improve his reading skills. Unfortunately, he suffered extreme poverty as a child and would sleep through school to avoid experiencing hunger pangs. In addition, his dyslexia made learning all the more challenging. Despite that, he is still employed as a full-time bricklayer. After six months of enrollment in our MindPlay Virtual Reading Coach program, he has progressed to a 2nd-grade reading level and is working hard to continue his improvement so he can read books to his grandchildren. (Plan: Promote Literacy 2b)
+	She shared letters from several branches. From Florissant Valley: "Thank you for letting my dad and I use your library these last few months. We've been living out of our car and were able to find an apartment to live in because of your computers." (Plan: Promote Literacy 3b, 3c, Sense of Community 3b, 3c)
+	From Parkview:  A regular patron wanted to sing the praises of staff members Adam and Sean. This patron dropped out of high school decades ago, got his GED and is now in college. He said that with Adam and Sean's help he is getting an A in his Computer Class. The patron said that he cried this morning when he learned of his grade; he failed out of high school, and now he is getting A's. He said that all the staff members at PV go above and beyond to help. He calls the Library his safe space, because we are here to help and not judge. This patron said he feels judged everywhere else in his life, and is so thankful to have the Library. (Plan: Promote Literacy 3b, Sense of Community 3c, Increase Access 1c)
+	One family made it a point to tell employees at the event how much they appreciate the time and effort that was put into the Teen Book Festival and how excited their young teens were to meet some of the authors. She said that the authors are their version of celebrities. They are heavy library users and love all that we do. She and her sister brought their four teens to the festival. (Plan: Promote Literacy 1b, 1c, Sense of Community 3b)
+	Hi Kristen - Please pass this note along please to whomever organized/participated in the Teen Book Festival. Thank You to the library staff and the bookstore. I attended with my youngest child and his friend. It was our first time. It was wonderful. We missed the keynote but the breakout sessions were so inspiring. On the drive back to Washington they were busy plotting out their trilogy of books they dream of writing together. Thank you for putting this event together. It's a lot of work to do these. This family loved it.  Nelson Appell -  Director Washington Public Library (Plan: Promote Literacy 1b, 1c, Sense of Community 3b)
+Library Administrative Updates
+	Ms. Sorth said a department page for Diversity, Equity, Inclusion and Belonging (DEIB) will launch on the Stacks intranet this month. The page will feature information about the Library’s DEIB initiatives both for the public and for the workplace, information about DEIB employee groups and how to get involved, and Library data and policies relating to DEIB. It will also have opportunities to submit suggestions and feedback. (Plan: Sense of Community 1c, 1d)
+	Assistant Director of Communications, Jennifer McBride, Carrie Robb, Manager of the Author Series, and Ms. Sorth met with on-air personalities Jennifer Blome and Wendy Wiese from KTRS to discuss the details of a book club program promoting the Library’s author events in 2024.  The partnership will also include publicity for many other library programs. (Plan: Sense of Community 2d, 3a, Increase Access 2a, 2c)
+	The employee celebration, "We Light Up the Library @ The Zoo" was a success. Employees and their guests were invited to walk around the St. Louis Zoo to see the annual Wild Lights and stop by The Living World for snacks, hot chocolate and cake. Total guest count for the evening was 565 (237 employees; 328 guests). It was a magical night that allowed employees to mingle, laugh and celebrate another wonderful year of providing support to the region. The celebration was planned by the Employee Engagement Committee and funded by the Library Foundation. (Plan:  Sense of Community 1c)
+	Ms. Sorth said ITS and Communications have completed the migration of the District's digital signage system to a solution called Screencloud.  This effort also included the replacement of aging Microsoft Windows-based digital signage computers located behind each of the digital signage monitors, with more secure and resilient Google Chromeboxes. (Plan: Increase Access 1a, 2a)
+	Members of the Communications team and Youth Services will be meeting with their counterparts at St. Louis Public Library to discuss marketing efforts for the joint summer reading program in 2024. (Plan: Promote Literacy 1b, 2a, 2b, 3d, Sense of Community 3a, Increase Access 2a, 2b)
+	She shared a snapshot of 2023 social media statistics:
+		Total number of posts on our social media platforms:
+			Facebook: 1,100
+			Instagram: 1,700
+			Twitter: 1,000
+			YouTube: 88
+			TikTok: 46
+		Total followers as of 11/30/2023
+			Facebook: 32,000
+			Instagram: 8,429
+			Twitter: 13,273
+			YouTube: 3,700
+			TikTok: 522
+		Interesting marketing statistics from 2023:
+			The Library had over 138 media mentions
+			Communications sent over 27.7 million emails with an average open rate of 37%
+			The Library’s website was upgraded to Drupal 10 in June, and since launch the website has had over 3,080,010 views.
+			Communications has created thousands of print materials to market library programs, services and events.
+			Over 8,600 photos were taken at Library programs and added to Flickr. (Plan: Increase Access 1d, 2a, 2c, 2d)
+Library Construction and Facility Update
+	In November 2018, the Library partnered with Enterprise Fleet Management to convert 31 library vehicles from owned to leased. This partnership has been successful.  The Library has newer and safer vehicles on the road.  The first round of vehicles that the library leased are now starting to age out. Five vans are due for replacement in 2024. Administration plans to order replacement vehicles as soon as the 2025 model window opens in the spring. (Plan: Increase Access 1c)
+	In November, the Board authorized the Director & CEO to negotiate with a vendor to provide a coffee shop in the new Clark Family Branch. Unfortunately, those negotiations did not result in an agreement.  The branch will open with vending machines as planned from the beginning.  Administration will work with the Library’s vending contractor to review and select a high-end coffee dispensing machine. (Plan: Increase Access 1a)
+	She said Administration has been in discussions with MSD regarding a new sewer line that is planned to be installed at the Daniel Boone Branch. The original proposal required removal of all trees along both Clarkson Road and Clarkson Pines Drive. MSD has been receptive to our concerns and have made concessions regarding the placement of the line along Clarkson Pines, which will allow us to retain the trees on the south side of the property. MSD will offer compensation for the work that can be used to restore and enhance the landscaping once the work is complete. Administration anticipates bringing an easement for this project to the Board for approval in January. (Plan: Increase Access 1b, 1c)
+	Ms. Sorth said a stop sign has been added at the exit of the Meramec Valley Branch parking lot. This will increase safety as traffic moves onto San Simeon Way. (Plan: Increase Access 1c)
+	The City of Clayton has started construction on the long-planned pocket park next to the Mid-County Branch. It is scheduled to open in spring 2024. Construction is not expected to impact the branch.
+	In November, the construction workforce at Clark Family Branch included a minority workforce of 22.5%.  Minority hours for the total project to date total 17%. (Plan: Sense of Community 1b)
+	The Federated Garden Clubs of Missouri presented a citation to the Library in appreciation for the amazing landscaping at the Beck.  The members of St. Louis County Garden Club applied to the state organization on the Library’s behalf after sneaking a peek at the garden on a Sunday. The Citation of Commendation says:
+The Federated Garden Clubs of Missouri, Inc. is honored to present this Citation of Commendation to St. Louis County Library for their desire to improve this land and make better for future stewards.  Their steadfastness and successful execution in beautifying for the enjoyment of others.  (Plan: Increase Access 1b)
+Library Foundation
+	Ms. Sorth said that she and the Administration were thrilled to publicly announce last week that Post Holdings will make a $200,000 donation to the Foundation and the Library for the naming rights of the event space and outdoor patio at the Clark Family Branch to be called Post Plaza and Event Space, pending Board approval.  Foundation Board Member and Vice President of the Board, Lisa Hanley, is an employee at Post and worked with the Library on a presentation and ask of the CEO of Post. (Plan: Increase Access 1b)
+	The Foundation’s annual holiday online auction raised more than $4,200 from the sale of twelve items. (Plan: Increase Access 2a, 2b, 2c)
+	The Foundation’s Fall Appeal was mailed at the beginning of November. To date, the Foundation has received 135 gifts with donations over $16,000.  (Plan: Increase Access 2a, 2b, 2c)
+	The following grants were awarded:
+		The Foundation was awarded a $10,000 grant from the Herbert A. and Adrian W. Woods Foundation to support the cost of diaper distributions in 2024.
+		The Foundation was awarded $15,000 from the Episcopal Presbyterian Health Trust to support social workers in 2024.
+This year, the Library and Foundation were awarded $1,229,000 in grants and awards to help support the Library’s outstanding work for the community including: bookmobiles, social workers, the Storytelling Festival, meals and produce, diapers, internet-connected Chromebooks and other tech, digitization projects, early literacy programs and initiatives, and Summer Reading Club. (Plan: Promote Literacy 1a, 1b, 2a, 2d, 3a, 3b, Sense of Community 3a, 3c)
+Author Events (Plan: Promote Literacy 1c)
+The second in-person St. Louis Teen Book Festival took place on Saturday, December 2 at Ladue Horton Watkins High School. The Library hosted 721 very excited attendees which was an increase from 450 attendees last year. There were people from Illinois, Iowa and Kentucky in attendance. We had several schools, including Riverview Gardens and Jennings, bring students on busses to attend. (Plan: Promote Literacy 1b, 1c, Sense of Community 3b)
+The 2023 Author Event season wrapped up with an event at the Missouri History Museum with renowned historian HW Brands and a special winter holiday themed family program at the Daniel Boone Branch with beloved children’s book author and illustrator Jan Brett. Both programs had over 400 attendees.
+In 2023, the Library hosted 145 authors and over 18,000 readers at our events.
+January and February Events
+	Amanda E. Doyle and Dan Zettwoch, authors of "Missouri Weird and Wonderful," Tuesday, January 9, 2024, 6:30 p.m.-8:00 p.m., Grant's View Branch.
+	Joshua C. Kezer and Stephen Snodgrass, authors of the Murder of Angela Mischelle Lawless, Thursday, January 11, 2024, 7:00 p.m.-9:00 p.m., The J.
+	Rachel Hawkins, author of The Heiress, Tuesday, January 16, 2024, 7:00 p.m.-8:00 p.m., Grant's View Branch.
+	Adam Goodheart, author of The Last Island, Wednesday, January 17, 2024, 7:00 p.m.-9:00 p.m., The J.
+	Stacy Willingham, author of “Only If You’re Lucky,” Friday, January 19, 2024, 7:00 p.m.-8:00 p.m., Grant's View Branch.
+	Nana Kwame Adjei-Brenyah - author of “Chain Gang All-Stars” - finalist for the National Book Award - Presented in partnership with SLCL’s Black History Celebration and Washington University’s Arts and Sciences Jan 31, 7 pm -Washington University’s Knight Conference Center/Emerson Auditorium -
+	Ayesha Rascoe - NPR’s Weekend Edition Sunday host and editor of “HBCU Made: A Celebration of the Black College Experience” - Presented in partnership with SLCL’s Black History Celebration, Harris Stowe State University and St. Louis Public Radio.  Feb 8, 7 pm - Ethical Society
+	Alan Gratz discusses “Heroes: A Novel of Pearl Harbor” - Ticketed Event, Feb 12, 6:30 pm - JCC’s Mirowitz Performing Arts Center - Popular middle grade historical fiction author.
+Materials Reconsideration Actions
+Date Submitted                          Item                                                   Decision of Committee
+12/4/23                                        Patricia Wants to Cuddle                    Retained in collection
+12/6/23                                        Elle Magazine                                     Retained in collection
+Ms. Sorth wished Happy Holidays to the Library Board.  She said it has been a wonderful year and the staff appreciate their unwavering support of the work we do for the community.
+OLD BUSINESS
+2024 Budget
+Laura Taylor, CFO, presented the following report. The 2024 Budget document was prepared and approved by the Budget Committee consisting of the following individuals:
+Kristen Sorth – Director & CEO
+Laura Taylor – Chief Financial Officer
+Eric Button – Deputy Director
+Gib Van Cleve – Assistant Director, ITS
+Steve Hunter – Assistant Director, Operations
+Jennifer Gibson – Assistant Director, Strategic Initiatives
+The 2024 Budget document is attached.  The Library Budget is a spending guideline for the upcoming year. Projects discussed in the Budget document will be individually presented to the Library Board for review and approval during 2024 as outlined in the Library Board’s By-Laws. The Budget Revision is presented to the Library Board in September.
+The Library Board of Trustees set the 2023 tax rates at $0.1870 for Residential assessments, $0.1970 for Agricultural assessments, $0.2320 for Commercial assessments and $ 0.2600 for
+Personal Property assessments. These rates will provide 94% of the cash income to operate in
+2024. The Executive Summary on page 2 and the Revenue and Expenses on page 4 - 7 are a synopsis of the proposed 2024 Budget.
+In 2024, the Library District will have a $500,000 surplus in the Maintenance and Operation Budget with a transfer of funds from the Assigned for Capital Improvements Fund.
+The 2024 Budget was presented at the November Library Board meeting as an informational item to give the Library Board time to review the Budget document, ask questions and for Administration to respond accordingly. The Administration is recommending approval of the 2024 Library Budget, which will allow the Library to operate in 2024.  The Library Board approved the recommendation (Patterson/Barry).
+NEW BUSINESS
+CONSTRUCTION UPDATE
+Steve Hunter, Assistant Director of Operations, presented the Board with an update on the visible progress for the Clark Family Branch. He said the exterior glass is all in. The building now looks very similar to the artist’s rendering. There is dry wall all on the first floor. Dr. Beckwith said he applauds the Administration and employees for 21 quality buildings constructed in 10 years. Deborah Patterson said she applauded all as well.
+2024 ACTIVITIES PREVIEW
+Jennifer Gibson, Assistant Director of Strategic Initiatives, delivered a presentation that highlighted the amazing activities coming next year to the Library District.  She said there were 378 activities completed in 2023. Jennifer showed pictures of the yearlong activities and events.   Deborah Patterson asked what happens to the old Bookmobiles.  The attorney responded that the old bookmobiles must be sold to the highest bidder. If no money is offered, they then can be donated.
+SHARED SERVICES AGREEMENT
+Kristen Sorth, Director and CEO, presented the following report.  The Shared Services Agreement defines the level of support provided by the Library to the Foundation and is a requirement of the Affiliation Agreement between the Library and the Foundation. The document also includes a continued commitment by the Foundation toward independency with the reimbursement of the salaries for two employees, the Annual Giving Manager and the Membership Engagement Coordinator.  Both the Library Board and the Foundation Board review and approve this agreement each December.
+Attached is a letter to the President of the Foundation Board outlining the Shared Services Agreement. The St. Louis County Library Foundation Board approved the updated Shared Services Agreement on December 15, 2023 and it has been signed by the President of the Foundation Board.
+Library Administration recommends approval of the annual Shared Services Agreement. This Shared Services Agreement is intended to replace the 2023 Shared Services Agreement which is effective until December 31, 2023. The term of this 2024 Shared Services Agreement shall be from January 1, 2024 through December 31, 2024, unless the parties agree in writing to terminate earlier or to extend this 2023 Agreement.  The Library Board approved the recommendation (Patterson/Sanditz).
+INVESTMENTS
+Laura Taylor, CFO, presented the following report.  Annually, the Library District receives most of the cash from property taxes early in the year. To maximize the amount of interest received, Library Administration issues a request for investment rate quotes from several area financial institutions. The financial institution that submits the highest yield for the total portfolio of investments is awarded the dollars to invest.
+A new request for investment rate quote will be on December 19, 2023 and will be due back no later than December 29, 2023. The total portfolio to invest in January 2024 is $34 million. We are bringing this to the Library Board at this time to invest soon after the quotes are received to take advantage of the yield for the total portfolio. The Library would like to make the investment at the beginning of January.
+The amount of each monthly investment and the approximate maturity date is listed below:
+Library Administration recommends the Board authorize the Director and CEO to select the financial institution that submits the highest yield of the total portfolio for the investment of the 2024 operating funds. It is important for the Library to invest soon after the quotes are received to take advantage of the yield for the total portfolio. Library Administration will report back to the Board on the selection of the financial institution at the January 2024 Library Board meeting.  The Library Board approved the recommendation (Sanditz/Barry).
+DANIEL & HENRY 3-YEAR CONTRACT
+Laura Taylor, CFO, presented the following report.
+The Library’s three year contract with Daniel & Henry, the Library’s insurance broker, expired at the end of November 2023. Missouri statutes do not require that these services be competitively bid and we are extremely pleased with their work for the Library. Library administration is recommending the approval of a new three year contract with Daniel & Henry. Prior and proposed fees are as follows:
+                                         Prior Fees                Proposed Fees
+2020 - $25,333             2023 - $36,000
+2021 - $25,333             2024 - $36,000
+2022 - $25,334             2025 - $36,000
+Library Administration is recommending approval of a 3-year contract for Property and Casualty Insurance Brokerage services with The Daniel and Henry Co. for the years ending 2023-2025 and authorizes the Director and CEO to enter into and execute a contract to that effect. Brokerage service annual fees are proposed as follows:
+2023 - $36,000
+2024 - $36,000
+2025 - $36,000
+The Library Board approved the recommendation (Barry/Sanditz).
+KERBER, ECK, AND BRAECKEL CONTRACT
+Laura Taylor, CFO, presented the following report.
+The Library’s contract with Kerber, Eck, and Braeckel (KEB), the Library’s audit firm, expired with the completion of the 2022 audit. Library administration is recommending the approval of a new three year contract with KEB. Missouri statutes do not require that these services be competitively bid and we are extremely pleased with their work for the Library. Audit fees incurred in 2022 for the Library audit and Pension audit were $28,000 and $11,750 respectively.
+Library Administration is recommending approval by the Library Board of a 3-year contract with audit firm Kerber, Eck, and Braeckel, for audit services related to the Library District and the Library District’s Pension Plan for years ending 2023 – 2025 and authorizes the Director and CEO to enter into and execute a contract to that effect. Fees proposed for those years are as follows:
+Library District                                   Library District Pension Plan
+2023                    $32,000                                                           $13,500
+2024                    $33,000                                                           $13,900
+2025                     $34,000                                                            $14,300
+The Library Board approved the recommendation (Sanditz/Barry).
+ADJOURNMENT
+Dr. Beckwith requested a motion to adjourn the meeting.  All approved with voice vote. The meeting adjourned at 4:36 p.m.
+Respectfully submitted by,
+____________________                                                                    ________________
+Joan Barry, Secretary                                                                                                      Date

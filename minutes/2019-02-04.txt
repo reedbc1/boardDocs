@@ -1,0 +1,161 @@
+{
+  "name": "Regular Meeting",
+  "description": "Library Board",
+  "unique": "B8HR2H65203A",
+  "date": "2019-02-04T00:00:00Z"
+}
+
+---
+
+ST. LOUIS COUNTY LIBRARY DISTRICT
+MEETING OF THE BOARD
+HEADQUARTERS
+1640 SOUTH LINDBERGH BLVD.
+MONDAY, FEBRUARY 4, 2019
+The monthly meeting of the Board of the St. Louis County Library District was held at the Headquarters Branch, 1640 South Lindbergh Blvd., St. Louis, MO 63131 on Monday, February 4, 2019 at 3:30 p.m. The agenda was posted in all branches of the Library District at least 24 hours before the meeting.
+ATTENDANCE:
+Members present
+Dr. Lynn Beckwith, President
+Michael Mulligan, Vice President
+Elena Kenyon, Treasurer
+Dr. Chingling Tai, Secretary
+Edith Cunnane, Member
+ADMINISTRATORS AND GUESTS ATTENDING:
+Kristen Sorth, Library Director; Eric Button, Deputy Director; Barbara Turkington, Assistant Director, Advancement; Steve Hunter, Assistant Director, Operations; Kris Mooney, Assistant Director, Administration; Gib Van Cleve, Assistant Director, ITS; Kate Hatfield, Frontenac resident; Tom Orh, Nagaly Hauslck, Hawlet, Rock Erekson, Kathy Moran, Emily Arneson, Cecily Hoffins, Judith Billos, Carol Watkins, Leah Thorsen, Scott Kolath, Landmark Construction Management; Tom Curran, St. Louis County; and Lisa Stump, Attorney, Lashly & Baer.
+OTHERS ATTENDING:
+Conrad Rader, Will LaChance, Lisa Haddox, Laura Kasak, Crystal Harris, Jennifer McBride, Mary Arnhart, Stephanie Nordmann, Julie Cruise, Anne Arthur, Emily Althoff, Amy Gibbons, Keir Haug, Sarah Brown, Andrea Johnson, Rebecca Clarke, Paul Bayless, Deanna Davis, Maureen Willmann, Lorraine Budke, Cheri Remington, Allison Wisniewski, Carol Simon, Alaina Culbertson, Marie Conlin, Meg Coyle, Dawn Ruhbeck, Liz Ruhbeck, Nicole Higginbotham, Connie Dee, Lindsay Piech, Scott Holl, Kat Van Arsdale, Stacy Berger, Ross Brand, Anna Schurk, Amy Hanaway, Terra Baca, Kelli Reeves, Lauren Striebel, Matt Lakin, Natalia Catlett, Carla Maxwell and Sandy Williams.
+PUBLIC COMMENTS
+Kate Hatfield, a resident of Frontenac, addressed the Board. She explained that nine questions were sent to the Director on Jan. 19, 2019. Library Director Kristen Sorth stated that some questions will be answered in this meeting and all of the questions will be responded to in writing and sent to Ms. Hatfield.
+TREASURER'S REPORT
+Kris Mooney reported that, in December, the Library District received more than $21.5 million in tax revenue for the 2019 operating year. The Library projects to receive approximately $51 million in total tax revenue for 2019. The Library District paid $24,200 to Daniel & Henry for annual insurance broker services. The Board approved the current 3-year agreement at the December 2017 meeting. The Library District paid $36,190 for programming expenses at all of the Library Branches. Included in the $36,190 is approximately $8,000 in programming for the Black History Celebration. Additionally, the Library District paid BSR Services, Inc. $17,021 for removal of snow removal on November 14-18, 2018 and December 4-5, 2018.
+Capital Projects Fund Balance Sheet
+Total Construction in Progress for December 2018 was $7,912,112. The expenses included payments for:
+	Construction costs for Headquarters - $268,028
+	Land costs for Headquarters - $6, 100,000
+	Construction costs for Meramec Valley - $848,303
+	Construction costs for Mid County - $277,248
+	Construction costs for Thornhill - $239,866
+	Construction Management services for Phase 2 buildings - $145,913
+	Facilities Master Plan Administrator - $30,250
+Administration recommends approval of the December Treasurer's Report subject to audit (Cunnane/Tai).
+DIRECTOR'S REPORT
+Director Kristen Sorth presented the following report.
+Library Update
+	Ms. Sorth shared that this month’s Dashboard Report includes information on the Library’s 2018 statistics. The report includes information about circulation, visits, programming, and PC usage in 2018. With three branches closed for all or part of 2018, circulation and visits were up by 1% for the year, program attendance was up 12%, PC usage was down 2%, and Wi Fi sessions were slightly higher. The Dashboard also highlights notable increases at several locations in 2018.
+	Ms. Sorth mentioned that the Black History Committee, which includes Brenda West Ammons, Cindy Fehmel, Robert Hall, Janelle Turner, Crystal Harris, Carla Maxwell, Nakisha Smith and Sandy Williams, did a fantastic job with Black History Month programming. The branches also scheduled some of their own programming and have great programs for patrons.  Here are the highlights:
+		The kickoff celebration began with the Oprah Book Club 2018 selection of Anthony Ray Hinton's book "The Sun Does Shine: How I Found Life and Freedom on Death Row." This Frankie Freeman lecture was held Friday, Jan. 25 at 7:00 p.m. at Headquarters.
+		The Black Rep presented "Freedom Songs" on Friday, February 1 at 7:00 p.m. at the Lewis & Clark Branch.
+		"Pies from Nowhere" Story Time and Pie Tasting event will take place Monday, February 4 at 6 p.m. at Weber Road and Thursday, February 21 at 6 p.m. at Lewis and Clark. After the story time, sample pies from area restaurants will be distributed along with a book for each family with a child. *We applied for and received a grant for $1,779 from the Missouri Humanities Council's African American Heritage Program for this event.
+		"Set the Night to Music" takes place Friday, February 8 at 7:00 p.m. at Florissant Valley. R&B and soul ensemble Plush Band STL featuring Dana Austin, hosts a night of soulful and infectious music as they perform the classics.
+		Emily Bernard, author of "Black is the Body: Stories from My Grandmother’s Time, My Mother's Time and Mine" will discuss her book Tuesday, February 12 at 7:00 p.m. at Headquarters. This author gives a fearless and penetrating memoir of what takes place while a student at Yale.
+		Delta Sigma Theta Black History Author Celebration, Saturday, February 16, at Noon at the Lewis and Clark Branch. Meet authors from the Delta Sigma Theta St. Louis Alumnae Chapter as they discuss their books. All available for purchase.
+		"Gift of Gospel" takes place on Saturday, February 23, 1:00 p.m. at Florissant Valley. Featuring Stellar Award nominee and Billboard chart topping gospel artist Cheneta Jones. Also featuring The Youth Gospel Music Conference Choir with local artist and pastor Shawn Williams as emcee.
+		(Plan: Sense of Community 1.1)
+	Ms. Sorth announced that later this month, the Library will be adding new eMagazine titles to the eMedia offerings. The popular titles are exclusive to one specific platform provider and include People, Entertainment Weekly, InStyle, Black Enterprise, Essence, Ebony, Real Simple, Southern Living and Money. (Plan: Promote Literacy 1.1)
+	The Library will begin circulating jigsaw puzzles for checkout in the next month. SLCL has gathered information from other libraries that offer jigsaw puzzles in their collections and are using their best practices for our collection. The library will build this collection exclusively with donated puzzles that are new or like new and will start with collecting donations from Library employees. After that, we will determine if donations from the public are necessary. Ms. Sorth will update the Board as we move forward. (Plan: Maximize Access 1.4)
+	The Reference Department is adding several new databases in 2019 including:
+		Newspapers.com which offers more than 10,000 digitized newspaper titles in the U.S. as well as several other countries
+		 Creativebug which includes over 1,000 art and craft video classes for adults and kids, Archion
+		A History & Genealogy database that has access to digitized records from churches in Germany
+		History Vault: Southern Life, Slavery and the Civil War which features digitized southern plantation records from 1775-1915
+		ALLDATA which includes repair information for foreign and domestic cars and trucks manufactured from 1982 – the present.
+As you can imagine, it is challenging to keep up to date on all of these and the Library’s other fantastic databases. To assist, the Reference Department is holding a Database Review session for managers in February. (Plan: Promote Literacy 3.3)
+	Ms. Sorth announced that the Library is the recipient of two awards. The Library has been awarded the Friends of School Libraries award from the Missouri Association of School Librarians for our work on Library ConnectED.  Also, the Rock Road Branch was named Library of the Year by Valeda’s Hope, which is an organization that helps in the fight against breast cancer. The branch has been working with Valeda’s Hope and Siteman Cancer center since 2013 to provide mammograms on a mobile unit that visits the Rock Road Branch. On a recent weekend, twenty people received mammograms on a mobile unit visiting Rock Road. (Plan: Promote Literacy 3 and Sense of Community 1.4)
+	For the third year in a row, the Library’s circulation of Overdrive digital resources has reached 1 million.  This includes eBooks and audiobooks. Only 65 libraries out of 43,000 have reached this achievement. (Plan: Promote Literacy 1.1)
+	The creator of Hip Hop Architecture Camp has contacted Administration about hosting the camp in 2019, and we have enthusiastically agreed. The camp will take place at the Natural Bridge Branch from June 3 – 7, 2019. (Plan: Sense of Community 2)
+	SLCL is one of 50 public libraries that were selected to participate in “American Creed: Community Conversations” which is a grant program that will invite audiences to consider what America’s ideals and identity ought to be through screenings of and conversations about the PBS documentary American Creed.  Planning is underway for this program which will include three programs in June, July and August that will be presented in partnership with faculty from Washington University. (Plan: Sense of Community 2.3)
+	There were many mentions of the St. Louis County Library in the local media in print, radio and television. Those articles were shared with the Board. (Plan: Maximize Access 3)
+	There were a number of great photos shown to the Board from several programs and events in November and December including: Gift of Reading Story Time at Florissant Valley, STArt: Candy Creations at Prairie Commons, Sensory Story Time at Daniel Boone, Discovery Club at Rock Road, eMedia Blitz at HQ, author Brad Meltzer at HQ and the Community Partner of the Year award from Big Brothers Big Sisters. (Plan: Promote Literacy 3.4 and Sense of Community 2.3)
+Library Administrative Updates
+	The Library Staff Association’s annual holiday food drive to benefit Operation Food Search took place from November to the end of December 2018. Both employees and patrons can participate. This year, the Library collected 8,400 pounds of food. This is our ninth year hosting the drive, and our total is 50,153 pounds of food collected. (Sense of Community 2.1)
+	Waller McGuire, the Director of St. Louis Public Library, and SLCL have reached out to the cultural institutions in the region to discuss the possibility of a partnership that creates opportunities for our patrons to enjoy their various cultural offerings with a library card.  Several other libraries, such as New York Public Library, have recently embarked on this type of partnership. We are meeting with the institutions in February to discuss the possibilities. (Plan: Promote Literacy 3.4)
+	Ms. Sorth has been asked to serve on the St. Louis Regional STEM Learning Ecosystem Advisory Council. The first meeting took place last week. The advisory council will provide strategic input and feedback to the STEMSTL efforts. Their vision is that all learners in the St. Louis region have equitable access to high-quality STEM learning and employment opportunities. (Plan: Promote Literacy 3.1)
+Library Construction and Facility Update
+	Administration has started work on the designs for the new History & Genealogy/Operations Building in Frontenac. We are very early in the design process but we now know that this will be a single building, not two separate but connected buildings as we first thought. We also estimate that the single building will be 75,000 – 80,000 square feet. We continue to have conversations with the City of Frontenac, MoDOT, and McBride Homes about our plans. The Library is so thrilled to be moving forward as we have been searching for the perfect location for a permanent home for Operations and this is it! The plans for History & Genealogy have been communicated to the private donors and the St. Louis Genealogical Society. They are thrilled with the location and the ability to showcase the History & Genealogy department.  Ms. Sorth said she has also discussed plans for the replacement of the current HQ Building on Lindbergh with the City of Ladue. They, too, are excited about our plans. Construction of H&G/Operations will likely begin in fall 2019 and will take about a year or so. HQ will stay open during the construction of these new buildings. Once we have completed construction on the Operations and History & Genealogy buildings, all of the HQ support departments, Administration, and H & G employees will move to their permanent new home. Shortly after, the current HQ Building will come down and construction on a brand new HQ will begin. Those employees at HQ that work directly with the public will be assigned to various branches and departments as we have with all of the previous construction projects. (Plan: Maximize Access 2)
+	In November, the Library issued an RFP for architectural and engineering services for the new Eureka Hills Branch. The Library received eleven responses and interviewed four firms in December. The Library Board will review Administration’s recommendation later in the meeting. (Plan: Maximize Access 2)
+	Last week Ms. Sorth met with the City of Clayton to discuss a possible park near the Mid-County Branch. (Plan: Maximize Access 2.3)
+	The Thornhill Branch will reopen to the public on February 13, 2019 at 9:00 a.m. immediately following a ribbon cutting. This will be the sixteenth branch to open since we began the construction phase of Your Library Renewed four years ago. (Plan: Maximize Access 2)
+	The Library will be adding Sunday Hours at Mid-County when the branch opens in early summer. Previously, Mid-County did not have Sunday hours. This was one of the items Ms. Sorth discussed with the City during the design process. They are very pleased with this decision, and Ms. Sorth knows the patrons will be as well. In addition, the Meramec Valley Branch will include Sunday hours when it opens in the spring. Meramac Valley also does not currently have Sunday hours. These additional hours require some examination of the Sunday staff pools. Emily Althoff and her team have done a great job to make Sunday hours possible for our patrons. (Plan: Maximize Access 1.1)
+	The Library has received the next round of incentives from Ameren through their Missouri BizSavers program. The energy efficient improvements at the Grand Glaize Branch resulted in $8,294 in incentives for the Library.
+Library Foundation
+	The Library was recently notified of several grant awards and gifts.  These include:
+		$5,000 from the Greater St. Louis Book Fair for Born to Read
+		$300 from the American Library Association for Becoming American programming
+		$1,770 from the Missouri Humanities Council for Black History programming
+		$5,000 from STL Citywide for COHS/Summer Lunch
+		$9,525 from the State Library (LSTA) for Summer Reading Club publicity
+		$5,000 from Wells Fargo Advisors for Summer Lunch
+		$50,000 from OCI, Inc. for Career Online High School
+Author Events: (Plan: Promote Literacy 1.2)
+	Chloe Benjamin, author of The Immortalists, Tuesday, February 05, 2019, 7:00 p.m., Headquarters.
+	Dani Shapiro, author of Inheritance, A Memoir of Genealogy, Paternity, and Love, Wednesday, February 06, 2019 7:00 p.m., Headquarters.
+	Tim Johnston, author of The Current & B.A. Shapiro, author of The Collector’s Apprentice, Monday, February 11, 2019, 7:00 p.m., Headquarters.
+	Emily Bernard, author of Black is the Body: Stories from My Grandmother’s Time, My Mother’s Time, and Mine, Tuesday, February 12, 2019 7:00 p.m., Headquarters.
+	Elizabeth Letts, author of Finding Dorothy, Tuesday, February 19, 2019 7:00 p.m., Headquarters.
+	Charles Finch, author of The Vanishing Man, Wednesday, February 20, 2019 7:00 p.m., Headquarters.
+	Peter Reynolds, author of Say Something, Sunday, February 24, 2019 3:00 p.m., Doors open at 2:30 p.m., Headquarters.
+· Leila Slimani, author of Adele, Wednesday, February 27, 2019 7:00 p.m., Headquarters.
+· Steve Berry, author of Malta Exchange, Monday, March 04, 2019 7:00 p.m., Headquarters.
+	Patrick Radden Keefe, author of Say Nothing: A True Story of Murder and Memory in Northern Ireland, Wednesday, March 06, 2019, 7:00 p.m., Headquarters
+	Greg Iles, author of Cemetery Road, Saturday, March 09, 2019 7:00 p.m., Headquarters.
+	Phillip Margolin, author of The Perfect Alibi, Monday, March 11, 2019 7:00 p.m., Headquarters.
+	Lynne Olson, author of Madame Fourcade’s Secret War, Tuesday, March 12, 2019 7:00 p.m., Headquarters.
+	Andy Griffiths, author of The 104 Story Treehouse, Friday, March 15, 2019 6:30 p.m., Daniel Boone Branch.
+	C. J. Box, author of Wolf Pack, Friday, March 15, 2019 7:00 p.m., Headquarters.
+OLD BUSINESS
+NONE
+NEW BUSINESS
+CONSTRUCTION UPDATE
+Steve Hunter presented an update on the construction projects. Meramec Valley will open in May and Mid-County will open in the summer. Thornhill opens February 13. Meramec Valley will have a walking path and a reading deck. The building for History & Genealogy and Operations is in early design.
+In March, the Library will begin to discuss plans for the Eureka Hills Branch.  According to St. Louis County Transportation and Public Works, construction on Musick Road at Grant’s View should be completed in May 2019.
+CONSTRUCTION DELIVERY METHOD – EUREKA HILLS
+Steve Hunter gave an informational presentation on the construction delivery method for the new Eureka Hills Branch.
+The Library has utilized a construction manager (CM) on every project throughout the Your Library Renewed program. The CM’s role is to schedule, coordinate, and manage the work of the prime contractors, but the actual work contracts have been held directly by the Library.
+An alternative to the construction manager-led project is to utilize a general contractor (GC). In this scenario, the Library would hold one contract with the GC. The GC would then subcontract to all the contractors necessary to construct the facility. This method of project delivery has advantages for small, single projects.
+The Eureka project will have the smallest budget of any new branch. There is concern that the relatively low total value will lead to work packages that are too small to attract quality bids.
+Administration feels the use of a general contractor is appropriate for this particular project and is considering the use of a general contractor for the new branch in Eureka.
+EUREKA HILLS ARCHITECT SELECTION
+Steve Hunter presented Administration’s recommendation for Architectural and Engineering services for the new Eureka Hills Branch.
+On November 14, 2018, Library Administration requested the submission of qualifications from qualified firms to provide Architectural and Engineering Services for design and construction of the planned new branch in Eureka. The RFQ was posted on our website, in the Post-Dispatch and St. Louis American, and direct mailed to over 80 companies including 56 WBE/MBE architectural firms.
+Responses were due November 28, 2018. Eleven responses were received. The Selection Procedures for Architects and Engineers are clearly defined by Missouri State Statute and described in the Library District’s Policy II for Professional Services (attached).
+A five-member selection committee consisting of Kristen Sorth, Eric Button, Steve Hunter, and Kelli Reeves from the Library plus Scott Kolath from Landmark individually reviewed the proposals. Based on the committee’s consolidated rankings, the following four firms were selected and interviewed on December 18, 2018:
+· Arcturis
+· BatesForum
+· CannonDesign
+· Mackey Mitchell
+Following the interviews, the committee deliberated over which team would be the best fit for the project. In accordance with Policy II and Missouri State Statute, the following selection criteria were used:
+ (a) the specialized experience and technical competence of the firm with respect to the type of services required;
+ (b) the capacity and capability of the firm to perform the work in question, including specialized services, within the time limitations required;
+ (c) the past experience with references for comparable work;
+ (d) insurance required such as professional liability; and
+ (e) the firm’s proximity to and familiarity with the area in which the project is located.
+The committee selected Arcturis and directed Landmark to negotiate the fee.
+The Library Board approved Administration’s recommendation of Arcturis to provide Architectural and Engineering services for the new branch in Eureka and that the Board authorize the Director to enter into and execute a contract to that effect. Arturis’ negotiated fee is $626,500. This fee includes $43,950 in allowances and $18,000 in reimbursable expenses (Mulligan/Cunnane).
+ENTERPRISE CONTENT MANAGEMENT SOFTWARE RFP
+Kris Mooney presented the Administration’s recommendation for Enterprise Content Management software.
+At the February 5, 2018 Board meeting, the Board approved the selection of Scanning America, Inc. to provide document scanning services for the Library District. It was determined after several discussions with Scanning America, Inc., that this solution was not a secure or convenient method of storing the Library’s documents. As a result, the decision was made to find the appropriate document scanning software to electronically store documents.
+The Library District issued an RFP for Enterprise Content Management (ECM) software on November 6, 2018. Electronically storing scanned documents is one of the main functions of an ECM software. Using ECM software will eliminate the need for storing documents in file cabinets and storing documents in boxes that take up a considerable amount of space.
+The RFP was posted on the Library’s website and mailed to two local W/MBE companies that identified as providing this software. The responses were due December 21, 2018 and four responses were received. The Selection Committee was comprised of Kris Mooney, Assistant Director of Administration; Gib Van Cleve, Assistant Director of IT; and Barb Reale, Assistant Manager, Finance. Interviews were conducted with all four companies, which include:
+	Laserfiche by Data Dash, Inc
+	Docuware by Ricoh
+	M Files by IQ Business Group
+	Square 9 GlobalSearch by Konica Minolta.
+The committee approved the selection of Data Dash, Inc. for the Enterprise Content Management software provider. Data Dash, Inc. is the only local company to respond to the RFP. In addition, it was determined that they had the lowest and best bid. Ricoh did not provide references as required and they left out a key component of pricing.
+Library Administration worked with Lashly & Baer throughout this process. This purchase was included in the 2019 Library Budget at a cost of $25,000.
+The Library Board approved Administration’s recommendation for the lowest and best bid of Data Dash, Inc. and their software Laserfiche as the District’s Enterprise Content Management software (Kenyon/Mulligan).
+INVESTMENT OF 2019 OPERATING FUNDS
+Kris Mooney presented the Administration’s recommendation for the investment of 2019 operating funds.
+Annually, the Library District receives most of the cash from property taxes early in the year. To maximize the amount of interest received, Library Administration will issue a request for investment rate quotes from several area financial institutions. The financial institution that submits the highest yield for the total portfolio of investments will be awarded the dollars to invest.
+Typically, by this time of year, Library Administration has issued the request and received responses in order for the Board to approve the investments. However, the Collector of Revenue was experiencing some technical problems and was not able to issue the mid-January distribution of property tax revenue until January 30, 2018. As such, the request for investment rate quotes was not issued until January 31, 2019 with responses due back by February 8, 2019. The total portfolio to invest in 2019 is $34 million.
+The Library Board approved Administration’s recommendation to authorize the Director to select the financial institution that submits the highest yield of the total portfolio for the investment of the 2019 operating funds. Library Administration will report back to the Board on the selection of the financial institution at the March Library Board meeting (Cunnane/Mulligan).
+COMPUTER USE POLICY
+Eric Button presented the Admistration’s recommendation for revisions to the Computer Use Policy.
+The only significant change to the policy is removal of the language pertaining to the requirements to obtain a guest pass. The procedure for issuing guest passes was modified to streamline the process for patrons and staff.  A clean version and a version with changes tracked was shared with the Board.
+The Library Board approved the Administration’s recommendation of the revisions to the Computer Use Policy (Tai/Kenyon).
+ADJOURNMENT
+Edith Cunnane motioned to adjourn open meeting and to convene Executive Session to discuss legal matters (Section 610.021 (1)). Elena Kenyon seconded.  All Board members agreed by voice vote. Aye: Edith Cunnane, Dr. Chingling Tai, Elena G Kenyon, Michael Mulligan, Dr. Lynn Beckwith.
+The Board meeting adjourned at 4:17 p.m.
+Respectfully submitted,
+____________________________                                        ____________________
+Dr. Chingling Tai                                                                    Date
+Secretary

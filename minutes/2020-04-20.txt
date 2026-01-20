@@ -1,0 +1,214 @@
+{
+  "name": "Regular Meeting via Zoom",
+  "description": "Library Board",
+  "unique": "BL3MDQ5A9E79",
+  "date": "2020-04-20T00:00:00Z"
+}
+
+---
+
+ST. LOUIS COUNTY LIBRARY DISTRICT
+MEETING OF THE BOARD
+HEADQUARTERS BRANCH
+1640 SOUTH LINDBERGH BLVD.
+MONDAY, APRIL 20, 2020
+3:30 p.m.
+The regular meeting of the Board of the St. Louis County Library District was held through Zoom telecommunications, Monday, April 20, 2020. The agenda was posted via SLCL website at least 24 hours before the meeting.
+ATTENDANCE: Members present:
+ Dr. Lynn Beckwith, President
+ Johnny Wang, Vice President
+ Laura Horwitz, Secretary
+ Ted Sanditz, Treasurer
+ Joan Barry, Member
+ADMINISTRATORS AND GUESTS ATTENDING: Kristen Sorth, Director; Eric Button, Deputy Director; Barbara Turkington, Assistant Director, Development; Kris Mooney, Assistant Director, Administration; Gib Van Cleve, Assistant Director, ITS; Steve Hunter, Assistant Director, Operations; Rick Gratza, KEB;  Lisa Stump, Lashly and Baer.
+OTHERS ATTENDING: Sandy Williams.
+APPROVAL OF MINUTES
+The Library Board approved of the March 16, 2020 minutes (Sanditz/Wang).
+PUBLIC COMMENTS
+There were no patrons with comments or questions sent to the Board.
+TREASURER'S REPORT
+Kris Mooney reported the following.
+Maintenance and Operating Fund Financial Statements:
+Revenues
+	Financial Institution Taxes – In March, the Library District received payment from the annual tax levied on Missouri financial institutions in the amount of $280,252. In 2019, the District received a distribution of $543,433. The annual tax levied is 7% of net income on financial institutions in the State of Missouri. The amount distributed fluctuates from year to year and is based on the number of financial institutions in St. Louis County as well as their net income.
+Expenses
+	Reading Clubs – In March, the Library District paid $22,444 to various vendors to purchase prizes for Summer Reading Club.
+Expenses
+	Building Repair – Roof & Carpet – In March, the Library District paid $4,136 to Murphy Company to repair a leaking roof drain at Headquarters.
+	Building Operations – Snow Removal – In March, BSR Services Inc. was paid a total of $24,277 for ice and snow removal services for snow events occurring on February 5-7 and February 12-13, 2020.
+	Certificates of Participation – Principal and Interest – The Library District transferred funds to the trustee of the Library’s Certificate of Participation funds, BOKF, to pay the annual principal payment of $2,620,000 and the April interest payment of $1,957,521. These payments were made by BOKF on April 1, 2020 and are included in the 2020 budget.
+Capital Projects Fund Financial Statements
+Balance Sheet – 2016 Debt Issuance
+	Construction in Progress – Total Construction in Progress for March 2020 was $112,177. The expenses included payments for:
+		Construction costs for Thornhill –  $57,714
+		Construction costs for Meramec Valley – $41,838
+		Facilities Master Plan Administrator – $12,625
+The Library Board approved of the April Treasurer's Report subject to audit (Horwitz/Sanditz).
+DIRECTOR'S REPORT
+Kristen Sorth reported the following.
+Library Update
+	Ms. Sorth said the spread of COVID-19 has impacted all of our daily lives.  We continue to closely monitor the experiences of our peer libraries around the United States particularly, those that are weeks ahead of us in dealing with the pandemic.  In addition, we remain in close contact with state and local health officials.  As you know, we are currently closed until further notice.  We have made the decision to cancel all programs, outreach events and community meetings through May 31, 2020. Ms. Sorth anticipates this will extend into the summer months as well.  Consequently, plans are underway to offer options for patrons to participate remotely in the Summer Reading Club. (Plan: Sense of Community 2.1)
+	She said all public libraries are discussing when and how to re-open to the public. We anticipate that re-opening will come in the same stages in which closure happened and that we will need to be mindful of large gatherings of patrons and employees. With the schools closing for this school year, public libraries must be very careful not to become busy gathering spaces that would put the public and our employees in danger.  In addition, there has been federal guidance for libraries on how to handle book returns upon opening and that will be an additional consideration before opening.  We currently have a closure team that is focused on our efforts while the library is closed.  Various members of that team will start meeting to develop a staged plan for re-opening.  The re-opening team will develop a list of conditions that must be met before we can re-open.  That list will be shared and reviewed with the Library Board. (Plan: Maximize Access 2.4)
+	As mentioned last month, Ms. Sorth has been an active member of the COVID-19 Regional Response Team.  The Regional Response Team’s mission is to create a centralized system of response to meet the social needs of residents during the Covid-19 pandemic in the St. Louis region.  The region is defined as St. Louis and St. Charles counties in Missouri, Madison and St. Clair counties in Illinois, and the city of St. Louis.  St. Louis County Library was designated as the lead agency for Remote Learning and Technology.  She spent the last month working with local superintendents, community leaders at the state and local level, the Department of Elementary and Secondary Education, potential donors, and internet providers to discuss various options to make remote learning successful for the families in our region.  That started with a survey of public, charter, independent and parochial schools in the five-county area.  She received responses from almost 50 districts/schools.  As you can imagine, the need for reliable internet access and devices is significant.  Unfortunately, our collective efforts to identify affordable solutions for hotspots was not particularly successful.  What has been successful is a new partnership with the Nine Network.  After a very inspiring discussion with the leadership team of the Nine Network, several solutions have been implemented.  The Nine Network’s reach through television is extensive with viewership reaching households almost two hours north, south, east and west of St. Louis.  This week, Ms. Sorth hosted a Zoom meeting with over 30 superintendents/school leaders and DESE officials in attendance.  The Nine Network walked the educators through their on-air programming and linked it to their online resources for caregivers and teachers, which align with Missouri Standards.  In addition, we discussed on-air instruction by local educators, which will begin the week of April 27th.  She said Superintendents are in the process of identifying teachers that would be successful at on-air instruction.  The focus will be on math and reading for pre-kindergarten through 4th grade.  Also, with the support of the Library Foundation, we have purchased Playtime Learning Pads for the early childhood centers in the Ritenour and Hancock Place School Districts.  Those two districts will pilot the tablets to determine if this is a viable option for other school districts to assist with remote learning.  (Plan: Sense of Community 2.1)
+	She said the Dashboard contains a variety of statistical information for the Library and shared this data with the Board.  This month, the Dashboard reflects usage during the current closure.  Circulation for March increased 12% over the same time last year.  As you are aware, March 16th was an extremely busy day at the library, particularly after we announced that we would be closing at the end of the day. Physical item circulation on March 16 totaled 97,319 and checkouts on Monday, March 16, 2020 were 188% higher than the total number of checkouts at the same time last year. Over 18,000 patrons visited the library on March 16, 2020. Fifty-one percent of the Library's collection is currently checked out. For comparison, in January 2020, 38% of the collection was checked out.  To demonstrate how busy it was on March 16, the Dashboard has several branch comparisons.  Checkouts at Daniel Boone reached 6,872, which was 208% higher than 2019. At Sachs, checkouts totaled 5,730, which was 253% higher than 2019. Meramec Valley checkouts totaled 3,530, which was 690% higher than the 447 checkouts completed in 2019.  The Dashboard also reflects several of the other efforts the Library has expanded or implemented during closure.  Those will be discussed individually.
+	Ms. Sorth said the Closure Team has been working hard to creatively offer library programs and services to our patrons.  While this time has been challenging, it has also been very rewarding to see the efforts made to support our patrons remotely.  I am so proud of what we have accomplished.  The team has been working tirelessly to reach those who rely on, and regularly use, library programs and services.  We have received many positive comments from patrons thanking us for our efforts during this time. The rest of my report will discuss our efforts. (Plan: Maximize Access 1)
+	The Communications Department has been instrumental in communicating with patrons during closure and promoting our programs and services.  They quickly created a Virtual Branch on the Library’s website where all of the Library’s online programs, services and resources can be easily located.  In addition, they added a Coronavirus Info page which includes a detailed FAQ related to the Library’s closure.  Regular social media posts and eBlasts promoting our efforts have increased the awareness of these resources.  In addition, there has been significant media attention on our work, including a Living St. Louis feature on the Nine Network and an article in The Atlantic.  Those mentions are all included in BoardDocs.  Here are the Top 10 Pages on the Library’s Website during closure.
+	Homepage (www.slcl.org)
+	Made up 34.11% of the traffic for Mar 16-Apr 16 and 37.89% of the traffic for Feb 13-Mar 15
+	eMedia (www.slcl.org/emedia)
+	Made up 8.80% of the traffic for Mar 16-Apr 16 and 2.54% of the traffic for Feb13-Mar 15
+	Virtual Branch (www.slcl.org/virtual-branch)
+	Made up 3.97% of the traffic for Mar 16-Apr 16 and 0% of the traffic for Feb 13-Mar 15
+	Books, eMedia & More (www.slcl.org/books-emedia-more)
+	Made up 3.57% of the traffic for Mar 16-Apr 16 and 1.88% of the traffic for Feb 13-Mar 15
+	Drive Thru Meals (www.slcl.org/drive-thru-meals)
+	Made up 2.32% of the traffic for Mar 16-Apr 16 and 0% of the traffic for Feb 13-Mar 15
+	Drive Thru Diapers (www.slcl.org/drive-thru-diapers)
+	Made up 1.28% of the traffic for Mar 16-Apr 16 and 0% of the traffic for Feb 13-Mar 15
+	History & Genealogy Research Resources (www.slcl.org/research/databases?field_categories=79&search_api_views_fulltext=)
+	Made up 1.16% of the traffic for Mar 16-Apr 16 and 0.55% of the traffic for Feb 13-Mar 15
+	Resources A to Z (www.slcl.org/resources/atoz)
+	Made up 1.11% of the traffic for Mar 16-Apr 16 and 0.84% of the traffic for Feb 13-Mar 15
+	eCourses (www.slcl.org/content/eCourses)
+	Made up 1.06% of the traffic for Mar 16-Apr 16 and 0.26% of the traffic for Feb 13-Mar 15
+	Branches (www.slcl.org/branches)
+	Made up 0.92% of the traffic for Mar 16-Apr 16 and 1.19% of the traffic for Feb 13-Mar 15 (Plan: Maximize Access 3)
+	Shortly after closing, we began offering chat/text service for patrons.  From March 23 - April 16, library employees have answered 562 chats and texts from patrons. 144 were eMedia questions, 36 were database questions, and 190 were questions about the Library and our procedures during closure. On April 6, Customer Connect began offering phone assistance for patrons as well.  They have answered 97 calls.  A majority of those calls involved assistance with eMedia and patron accounts.  We began offering virtual Book-a-Librarian and Book-a-Trainer sessions for patrons on April 6.  There have been 10 Book-a-Librarian sessions and 18 Book a Trainer requests.  Topics include: small business research, starting a nonprofit, and questions about eMedia.  Library employees are assisting patrons remotely. (Plan: Promote Literacy 3.3)
+	Since closing, we have reached out to area school districts and charter, independent, and parochial schools to promote our Library ConnectED program, offering virtual St. Louis County Library cards for students.  Since March 16, 4,708 St. Louis students have been given access to online resources through the ConnectEd program. Eleven new schools have registered their students. In total, 116,076 students from 28 school districts are participating in the program. (Plan: Maximize Access 1.2)
+	She said the Library has shifted our financial resources from buying physical materials to buying online resources.  We have added 475 copies to the eBestsellers collection and currently have 1,655 copies of 157 titles (eBooks and eAudiobook) in the eBestsellers collection. For comparison, we added 485 copies to the collection in the first 2 ½ months of 2020.  Our primary vendor for eMagazines, RB Digital, just began offering access to its entire collection of more than 3,700 magazines for a very reasonable price. Currently, the Library subscribes to about 110 titles through RB Digital. The marginal cost increase will open up access to thousands of new titles for our patrons. This expansion of service will be accessible to patrons at the beginning of May. Employees from the Cataloging Department are working remotely to add these offerings to the Library’s catalog. In addition, they recently cataloged new books for the We Stories collection. While we previously only added print books to this collection, given these circumstances, it was important to expand the collection to include other formats, particularly ebooks. The collection now includes titles in any format purchased by the Library. This brings the total number of catalog entries to 442. The March eMedia usage and platform statistics are impressive and we expect the April statistics to be equally impressive.
+(Plan: Promote Literacy 1.1)
+	We have promoted our online library card registration.  In March, 2,130 patrons registered for an SLCL card online. Of those, 1,438 are actively using their cards for eMedia and databases.  eMedia usage for March totaled 196,891. This is the second highest eMedia usage to date, just slightly behind eMedia usage in January 2020.  We expect eMedia usage to exceed 200,000 for the first time in April. (Plan: Maximize Access 1.1)
+	The Reference Department has added almost 70 free resources for students, parents, and educators who are learning and teaching remotely. (Plan: Promote Literacy 3)
+	She said the Library reached out to our community partners to discuss ways to work together to serve the region during this health crisis.  The Library is partnering with Operation Food Search (OFS), the St. Louis Area Diaper Bank, and the St. Louis Alliance for Period Supplies to provide drive-thru meals (at nine branches on Monday, Wednesday and Friday) and diapers and period supplies (at four branches on Fridays) to patrons.  This effort has been very successful and well-regarded.  As a result, I have been asked to participate in the food insecurity committee of the regional COVID-19 task force, where they have looked to the Library as a guide for the rest of the region. In addition, OFS connected us with the St. Louis Attorneys Against Hunger Committee. As a result, we are now providing fresh meals for all ages in addition to the shelf-stable meals for children from OFS.  These include a turkey sandwich, fresh fruit and a cookie. We have also been approached by Little Bit and Eye Thrive to provide additional resources to patrons.  We are also working on a plan to offer new books during the drive-thru meals.  I will update the Board on this effort when I have more details.   I am so thankful to our partners and our employees for making the drive-thru service a success while carefully managing social distancing guidelines and safety measures.  Here are the statistics. (Plan: Sense of Community 2)
+            Here is a comment we received from a patron.
+I am sure you do not get to hear this enough. I go almost every M,W,F for the lunches. I am a mom of 5 who lost her job when this all hit. I only ask for three or sometimes four lunches. I have a two year old and leave the diapers for others. I can not, and sincerely can not express this enough, thank you. Thank you for allowing me a place to get a lunch, more importantly, milk and the cereal staple. You have been a godsend to my family. We were trying for school lunches but those were running out prior to us getting there often. Your staff at the Weber Road location have been nothing but AMAZING. They work hard. They are so kind. They are the smile behind the masks that help make this time so much better. Thank you!
+	Ms. Sorth said the Youth Services and Adult Services are also working to provide virtual options for patrons.  The Library’s Youth Services Librarians have created several virtual story times.  Those are available online and have been well-received.  In addition, we have altered the Bookmark Contest so it can be completed online.  Entries will be accepted starting June 1.  Adult Services is creating procedures for hosting virtual book clubs, including a Shakespeare book club, via GoToMeeting and/or Zoom. The Celebrating Poetry Compilation and the Missouri Author Project both are underway.  We have already received several poems for the compilation. (Plan: Promote Literacy 1.2)
+	The Library is partnering with HEC Media to offer virtual author events for many of our canceled programs. We hope to offer both pre-recorded interviews with authors and a media host and livestream author talks--one of each format per week.  The first pre-recorded virtual event with New York Times reporter Eduardo Larson was posted on our social media and website this week. We are scheduling two more pre-recorded interviews with fiction writers Chris Bohjalian and Alma Katsu.  Our first live author event took place on April 14.  Author Event Coordinator, Carrie Robb, interviewed James Rollins.    (Plan: Promote Literacy 1.3)
+Library Administrative and Construction Updates
+	Ms. Sorth said the Human Resources and Finance Departments are working a few days a week to conduct payroll activities and pay invoices.  In addition, refund checks for the canceled meeting rooms for April and May are being issued.
+	On March 16, the Board approved the award of sealing & striping four parking lots (HQ, NB, PC, SS) to Parking Lot Picassos. They have been able to take advantage of our temporary closure and have completed all of the work. (Plan: Maximize Access 2.4)
+	We continue to receive deliveries on a daily basis at HQ.
+	The Natural Bridge Teen Area Renovation project began on April 13.  We anticipate the work will be completed before the end of the month. (Plan; Maximize Access 2.2)
+	We completed virtual interviews for the Eureka Hills General Contractor.  The Board will review the recommendation later in the meeting.
+	The Library’s WiFi signal is now on 24 hours a day at HQ and all of the branches.  Tests were conducted on the WiFi signals in branch parking lots. Several branches had a weak or no signal in the parking lot. Those locations were prioritized for installation of external Wireless Access Points and equipment was purchased.  ITS has been supporting Building Systems' installation of these devices in the high priority locations. To date the following branches have received external Wireless Access Points: LC, FV, NB, WR and CC. (Plan: Maximize Access 1)
+	She said Dan Lucas, Manager of Safety and Security, has been working with the branches and police officers to maintain the safety and security of our employees during the drive-thru meals. (Plan: Maximize Access 2.4)
+	We are in frequent communication via email with all Library employees to keep them connected and informed during closure.
+Library Foundation
+	Ms. Sorth said they have been talking to the Library's Foundation about the work we are doing as one of the lead agencies for the COVID-19 Response Team, and also about diaper and food distribution. They have generously donated $100,000 to our effort to purchase Playtime Learning Pads, Chromebooks, weekend meals for families, and diapers. Two Foundation Board Members secured additional donations from their companies in support of the Library's work, contributing $11,500, for a total of $111,500. We are so thankful for their support.
+	Give STL Day is May 7th.  Online donations will be accepted.
+	The Foundation is accepting online donations in support of the COVID-19 virus. A link on the Library’s website will take a donor to the Foundation’s Donate Now button.
+	Barbara, Jackie and Marie continue to work on grant opportunities to support our efforts during the health crisis.
+	We were recently notified of the following grant award:
+		PNC, $60,000 over 3 years for Born to Read
+		Opportunity Trust, $5,000 for COVID Response, books for distribution
+Author Events for April and May (Plan: Promote Literacy 1.2)
+We have livestream author events and recordings with the following authors. They are posted on the HEC Facebook link - facebook.com/hectv and archived at hecmedia.org. We are promoting on our social media, and sending eBlasts that direct patrons to the HEC sites.
+	James Rollins – Livestreaming April 14, 7 p.m.
+	Chris Bohjalian - Recording April 16, 7 p.m. (posts April 23)
+	Alma Katsu - Recording April 22, 7 p.m. (posts April 29)
+	Susan Berfield - Recording April 29, p.m. (posts May 6)
+	Brad Meltzer – Livestreaming May 15, 7 p.m.
+Laura Horwitz, Ted Sanditz and Joan Barry said they were impressed with the work the library is doing during this crisis.
+NEW BUSINESS
+2019 LIBRARY AUDIT
+Kris Mooney, Assistant Director of Administration, reported and introduced the auditors.
+The 2019 Comprehensive Annual Financial Report (CAFR) is attached.  The report includes the operation of the Library Foundation.  The Library’s Auditor, Kerber, Eck & Braeckel (KEB) has issued an unmodified opinion.   An opinion is said to be “unmodified” when the auditor has no reservations concerning the financial statements.  This is also known as a “clean opinion,” meaning the financial statements appear to be presented fairly in conformity with generally accepted accounting principles.
+Rick Gratza, a Partner with KEB, attended the meeting to present the report and answer any questions.  Rick oversees the Library audit.
+The Library Board approved the Administration's recommendation for the acceptance of the CAFR.  Copies of the report will be sent to the State Auditor and State Library as required by State Statute.  The report will also be available on the Library’s website (Barry/Wang).
+2020 PENSION CONTRIBUTION
+Kris Mooney, Director of Administration, presented.
+The Library’s Actuary, Milliman, has conducted the annual actuarial valuation
+and has calculated the Library’s annual pension contribution amount for 2020.
+Milliman is recommending a contribution of $2,390,389 (see SLCL Actuarial Valuation January 1, 2020, page 2). The annual contribution is up from the recommended contribution of
+$2,360,562 in 2019, largely due to the 20 new participants added to the plan. The Library’s 2019 budget for this expense is $2,200,000. The net position as a percentage of total pension liability (also known as the “funded ratio”) is 90.34%, up from 79.08% in 2019, largely due to a market gain of 19.68%.
+RECOMMENDATION: The Library Board accepted the Administration’s recommendation that the Board authorize the recommended amount of $2,390,389 as the annual contribution to the Pension Plan for 2020. (Sanditz/Wang).
+457(B) DEFERRED COMPENSATION PLAN AMENDMENT
+Kris Mooney presented the following.  The Library has a 457(b) deferred compensation plan, which allows employees to contribute pre-tax dollars for retirement savings. The plan is managed by EPIC Retirement Plan Systems.
+The Library’s current plan allows for hardship withdrawals; however, a 10% penalty of the amount withdrawn would be assessed. Recently, the United States Congress passed the Coronavirus Aid, Relief, and Economic Security Act (CARES). A provision in the CARES Act allows employees to make a hardship withdrawal without having the 10% penalty assessed. Distributions will qualify as a CARES Act distribution under the following conditions:
+	An individual diagnosed with the SARS-CoV-2 virus or with coronavirus disease 2019 (COVID-19), or whose spouse or dependent is diagnosed with the virus or disease, or to an individual experiencing adverse financial consequences resulting from the virus or disease due to being quarantined, furloughed, laid off, having reduced work hours, or being unable to work due to lack of childcare, or the closing or reduction of hours of a business owned or operated by the individual.
+The adoption of the CARES Act provision will require an amendment to the plan. EPIC is currently working on the language of the amendment and will have this to the Library as soon as it is completed. Until the amendment is completed, EPIC will allow the Library to implement the change immediately upon notification to our service representative. Once we have notified EPIC, Library participants may make a hardship withdrawal without penalty.
+The Library Board approved the Administration’s recommendation to authorize the Director to notify EPIC Retirement Plan Systems to amend the plan, allowing CARES distributions for Library employees who are participants in the 457 deferred compensation plan, and to authorize the Director to implement the written amendment to the plan when EPIC makes it available (Barry/Horwitz).
+COVID-19
+Kristen Sorth presented the following.
+The St. Louis County Library closed effective March 17, 2020 due to the spread of COVID-19 in the St. Louis region.  Shortly after, a Stay-at-Home order was issued by the St. Louis County Executive, and that order has been extended indefinitely.
+All public libraries are discussing when and how to re-open to the public. We anticipate that re-opening will come in the same stages in which closure happened, and that we will need to be mindful of large gatherings of patrons and employees. With the schools closing for this school year, public libraries must be very careful not to become busy gathering spaces that would put the public and our employees in danger. In addition, there has been federal guidance for libraries on how to handle book returns upon opening and that will be an additional consideration before opening. Given current events, the St. Louis County Library continues to be prepared for any possible scenario related to COVID-19, including taking appropriate precautions as an employer of over 670 employees.  We remain closed until further notice.  At this time, we believe it is important to continue to provide paid leave to employees to maintain morale and assist employees during the closure.
+	this reason, the Library Administration is recommending that the Library Board of Trustees hereby waives or amends its current personnel policies to permit the Library Director to continue providing paid leave to part-time employees during any period of closure, or modification of hours, or other inability of the employee to work as a result of COVID-19, in the manner determined by the Director and approved by Library legal counsel.  Paid time will be based on their regular scheduled hours.  This paid leave will be referred to as “COVID-19 Leave.” The Library currently has 263 part-time employees. At this time, full-time employees will also be paid as scheduled.  The Library will reevaluate this prior to May 31, 2020.  In addition, we are recommending that the Library Board authorize the Director to develop procedures to determine the work required, if any, of employees during any partial or complete closure.
+The Library Board approved the Administration’s recommendation that the Library Board of Trustees hereby waives or amends its current personnel policies, permitting the Library Director to provide paid leave through May 31, 2020 to employees during any period of closure, or modification of hours as a result of COVID-19 in the manner determined by the Director and approved by Library legal counsel.  In addition, the Library Board authorizes the Director to develop procedures to determine the work required, if any, of employees during any partial or complete closure (Wang/Sanditz).
+RECRUITING EFFORTS
+Kristen Sorth presented the following informational report.  The Library Board has requested yearly information regarding the staff complement at the St. Louis County Library.  We have enclosed reports for 2019 and 2020 which include the following.
+	A report entitled “Summary Comparison Percentage Chart.”  This report combines the data from the “Summary” report and reflects five years of data.  It also includes FTE information for the same time frame.
+	A report entitled “List of Job Titles by Dept/Branch.  This is a report that is generated from our HR/Payroll software.  The “ethnicity” column contains descriptions designated in our software.  The report is divided by department and branch.  The departments are listed in alphabetical order, beginning after Administration.  The branches are next, and they are also listed in alphabetical order.  Within each branch or department, employees are listed by their title only.  Employees were sorted in descending order, from the employee with the highest pay grade within the branch or department to the lowest pay grade.  Individuals with the same title, have the same pay grade.
+	A one-page summary of the above-mentioned report entitled “Summary” that is also generated from our HR/Payroll system.  This report lists the total number of employees as well as percentages.  Several of the departments are grouped together on this report by organizational unit.
+	A report entitled “Staff Complement by Title Listing Race.”  This document lists each title, the total number of employees with that title and then breaks down the percentage of that title by race.  The titles are sorted in descending order, from the title with the highest pay grade to the title with the lowest pay grade.
+	A report entitled “Staff Complement by Title Listing Race and Gender.”  This report is identical to the report mentioned above in number three, with the exception that gender has been added to this report.
+	A report entitled “St. Louis County Library – List of New Hires by Location.”  This report includes information about the candidates selected for all positions that were posted in this time frame. The report lists the hires by department or branch. The report indicates if a branch or department had no vacancies during that time frame.
+CONSTRUCTION CONTRACT FOR EUREKA HILLS
+Steve Hunter presented this report.
+On February 4, 2019 the Board was informed of Administration’s interest in utilizing a General Contractor rather than a Construction Manager for construction of the new Eureka Hills Branch. Among the reasons given were that the Administration strongly believes a General Contractor provides a more cost-effective delivery method for single projects. An informational memo noted that “Administration will issue an RFP for selection of the General Contractor once the building design is completed, and will bring a recommendation to the Board at that time.”
+An RFP for General Contracting Services for the new Eureka Hills Branch was posted on March 9, 2020. The RFP included construction documents and specifications delivered by Arcturis architects.
+The bid notice was placed in the St. Louis Post-Dispatch, on the SLCL website, and in various physical and online plan rooms. The bid notice was emailed to 41 potential General Contractor respondents and 86 potential sub-contractors. A pre-bid / outreach meeting was held at Headquarters on March 12, 2020.
+Due to the Stay-at-Home order issued by the County Executive, responses were not able to be received at the Library on March 26, 2020 as originally planned. In consultation with Lashly Baer, responders were instructed via an RFP Addendum to electronically submit their responses, and the deadline was extended by one day to March 27, 2020. Six responses were received.
+The following table shows selected information from the responses:
+			Contractor
+			Base Value
+			MBE%
+			WBE %
+			Hof Construction Inc.
+			$5,282,000
+			16.1
+			5.7
+			ICS Construction Services
+			$5,327,000
+			17.3
+			17.0
+			Paric Corporation
+			$5,395,000
+			13.1
+			3.0
+			K&S Associates
+			$5,447,000
+			15.5
+			5.0
+			L Keeley Construction
+			$5,596,332
+			22.5
+			5.1
+			Kozeny-Wagner Inc.
+			$5,649,000
+			12.9
+			3.3
+The Library’s Procurement Policy I, Section 5, states in part:
+“In determining the best bid or proposal, the Library District may consider all factors in bids and/or proposals, including but not limited to, location of bidder, M/WBE participation interest in the business and prior performance.”
+The selection committee ranked the bidders and conducted on-line interviews with the two highest-ranked bidders. The committee unanimously agreed that ICS Construction Services, Inc. presented the best response to the RFP.
+There are two recommendations.
+The Library Board approved the selection of ICS Construction Services, Inc. at $5,327,000 for construction of the new Eureka Hills Branch and that the Board authorize the Director to enter into and execute a contract to that effect.
+Contingency
+The Library Board approved of a contingency fund for this project, with a total value of 10% ($532,700) for unforeseen conditions and owner-requested changes. The spending of this contingency fund will be approved by Kristen Sorth, Library Director or Steve Hunter, Assistant Director as needed during the execution of the project. The accounting of the expenditures against the contingency fund will be reported back to the Library Board (Barry/Wang).
+RECOMMENDATION II: Administration recommends the approval of a project contingency fund for this construction contract totaling $532,700 (Sanditz/Horwitz).
+TECHNOLOGY
+(Wide Area Network Services Revision)
+Kristen Sorth presented in the absence of Gib Van Cleve.
+The Library Administration is seeking approval to revise the cost of the five-year contract for Wide Area Network Services (WAN), previously approved at the March 16 Board meeting.
+The circuit costs presented at the March Board meeting did not account for increasing WAN bandwidth at the three regional branches.  Once adjusted, the new annual total for WAN services increases from $123,372 to $169,716.
+			Vendor Proposals
+			1 Year
+			5 Years
+			Cytranet
+			 $         454,368
+			 $  2,271,840
+			AT&T
+			 $         215,109
+			 $  1,075,545
+			Spectrum Enterprise
+			 $         169,716
+			 $      848,580
+Spectrum’s price is still 27% less than AT&T
+Library Administration recommends a five-year contract for Wide Area Network Services with Spectrum Enterprise, at the revised cost of $169,716 per year, and that the Board authorize the Director to enter into and execute a contract to that effect.  An anticipated E-Rate refund of 40% would reduce this amount to $101,829 per year.  WAN services are included in the 2020 Telecommunications budget (Wang/Barry).
+ADJOURNMENT
+Laura Horwitz made a motion to adjourn open meeting and to convene Executive Session to discuss legal matters.  Johnny Wang seconded. (Section 610.021(1))
+All voted affirmative in a roll call vote. (Beckwith, Sanditz, Horwitz, Barry, and Wang)
+The meeting adjourned at 4:53 p.m.
+Respectfully submitted,
+______________________________________                    ___________________________
+Laura Horwitz                                                                        Date
+Secretary

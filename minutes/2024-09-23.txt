@@ -1,0 +1,244 @@
+{
+  "name": "Regular Meeting",
+  "description": "",
+  "unique": "CYRU9F7AE423",
+  "date": "2024-09-23T00:00:00Z"
+}
+
+---
+
+ST. LOUIS COUNTY LIBRARY DISTRICT
+MEETING OF THE BOARD
+CLARK FAMILY BRANCH
+MONDAY, SEPTEMBER 23, 2024
+The monthly meeting of the Board of the St. Louis County Library District was held at Clark Family Branch, 1640 S. Lindbergh Blvd., St. Louis, MO 63131 on Monday, September 23, 2024 at 3:30 p.m. The agenda had been posted in all branches of the Library District at least 24 hours before the meeting.
+ATTENDANCE:
+Library Board Members:
+Johnny Wang, President
+Deborah Patterson, Vice President
+Joan Barry, Secretary
+Ted Sanditz, Treasurer
+Dr. Lynn Beckwith, Member
+Ms. Barry was in attendance via phone.
+ADMINISTRATORS AND GUESTS ATTENDING:
+Kristen Sorth, Library Director & CEO; Eric Button, Deputy Director; Laura Taylor, CFO; Gib Van Cleve, Assistant Director, ITS; Jennifer Gibson, Assistant Director, Strategic Initiatives, Attorney Lisa Stump, Lashly Baer; and Desiree Whitlock, St. Louis County.
+OTHERS ATTENDING:
+Beth Watts, Trista Doyle, Anne Arthur, Emma Figueroa, Nicole Clawson, Kat VanArsdale, Michelle Hawkins, Heather Neill, Carla Maxwell, Cheri Remington, Andrew Freshwater, Carrie Robb, Amy Gibbons, Melissa Hupp, Ja’Mel McCaine, Megan Phifer-Davis, Rachel Dippel, Alaina Culbertson, Crystal Harris, Anne Bradley, Melissa Bauer, Kelli Reeves, Stephanie Nordmann, Nora Marino, Donna Spaulding, Nicole Walsh, Sarah Brown, Chasidy Allen, Emily Althoff, and Becky Maue.
+MINUTES
+The Library Board approved the August 19, 2024 Library Board minutes (Sanditz/Patterson).
+PUBLIC COMMENTS
+There was no one to speak before the board.
+TREASURER'S REPORT
+Laura Taylor, CFO, presented the report.
+Maintenance and Operating Fund Financial Statements:
+Revenue (page 2)
+	District Taxes - The total tax revenue for 2024 is $63.3 million which is 99% of the total budget of $63.9 million. The District will continue to receive tax revenue throughout the year.
+	Other Grants - In August, the Library District recognized $175,000 in Other Grants. This entire amount was received from the St. Louis County Children’s Services Fund. The contract was adjusted earlier this year to accommodate the additional dollars needed to attract good applicants. This grant will be used to help fund social workers at five branches: Florissant Valley, Lewis and Clark, Natural Bridge, Rock Road, and Weber Road. Social workers started providing services to patrons in May 2023.
+Expense (pages 3 and 5)
+	Other Personnel Expense - In August, the Library District incurred a total of $94,835 in Other Personnel Expense. Of this amount, $60,935 was paid to H & H Health Associates for wellness screenings in July and $30,701 was remitted to Charles Schwab for August deferred compensation matches. Starting in July 2024, the Library District will match up to 1.5% of employees’ contributions to the 457(b) plan.
+	Technology - Maintenance Agreements - In August, the Library District incurred a total of $29,235 in Technology - Maintenance Agreements. Of this amount, $27,216 was paid to Comprise Technologies, Inc. for the Smart Money Manager annual renewal through September 2025.
+	Capital Improvements - In August, the Library District incurred a total of $1,802,553 in Capital Improvements. Of this amount, $1,764,234 was paid to Interior Construction Services for July services and $22,970 to CI Select for furniture at the Clark Family Branch.
+Mr. Wang asked if anyone on the board had questions. Dr. Beckwith expressed his concern about the pension funds.
+The Library Board approved the September 23, 2024 Treasurer's Report subject to audit (Sanditz/Patterson). Motion passed 4-1 (Voting yes: Mr. Sanditz, Ms. Barry, Mr. Wang, Ms. Patterson; Voting no: Dr. Beckwith).
+DIRECTOR AND CEO'S REPORT
+Ms. Sorth delivered the attached Dashboard report for August.
+	Circulation in August reached 975,635. Children’s print material made up the highest percentage of circulation with 32% of the total. eMedia made up 30% of total circulation, while adult print material made up 21%.  In August 2024, 3,931 patrons registered for a Library card. At the Clark Family Branch, 1,110 patrons registered for a Library card in August. The dashboard includes a chart that shows the number of individuals served by social workers continues to increase.  Since the Library began providing social worker assistance, 2,659 individuals have been served. Ms. Sorth noted that at last month’s board meeting, Mr. Sanditz mentioned that he was interested in information on market penetration, or the percentage of households in a given zip code that are using the library. She said with our current system, household data is not available. If the board approves the purchase of Orange Boy’s Savannah, we will be able to provide this information regularly. (Plan: Promote Literacy 1a, 3b, Sense of Community 1b, 2a, 3a, Increase Access 1c)
+	Ms. Sorth announced that the Library’s Foundation received a large donation of new books from Open Up Resources by way of the local business, Classroom Library Company.  The total list price of the books, which will be used on the Sweet Reads bookmobile, is over $153,000.  This company has made prior donations, but in much lower quantities.  The Sweet Reads Bookmobile distributes hundreds of books to the community.  The Bookmobile also participated in the Great Forest Park Balloon Race this past weekend.  The Library was invited to participate in the event by Post Holdings which offered its space to the Library to promote library services and the Library Foundation.  The Sweet Reads bookmobile and its staff were present both Friday night and Saturday. (Plan: Promote Literacy 1a, 2a, Sense of Community 2a, 2b, 2d)
+	Social workers continue to provide impactful, life-changing services for many in our community.  The range of needs varies widely, but the social workers are often helping immigrants, unhoused individuals, families struggling to access food, job seekers, and individuals who need to connect to various government benefits.  In order to increase understanding and awareness of their services, Katie Lappe, the Lead Social Worker, and DeNyne Carter, the floating social worker, have been visiting the fourteen branches that do not have an embedded social worker and meeting with many of the branch employees. (Plan: Sense of Community 1d, 3a, 3b, 3c)
+	The Federal E-Rate program recently announced that rebates are available to libraries that provide Wi-Fi Hotspots.  Ms. Sorth reported that as a result the Library will be eligible to apply for rebates in 2025 to offset a portion of the expenses associated with the hotspot services.  A Request for Proposals will be issued in accordance with the requirements of the E-Rate program to select a service provider.  It is estimated that the rebates would result in more than $25,000 annually for the Library. (Plan: Promote Literacy 3b, Sense of Community 3c)
+	Several managers and administrators at the Library met with a team from Booksource to discuss a plan to develop workshops and circulating kits based on the Science of Reading.  Booksource has already engaged in substantial planning and development in this area and they are interested in piloting this program at St. Louis County Library. While the project is still in the early planning stages, we do anticipate that workshops for families with emerging readers and the circulating kits will all be launched in early 2025.  Ms. Sorth explained the Science of Reading takes a phonics-based approach to learning to read as opposed to the more traditional method of learning by sight words alone.  The Science of Reading utilizes “decodable” books that work in a successive progression.  The workshops will introduce families to the methodology and provide them with information and resources to teach their children how to read.  Circulating kits will be made available with a variety of decodable books grouped by steps and other resources to make the learning experience more enjoyable for children. These initiatives will be a major focus of the Library’s Strategic Plan under Literacy in 2025.  (Plan: Promote Literacy 1a, 1b, 2a, 2b)
+	On October 15th at 6:30 p.m., the Library is hosting a screening of the documentary, “SENTENCED.” This is an immersive and vulnerable exploration of the epidemic of childhood illiteracy through a series of character-driven stories. Produced and narrated by four-time NBA basketball champion Stephen Curry and filmed from the point of view of ethnically diverse adults and children who have never learned to read, the film is a forceful yet tender tale of how literacy can free children from the cycles of generational poverty.  Here are several data points shared in the film:
+		1 in 3 children in 4th grade are below the basic reading level in the United States.
+		 80% of low-income 4th-graders never reach reading proficiency.
+		 60% of young men entering prison in the U.S. cannot read at a 3rd-grade level.
+		130 million adults in the United States struggle to read basic sentences.
+		Each year 1.3 million 4th-graders in the U.S. read below basic levels.
+		The nation’s federal reading test showed that reading scores for 4th-graders dropped from 35% in 2019 to 33% in 2022, as a result of the COVID-19 pandemic.
+		Students who do not meet proficient reading standards by the end of 3rd grade are four times more likely to drop out of high school without graduating than students who pass the standards.
+		High school graduation can be reasonably predicted by knowing someone’s reading skill at the end of 3rd grade.
+		More than two-thirds of children in the U.S. reported at least one traumatic event by age 16, according to the U.S. Department of Health and Human Services.
+		According to the National Institute for Literacy, 70% of welfare recipients score low in literacy. (Plan: Promote Literacy 1b, 3d)
+	The Florissant Valley Branch and the Lewis & Clark Branch will be hosting the Eye Thrive Mobile Vision Clinic for two dates in September.  Prior to these dates, the Library has only hosted the Vision Clinic in the summer. (Plan: Sense of Community 3a, 3c)
+	On October 17, from 4:30-6:00 p.m., the St. Louis Press Club, League of Women Voters and St. Louis Board of Elections will present a program entitled “Ranked Choice Voting: Making Sense of Amendment 7”.  This will be a forum-style program moderated by the League of Women Voters featuring an overview of the amendment and speakers for and against it. (Plan: Promote Literacy 2c, 3d, Sense of Community 1a)
+	Ms. Sorth announced throughout the month of October, the Library is hosting a Personal Care Item Drive on behalf of Circles of Support.  The drive expresses a particular need for Black and Brown haircare items.  Items will be accepted at all 20 Branches and at the Beck. (Plan: Sense of Community 1a, 3a, 3c)
+	Welcoming Week, which took place from September 13-22, is an annual global campaign that fosters community, belonging, and understanding. Through Welcoming Week, our branches provided a platform for patrons to come together and appreciate the rich tapestry of cultures and backgrounds that make up our communities. This initiative, led by our Welcoming Ambassadors, celebrates the unique contributions of immigrants and raises awareness about the benefits of being a welcoming and inclusive community. (Plan: Promote Literacy 2c, Sense of Community 1a, 1b, 1d, 3c)
+	This year’s Adult Summer Reading Club was a great success. Over 14,600 people registered, a 24% increase from 2023 and our highest total since 2014.  There was also an 11% gain in completions, equating to over 6,500 completions. Branches and departments hosted creative and dynamic programs with over 3,500 people attending. (Plan: Promote Literacy 1a, 1b, 2a, 2b, Sense of Community 3c)
+	Ms. Sorth said starting next month, patrons can ride a shuttle from a Library branch to visit either the Soldiers Memorial Military Museum or the Repertory Theatre of St. Louis. The Soldiers Memorial Shuttle will explore the exhibition “Ghost Army: The Combat Con Artists of World War II.” It departs monthly from four different branches between October-January – Grant’s View, Florissant Valley, Daniel Boone, and Thornhill. Shuttle tickets are $15 per passenger. The Shuttle to The Rep departs from Florissant Valley on Sunday afternoons to help more people enjoy all of the mainstage shows of the 2024-2025 season. Tickets are $30 per passenger or $100 for all four shows. The shuttle itself is provided for free thanks to The Rep and the Library Foundation. (Plan: Sense of Community 1a, 3a, 3c)
+	This month marks the fourth anniversary of the Tap In Center. Florissant Valley hosted the first Tap In Center event on September 22, 2020. This unique collaboration between the Library, defense attorneys, prosecutors, the courts and social workers to address bench warrants was the first of its kind. The Tap In Center continues to operate every Tuesday evening to provide a safe space for individuals to “tap in” to warrant resolution assistance and connections to social services without fear of arrest. To date, the Tap In Center has assisted 1,485 participants and helped to recall 1,400 bench warrants. The program began with a focus on cases filed in St. Louis County Circuit Court. The City of St. Louis Municipal Court was the first municipal court to partner with the Tap In Center in January 2023. This year, the program has greatly expanded the scope of services by partnering with Florissant Municipal Court (April 2024), University City Municipal Court (May 2024), and Maplewood Municipal Court (September 2024). The Tap In Center has helped recall over 75 warrants in Florissant and University City since these partnerships began. (Plan: Sense of Community 1a, 1b, 3a, 3b, 3c, Increase Access 1c)
+	The Library’s annual online adult high school graduation ceremony will be held on Saturday, September 28th, at 6:00 pm at the Clark Family Branch. Ms. Sorth said we are thrilled to celebrate our graduates and enjoy Dr. Lynn Beckwith's keynote address. (Plan: Promote Literacy 3a, 3d, Sense of Community 3c)
+	Ms. Sorth reported the Small Business Launchpad for justice-involved individuals concluded on Wednesday, August 28th. The pitch competition was the final part of the program where seven participants pitched their business to judges and an audience. Amina Abdul-Malik, who is the Diverse Business Navigator at Washington University in St. Louis, Julie Kinsella who is the Business Development Associate at Arch Grants, and herself judged the competition to give away $10,000 of donated money from the Clark Family. All of the founders are listed below, as well as awards given. The St. Louis County Port Authority Community Investment Fund awarded a grant to this program that enabled the Library to give each participant a Dell Laptop as a graduation gift.
+		1st prize - $5,000 to Grant Meyer, Founder of Meyer Wash
+		2nd prize - $3,000 to Zac Crabtree, Founder of Comprehensive Legal Project Solutions
+		Audience Choice - $2,000 to Anthony Taylor, Co-Founder of Hind Tax Service
+Other participants included: KeAunia Brooks, Founder of Baked by K; Lamar Sears, Founder of Imprints of Endeavor; Mike Brooks, Founder of Behind the Mike; Ofrentry Clark, Founder of P.A.C.O. Critical Care Courier; and Shon Sadler, Founder of Sadler Welding. (Plan: Promote Literacy 2d, 3a, 3b, 3c, Sense of Community 1a, 1b, 3b, 3a, 3b)
+	The inaugural STL Summer Adventure ran June 1 - August 10, with St. Louis County Library joining forces with St. Louis Public Library to offer a regional summer challenge. Other partners included Forest Park Forever, The Magic House, Missouri Botanical Garden, Missouri History Museum, Gateway Arch and the Saint Louis Science Center. These organizations were part of the activities as well as helping us promote the program. 31,849 kids and teens, ages 0-17, registered at St. Louis County Library, which is a 7% increase from last year. 18,993 (60%) completed the challenge. If the numbers from St. Louis Public Library are added, over 39,000 kids and teens participated in STL Summer Adventure in the St. Louis area. (Plan: Promote Literacy 1a, 1b, 2a, 3d, Sense of Community 1b, 2a, 2b, 3a)
+	Ms. Sorth reported the LEGO Event took place at the Post Event Center on Friday, August 16 in the evening. Over 500 enthusiastic kids, teens and adults showed up to partake in various activities, see the displays by Gateway LEGO Users Group and create their very own minifigures. (Plan: Promote Literacy 3d, Increase Access 1c)
+	The Little Readers Festival will be taking place on Saturday, September 28 from 10:00-1:00 p.m. at the Florissant Valley Branch and Bangert Park. This is a free, fun festival for families with children ages 0-5 featuring activities, shaved ice, free books, performances by Ms. Libby, story time with Bruce the Bear and more. (Plan: Promote Literacy 1a, 1b, 2a, 3d, Sense of Community 2c, 2d, 3a, 3c, Increase Access 1c)
+	The Library will be celebrating teens throughout the month of October with programs and events. This year, teens will be challenged to read outside their usual genre with the Teentober Bingo Challenge. To complete the challenge they must complete three activities in a row, column or diagonal, for a chance to win a $50 Target gift card. (Plan: Promote Literacy 1a, 1b, 3d, Sense of Community 3b)
+	Ms. Sorth announced St. Louis County Library and St. Louis Public Library are hosting a free conference for entrepreneurs and small business owners. The Small Business & Nonprofit Conference will take place from October 1-4, 2024. The conference offers four days of in-person and virtual networking and education on a variety of business-critical skills and strategies. Sessions will take place at the Clark Family Branch (1640 S. Lindbergh Blvd.), Central Library (1301 Olive St.) and virtually via Zoom. St. Louis native Akeem Shannon, CEO of FlipStik, will deliver the conference keynote address on Tuesday, October 1 at 6:00 p.m. at the Clark Family Branch. (Plan: Promote Literacy 2d, 3a, 3c, Sense of Community 3a)
+	The National Museum of African American History & Culture is visiting St. Louis in September with their Community Curation event.  The museum will be digitizing items from African Americans to add to their museum collection, but also to preserve these memories for the families and individuals submitting them. The H&G Memory Lab has been listed as an official partner site to assist with scanning items. (Plan: Promote Literacy 3b, 3d, Sense of Community 1a, 1b, 3a, 3c)
+	Throughout the month of August, the Bookmobile and Mobile Services Department hosted twenty virtual reality programs at several senior sites. These programs were made possible by a Library Services and Technology Act (LSTA) grant.  During these programs, the employees took seniors on many exciting expeditions including going to Antarctica, underwater, famous natural landmarks, and even to outer space. The patrons had a full 360° view of a still image which they controlled while remaining stationary. The total patrons served were 200. (Plan: Promote Literacy 3b, 3d, Sense of Community 1a)
+	Ms. Sorth mentioned the Hold Pickup emails for patrons have been enhanced. The new format features a more modern design, book jacket images, and a showcase of featured titles that patrons may enjoy.  By the end of the month, hold cancellation notices and the due date reminder will also feature this new update. (Plan: Promote Literacy 1a, 3b)
+	Seventeen School Districts are participating in the ConnectEd program for the 2024 - 2025 school year. The ConnectEd program connects students in St Louis County with a virtual library card. The virtual card can be used to access eMedia and online databases. System Administration has processed 54,611 student accounts, with more expected throughout September. (Plan: Promote Literacy 1a, 3b, Sense of Community 3a)
+Service Stats 2021 to Current:
+2024 only:
+	Ms. Sorth mentioned the St. Louis County Library has been in the local media in print, radio and television.  Those articles are attached. (Plan: Increase Access 2)
+	Pictures were shown from various events and programs that have taken place over the last month:  Produce distribution at Lewis & Clark, author Jasmin Graham at Clark Family, author Thomas Fuller at Clark Family, After Hours Family Campout at Eureka Hills, author Jodi Picoult at the Touhill, author Max Greenfield at Clark Family, Family Tower Building at Meramec Valley, author event Middle Grade Reads at Clark Family, Novel Creations at Clark Family, Welcome to Watercolor at Sachs, and author Marty Markary at Clark Family. (Plan: Promote Literacy 1b, 1c, 3d; Sense of Community 1b, 3a, 3b, 3c)
+Impact Stories
+	From the Memory Lab at Clark Family: “I took 8mm videos of my children when they were 1 and 3. We viewed them right after we took them and haven’t seen these videos since that period. I just saw videos of my children for the first time in over 50 years. This service is amazing and I just want to thank the people who put this together so much. This is so amazing to see!” (Plan: Promote Literacy 3b)
+	Regarding the work by a social worker: “The services you provided were exactly what I needed to identify a senior center for my elderly parents that would offer socialization, transportation and other engaging activities. The Ferguson Aging Ahead senior center provided that and much more!!  My parents are thrilled and have nothing but great things to say about the courteousness of the center’s staff, the transportation company and the hot meals, and all at no charge. I also want to thank you again for how quickly you provided resources and the subsequent follow up to make sure it met my initial request.  It was such a positive experience that I have referred others to contact you to assist for similar needs.” (Plan: Sense of Community 1a, 1b, 3a, 3c)
+	Ms. Sorth shared the Bookmobile employees visited Tillman Elementary in Spanish Lake and the kids were so happy to see them again. (Plan: Promote Literacy 1a, 2a, Sense of Community 2a)
+	A letter from a happy patron who greatly appreciates the work of the History and Genealogy Department was shared by Ms. Sorth.  (Plan: Promote Literacy 2d, 3d)
+	“Thank you so much, my son has admired these Airpods so much all summer, and it truly was the only thing that motivated him to complete the summer reading program! We're very much a family of readers, but he's dyslexic so reading himself takes a lot more time and effort. He loves when I read to him, but that takes a while, and of course I'm not always available and the lure of gaming is strong! He's learned quite a bit through the different badges in this year's program and it pushed him to agree to get out more to explore more of the local resources available in our community. I picked them up this morning, and he has been so excited testing out all of the features as soon as he got home from school!  From: A loyal library patron and grateful parent.” (Plan: Promote Literacy 1a, 2a)
+Library Administrative Updates
+	Ms. Sorth shared the Employee Engagement Committee (EEC) is finalizing plans for Employee Engagement Week and Day. Engagement Week (October 7-12) will include daily activities and communications to all employees (Plan: Sense of Community 1c, 1d).  The entire Library District will be closed to the public on Employee Engagement Day, October 14th.  The day will include three breakout sessions, guest speakers and other activities for employees to learn and connect with one another. (Plan: Sense of Community 1c, 1d, Increase Access 1c)
+	Communications is finalizing a transit ad campaign on Metro buses and windscreens for the Storytelling Festival. The ePopUp campaign will continue to be promoted through the transit campaign for the rest of the year. (Plan: Increase Access 2a, 2b, 2c)
+	Ms. Sorth mentioned a press release celebrating the 10th anniversary of the Library Telescope Lending program will be issued this month. (Plan: Increase Access 2c)
+	The Library has scheduled flu shot clinics for employees.  These will take place next week at the four regional branches and the Beck. (Plan: Sense of Community 1c)
+	Ms. Sorth said both her and Eric Button met with the St. Louis County Board of Elections to discuss plans for Election Day in November. They shared a number of observations and challenges that the branches have faced on past election days.  The Board of Elections were very receptive of their suggestions.  They also told them that the community feels comfortable voting at the Library and expressed their deep gratitude and appreciation of our employees and the continued use of our facilities. (Plan: Sense of Community 3a, Increase Access 1c)
+	Ms. Sorth expressed how honored she was to receive the Visionary Award from St. Louis Magazine.  She said the amazing employees and the support of the Library Board make this work a complete joy. (Plan: Increase Access 2c)
+	The first members of the Library’s Diversity, Equity, Inclusion and Belonging Council have been selected, with Jennifer Gibson and Tarza Tawfiq serving as the Co-Chairs. The members are:
+		Marie Burns, Library Associate at Sachs
+		Amy Carera, Library Clerk at GV
+		Miriam Frenchie, Library Associate at Thornhill
+		Stephen Jones, Delivery Driver
+		Asha Norman, Part-Time Reference Librarian
+		Cristina Young, Library Clerk at Meramec Valley (Plan: Sense of Community 1a, 1b, 1c, 1d, 2d)
+Library Construction, Facility, IT and Transportation Update
+	IT and Charter Spectrum have completed the upgrade of the Wi-Fi Internet services at all 20 branches.  The Board approved these Internet bandwidth increases at the February Board meeting.  Building Systems will soon complete the installation of new Wi-Fi access points eliminating those units that are starting to reach the manufacturer’s end-of-life status.  These efforts will result in improved Wi-Fi services for patrons and employees. (Plan: Promote Literacy 3b)
+	The Transportation Department is working on rerouting the four delivery routes that serve to move material around the system and to and from St. Louis Public Library.  The rerouting will greatly improve efficiencies in delivery and sorting. (Plan: Promote Literacy 1a)
+	On July 20th, Grant’s View staff was alerted that someone had driven into the side of the building. The car went through the brick wall and created an opening to the Branch's mechanical room.  Repairs are underway. The construction crew has removed the damaged wall and ducts, and the new wall is currently being constructed.  Ms. Sorth said they will follow up with the brick installation this week.  All of the repairs are expected to be finished by mid-October. (Plan: Increase Access 1c)
+	The contractors are still working to finalize the final stages of the Clark Family construction.  There are still a few door issues, which they are working to resolve; the new pavers for the front entry should be arriving soon; and the last of the signage is also being installed throughout the building. (Plan: Increase Access 1c, 2c)
+	Ms. Sorth mentioned the contract with Lamar Johnson Collaborative and IMEG for small projects and how we will begin looking into updates for the HVAC system in the Lewis and Clark Computer labs.  Ms. Sorth said they are also looking into new carpet, paint, and furniture updates for several branches throughout the system. (Plan: Increase Access 1a, 1c)
+	Ms. Sorth mentioned they will begin meeting with Lamar Johnson Collaborative at the end of September to begin the design process for the new Sachs Branch.  The design of the new building will most likely run into next summer. (Plan: Increase Access 1c)
+Library Foundation and Grants
+	Ms. Sorth announced the Library Foundation’s Gala will take place on October 5, 2024 at the Clark Family Branch.  In order to prepare for the event, the Clark Family Branch will close that Saturday at noon.  (Plan: Increase Access 2c)
+	The Library and the Donald Danforth Plant Science Center were awarded a $149,636 grant from the National Science Foundation to support STEM learning for adults during the 2025 Summer Reading Club. The Library will receive $63,102.
+		“While there are free reading programs in St. Louis that encourage community members to read and promote interest in books, there is no equivalent for science. The STREAM game will allow library patrons to “choose their own adventure” and complete activities that introduce them to STEM at their own pace. Game activities will include online science scavenger hunts, place-based scavenger hunts across St. Louis, online community science contributions, scientific reading, and hands-on exploration and engagement with St. Louis science and scientists.” (Plan: Promote Literacy 2d, 3d, Sense of Community 1a, 3a)
+	Ms. Sorth mentioned the Library is working with regional leaders and non-profit organizations to submit a regional grant application for the National Telecommunications and Information Administration (NTIA) Digital Equity Competitive Grant, which is a $5 million - $12 million four-year grant opportunity. The ConnectSTL network of partners is supporting the coordination of a bi-state MSA-wide application.  Jennifer Gibson is writing a significant portion of the grant that relates to libraries. (Plan: Promote Literacy 3b, Sense of Community 3a)
+	The Foundation received the following grant:
+		$8,500 from Missouri Humanities to support educational workshops at the St. Louis Storytelling Festival this November. (Plan: Promote Literacy 3d, Sense of Community 1a, 1b, 3a)
+Author Events (Plan: Promote Literacy 1c)
+Ms. Sorth announced September was a huge month for the Author Series. The Library will have hosted four sold out events with novelists Jodi Picoult, TJ Klune, Nicholas Sparks, and children’s book author and actor Max Greenfield. Total attendance for the September author events is estimated to be 5,300 people. Year to date total attendance is 28,000 for author events.  The Library had 18,288 in attendance for all of 2023.
+Ms. Sorth mentioned Carrie Robb and herself traveled to New York to meet with publishers to discuss upcoming author tours and provide information about the new event space and our success with author visits.  She said they met with thirty different people.  At each meeting, Ms. Sorth said they heard praise for the Library’s author event series, appreciation for the attention to detail and flawless author events, and delight and excitement about the new branch and event space. She also mentioned they heard over and over again in each meeting that St. Louis County Library was the biggest stop on an author’s tour.  Ms. Sorth said they pitched hosting many major authors on their book tour as well as some celebrity events and are very excited to see who comes to visit St. Louis County Library in 2025.
+Author Events for September and October 2024 (Plan: Promote Literacy 1c)
+Ms. Sorth announced the addition of a special event with the St. Louis Symphony Orchestra and conductor Leonard Slatkin to the October schedule. The event format will be an onstage conversation between Slatkin and Julie Schuster, CEO & General Manager at Classic 107.3, celebrating Slatkin’s 80th birthday and reflecting on his extraordinary 60-year career.
+	Martin Walker, author of “A Grave in the Woods: A Bruno, Chief of Police Mystery,” Thursday, September 27, 2024, 7:00 p.m.-9:00 p.m. - Clark Family Branch.
+	Ticketed Event: Nicholas Sparks, author of “Counting Miracles,” Friday, September 27, 2024, 7:00 p.m.-9:00 p.m. - Clark Family Branch.
+	Louis Bayard, author “The Wildes: A Novel in Five Acts,” Wednesday, October 2, 7:00 p.m. - Clark Family Branch.
+	Charan Ranganath, author of “Why We Remember: Unlocking Memory’s Power to Hold On To What Matters,” Thursday, October 3, 7:00 p.m. - Clark Family Branch.
+	Dan Jones, author of “Henry V: The Astonishing Triumph of England’s Greatest Warrior King,” Monday, October 7, 7:00 p.m. - Clark Family Branch.
+	Gillian McAllister, author of “Just Another Missing Person,” Tuesday, October 8, 7:00 p.m. - Clark Family Branch.
+	Tami Hoag, author of “Bad Liar,” Friday, October 11, 7:00 p.m. - Clark Family Branch.
+	Riley Keough, author of “From Here to the Great Unknown: A Memoir,” Sunday, October 13, 4:00 p.m. - Clark Family Branch - SOLD OUT.
+	Sacha Mardou, author of “Past Tense: Facing Family Secrets and Finding Myself in Therapy,” Wednesday, October 16, 7:00 p.m. - Clark Family Branch.
+	Lauren Tarshis, author of “I Survived” Middle Grade Adventure Series, Friday, October 18, 6:30 p.m. - Clark Family Branch.
+	Alex Evanovich, author of “Keeper Chance and the Conundrum of Chaos,” Saturday, October 19, 2:00 p.m. - Clark Family Branch.
+	Chad Beguelin, author of “Showmance,” Monday, October 21, 7:00 p.m. - Clark Family Branch.
+	Dr. Jessi Gold, author of “How Do You Feel?: One Doctor’s Search for Humanity in Healthcare,” Tuesday, October 22, 7:00 p.m. - Clark Family Branch.
+	Tom Clavin, author of “Bandit Heaven: The Hole-in-the-Wall Gangs and the Final Chapter of the Wild West,” Monday, October 28, 7:00 p.m. - Clark Family Branch.
+Mr. Wang asked if there were any questions. Ms. Patterson asked what was Open Up Resources. Crystal Harris, Manager of Bookmobile and Mobile Services, spoke on the organization’s service to under-served communities throughout the country. Ms. Patterson asked if the Science of Reading is a different approach from the teaching methods of the school districts. Ms. Sorth let them know that the schools have adopted this new method in teaching children how to read. Ms. Patterson also asked what the Digital Equity grant that we are applying would look like for the library. Jennifer Gibson, Asst. Director of Strategic Initiatives, spoke on the on the grant and the need it would fulfill in our region. Mr. Wang congratulated Ms. Sorth on her Visionary Award for St. Louis Magazine.
+OLD BUSINESS
+None
+NEW BUSINESS
+2024 TAX RATES
+Laura Taylor, CFO, presented the following.
+The Library Administration has reviewed the 2024 post Board of Equalization (BOE) property value assessments.  Property values have increased over prior year in total by .3%. A breakdown of the assessments by category is as follows:
+The Board is reminded that the 2024 tax revenue, along with the surtax on commercial property, will provide approximately 97% of the cash income needed to operate in 2025. According to State Statute, the Board must set the 2024 tax rates by October 1, 2024.  Proposed tax rates and prior year tax rates are as follows:
+The above proposed tax rates are set at the ceiling and would provide approximately $63,713,000 in tax revenue for 2025.
+The Library Administration recommended Board approval of the attached Resolution which states the above proposed tax rates listed for all subclasses of real estate and personal property are assessed as the 2024 tax rates. If, after validation by the Missouri State Auditor, the tax rate ceiling allowed for any or all subclasses is less than or greater than the approved rate(s) the Director is hereby authorized to set the final rate (s) for the Library as validated by the State of Missouri Auditor. The revenue generated by these rates will allow the District to continue providing excellent service to our patrons and will provide for the repayment of debt from our issuance of Certificates of Participation in April, 2013 and September, 2016. The Library Board unanimously approved the motion (Beckwith/Patterson).
+2024 BUDGET REVISION
+Laura Taylor, CFO, reported the following.
+The Budget Committee members are as follows:
+Kristen Sorth               Director & CEO
+Eric Button                 Deputy Director
+Laura Taylor                Chief Financial Officer
+Gib Van Cleve                        Assistant Director, ITS
+Jennifer Gibson           Assistant Director, Strategic Initiatives
+Kelli Reeves                Manager, Facilities
+The committee has reviewed the 2024 budget revision. Account changes are explained within the attached Budget Revision narrative and summary Statement of Revenues and Expenditures.
+Mr. Wang asked Ms. Taylor to walk the Board through the Pension fund valuation contribution. Ms. Taylor explained the board approved the contribution amount listed in the revised budget at the April 2024 Library Board Meeting. The Budget Revision simply reflects the approved contribution amount. Mr. Wang asked if we have ever went against Millimen’s recommendation. Ms. Taylor responded. Ms. Patterson commented that the amount in question is a very small amount and Ms. Taylor confirmed.
+The Budget Committee recommended approval of the 2024 revised budget. The Library Board approved the motion (Sanditz/Barry). The motion passed 4-1 (Voting yes: Ted Sanditz, Joan Barry, Johnny Wang, Deborah Patterson; Abstaining: Dr. Beckwith)
+LIBRARY BOARD MEETING DATES - 2025 REVISION
+Kristen Sorth, Director and CEO, presented the following.
+At the August Library Board Meeting, the Board approved the Library Board meeting dates for 2025. Library Administration is requesting a change to the Board meeting dates for May, 2025 and September, 2025. All other dates remain the same.
+Library Board                                     Pension Board
+January 27                                             January 27
+February 24                                           April 21
+March– No meeting                              July 21
+April 21                                                 October 20
+*May 12
+June 16
+July 21
+August 18
+**September 29
+October 20
+November 17
+December 15
+Unless otherwise stated, all meetings will be held at Clark Family Branch and will start at 3:30
+p.m. The Tax Hearing is generally held in August each year. The Pension Board is scheduled to meet at 2:45 p.m. unless otherwise noted.
+*This is a change from the third to the second week due to scheduling conflict with the Director and CEO.
+**This is a change from the third to the fifth week due to the St. Louis County Board of Equalization Tax Rate meeting.
+The Library Administration recommended approval of the 2025 Board meeting dates and locations as presented. The Library Board unanimously approved the motion (Patterson/Sanditz).
+LIBRARY CLOSURE - EMPLOYEE ENGAGEMENT DAY
+Kristen Sorth, Director and CEO, presented the following.
+The Employee Engagement Committee’s (EEC) goal is to support a work environment where every employee feels valued, empowered, and inspired. The EEC encourages employees’ involvement and presents activities that boost the Library’s workplace culture, as well as the emotional and social well-being of employees. The EEC also schedules, plans and orchestrates Employee Engagement Day.
+For the first time since the pandemic, the Library will hold an Employee Engagement Day (formerly known as In-Service Day) for employees. As mentioned in previous Library Board Meetings, the Library District will close to the public for this day of learning and fellowship.
+The all-day event will take place on October 14th at the Clark Family Branch. Employee Engagement Day will include guest speakers, breakout sessions, presentations, tours and activities for employees. All full time employees are required to attend and attendance is optional for part time employees. Prior to the pandemic, the Library District closed all locations for In-Service Day and held the event at a hotel that could accommodate the large number of Library employees who attended. We are thrilled to be able to host the event at the Clark Family Branch.  Many employees have not seen the new branch.
+Mr. Wang asked the board if they had questions. Ms. Patterson asked how we plan to communicate the closure to the public. Ms. Sorth responded.
+Library Administration recommended the closure of all Library locations on October 14, 2024 for Employee Engagement Day. The Library Board unanimously approved the motion (Beckwith/Sanditz).
+PARKING LOT SEAL AND STRIPE
+Kelli Reeves, Manager of Facilities, presented the following.
+On September 6, 2024, Library Administration issued an Invitation for Bid (IFB) for parking lot sealcoating and/or re-striping at four Library locations (Eureka Hills, Grant’s View, Prairie Commons, and Lynn Beckwith Jr. Administrative Building). The bid was posted on the Library’s website and directly emailed to seven local companies.
+Responses were due September 17, 2024. Three companies replied. One of the three companies responded after the deadline and was disqualified. The approved 2024 budget included $70,000 for seal & stripe services at the four Library locations.
+			Company
+			Base Bid Total
+			Asphalt Services
+			$64,202.00
+			Byrne & Jones Construction
+			$96,390.00
+The responses were reviewed by a selection team consisting of Kelli Reeves, Matt Manwarring, and Andrew Schulze. Asphalt Services provided the lowest and best bid response. They have previously performed this work for the Library and provided quality results.
+Mr. Wang asked the board for questions. Mr. Sanditz inquired how we notify companies when we issue an IFB since it seems few companies submit responses. Ms. Sorth responded.
+Library Administration recommended that the Library Board select Asphalt Services to provide Seal and Stripe and re-striping services to the Library District at four locations for the amount of $64,202 and that the Board authorize the Director and CEO to enter into and execute a contract to that effect. The Library Board unanimously approved the motion (Beckwith/Patterson).
+SNOW REMOVAL AND LOT TREATMENT
+Kelli Reeves, Manager of Facilities, presented the following.
+On September 6, 2024, Library Administration issued a Request for Proposal (RFP) for Snow Removal and Lot Treatment Service at all Library locations. The RFP was directly emailed to sixteen companies including the only W/MBE firm providing the service and posted on the SLCL website. Responses were due September 18, 2024. One firm, BSR Services Inc., responded.
+BSR is the current contract holder for this work. Building Systems has been satisfied with their communication, responsiveness, and quality of work. As part of their response to the RFP, BSR included a rate sheet that includes pricing for manpower, equipment, and materials which is attached.
+Snow removal services are performed as-needed and payments are made only when services are completed. This work is included in the approved 2024 Library budget for $175,000. Actual expenditures year-to-date total $144,472, with $30,528 remaining for the calendar year. The 2025 Library Budget will include an estimate for snow removal services.
+Library Administration recommended that the Library Board select BSR Services Inc. to provide the service of Snow Removal and Lot Treatment to the Library District, and that it authorize the Director to enter into and execute a 3-year contract to that effect. The Library Board unanimously approved the motion (Patterson/Barry).
+DATA ANALYTICS AND VISUALIZATION PLATFORM
+Eric Button, Deputy Director, presented the following.
+Library Administration is seeking approval for the selection of a provider for a data analytics and visualization platform.  As data analysis becomes increasingly important in guiding and shaping library services, St. Louis County Library requires a tool to help collect, organize, and analyze the data it tracks.  Many sources of data are currently collected, including patron registrations, circulation, computer usage, visitor counts, programming attendance, database usage, etc.  Unfortunately, many of the data sources are tracked separately and require manual work to collect them into one place.  A data analytics and visualization platform streamlines this process and allows for complex reporting and analysis to help guide Library strategies and shape services and programs.  The 2024 Library Budget includes funds to procure a suitable platform.
+The Library issued a Request for Proposals (RFP) for a data analytics and visualization platform on June 27, 2024.  The RFP was posted on the Library’s website and a notice was sent directly to a number of potential vendors.  Nine responses to the RFP were received by the July 25, 2024 deadline.
+A review team composed of Eric Button, Jennifer Gibson, Becky Maue, and Stephanie Nordmann reviewed the proposals.  The top three proposals, OrangeBoy Savannah, Innovative/Library IQ, and Oxcyon were asked to provide a demo and answer questions presented by the review team.  At the completion of these virtual meetings, the team unanimously selected OrangeBoy Savannah as the lowest and best proposal.  OrangeBoy Savannah is used by dozens of large libraries across the U.S., including the following Missouri libraries: St. Louis Public Library, St. Charles City-County Library, and Mid-Continent Public Library.  These three libraries provided very positive references when the review team contacted them as references.  OrangeBoy Savannah uses library-provided data overlaid with market and census data to provide a rich and detailed look at who is using the Library and how they are using it.
+Mr. Wang inquired where OrangeBoy was located and how long they have been in business. Ms. Sorth said they are located in Columbus, Ohio and have been in business over 20 years. Dr. Beckwith requested the pricing of the top three companies demoed be included in the minutes.
+			Innovative / LibraryIQ
+			Orange Boy Savannah
+			Oxcyon
+			Annual Cost
+			$ 49,000
+			$ 74,750
+			$ 49,000
+			Initial Setup Cost
+			$ 7,500
+			$ -
+			$ 4,950
+			Optional Demographics Subscription
+			$ 7,400
+			$ -
+			Optional Historical Data Load
+			$ 10,000
+			Annual hosting fee if not included
+			$ 46,200
+			Total Year 1
+			$ 63,900
+			$ 84,750
+			$ 100,150
+Library Administration recommended that the Board authorize the Library Director and CEO to enter into and execute a contract with OrangeBoy to provide a data analytics and visualization platform at a cost of $84,750. The Library Board unanimously approved the motion (Beckwith/Patterson).
+ADJOURN FOR EXECUTIVE SESSION
+Dr. Beckwith made a motion to adjourn open meeting and to convene Executive Session to discuss legal and personnel matters (Section 610.021)(1), (3) and (13)) A seconded was made by Mr. Sanditz. All approved with voice vote: Lynn Beckwith, Ted Sanditz, Joan Barry, Johnny Wang, Deborah Patterson.
+Meeting adjourned at 4:38 p.m.
+Respectfully submitted by,
+__________________________________                  _____________
+Joan Barry                                                                   Date
+Secretary

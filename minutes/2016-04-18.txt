@@ -1,0 +1,107 @@
+{
+  "name": "Regular Meeting",
+  "description": "Library Board",
+  "unique": "A8YLH24FB42F",
+  "date": "2016-04-18T00:00:00Z"
+}
+
+---
+
+ST. LOUIS COUNTY LIBRARY DISTRICT
+		MEETING OF THE BOARD
+		HEADQUARTERS
+		1640 SOUTH LINDBERGH BLVD.
+		MONDAY, APRIL 18, 2016
+		The monthly meeting of the Board of the St. Louis County Library District was held at the Headquarters Branch, 1640 South Lindbergh Blvd., St. Louis, MO 63131 on Monday, April 18, 2016 at 3:30 p.m. The agenda had been posted in all branches of the Library District at least 24 hours before the meeting.
+		ATTENDANCE:
+		Library Board Members:
+		Dr. Lynn Beckwith, President
+		Edith Cunnane, Vice President, via telephone
+		Elena Kenyon, Treasurer
+		Dr. Chingling Tai, Secretary
+		Michael Mulligan, Member
+		ADMINISTRATORS AND GUESTS ATTENDING:
+		Kristen Sorth, Library Director; Barbara Brain, Assistant Director of Adult and Support Services; Barbara Turkington, Assistant Director of Advancement; Gib Van Cleve, Assistant Director, ITS; Eric Button, Assistant Director, Branch Services; Kort Cole, SM Wilson, & Co.; Tom Curran, St. Louis County; Melissa Vigni, Attorney, Lashly Baer.
+		OTHERS ATTENDING:
+		Jennifer Alexander, Sarah Brown, Rachel Nowell, Susie Bushnell, Scott Holl, Jennifer McBride, Steve Hunter, Laura Kasak, Barb Reale, Lauren Benson, Cindy Schultz, Matt Lakin, Kathy Muller, Amy Hanaway, Sarah Wood, Tiffany Davis, Alaina Culbertson, Rebecca Clarke, Crystal Harris, Anna Gonzalez, Paul Bayless, Edith Isele, Stacy Berger, Aaron Eller, Julie Cruise, Catherine Hill, Stacey Lewis, Nicole Clawson, Deanna Davis, Michael Cohen, Conrad Rader, Connie Dee, Michelle Sawicki, Keir Haug, Gina Sheridan, Emily Althoff, Marie Conlin, Stephanie Nordmann, Cindy A. Miller, Donna Spaulding, Julia Mangner, Maureen Willmann, Laura Kasak and  Sandy Williams.
+		MINUTES
+		The Library Board approved minutes from the March 21, 2016 meeting (Cunnane/Kenyon).
+		PUBLIC COMMENTS
+		There were no public comments.
+		TREASURER'S REPORT
+		Kris Mooney reported that the Library District made the annual contribution to the Employee Pension Plan. The contributed amount was $2,500,000 and was approved by the Board at the March 2016 meeting.
+		In March, The Library District purchased the annual supply of library cards. Intaglio Plus was paid $18,752 for 130,000 cards.
+		In March, a total of $10,288 was paid to BSR Services Inc for snow and ice removal services. $2,215 was paid for snow that occurred on January 9, 2016 and $8,073 was paid for services on February 24, 2016.
+		The Library District transferred funds to BOKF, the trustee of the Library’s Certificate of Participation funds to pay the annual principal payment of $3,715,000 and the April interest payment of $913,833. These payments were made by our trustee on April 1, 2016 and are in included in the 2016 budget.
+		Capital Projects Fund Balance Sheet
+		Total Construction in Progress for March 2016 was $1,410,992. The expenses included payments for:
+		o   Lewis and Clark construction (payable to many sub-contractors) - $55,272
+		o   Grant’s View construction (payable to many sub-contractors) - $536,746
+		o   Branch renovation construction expenses (Rock Road, Jamestown Bluffs, Indian
+		         Trails, Weber Road) - $393,150
+		o   Furniture and Fixtures for all Phase I buildings - $89,404
+		o   Technology for all Phase I buildings - $10,955
+		o   Design Costs for Phase II buildings (Daniel Boone, Bridgeton Trails, Florissant
+		          Valley) - $61,931
+		o   The remaining dollars were largely spent for the services of the Facilities Master
+		          Plan Administrator, storage expenses, architect fees, and environmental
+		          professional services.
+		The Library Board approved the Treasurer's report subject to audit (Mulligan/Tai).
+		DIRECTOR'S REPORT
+		Kristen Sorth gave the following report.
+		Library Update
+		·         Ms. Sorth shared the April dashboard report with the Board. She stated that the report contains a variety of statistical information for the Library including circulation and visits.  The report also includes statistics about the Library’s Winter Reading Club and number of visits and circulation trends for the renovated branches which are steadily increasing.  System-wide visits are up 2% from this time last year and circulation is down just 3% even though five branches are closed for construction.  The report also includes information about the most popular items in the collection.
+		·         Several History & Genealogy staff members presented at the recent St. Louis Genealogical Society conference. The Society contracted with a company to record presentations and sell the audio on CD.  The Library will receive a small royalty if CDs of St. Louis County Library presentations are sold. (Plan: Strengthen Sense of Community 1.2)
+		·         Ms. Sorth said that Youth Services staff will present a three-part series at Library Headquarters for teens and adults that wish to learn more about the college application process. The series will address questions about selecting the right school, financing and more. (Plan: Strengthen Sense of Community 2.3)
+		·         The Library will be making a change in the checkout period for DVD sets containing 4 and more discs. Those multi-disc DVDs will be available for 14-day checkout but will not be eligible for the grace period. Barbara Brain is working on new signage and also revising the information on the Borrowing Materials section of the web page. In addition, the Library is now loaning DVDs via Interlibrary Loan.  Libraries were becoming reluctant to loan to SLCL because it had been our practice not to loan these materials to them. In order to be eligible for ILL, all materials must be at least 1 year old and have no holds. (Plan: Strengthen Sense of Community 1.1)
+		·         All Avendco vending machines have been removed from the new and renovated branches and nearly all Griesedieck machines have been installed.  Three locations have Starbucks coffee machines.  Two others are still waiting for their coffee machines but they should be installed by this week.  The public vending (main floor) at HQ will also switch over from Dynamic vending to Griesedieck around May 13.
+		·         Ms. Sorth said that the Reference Manager, Michelle Sawicki and Government Documents librarian Christel Maassen attended the St. Louis Business Expo in St. Charles on April 12. The Library has had a booth at the Expo for the past few years. Both Michelle and Christel spoke to over 100 people about our resources for small businesses and a number of people have requested Book a Librarian sessions to learn more about specific databases. (Plan: Strengthen Sense of Community 1.2)
+		·         In 2015, the Library partnered with Washington University on a Science in St. Louis series.  The series has been very popular with over 200 attending the first four sessions.  Two more sessions are scheduled for this month and May.  The PhD student who is working with Stacey Lewis, the Library’s Manager of Adult Programming, on the series recently received a Gephardt grant for ten more Science in St. Louis seminars that will be offered at the Library from July 2016 – May 2017 at various branches. (Plan: Strengthen Sense of Community 2.3)
+		·         The Library celebrated Teen Tech Month throughout March with programs for teens and tweens that reflected the theme "Create @ Your Library." Among this year's programs were opportunities to work with small robots, create stop motion videos, play video games, make crafts and a chance to learn basic coding and other tech skills.  (Plan: Increase Literacy 3.1)
+		·         Ms. Sorth said the Library was invited by ALA to submit information about our telescope lending program to the ALA website called Programming Librarian.  Programming Librarian is viewed by other librarians around the country for program and service ideas. (Plan: Strengthen Sense of Community 1.2)
+		·         Both the Lewis & Clark Branch and the Grant’s View Branch are next to greenways.  Two greenway walk and talk events are scheduled for June at these branches.  Attendees will explore and enjoy the outdoors.  Great Rivers Greenway will discuss the greenways of the St. Louis region that connect us with rivers, parks and communities and this will be followed by a one hour walk on a neighboring greenway. (Plan: Create Gathering Spaces 2.3)
+		·         There were mentions of the St. Louis County Library in the local media in print, radio and television. Ms. Sorth shared those articles with the Board. (Plan: Strengthen Sense of Community 1.2)
+		·         Ms. Sorth also showed the Library Board photographs from several programs and events including: Warm Up America at Bridgeton Trails, STArt: Rocket Launch at Daniel Boone, Diane Rehm at HQ, Expedition Denali at Lewis and Clark and Peter Brown at HQ.  (Plan: Increase Literacy 1 and Sense of Community 2.3)
+		Library Employee Update
+		·         Ms. Sorth said she has previously reported that the St. Louis County Library has adopted a highway. Barbara Brain and the Library’s Green Team held their second trash pickup day along the Library’s stretch of Lindbergh.
+		·         Ms. Sorth attended the Public Library Association Meeting in Denver along with several other Library managers and assistant managers.  There were many interesting sessions and those who attended will be discussing ideas from the conference.
+		Library Facility Update
+		·         Library staff is working with the architects from Christner to develop signage for the teen spaces at Weber Road, Jamestown Bluffs, and Lewis & Clark.  We are hopeful that this signage will clearly communicate the intended use of the spaces.
+		·         All directional signage has been installed at the Phase 1A locations, including Grant’s View and Rock Road.  Overhead and flag signs were added at Grant’s View for the elevator and computers to help patrons locate them more easily.  In addition, all of the finishes at Grant’s View have been installed.
+		·         Ms. Sorth said the Library should be hearing from St. Louis County in the next few weeks about the design plans for Musick Road.
+		·         The Library has had several staff injuries due to the mechanics of the flag poles at the four renovations.  Administration is exploring options to replace the flagpoles as soon as possible.  In the meantime, the Library will not fly the flag at those locations.
+		Library Foundation
+		·         The Foundation’s fundraising reception for the Born to Read program at Bixby's in the Missouri History Museum was very successful.
+		·         The Foundation adopted an investment policy that mirrors the Library’s investment policy.  Funds will be invested accordingly.
+		Author Events
+		·         Curtis Sittenfeld, Author of “Eligible”, Tuesday, April 19, 7:00 p.m. Library Headquarters – Auditorium.
+		·         Jessica Knoll, “Luckiest Girl Alive”, Wednesday, April 20, 7:00 p.m. Library Headquarters – Auditorium.
+		·         Ridley Pearson , “Legacy of Secrets—Kingdom Keepers: The Return Series #2”, Thursday, April 21, 7:00 p.m. Library Headquarters – Auditorium.
+		·         Andy Griffiths, “The 52-Story Treehouse”, Sunday, April 24, 4:00 p.m. Library Headquarters – Auditorium.
+		·         Richard Zacks, “Chasing the Last Laugh: Mark Twain’s Raucous and Redemptive Round-the-World Comedy Tour”, Thursday, April 28, 7:00 p.m. Library Headquarters – Auditorium.
+		·         Shannon Meyer, “Little Black Dress: From Mourning to Night”, Tuesday, May 3, 7:00 p.m. Library Headquarters – Auditorium.
+		·         Dave Barry, “The Worst Night Ever”, A Middle School Misadventure from the funniest writer in America!, Thursday, May 5, 7:00 p.m. Library Headquarters – Auditorium.
+		·         David Baugher, Author of “Secret St. Louis: A Guide to the Weird, Wonderful, and Obscure”, Monday, May 9, 7:00 p.m. Library Headquarters – Auditorium.
+		·         Chris Cleave, “Everyone Brave is Forgiven”, Wednesday, May 11, 7:00 p.m. Library Headquarters – Auditorium.
+		·         Sherman Alexie, “Thunder Boy, Jr.”, Sunday, May 15, 6:00 p.m. Library Headquarters – Main Reading Room.
+		·         Richard Russo, “Everybody’s Fool”, Monday, May 16, 7:00 p.m. Library Headquarters – Auditorium.
+		OLD BUSINESS
+		None
+		NEW BUSINESS
+		CONSTRUCTION UPDATE
+		Steve Hunter reported that five branches are currently being renovated and another five projects are in the design phase. Priming and painting is underway at Sachs which was the first of the Phase 1B branches to close. Mr. Hunter gave details of the features that will be added to these branches such as the new window at Cliff Cave that will overlook the community garden, the portal from the children’s area to a future outdoor space at Prairie Commons and the Cardinal’s graphic that will appear at the entrance to the children’s area at Natural Bridge.  Mr. Hunter showed photographs of the branches currently under construction.
+		RECRUITING EFFORTS
+		Kristen Sorth presented the annual report on the Library’s recruiting efforts. Reports for 2015 and 2016 were shared with the Board and included:
+		1. A report entitled “Summary Comparison Percentage Chart.”
+		2. A report entitled “List of Job Titles by Dept/Branch.
+		3. A one page summary of the above mentioned report.
+		4. A report entitled “Staff Complement by Title Listing Race.”
+		5. A report entitled “Staff Complement by Title Listing Race and Gender.”
+		6. A report entitled “St. Louis County Library – List of New Hires by Location.”
+		Dr. Beckwith requested the latest data on the minority population in St. Louis County and expressed his appreciation for the improvement in minority hiring since he joined the Board in 2007.
+		ADJOURN FOR EXECUTIVE SESSION
+		Edith Cunnane made a motion to adjourn open meeting and to convene Executive Session to discuss real estate (Section 610.021(2)); Michael Mulligan seconded.  All agreed by voice vote.
+		The Library Board adjourned at 4:05 p.m.
+		Respectfully submitted,                                                          Date
+		__________________________________                            _________________________
+		Chingling Tai, Secretary

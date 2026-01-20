@@ -1,0 +1,223 @@
+{
+  "name": "Regular Meeting",
+  "description": "Library Board",
+  "unique": "CATLMT562A65",
+  "date": "2022-06-21T00:00:00Z"
+}
+
+---
+
+ST. LOUIS COUNTY LIBRARY DISTRICT
+MEETING OF THE BOARD
+THORNHILL BRANCH
+MONDAY, JUNE 21, 2022
+The monthly meeting of the Board of the St. Louis County Library District was held at Thornhill Branch, 12863 Willowyck, Dr., St. Louis, MO 63146 on Monday, June 21, 2022 at 3:30 p.m. The agenda had been posted in all branches of the Library District at least 24 hours before the meeting.
+ATTENDANCE:
+Library Board Members:
+Dr. Lynn Beckwith, President
+Ted Sanditz, Treasurer
+Joan Barry, Secretary
+Deborah Patterson
+Dr. Beckwith said Johnny Wang had an excused absence.
+ADMINISTRATORS AND GUESTS ATTENDING:
+Kristen Sorth, Library Director & CEO); Eric Button, Deputy Director; Laura Taylor, Chief Finance Officer; Steve Hunter, Assistant Director, Operations; Jackie Hamilton, Assistant Director, Advancement; Gib Van Cleve, Assistant Director, ITS; Jennifer Gibson, Assistant Director, Strategic Initiatives; and Attorney Lisa Stump, Lashly Baer.
+OTHERS ATTENDING:
+Nicole Clawson, Emily McIlvoy, Lisa Haddox, Katie Keeven, Anne Arthur, Cheri Remington, Chasidy Allen, Michelle Hawkins, Chris Goodman, Ayana Currie, Carla Maxwell, Aaron Seidel, Denise Chapell, Donna Spaulding, Andrea Johnson, Keir Haug, Anna Schurk, Andrew Freshwater and Sandra Williams.
+MINUTES
+The Library Board approved the May 23, 2022 minutes (Sanditz/Patterson).
+PUBLIC COMMENTS
+There were no patrons who wanted to come before the Board.
+Connie Dee, Manager of Thornhill, gave an overview of the Thornhill Branch. She welcomed everyone to the branch.
+TREASURER'S REPORT
+Maintenance and Operating Fund Financial Statements:
+Revenue
+	District Taxes – Year-to-date total tax revenue for 2022 is $49.9 million and is at 87% of the total budgeted amount of $57 million. The Library District will continue to receive tax revenue throughout the year.
+Expense
+	Pension Fund – In April, the Library District incurred $2,477,617 in pension fund expense. Of this amount, $2,475,680 is related to the District’s annual contribution to the Employee Pension Fund that was approved by the Board in April.
+	Insurance – In April, the Library District incurred $357,590 in insurance expense. Of this amount, $286,904 was paid to Hanover Insurance Group for the annual renewal of the District’s property, general liability, and auto policies.
+	Capital Improvements – In April, the Library District incurred a total of $658,246 in capital improvements expense. Of this amount, $324,393 was paid to Interior Construction Services for services performed at the Lynn Beckwith Jr. Administrative Building through March 2022. An additional $266,723 was paid to Datum Filing Systems for the installation of MobileTrak shelving systems at the Lynn Beckwith Jr. Administrative Building.
+Summary of Financial Statements - Cash Basis
+April 30, 2022
+                                                                                                            Current     Current Period     Current Year  YTD Budget -  Total Budget -
+                                                                                                 Month Actual Budget - Original to Date Actual Original        Original
+			Revenue
+			   Taxes
+			            586,915                666,564        49,870,889        49,204,284        57,160,000
+			   State Aid
+			                      -                  215,000                           -               215,000             430,000
+			   State Grants
+			                      -                            -                 88,333               40,000               40,000
+			   Federal Grants
+			                      -                            -                         -                         -                         -
+			   Other Grants
+			                      -                            -                   1,500                              -               449,000
+			   Sale of Surplus Material
+			                3,931                           6               17,552               12,679               35,000
+			   Fines & Fees
+			                5,983                    4,912               24,818               19,244               53,500
+			   Copy Income
+			              10,672                    5,630               36,859               20,941               60,000
+			   Interest
+			              19,643                  10,000               43,373               30,000             350,000
+			   Miscellaneous & Agreements
+			              15,734                    1,667               48,270                 6,667             143,500
+Administration recommends approval of the June 2022 Treasurer's Report subject to audit (Patterson/Sanditz).
+DIRECTOR'S REPORT
+Library Update
+	Director and CEO Kristen Sorth shared the Dashboard report for May.  The circulation of eMedia continues to increase with a total of 242,141 eMedia checkouts, which is a 40% increase from pre-pandemic levels.  The Library migrated to Polaris and merged catalogs with St. Louis Public Library on March 17.  The exchange of material between the two systems continues.  In May, nearly 40,000 items were transferred between the two systems. There were 261,663 visits to the Library in May which is 50% higher than visits in May, 2021.  Information on PC usage, new patron registrations, programming attendance and the most popular titles for the month are also included.  (Plan: Promote Literacy 1.1 and 1.2, Sense of Community 1.4 and 2.1, and Maximize Access 1.1)
+	Kristen Sorth, Eric Button, and Gib Van Cleve met with the executive team from Innovative Interfaces, Inc. (III) to review our current status with the Polaris and Vega products.  We are making great progress, but there are still some points of concern that were discussed.  III has been responsive to our concerns.  Many of the issues that are not yet resolved have been put into their development plans and will be available in future releases.  In order to keep employees updated, Eric has been sending weekly emails with progress reports and new developments to support employees in their use of Polaris and Vega.  The Library is also kicking off meetings with the Polaris Success team, whose role is to help us learn how best to utilize the system to accomplish our work and effectively serve our patrons. (Plan: Maximize Access 1.1)
+	As part of its Vega purchase, the Library has agreed to act as a development partner for several components of the Vega suite of products.  Vega Promote will provide the Library with attractive email templates for patron communication and establish a means to effectively communicate with patrons.  For example, when a patron applies for a library card, they will receive a welcome email.  This will be followed up a few weeks later with additional information about library programs and services.  When a patron card is inactive, the Library can send messages inviting the individual to reconnect with the Library again.  Another Vega product that we are helping to develop is Vega Program which will replace our current software that is used for program scheduling and registration and meeting room reservations. (Plan: Maximize Access 3.3)
+	She said the Library began offering notary services to the public on April 4. The service is available during most open library hours, Monday through Saturday. We have 120 public service employees who are now registered notaries. These employees have assisted the public with over 1000 notary transactions.  Here are some comments we have received from the public about this service.  (Plan: Sense of Community 1.4, Maximize Access 1.1 and 1.4)
+		I tell you what, SLCL finds EVERY Way possible to serve our communities
+		And this is why the SLCL is a great asset!!
+		Just when you think the library is perfect they add MORE services! Thank you!
+		This is an outstanding value-add! THANK YOU!!
+		What a great service. So many times you find a need for this and don’t know where to go.
+	Eric Button met with several representatives from Family Search, which is the genealogical research organization affiliated with the Church of Jesus Christ of Latter-day Saints.  The discussion in the meeting centered around the inclusion of their Discovery features that allow patrons to access interesting information about ancestry and genealogy.  This includes information about what was happening the year a person was born and immigration trends.  It also can lead people to discover notable ancestors by connecting into one’s own family tree.  The Library intends to utilize this Discovery feature in the Clark Family Branch for the Emerson History and Genealogy Center.  This interactive component in the space will serve as an exciting introduction to genealogy with the hopes of driving new users to the space and our amazing resources and employees. (Plan: Literacy 3.3, Sense of Community 2.1, Maximize Access 1.4)
+	Beginning June 13, representatives from the Community Action Agency of St. Louis County (CAASTLC) will be at the Meramec Valley and Grant’s View Branches weekly on Mondays.  CAASTLC’s representatives will help patrons learn about programs and fill out applications for various assistance that is available.  The assistance programs offer financial help with energy bills, water/sewer bills, rent/mortgage payments and home weatherization.  (Plan: Sense of Community 2.1, 2.2, Maximize Access 1.4)
+	The Library, in coordination with Operation Food Search, is again offering summer lunches at nine branch locations this summer (BT, FV, JB, LC, NB, PC, PV, RR, WR).  Children, ages 0-18, are invited to come to the library, receive a meal and participate in various activities.  Backpack meals supported by the St. Louis County Library Foundation are also made available.  Backpack meals contain six shelf stable meals and may be taken home for later consumption.  We have also received financial support from the Regional Response Team to provide produce boxes for patrons at these same branches.  We are working on the details and plan to begin offering them in the next few weeks. (Plan: Sense of Community 2.1, Maximize Access 1.4)
+	OASIS began offering one on one tutoring at seven branches last week.  (CC, FV, GV, MC, RR, TH, WR) Students are able to sign up to attend tutoring sessions at those locations on Tuesdays, Wednesdays and Thursdays throughout the summer. (Plan: Promote Literacy 2.1, 3.3, Sense of Community 2.1)
+	Ms. Sorth said the contracts with St. Louis County for the American Rescue Plan (ARPA) funds for GrandPads have been finalized and the ARPA funds have been received.  Renewal applications for those patrons who already have a GrandPad were sent the first week of June.  We have received applications from about half of the current recipients.  Applications for new GrandPad users will be made available on June 22, immediately following a media event to launch the initiative with St. Louis County Executive, Dr. Sam Page, at the Lewis & Clark Branch.  The application period will be heavily promoted through all available means and in partnership with the St. Louis County Council and many community organizations who work with older adults.  Final review of the applications and assignments of the new 1,500 GrandPads is expected to be completed by the middle of July. Communications is preparing for the GrandPad launch which include a press release and media event, along with marketing efforts that include flyers in branches, digital displays, web ads, social media and an eBlast to all Library patrons.  (Plan: Promote Literacy 2.4 and 3.3, Sense of Community 2.1, Maximize Access 1.4)
+	The first year of the Explore-A-Story challenge ended on June 15 with 3,223 patrons registering for the challenge and 327 completing the challenge by visiting at least five locations.  Here is a testimonial sent in from a happy participant:
+One of the librarians provided me your email.  I was telling her how much our family has enjoyed the “Explore-A-Story” program.  We got a later start but have been to 8 of the 12 locations.  It’s been so fun driving through different neighborhoods, and read new stories along the way.  We choose to visit the location, and nearby library branches.  This allowed us to find new books and toys to play with.  Sometimes we participated in an in-person event at the location.  While we traveled to the branches, we listed to stories and talked about our favorite part of the library we visited.  Our typical branch is Oak Bend, but loved getting out of the normal to different branches.  Thank you so much for putting this program together.  We plan to finish, even after it’s over.
+(Plan: Promote Literacy 2.1, 3.4, Sense of Community 2.3, Maximize Access 1.4)
+	Ms. Sorth extended a welcome to Ayana Currie and Elizabeth Franklin.  They were chosen for the Sidney Johnson Internship for summer 2022. We had a total of 267 applicants for the summer positions.  Ayana will be a senior at Ladue Horton Watkins High School in the fall and lives in Olivette. She has a long list of volunteering on her application and has volunteered at the Library and has attended virtual Teen Advisory Group meetings. Elizabeth will be a junior at Parkway West High School. In the fall she will be the editor of her school paper. She likes debate and public speaking and has an interest in law, black studies and gender studies.  The internship program is supported by a grant from Commerce Bank. (Plan: Promote Literacy 3.1 and 3.2, Sense of Community 1.2 and 2.2)
+	She said the Library recently moved to the MyTurn reservation system for the employees booking collection and the book discussion kit service. MyTurn includes improvements like robust descriptions with images, category and genre tags to filter search options, and the ability to search by date availability. We have used the employees-facing side of MyTurn since March. The patron-facing side was soft-launched on June 13. In the past, patrons were only able to reserve Book Discussion Kits by phone. Now patrons have the option to make reservations online when it is convenient for them. We hope that MyTurn will make finding and reserving Book Discussion Kits (and other Library of Things items in the future) more convenient and enjoyable, opening up the service to a wider range of users. (Plan: Promote Literacy 1.2, 3.3, Maximize Access 1.1)
+	She said Bookmobile employees were happy to kick off summer bookmobile service on June 6, 2022. The school units provide service to 23 different locations and have served over 3,000 students so far.  Many school locations have shown large increases in the amount of students participating in summer schools than pre-pandemic. While previous year’s numbers reflected 50-60 students per school, this year, employees are assisting 200-350 students per school.  Districts receiving service include Riverview Gardens, Ritenour, Jennings, Mehlville, Affton, and Hazelwood. (Plan: Promote Literacy 1.1, 2.1, 3.3, Maximize Access 1.1, 1.3)
+	During this summer, Adult Programming Coordinator, Sarah Jones, has planned ten writing workshops with authors from the region.  Attendees will discover a variety of ways to share their stories in programs such as Writing My Story: A Counternarrative presented by Vivian Gibson, Writing from Life presented by Fred Venturini, and Building Dimension in Bad Guys presented by Angela Mitchell. We look forward to promoting library resources and the upcoming St. Louis Storytelling Festival during these writing workshops. (Plan: Promote Literacy 3.4, Sense of Community 2.3, Maximize Access 1.4)
+	The Library’s Welcoming Ambassador Education Program developed by Adult Services will help employees learn and model behavior that is welcoming and inclusive to immigrants in our community. Branch and Department Managers nominated 40 employees for the Welcoming Ambassador Education Program. Employees will attend several training sessions from June to September, culminating with the celebration of Welcoming Week during September 9-18.  The Welcoming Ambassadors will share Library information and resources with foreign-born patrons, learn how to serve as the facilitator for English Conversation Circles, and contribute their time and talents to making the Library a more immigrant-friendly environment that fosters belonging for all. (Plan: Sense of Community 1.3, 1.4, 2.2, Maximize Impact 1.4, 3.5)
+	The Library continues to provide vital services to the region.  Here is a chart that shows our accomplishments as of June 16, 2022.   (Plan: Sense of Community 1.4, 2.1 and 2.3, Maximize Access 1.4)
+	There were mentions of the St. Louis County Library in the local media in print, radio and television.  Those articles are attached. (Plan: Maximize Access 3)
+	Pictures from various events and programs that have taken place over the last month were shared, including:  Story Time at Meramec Valley, Author Will Jawando at HQ, Little Innovators at Eureka Hills, author David Yoon at HQ, author Eric Holder at HQ, McVicar the Trickster at Grand Glaize and Rainbow Dance Party at Jamestown Bluffs.  (Plan: Promote Literacy 1.3, Sense of Community 2.1 and 2.3)
+Library Administrative Updates
+	Ms. Sorth was thrilled to announce that the Robert G. Clark Family has made a $4 million donation to the St. Louis County Library and St. Louis County Library Foundation to be used toward the new library branch in Ladue. The new branch will be named the Clark Family Branch. The gift also includes $2 million dollars for the St. Louis County Library to curate educational programming that furthers the library’s mission. This is the biggest donation we have ever received!  Bob Clark is the Executive Chairman & Founder of Clayco. For more than 30 years, Bob has grown Clayco into one of the top full-service building firms in North America while building Clayco’s commitment to the communities where they work and becoming a national civic and business leader. Most recently, Bob represented the U.S. Department of State as the U.S. Commissioner General overseeing the nation’s presence at Expo 2020 Dubai. Regarding this gift, Bob said, “Community improvement has always been one of my core values, and I am thrilled to help bring this beautiful, modern library to the greater St. Louis community. The non-virtual aspects of public libraries were strongly missed during the pandemic and are now being reinvented with more accessible exterior space, artful design and cultural initiatives that better serve their neighborhoods. The impact of public libraries is evolving, and I am excited to invest in their limitless potential.” (Plan: Maximize Access 2.1)
+	Ms. Sorth was excited to announce that the St. Louis County Library is a recipient of the prestigious National Medal for Museum and Library Service.  “Congratulations to our Library employees,” she said.  The work they do every day made this honor possible.  St. Louis County Library employees are creative, kind and giving.   Those attributes came through loud and clear to the selection committee.  Kristen Sorth, SLCL Director & CEO said, “We are incredibly honored to receive this prestigious award honoring the work of our employees. St. Louis County Library is very proud of our work supporting the region during the pandemic. Together with our community partners, we have provided essential services such as meals, diapers, technology, tutoring, vaccines and rental assistance at our branches. We make it a priority to remove barriers and increase access to library services throughout our region. Libraries move people forward wherever they are in life.”  The National Medal for Museum and Library Service is the nation’s highest honor for institutions that make significant and exceptional contributions to their communities. Since 1994, the Institute for Museum and Library Science (IMLS) has presented the award to institutions that demonstrate extraordinary and innovative approaches to community service. Three libraries and three museums were selected to receive the medal. The National Medal will be presented in Washington DC on July 20th.  The Library will also receive $10,000 as a recipient to be used within the guidelines established by the federal government. (Plan: Maximize Access 3)
+	The Library will once again engage with GRS Auctions to sell off surplus furniture and equipment from the Headquarters location.  GRS held a successful auction that generated more than $25,000 in sales for the surplus equipment at the Eureka Hills Branch.  The Headquarters auction is a much larger project and will feature three distinct auctions all starting in June.  The auctions, which are listed online, will be available to the public.  (Plan: Maximize Access 2)
+	ITS moved the Library file servers and network backbone from HQ to The Beck yesterday while the Library was closed.  This move and the network reconfiguration required the collaborative efforts of ITS and three outside vendors. (Plan: Maximize Access 1, 2)
+	Ms. Sorth said that during the yearly wellness screening events for employees, the Siteman Mammography Van will be on site to be utilized by employees. Qualified and interested employees can contact Siteman for an appointment. Resources were sent to all branches and included guidelines, qualifications, flyers, bookmarks and a brochure for "8 Ways to Prevent Breast Cancer." Appointments not used by employees will be used by patrons. This was an initiative proposed by the Employee Engagement Committee as another way for employees to access health services at work. As of June 15, there are 29 appointments created. (Plan: Maximize Access 1)
+	The St. Louis Cardinals generously provided 200 pairs of tickets for an upcoming series against the Marlins to be used in a raffle for Library employees.
+	The Training Department, including Computer Lab Trainers and Staff Trainers, hosted 198 programs with 2,192 patrons in attendance between January and May of 2022. From January to May of 2022, Computer Lab Trainers offered 46 virtual programs with total attendance at 1,317 with an average class attendance of 29 per session. In February of 2022, Training successfully began offering the in-person class lineup virtually, for example Word I, II, III and Excel I, II, III. Interactive classes had been held previously via Zoom using breakout rooms, polls, and so forth, however this group of classes required more development as they rely on student interaction. The response from patrons has been very positive and classes continue to be offered with high attendance. Staff Training has also offered 112 virtual and in-person training and professional development opportunities with 761 employees attending one or more of these sessions.  The collaboration between Staff Training and the Employee Relations Coordinator has proven successful and allows for the professional development of employees for their work within the Library and also personally. (Plan: Promote Literacy 2.4, 3.1)
+Library Construction and Facility Update
+	Ms. Sorth said the move of the HQ circulating collection and the History & Genealogy collection has been underway since May 31.  While a moving company delivers carts full of material and returns empty carts, the majority of the work loading and unloading collections as well as building shelving to accommodate the collections is conducted by Library employees.  Building Systems, History and Genealogy and HQ employees have put forth amazing efforts toward this move. (Plan: Maximize Access 2)
+	Following a review of the collection and the relocation of some materials to other branches, the Headquarters circulating collection will be housed in closed storage at the Beck.  Portions of the History and Genealogy collections will be housed at Daniel Boone, Grand Glaize and at the Beck.  Upon completion of this project, around 13,000 linear feet and 250 boxes of material will have been packed up, moved and unpacked. The entire project should be completed by July 15. (Plan: Maximize Access 2)
+	Several branches have experienced issues with their HVAC systems in the last few days. The Samuel Sachs, Cliff Cave, Oak Bend, Weber Road, Daniel Boone, and Rock Road branches have all experienced high indoor temperatures due to equipment or electronic failures. Building Systems has reacted immediately to each situation and called for outside help where needed. Public closures have been kept to a minimum. (Plan: Maximize Access 2.4)
+	The Thornhill Branch has been experiencing a water infiltration issue through the children’s area windows. A solution has been identified that requires some exterior wall disassembly. We do not expect any disruption to Library operations and anticipate that work to be completed by next week. (Plan: Maximize Access 2.4)
+Library Foundation
+	She said the St. Louis County Library Foundation’s Food Truck event took place on the evening of June 10.  The Advancement Department is assembling information about the dollars raised through sponsorships and individual contributions.  A great time was had by all. (Plan: Maximize Access 3)
+Author Events
+	On June 1, the Library hosted its first SLCL Authors @ the J event in partnership with the Jewish Community Center of St. Louis (JCC).  During construction on the new Clark Family Branch, the JCC has offered the Library use of the Mirowitz Performing Arts Center as a temporary home for the author series. The first event with presidential speech writer, Jeff Nussbaum, attracted around 120 people. It was a great mix of both regular library event attendees and new faces. Other recent SLCL Authors @ the J events include novelists Chris Pavone and B.A. Shapiro and sports historian Michael Loynd in conversation with Olympic legend Jackie Joyner-Kersee.  The Loynd author event had 200 attendees.
+	Tickets are on-sale now for two large upcoming events with former Missouri Secretary of State, Jason Kander, and number one bestselling suspense author Daniel Silva. Both events will be at the JCC.
+June and July Author Events
+	Michael Loynd, author of “The Watermen: The Birth of Olympic Swimming and One Young Man's Fight to Capture Olympic Gold,” Tuesday, June 21, 2022, 7:00 p.m. Virtual, through this link: facebook.com/STLCoLibrary and on the Higher Education Channel at Spectrum 989 and AT&T U-verse 99. It will then be archived for later viewing at hecmedia.org.
+	Lynne Cox, author of “Tales of Al: The Water Rescue Dog,” Thursday, June 23, 2022, 7:00 p.m., The J, Mirowitz Performing Arts Center, 2 Millstone Campus Drive, St. Louis, MO 63146. Doors open at 6:30 p.m.
+	Louis Bayard, author of “Jackie & Me,” Wednesday, June 29, 2022, 7:00 p.m. The J, Doors open at 6:30 p.m., Mirowitz Performing Arts Center, 2 Millstone Campus Drive, St. Louis, MO 63146.
+	Linda Castillo, author of “The Hidden One: A Kate Burkholder Mystery,” Wednesday, July 6, 2022, 7:00 p.m., Daniel Boone Branch, 300 Clarkson Rd., Ellisville, MO 63011.
+	Lynne Cox, author of “Tales of Al: The Water Rescue Dog,” Virtual, Thursday, July 7, 2022, 7:00 p.m., facebook.com/STLCoLibrary and on the Higher Education Channel at Spectrum 989 and AT&T U-verse 99. It will then be archived for later view at hecmedia.org.
+	Louis Bayard, author of “Jackie & Me,” Monday, July 11, 2022, 7:00 p.m., Virtual. The interview will be available starting at 7:00 p.m., through this link: facebook.com/STLCoLibrary and on the Higher Education Channel at Spectrum 989 and AT&T U-verse 99. It will then be archived for later view at hecmedia.org.
+	SLCL Authors @ the J and the Arthur Gale Medical Arts Lecture Series Present Pediatric Neurosurgeon Dr. Jay Wellons, author of “All That Moves Us: A Pediatric Neurosurgeon, His Young Patients, and Their Stories of Grace and Resilience,” Monday, July 11, 2022, 7:00 p.m., The J. Doors open at 6:30 p.m. Mirowitz Performing Arts Center, 2 Millstone Campus Drive, St. Louis, MO 63146.
+	Former Missouri Secretary of State Jason Kander, author of “Invisible Storm: A Soldier’s Memoir of Politics and PTSD,” Thursday, July 14, 2022, 7:00 p.m., The J. Doors open at 6:00 p.m., Mirowitz Performing Arts Center, 2 Millstone Campus Drive, St. Louis, MO 63146. In conversation with Missouri State Senator Jill Schupp.  Ticketed Event
+	Christina Soontornvat, author of “All Thirteen: The Incredible Cave Rescue of the Thai Boys’ Soccer Team,” Saturday, July 16, 2022, 2:00 p.m., Virtual, facebook.com/STLCoLibrary and on the Higher Education Channel at Spectrum 989 and AT&T U-verse 99. It will then be archived for later view at hecmedia.org.  2021 Newbery Honor Book.
+Deborah Patterson asked for clarification of what functions were not working on Polaris and Eric Button responded with specificity about the features.
+Ayanna from Ladue Schools (senior) and Elizabeth Franklin from Parkway West (Junior) spoke of their desire to learn about the library as part of their summer internship.
+Joan Barry joined the meeting at 4 p.m.
+Deborah Patterson asked about the social workers. Kristen Sorth responded that the program will start in the fall.
+Dr. Beckwith asked if patrons had any concerns with Headquarters closing. There were none.
+OLD BUSINESS
+NONE
+NEW BUSINESS
+CONSTRUCTION UPDATE
+Steve Hunter, Assistant Director of Operations, said the flashing needed repairing at the Thornhill Branch due to water coming in the Children's area. At the Beck, the History and Genealogy Collection is moving to storage. Pictures of the completed landscaping surrounding the building were shown. Parking lot landscaping and paving pictures were shown as completed.
+Renderings of the Clark Family Branch were shown.
+NEW METRO SHELTER AT ROCK ROAD BRANCH
+Steve Hunter, Assistant Director of Operations, presented the following.
+Bi-State Development Agency (Metro) recently contracted Administration expressing interest in constructing a bus shelter at the Rock Road Branch in St. Ann. We agree that this will be beneficial for library patrons.
+Metro will be responsible for all costs. The proposed shelter will be installed behind the existing sidewalk so as to not block the view of the Library’s monument sign. Metro will install a 5’-0” wide concrete walk between the sidewalk and the proposed shelter. These documents have been reviewed by legal counsel. The construction work will not have an impact on Library activities. The Library Board approved the license agreement with Metro related to the construction of a new bus shelter at the Rock Road Branch and authorize the Director and CEO to execute said agreement (Patterson/Barry).
+EASEMENT REQUESTS AT SAMUEL C. SACHS BRANCH
+Steve Hunter, Assistant Director of Operations, presented the following.
+The City of Chesterfield is planning to extend Main Circle Drive along the south side of the Samuel C. Sachs Branch and the Jai Nagarkatti / Monsanto Reading Garden.
+In addition to the road, the planned enhancements include installing 5’-0” wide, ADA-compliant sidewalks. Chesterfield is requesting both a permanent and a temporary (construction) easement from the Library District for the work. The City will provide $3,500 as compensation for the easements.
+The Permanent Sidewalk Easement requests a strip of land along the new Main Circle Drive for a new sidewalk. The Temporary Slope Construction License is for the right to access Library property in order to conduct the improvements. At the end of the project, the temporary easement will terminate. Administration and Lashly Baer have thoroughly reviewed these documents. Construction activities are planned to begin this summer and are not expected to have an impact on Library activities.
+The Library Board approved the two agreements with the City of Chesterfield related to the proposed road extension adjacent to the Samuel C. Sachs Branch and authorize the Director and CEO to execute said agreements (Sanditz/Barry).
+ADDITIONAL CONTINGENCY FOR THE LYNN BECKWITH, JR. ADMINISTRATIVE BUILDING
+Steve Hunter, Assistant Director of Operations, presented the following.
+On September 28, 2020, the Board selected ICS Construction Services to build the new Lynn Beckwith, Jr. Administrative Building. Board approval was also given at that time for a contingency fund of $551,950 (3.5% of the construction cost). On December 20, 2021, the Board approved an additional $236,550 in construction contingency that raised the total contingency to $788,500, or 5% of the original contract amount.
+Spending against the contingency fund is now approaching the 5% limit set by the Board. Administration is requesting an expansion of the contingency fund to 5.75%, or an additional $118,275 in order to complete construction including the landscaping and the parking lot. This will increase the total value of the contingency fund to $906,775. We fully anticipate this value will cover all remaining cost increases for the project.
+Per established process, the spending of this contingency fund will be approved by Kristen Sorth, Library Director & CEO and Steve Hunter, Assistant Director, Operations as needed during the execution of the project. The accounting of the expenditures against the contingency fund will be reported back to the Library Board.
+The Library Board approved expanding the contingency fund for construction of the Lynn Beckwith, Jr. Administrative Building from $788,500 to $906,775 (Barry/Patterson).
+GENERAL CONTRACTOR FOR CLARK FAMILY BRANCH
+Steve Hunter Assistant Director of Operations, presented.
+A Request for Proposal (RFP) for General Contracting Services for the new Clark Family Branch in Ladue was posted on May 3, 2022. The RFP included construction documents and specifications delivered by architects at Lamar Johnson Collaborative.
+The bid notice was placed in the St. Louis Post-Dispatch, on the Library website, at St. Louis Reprographics, and in various local and national plan rooms. The bid notice was also emailed directly to 38 potential General Contractors and 93 potential sub-contractors. Two outreach meetings were held at the old Headquarters location. Representatives from 15 firms attended one or both of these meetings.
+Proposals were due on June 7, 2022. Two qualified responses were received:
+			General Contractor
+			Base Proposal
+			MBE%
+			WBE%
+			ICS Construction Services, Ltd.
+			$31,779,000
+			16.4%
+			4.3%
+			BSI Constructors, Inc.
+			$33,990,000
+			4.4%
+			2.9%
+The construction budget for this project was $26,000,000. Materials shortages, rapid cost escalation, and supply chain issues have led to responses that are higher than the Library’s budget estimates. In addition, the original budget did not reflect the $2 million designated for the Genealogy Department or the recent naming gift. Administration met with ICS to confirm the completeness of their proposal and to discuss scheduling and value engineering options. After thorough consideration, Administration is confident ICS has provided the lowest and best response to the RFP. ICS recently constructed both the Eureka Hills Branch and the Lynn Beckwith, Jr. Administrative Building. Administration has been very pleased with the quality of their work and their overall commitment to the projects.
+The Library Board approved the selection of ICS Construction Services, Ltd. at $31,779,000 for General Contracting services for construction of the new Clark Family Branch and that the Board authorize the Director to enter into and execute a contract to that effect (Barry/Sanditz).
+EMPLOYEE BENEFITS - HEALTH INSURANCE
+Laura Taylor, CFO, presented the following.
+The Library received the renewal for employee health insurance from our current carrier, Anthem Blue Cross Blue Shield.  Initially Anthem’s renewal was 4.45%. With the assistance of Daniel and Henry, we were able to negotiate a lower renewal of 2.5%. This rate includes the required fees under the Affordable Care Act.
+We will continue to have employees contribute $15 a month toward the cost of their individual health insurance.  The renewal increase will also affect the rates for the pre-65 insurance plan for retirees.  The pre-65 insurance benefit is strictly voluntary and does not result in any cost to the Library.  In addition, we will continue to have the Health Reimbursement Arrangement (HRA) as defined by the IRS which was approved by the Library Board in 2008. Through the arrangement, the Library’s insurance costs are reduced by combining a higher deductible plan with an HRA. Employees are reimbursed for the deductible and also benefit from the lower premiums. Beneflex administers the Library’s HRA and Flexible Spending Account plan. There will be no additional administrative costs with the exception of a renewal fee for each plan of $200 each.
+With the 4-tier plan, we propose that the Library contribute toward all tiers of dependent coverage to keep the employee monthly cost in line with the current year amount.  Last year, the Library contributed towards the cost of Family only coverage. With the Library Board’s approval, we recommend the following Tier costs:
+Effective August 1, 2022
+			Tier
+			SLCL Monthly Cost Per Employee
+			(A)
+			SLCL Additional Contribution for Dependent Coverage
+			(B)
+			Total SLCL Monthly Cost
+			(A + B)
+			Employee Monthly Cost
+			(same as prior year)
+			(C)
+			Employee
+			$725.42
+			$0
+			$725.42
+			$15
+			Employee +
+			Spouse
+			$725.42
+			$18.43
+			$743.85
+			$752.15
+			Employee + Child(ren)
+			$725.42
+			$15.26
+			$740.68
+			$625.52
+			Family
+			$1,151.84
+			$30.60
+			$1,185.44
+			$812.67
+Daniel and Henry has reported that the average health insurance renewal this year is trending 11-13%. The budgeted amount for the health insurance renewal was 10%. The proposal from Anthem is below trend and under budget even with a contribution to employee dependent coverage.
+The Library plans to hold three open enrollment meetings via Zoom to inform the employees of the benefits related to open enrollment.
+The Library Administration, in consultation with Daniel and Henry, is recommending that we remain with Anthem and contribute towards all tiers of dependent coverage. The Library Board approved the recommendation (Sanditz/Barry).
+EMPLOYEE BENEFITS – DENTAL, VISION, ANCILLARY, SHORT TERM DISABILITY, LIFE INSURANCE, AD&D, LONG-TERM DISABILITY & VOLUNTARY LIFE
+Laura Taylor, CFO presented.
+The Library received the August 1, 2022 renewals for employee dental insurance from Delta Dental, vision insurance from VSP, and pet insurance from Nationwide. The Library also received the renewals for short-term disability, life insurance, AD&D, long-term disability, voluntary life insurance, critical illness, and accident insurance from The Hartford.  The Library has a rate hold for all lines of insurance.  There will be a 0% increase in all lines of insurance for employee and dependent coverage. Vision, pet insurance, short-term disability, voluntary life, critical illness and accident insurance is voluntary and does not result in any cost to the Library.
+The Library Administration in consultation with Daniel and Henry is recommending that we remain with Delta Dental for dental insurance, VSP for vision insurance, and Nationwide for pet insurance. Administration is also recommending staying with The Hartford for short term disability, life insurance, AD&D, long-term disability, voluntary life, critical illness and accident insurance. The Library Board approved the recommendation (Sanditz/Barry). Deborah Patterson abstained.
+MOBILE LIBRARY VEHICLE PLANNING CONSULTANT SERVICES
+Eric Button, Deputy Director, presented the following.
+Administration is seeking approval for the selection of a provider for Consultant Services for a Mobile Library Vehicle.  The fleet of the Library’s school bookmobiles is rapidly aging, and the useful life of these trailers is nearing an end.  The Library currently operates four school bookmobile trailers and the intent is to eventually replace all of these aging bookmobiles with new state-of-the-art vehicles to provide mobile library services for decades to come.  Planning for such specialized vehicles is complex.  As a result, the Library seeks to engage with a consultant who is more experienced in the planning, specifications, and design of a bookmobile.  The consultant would work closely with Library employees to understand our needs and objectives for bookmobile service and ensure that the design and construction of the vehicle meets the objectives.  The selection of the vehicle manufacturer will be determined by a later RFP and brought to the Board for approval.
+The Library issued an RFP for Mobile Library Vehicle Planning Consultant Services on May 6 but no responses were received by the May 26 deadline.  The RFP was reissued on June 1 and one response was received from Specialty Vehicle Services (SVS).  This is a well-known company that designs specialty vehicles of all types. SVS have a lengthy list of customers for mobile library vehicles.  Their reference list is impressive with nearly 100 libraries as customers, including neighboring St. Charles-City County Library, which just received their new bookmobile in the last year.  A team composed of Eric Button, Steve Hunter, Emily Althoff, Amy Hanaway, and Crystal Harris, reviewed the proposal from SVS, and all recommended approved of their proposal.  Several references were contacted, and all had positive feedback on the services provided by SVS.
+The total cost for the scope of work by SVS, including all travel related expenses is $22,100.  The 2022 Library Budget included the replacement of a bookmobile.
+Library Administration recommends that the Board authorizes the Library Director to enter into and execute a contract with Specialty Vehicle Services to provide Mobile Library Vehicle Consultant Services.  This expense is included under Automotive in the 2022 Budget.  Questions regarding the old bookmobile, the readiness of the new one and the wrap were asked. Due to the shortage of both materials and other significant concerns, there could be a delay.
+The Library Board approved the recommendation (Patterson/Sanditz).
+ADJOURNMENT
+Deborah Patterson made a motion to adjourn meeting the meeting. Ted Sanditz seconded.
+The meeting adjourned at 4:32 p.m.
+All voted with voice approval.  Aye: Beckwith, Sanditz, Barry, and Patterson.
+Respectfully submitted,
+______________________                                                    ________________
+Joan Barry, Secretary                                                              Date

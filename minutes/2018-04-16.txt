@@ -1,0 +1,118 @@
+{
+  "name": "Regular Meeting",
+  "description": "Library Board",
+  "unique": "AV3QUT66A0B9",
+  "date": "2018-04-16T00:00:00Z"
+}
+
+---
+
+ST. LOUIS COUNTY LIBRARY DISTRICT
+MEETING OF THE BOARD
+HEADQUARTERS
+1640 SOUTH LINDBERGH BLVD.
+MONDAY, APRIL 16, 2018
+The monthly meeting of the Board of the St. Louis County Library District was held at the Headquarters Branch, 1640 South Lindbergh Blvd., St. Louis, MO 63131 on Monday, April 16, 2018 at 3:30 p.m. The agenda had been posted in all branches of the Library District at least 24 hours before the meeting.
+ATTENDANCE:
+Library Board Members:
+Dr. Lynn Beckwith, President
+Michael Mulligan, Vice President
+Elena Kenyon, Treasurer
+Dr. Chingling Tai, Secretary
+Edith Cunnane, Member, had an excused absence.
+ADMINISTRATORS AND GUESTS ATTENDING:
+Kristen Sorth, Library Director; Eric Button, Deputy Director; Barbara Turkington, Assistant Director, Advancement; Kris Mooney, Assistant Director, Administration; Gib Van Cleve, Assistant Director, ITS; Steve Hunter, Assistant Director, Operations; K.K. Ridgeway, Taypayer; Tom Curran, St. Louis County; and Lisa Stump, Attorney, Lashly & Baer.
+OTHERS ATTENDING:
+Sarah Wood, Jennifer McBride, Paul Bayless, Barb Reale, Tiffany Davis, Gina Sheridan, Mary Arnhart, Sarah Brown, Stacey Lewis, Katie Keeven, Stephanie Nordmann, Lori Boschert, Anne Bradley, Kat Van Arsdale, Crystal Harris, Meg Coyle, Lisa Haddox, Connie Dee, Patricia Peiffer, Erin Magner, Stacy Berger, Cheri Remington, Michael Cohen, Amy Hanaway, Marie Conlin, Donna Spalding, Lauren Striebel, Chris Goodman, Matt Lakin, Erin Pearce, Cindy Schultz, Deanna Davis, Scott Holl, Rebecca Clarke, William LaChance, Allison Wisniewski, Jennifer Gibson, Nicole Higginbotham, Jennifer Gibson, Nicole Higginbotham, Jennifer Alexander, Nicole Clawson, Keir Haug, Rachel Nowell, Julie Cruise, Terra Sleep, Mary Meyer, Ross Brand, Anna Gonzalez, Natalia Catlett and Sandy Williams.
+APPROVAL OF MINUTES
+The Library Board approved the March 19, 2018 minutes (Mulligan/Kenyon).
+PUBLIC COMMENTS
+There were no public comments.
+TREASURER'S REPORT
+Kris Mooney reported that, in March, the Library District received payment from the annual tax levied on Missouri financial institutions in the amount of $528,011. In 2017, the District received a total of $466,960 in Financial Institution Taxes. The Library District also received the first of two grant payments from the State of Missouri for the purchase of Chromebooks to be used at all Library branches. The Chromebooks can be checked out for use in the branches. The payment was for $5,589.
+In March, the Library District made the annual contribution to the Employee Pension Plan. The contributed amount was $1,914,634 and was approved by the Board at the March 2017 Meeting. The Library District incurred $39,868 in building repair costs for March. $35,339 was spent replacing the transformer at Headquarters and for the use of a generator while the power was out at the end of January 2018. Additionally, the Library District transferred funds to the trustee of the Library’s Certificate of Participation funds, BOKF, to pay the annual principal payment of $2,400,000 and the April interest payment of $2,028,742. These payments were made by our trustee on April 1, 2018 and are included in the 2018 budget.
+Capital Projects Fund Balance Sheet
+Total Construction in Progress for March 2018 was $1,406,160. The expenses included payments for:
+		Construction costs for Phase 2A buildings (BT, FV, DB) - $646,740
+		Construction costs for Mid County - $247,042
+		Architect expenses for Phase 2  - $188,488
+		Construction costs for Thornhill -  $78,631
+		Construction Management services for Phase 2 buildings - $86,642
+		Facilities Master Plan Administrator - $37,950
+The Library Board approved the March Treasurer's Report subject to audit (Mulligan/Tai).
+DIRECTOR'S REPORT
+Kristen Sorth gave the following report.
+ · Ms. Sorth stated that the dashboard report for April contains a variety of statistical information about circulation, visits, programming and PC usage. Ms. Sorth shared the report with the Board. With three branches closed for construction, circulation is down 1% but visits are up 4.5%. The most notable statistics are in programming. Program sessions increased 8% over this same time last year and program attendance increased 40%. This month the report also includes information regarding circulation by media type. Children’s books circulate the most followed by DVDs and then adult books. The report also includes information about the most popular items in the collection.
+ · The Library was selected as one of 12 libraries to join the Urban Libraries Council's Entrepreneur Peer Learning Cohort. Jennifer Gibson, Manager of Reference, and Ms. Sorth will work with the group to design and test approaches for supporting entrepreneurs especially people of color, women, immigrants, and veterans. Jennifer and Ms. Sorth will be traveling to the first meeting in Kansas City on April 19 and 20. After that, it will just be Jennifer who is involved with the cohort. ULC received a grant from the Kauffman Foundation and all travel expenses are paid for by ULC. (Plan: Increase Literacy 3.3)
+ · The Library applied for and was selected to host an intern this summer as part of the Public Library Association's Inclusive Internship Initiative. This is an internship program designed to introduce young people from diverse backgrounds to careers in librarianship. With individual guidance from a mentor, the intern will engage with multiple facets of library life, from administration to programming to user services, while also completing a connected-learning project on behalf of their host library. PLA is only sponsoring 50 internships this summer. Neighborhood Branch Administrator, Alaina Culbertson, will serve as the mentor for this initiative. Alaina will participate in a webinar about the program on April 26. We will continue to update the Board on this initiative. The first step will be to develop a process for selecting our intern. (Plan: Increase Literacy 3)
+· Ms. Sorth reported that the Library will offer Hip Hop Architecture Camp (HHAC) for 40 middle school kids (ages 11-14) this summer at the Natural Bridge Branch from July 30 – August 3. HHAC is designed to introduce underrepresented youth to architecture, urban planning, creative place making and economic development through the lens of hip hop culture. During the camp, students are paired with architects, urban planners, designers, and hip hop artists to create unique visions for their communities which include the creation of physical models, digital models and the creation of a Hip Hop Architecture track and music video summarizing their designs. We have worked with the St. Louis County Planning Department and have selected the area around the North Hanley Transit Center as the focus of the camp. The press release announcing the camp will go out next week and registration opens on May 1. (Plan: Increase Literacy 3.1)
+· Wi-Fi hotspot lending began in December with 30 devices available for patron checkout. This month the Library added 60 additional Wi-Fi Mobile Hotspots to the collection. There are currently 409 holds for a hotspot! (Plan: Increase Literacy 3.3)
+· On March 29, the St. Louis Promise Zone, St. Louis County Library and Metro Transit announced the launch of a new program to promote literacy and reading, and improve the transit experience for Metro riders. Promise Zone community library boxes have been installed at four transit locations in the region: North Hanley Transit Center, Wellston Transit Center, Rock Road Transit Center and North County Transit Center. These boxes will be stocked with reading materials provided by St. Louis County Library through the Recycled Reads program. (Plan: Sense of Community 3.1)
+· As Ms. Sorth mentioned previously, the Library partnered with the World Chess Hall of Fame to offer chess instruction once a week at the three locations offering after school meals – Lewis & Clark, Natural Bridge and Weber Road. The Foundation has awarded the Library with an Alison Grant to fund the chess instruction and to provide chess sets at every branch and HQ. For the 10th consecutive year, the nation’s top 24 chess players will gather in St. Louis from April 17 – April 30 to compete for the titles of U.S. Champion and U.S. Women’s Champion. I will discuss the library’s partnership during the live broadcast of the championship on April 26. The live broadcast will air in 190 counties! (Plan: Increase Literacy 3.4 and Sense of Community 1.2)
+· The Library has its first Career Online High School Graduate and expects several more in the coming months. We plan to hold the first graduation ceremony in October. (Plan: Increase Literacy 3.3)
+· Information about the Library’s collection, programs, and services will now be included on the Immigrant Ecosystem Map which is a searchable map and database maintained by the International Institute. (Plan: Increase Literacy 2.2 and 3.2 and Sense of Community 1.2 and 3.1)
+· We Are St. Louis is an adult program series that explores the wide variety of identities, cultures and ethnicities in St. Louis. The programs consist of history, dance, musical performances, and interactive workshops. The next program will explore Polish heritage and will take place on April 19 at the Florissant Valley Branch. (Plan: Sense of Community 2)
+· In June, the Reference Department will start providing monthly reference programs at the branches. Topics for that month include Consumer’s Corner, Essential Resources for Homeschooling, and Teens in Business. (Plan: Increase Literacy 3)
+· There were mentions of the St. Louis County Library in the local media in print, radio and television. Those articles were shared. (Plan: Sense of Community 1.2)
+· There were a number of great photos shown to the Board from several programs and events in March and April: DIY Operation Game at Bridgeton Trails, STArt: Atmosphere and Beyond at Florissant Valley, Discovery Patio Grand Opening at Prairie Commons, and Community Autism Expo at Indian Trails. (Plan: Increase Literacy 3.4 and Sense of Community 2.3)
+Library Administrative Updates
+· The patron survey that will be used for the Library’s new Strategic Plan is now available on the Library’s website and has been shared via social media. This survey is designed to gather responses from library patrons and non-patrons. Library employees are encouraging patrons who are visiting our locations to take the survey. (Plan: Sense of Community 1.1)
+ · The Library’s mobile app has been updated and refreshed with new icons and a streamlined menu. It will go live with the changes on April 24. (Plan: Increase Literacy: 3.3)
+· Employees working in Customer Connect will be rotating out to branches in April. This will keep them connected with the branch environment. Currently, employees from Mid-County and Grand Glaize are working at HQ during their branch closure. This will allow the regular Customer Connect staff to make the visits. (Plan: Sense of Community 1.1)
+· Ms. Sorth announced a training/summit meeting for interested managers and assistant managers on April 26 at the Grant’s View Branch. The attendees will review several webinars related to management, leadership, and public service and will cover various topics during the day related to their work with staff and patrons. (Plan: Sense of Community 1.1)
+Library Construction and Facility Update
+· Florissant Valley received the St. Louis Business Journal's 2018 Building St. Louis Award in the category for a renovation less than $5 million. The Branch was also featured in the Business Journal. (Plan: Create Gathering Spaces)
+ · The Library has received the next round of incentives from Ameren through their Missouri BizSavers program. The energy efficient improvements at the Florissant Valley Branch resulted in $7,730 in incentives for the Library.
+· The Automated External Defibrillators (AEDs) that are available at HQ and all of the branches have reached the end of their recommended service life. We are in the process of replacing them. The current AEDs have been removed from service. (Plan: Create Gathering Spaces 1.3)
+· Preliminary work on the site for the future home of the Meramec Valley Branch has started. We plan to have a groundbreaking ceremony in late May. (Plan: Create Gathering Spaces)
+· Ms. Sorth announced the Library’s new Manager of Safety and Security, Dan Lucas, is currently making visits to all of the branches. While in the area, Dan is also meeting with the local police department for each municipality. Dan has recommended that we begin active shooter training for all of our staff. The local police department will provide that training. The first training will take place in the next few months at the Daniel Boone Branch. The Ellisville Police Department will conduct the training. (Plan: Create Gathering Spaces 1.3)
+· On April 29, the Jai Nagarkatti-Monsanto Company Reading Garden at the Sachs Branch will be honored by the City of Chesterfield’s Citizens Environmental Advisory Committee as part of their Monarch/Pollinator Nexus. Their goal is to help the biodiversity of pollinators in the region. (Plan: Create Gathering Spaces 2.3)
+Library Foundation
+· Several St. Louis University MBA students are exploring the Foundation’s Friends program as part of a class project. On April 18, they will be presenting on their findings and making recommendations to improve the Friends program as part of their class final. Several Foundation Board Members will attend.
+· The Foundation received a $2,500 grant from the Staenberg Foundation for Born to Read.
+· Jim Bogart and Ms. Sorth have been working on several fundraising initiatives and we have received good news. The Library has been invited to apply for an Impact Fund Grant from the Opus Foundation for Career Online High School. The grant range is $20,000 - $50,000. Several months ago, Mr. Bogart and Ms. Sorth met with the local Opus team. Last week, their charitable giving group from Minneapolis came to town to make site visits and we met with them. Mr. Bogart and Ms. Sorth have also been working with Commerce Bank on naming rights for an area in the new Mid-County Branch. They have received notification that Commerce will be making a substantial donation for the children’s space at Mid-County. The Library is completing the final steps for both of these and will update the Board in the next few months with an official announcement.
+ · The third annual Born to Read Reception was held on April 4 at Oak Knoll Park. The event raised $27,400 for Born to Read. Last year’s reception raised $24,500. Allie Corey from KSDK was the mistress of ceremonies and Butler’s Pantry catered the event.
+Author Events
+· Frances Mayes, author of “Women in Sunlight,” Friday, April 20, 2018, 7:00 p.m., Headquarters.
+· Curtis Sittenfeld, author of “You Think It, I’ll Say It,” Saturday, April 21, 2018, 7:00 p.m., Headquarters.
+ · John Scalzi, author of “Head On,” Monday, April 23, 2018, 7:00 p.m., Headquarters.
+· Pat Simmons, author of “My Rock Tabitha,” Thursday, April 26, 2018, 7:00 p.m., Florissant Valley Branch.
+· Jennifer Chambliss Bertman, author of “The Alcatraz Escape,” Monday, April 30, 2018, 6:30 p.m., Headquarters.
+· Tom Perrotta, author of “Mrs. Fletcher,” Friday, May 04, 2018, 7:00 p.m., Headquarters.
+· Paula McLain, author of “Love and Ruin,” Monday, May 07, 2018, 7:00 p.m., Headquarters.
+· Lisa Ko, author of “The Leavers,” Tuesday, May 08, 2018, 7:00 p.m., Headquarters.
+· 2018 Suspense Night, Thursday, May 10, 2018, 7:00 p.m., Headquarters Featuring: Reed Farrel Coleman, “What You Break” “Robert B. Parker’s, “The Hangman’s Sonnet” Megan Abbott, “You Will Know Me” Laura Lippman, “The Fever” “Sunburn” “Wilde Lake” Lori Rader Day “The Day I Died” and “Little Pretty Things” Nick Petrie, “Light It Up” and “The Drifter”.
+· Ashley and David Eckstein, author of “It’s Your Universe,” Friday, May 11, 2018, 7:00 p.m., Grant's View Branch.
+· Nicholas Reynolds, author of “Ernest Hemingway’s Secret Adventures,” 1935-1961: Writer, Sailor, “Soldier, Spy,” Tuesday, May 15, 2018, 7:00 p.m., Headquarters.
+· SOLD OUT! Temple Grandin - Ticketed Event “Calling All Minds,” Thursday, May 17, 2018, 7:00 p.m., Headquarters.
+ · Dr. Lloyd I. Sederer, author of “The Addiction Solution,” Monday, May 21, 2018, 7:00 p.m., Headquarters.
+NEW BUSINESS
+CONSTRUCTION UPDATE
+Steve Hunter gave an update on the construction projects and also updated the Board on the Grant's View Branch road construction.
+There are currently four projects under construction including Grand Glaize, Mid-County, Thornhill, and Meramec Valley.
+SERVICE TO SENIORS PRESENTATION
+Crystal Harris, Manager of Bookmobiles and Mobile Service, gave an overview of the various services offered to the senior population. Her presentation also included information about services for the homebound population.
+Service for patrons who can't attend the library is a priority for the department. Vans used for senior service are now being retired and are being replaced with 2018 Ram ProMasters. There are four staff members assigned to senior services and nearly 24,000 patrons are serviced yearly at 102 locations. Currently, there are 20 additional locations on the waiting list. The Library also has a Homebound Mailing Service used for approximately 164 homebound patrons.
+Ms. Harris reported that the Library has a senior reminiscing program for patrons where kits are used for those suffering with dementia or Alzheimer’s. These special kits include hats, world series rings, etc. that are used to help patrons recall a special memory.
+Board Treasurer Elena Kenyon thanked Crystal Harris for bringing quality programming to the seniors. Dr. Beckwith said the department was a very worthy service and he appreciated their efforts.
+DIVERSITY REPORT
+Kristen Sorth presented the annual informational Diversity Report on staff employment.
+The Library Board has requested yearly information regarding the staff complement at the St. Louis County Library. Reports for 2017 and 2018 were shared with the Board and which include the following documents:
+1. A report entitled “Summary Comparison Percentage Chart.” This report combines the data from the “Summary” report and reflects five years of data. It also includes FTE information for the same time frame.
+2. A report entitled “List of Job Titles by Dept/Branch. This is a report that is generated from our HR/Payroll software. The “ethnicity” column contains descriptions designated in our software. The report is divided by department and branch. The departments are listed in alphabetical order beginning after Administration. The branches are next and they are also listed in alphabetical order. Within each branch or department employees are listed by their title only. Employees were sorted in descending order from the employee with the highest pay grade within the branch or department to the lowest pay grade. Individuals with the same title, have the same pay grade.
+3. A one page summary of the above mentioned report entitled “Summary” that is also generated from our HR/Payroll system. This report lists the total number of employees as well as percentages. Several of the departments are grouped together on this report by organizational unit.
+4. A report entitled “Staff Complement by Title Listing Race.” This document lists each title, the total number of employees with that title and then breaks down the percentage of that title by race. The titles are sorted in descending order from the title with the highest pay grade to the title with the lowest pay grade.
+ 5. A report entitled “Staff Complement by Title Listing Race and Gender.” This report is identical to the report mentioned above in number three with the exception that gender has been added to this report.
+6. A report entitled “St. Louis County Library – List of New Hires by Location.” This report includes information about the candidates selected for all positions that were posted in this time frame. The report lists the hires by department or branch. I have indicated if a branch or department had no vacancies during that time frame.
+Dr. Beckwith said the Library has made a marked improvement for diversity since he joined the Board in 2007. He credits the Director with the improvement and said he appreciated her pro-activeness. However, he was not happy with the current results. He would like the branches to think about diversity when hiring. Dr. Beckwith is concerned that the branches do not accurately reflect the communities that they serve. Branches with 10% or less diversity were mentioned.
+Dr. Beckwith suggested contacting retired librarians from school districts. Ms. Sorth stated that the Library is making great efforts to attract minorities to all positions.  She stated that it is a team effort and all are working toward the same goal.
+PEST CONTROL
+Steve Hunter presented the Administration’s recommendation for pest control services at all 20 locations.
+On March 29, 2018 Library Administration issued an IFB for monthly preventative Pest Control services across all branches. Responses were due April 10, 2018. The IFB was posted on our website, an ad was placed in the Post-Dispatch, and 13 firms were contacted directly via email. One firm provided a response.
+Although only one firm responded, Administration is confident the Terminix response meets the requirements of the IFB. Their cost is competitive with the bids received the last time Pest Control was bid in 2016.
+The Library Board approved the Administration’s recommendation to select Terminix to provide preventative pest control services to the Library District for all 20 branches for the amount of $9,996 per year, and that it authorize the Director to enter into and execute a 3-year contract to that effect (Kenyon/Tai).
+ADJOURNMENT
+The Library Board adjourned at 4:32 p.m. (Mulligan/Tai). All gave voice approval.
+Respectfully yours,
+________________________                                    ______________________________
+Chingling Tai, Secretary                                             Date

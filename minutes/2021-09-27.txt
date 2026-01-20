@@ -1,0 +1,186 @@
+{
+  "name": "Regular Meeting",
+  "description": "Library Board",
+  "unique": "BX32557C78DA",
+  "date": "2021-09-27T00:00:00Z"
+}
+
+---
+
+ST. LOUIS COUNTY LIBRARY
+MEETING OF THE BOARD via ZOOM
+1640 SOUTH LINDBERGH BLVD.
+MONDAY, SEPTEMBER 27, 2021
+ 3:30 p.m.
+ATTENDANCE:
+Members present:
+Lynn Beckwith, Ed.D., President
+Johnny Wang, Vice-President via telephone
+Ted Sanditz, Treasurer
+Joan Barry, Secretary
+Deborah Patterson, Member
+ADMINISTRATORS AND GUESTS ATTENDING: Kristen Sorth, Director & CEO,  Eric Button, Deputy Director; Barbara Turkington, Assistant Director, Advancement; Laura Taylor, CFO, Gib Van Cleve, Assistant Director, ITS; Paul Hampel, St. Louis County, Chris Edwards, guest, Janet Katz, resident, and Lisa Stump, Lashly and Baer.
+OTHERS ATTENDING: Emily Althoff, Jacob Eubanks, Stephanie Nordmann Anne Arthur, Chris Goodman, Anne Bradley, Stephanie Nordmann, Mary Arnhart, Kim Ford, Kelli Reeves, Emma Figueroa, Matt Lakin, Carla Maxwell, Marie Conlin, Alaina Culbertson, Michelle Hawkins, Scott Holl, Nicole Clawson, Nicole Walsh, Aaron Loste, Miriam Whatley, Gina Sheridan, Keir Haug, Andrew Freshwater, Heather Neill, Rachel Nowell, Rebecca Clarke, Megan Phifer Davis, Sri Upadhya, Denise Chappell, Andrea Johnson, Danielle Nenninger and Sandra Williams.
+MINUTES
+The Library Board approved the August 16, 2021 minutes (Barry/Sanditz).
+PUBLIC COMMENTS
+Janet Katz asked to speak to the Board. Ms. Katz said she is an avid reader and would like a quiet area at all branches. She said she lives close to DB. She also pointed out that the walls of the quiet reading rooms in the branches are sterile white and the rooms do not have any books or other décor. She said she doesn’t care for it and shares that opinion with many patrons.  She asked that we please don't do that to this location.
+TREASURER'S REPORT
+Laura Taylor delivered the following report.
+Maintenance and Operating Fund Financial Statements:
+Revenue
+	District Taxes – In August, the Library District received tax revenue in the amount of $134,836.  Year-to-date, total tax revenue for 2021 is at 98% of the budgeted $59.7 million.
+	State Grants – In August, the Library District received $45,325 in grant payments from the State of Missouri.  This includes the first of three payments for the American Rescue Plan Act grant.  This initiative focuses on providing supplies and services to assist the community in responding directly and immediately to the pandemic. Funds will be used toward providing Chromebooks, St. Louis MetroMarket visits, access to additional eBook titles and a new patron database to assist with genealogical research.
+	CARES Act Grant – In August, the Library District received $25,000 in CARES Act grant revenue from the State Library.  This is the second and final payment towards the $50,000 CARES Act Grant.  Funds have been used to provide expanded Wi-Fi accessibility through the purchase of mobile routers for bookmobiles and the installation of greater Wi-Fi access points across Library branches.
+Expense
+· Technology – Maintenance Agreements – In August, the Library District incurred $48,215 in Technology – Maintenance Agreements expenses.  Notable expenses are as follows:
+o $25,470 for Smart Money Manager license renewal – Comprise Technologies Inc.
+o $12,850 for Chrome OS annual service renewal – Cumulus Global
+Capital Projects Fund Financial Statements
+Balance Sheet – 2016 Debt Issuance
+	Construction in Progress – Total Construction in Progress for August 2021 was $1,613,410.  The expenses included payments for:
+		Pay Application from Interior Construction Services for the construction performed through July 2021, at the Lynn Beckwith Jr. Administrative Building for $1,581,972.
+		Facilities Master Plan Administrator payment of $14,750.
+		Engineering professional services performed by Geotechnology at the Lynn Beckwith Jr. Administrative Building for $12,177.
+The Library Board approved the September 2021 Treasurer's Report subject to audit (Patterson/Barry).
+DIRECTOR AND CEO REPORT
+Director and CEO Kristen Sorth, reported the following.
+Library Update
+	Ms. Sorth shared the Dashboard report for August 2021.  Total circulation in August, 2021 was 37% higher than August, 2020; however, circulation is 17% lower this month than August of 2019, pre-pandemic.  Between August 1 and September 16, 16,358 patrons registered for a library card.  Over 11,000 of those were online-only library cards created for area school districts as part of the ConnectED program.  One hundred fifty-one library cards were created for patrons who live in new reciprocal districts, with the majority of those new patrons residing in Jefferson County Library District.   Information on PC usage, new patron registrations, virtual programming attendance and the most popular titles for the month are also included.  (Plan: Promote Literacy 1.1 and 1.2)
+	The Library will be honored as the 2021 Community Partner of the Year at Eye Thrive’s Spectacle Gala on October 1. For the past several years, the Library has fostered a strong partnership with Eye Thrive to enable hundreds of children to receive free eye exams and glasses through the Mobile Vision Clinic. During the pandemic, when Eye Thrive’s access to students through school visits was halted, the Library filled this important need as a site for vision screenings. (Plan: Sense of Community 2.1)
+	Ms. Sorth announced that beginning on October 5, and continuing every Tuesday and Thursday thereafter, the Lewis & Clark and Rock Road branches will host district staff from Congresswoman Cori Bush’s office. The representatives from her office will assist constituents with any issues or problems they have encountered. The meetings will be available on a walk-in basis from 9:00 a.m.-2:00 p.m., which aligns closely with the Rental Assistance program offered at these locations by St. Louis County.  We are also sharing information on Library programs and services with the Congresswoman’s office so they can be shared with her constituents. (Plan: Sense of Community 2.1)
+	A plan has been developed to begin offering free notary services to patrons at all Library locations. Patrons frequently inquire about this service, and it is one that several public libraries offer to their patrons.  When the service begins in the next few months, patrons will be able to visit any branch during all open library hours Monday-Friday, to have documents notarized. A company that specializes in certifying people as notaries will be selected to guide the Library through this process. (Plan: Sense of Community 1.4)
+	She said the Summer Reading Club ended on August 7.  While we have not yet returned to pre-pandemic participation levels, registrations were up by 31% from last year with 27,300 registrations and completions were up by 38%. (Plan: Promote Literacy 1.2)
+	Ms. Sorth was recently connected to the Bioscience Internship Coordinator at the Collegiate School of Medicine and Bioscience (CSMB) about a possible internship.  We are developing an internship for a CSMB student who has expressed an interest in librarianship. The internship will be coordinated by the Reference Department; however, we hope to incorporate exposure to many of the Library’s departments to provide a well-rounded experience that includes all aspects of public librarianship. (Plan: Sense of Community 1.3)
+	She announced that Adult Literacy Coordinator, Ricqui Brooks, has established a new virtual program series for individuals who wish to pursue their HiSET certification and do not qualify for the Library’s COHS program. The HiSET Academy is an online classroom for students looking for the flexibility of completing their high school equivalency test preparation virtually. While participants are able to access the learning software 24 hours a day/seven days a week, they will also meet weekly for group instruction. In addition, participants have access to online tutoring if they need additional help or are unable to attend the weekly meetings. This program is funded by the Institute of Museum and Library Services Project: Propagating Promising Practices (P3) grant. (Plan: Promote Literacy 3.2)
+	The Library is offering patrons a 100 Words Daily Writing Practice.  Sarah Jones, the Adult Programming Coordinator, designed the program to foster habits and instill confidence in new or rediscovered skills through brief but stimulating prompts.  Over 500 people signed up to receive these daily prompts, and halfway through the practice these prompts have had over 5,000 views. In addition to providing these daily writing opportunities, the practice also introduces participants to the creative writing materials in our collection, as well as other library resources and services. (Plan: Promote Literacy 3.4)
+	This October, patrons of all ages are invited to participate in the Fall into Fitness Challenge to earn prizes for physical activity. Patrons can pick up a log from a branch or go online to keep track of every mile walked or every 30 minutes of exercise. St. Louis County Parks has provided a list of 30 trails that can be completed in 30 minutes to encourage patrons to explore new spaces in our community. The trails are listed on the back of the log.  Prizes include hiking gear, water bottles, and gift cards. (Plan: Maximize Access 1.4)
+	Jennifer Gibson, Manager of Reference, was asked to write a chapter on the Library’s small business outreach for an American Library Association (ALA) book called 30 Libraries That Build Business.  (Plan: Maximize Access 3.5)
+	Ms. Sorth said we are expanding our partnership with St. Louis County Public Health to offer vaccination clinics at four branches at regular times and days of the week. The clinics started the week of September 20 and will continue through the rest of this year. (Plan: Sense of Community 2.1)
+			Library Branch
+			Weekly Clinic Schedule
+			Launch Date
+			Lewis & Clark
+			Wednesdays 1pm – 7pm
+			22 Sep
+			Natural Bridge
+			Thursdays 1pm – 7pm
+			23 Sep
+			Florissant Valley
+			Fridays 9am – 4pm
+			24 Sep
+			Rock Road
+			Saturdays 9am – 4pm
+			25 Sep
+	The Library continues to provide vital services to the region.  Here is a chart that shows our accomplishments as of September 24.  Thanks to Emily Althoff, Public Services Administrator, for continuing to compile these important statistics.  Emily recently redesigned the process, form and corresponding report to include real-time statistical information that is used for this report as well as grants, award applications and decision making on where to add programs and services.  The current chart below reflects data for 2021. (Plan: Sense of Community 2.1)
+	There were many mentions of the St. Louis County Library in the local media in print, radio and television.  Those articles are attached. (Plan: Maximize Access 3)
+	Ms. Sorth shared pictures from various events and programs that have taken place over the last month including: Free Comic Book Day at Meramec Valley, MetroMarket at Lewis & Clark, Fund the Need Food Truck Event at HQ, Grab and Go Meals at Indian Trails and Weber Road and Leonard Slatkin Reception and Author Event at HQ.  (Plan: Promote Literacy 3.4 and Sense of Community 2.1)
+Library Administrative Updates
+	Hicks-Carter-Hicks has completed the Community Conversations survey of the community as of September 10. They have begun the process of tabulating all of the data and writing their findings in a final report to be completed by mid-October.  (Plan: Sense of Community 1.1)
+	The Black History Celebration committee sponsored “Get the Scoop” from 6 -7 p.m. on September 2 at Florissant Valley, September 9 at Natural Bridge, September 16 at Lewis & Clark and September 23 at Indian Trails. Free scoops of ice cream were distributed to the first 100 patrons. Magnets reminding attendees of the Black History Celebration in 2022 and books from the St. Louis Black Authors of Children’s Literature were also distributed to all attendees. The events were very successful with 295 attendees.  (Plan: Sense of Community 2.3)
+	Flu Shots will be made available to employees again this year.  The Visiting Nurse Association will administer the flu shots to employees on September 30 at Florissant Valley, Daniel Boone, and Grant’s View and at HQ on the afternoon of October 1.
+	In August, Ms. Sorth was invited to attend the Community Case Review Class offered by St. Louis County Prosecutor, Wesley Bell’s Office.  The goal of the review is to improve transparency by providing community members with the opportunity to have a glimpse into the criminal justice process.  The region’s Major Case Squad presented the night I attended.  Prosecutor Bell asked me to discuss the Library’s mission and our work with the justice involved during the program.  There were many North County mayors and other community members in attendance. (Plan: Sense of Community 2.1 and 2.2)
+	The Library issued an RFQ for HR legal services in late August.  Responses were due on September 24.  A recommendation will be presented to the Library Board at the October Board Meeting.
+	She said the Library will begin offering ongoing staff training for all employees. Over the past year, we have solicited feedback from employees about ways to be better engaged in the workplace.  Training was regularly mentioned.  One of the ways we can increase confidence in the workforce is by offering training which leads to increased levels of engagement and an increased feeling of belonging.  The topics include technical and soft skills.  The training for the rest of 2021 will highlight using the Google Suite including Drive, Calendar and Sheets.  Additional training will continue in 2022 and beyond. (Plan: Sense of Community 1.3)
+	The Fall into Fitness Challenge for employees begins on October 1. Participating employees can log miles walked or minutes of physical activity during the month.  Employees who complete the challenge will be entered into a raffle. Five raffle winners will receive gift cards along with their choice of one fitness-related item.  This year, the challenge is more inclusive as it includes minutes of activities instead of just miles walked.  Thanks to the St. Louis County Library Foundation for supporting the Library’s employee engagement initiatives. (Plan: Sense of Community 1.3)
+	The Employee Engagement Committee has introduced a Pumpkin Decorating Contest for employees. Throughout the month of October, employees can submit pictures of their decorated pumpkins or their pumpkin display. Employees can work alone or with their branch or department and can carve or paint their designs. After submissions are closed, everyone will vote for their three favorite decorations. The first place winner will earn the pumpkin trophy and there will be gift cards for the first, second and third place winners. (Plan: Sense of Community 1.3)
+	In an effort to support new families arriving to the region from Afghanistan, Ms. Sorth said the Library started an employee donation drive to collect gift cards to send to the International Institute of St. Louis. The goal was set at $1000 and within 3 weeks, employees have donated over $3000. The donation drive concludes on October 8.
+Library Construction and Facility Updates
+	Ms. Sorth said on August 16, the Library Board awarded work to American Boiler & Mechanical for replacement of the boiler at the Florissant Valley Branch. The boiler has been received and will be installed this week. (Plan: Maximize Access 2.4)
+	On September 16, the Architectural Review Board for the City of Ladue approved the plans for the new Ladue branch. (Plan: Maximize Access 2)
+	ITS is working with Building Systems to upgrade 27 of the District’s oldest WiFi access points. The replacement units were purchased with funds received in a grant from the State Library. (Plan: Promote Literacy 3.3)
+	ITS has met with Charter at The Beck to kick off Charter’s fiber optic construction effort that will bring the wide area network and internet connections into the new building. (Plan: Promote Literacy 3.3)
+Library Foundation
+	Ms. Sorth announced that The Foundation’s Fund the Need event raised over $210,000.  The virtual event took place from August 23-27, 2021.  The week culminated with a parking lot food truck event at HQ.
+	She said the Leonard Slatkin author event and musical performance was a success. Mr. Slatkin was interviewed on stage by Mr. John Clare, CEO and General Manager of Classic 107.3 radio station. This event was the first in-person event at the Library in the last 18 months.  Almost 200 people attended the socially distanced event at HQ.  A VIP reception was held outside on the Library grounds. Gazelle Magazine was the media sponsor for the event.
+	The Library was recently notified of the following grant awards:
+		NASA @ My Library grant from ALA for a $1,600 stipend.  The Library is partnering with the St. Louis Astronomical Society and the Challenger Learning Center in St. Louis.  Only 60 libraries were selected in a very competitive process. NASA@ My Library is a STEM education initiative created to increase and enhance STEAM learning opportunities for library patrons throughout the nation, including geographic areas and populations currently underrepresented in STEAM education. Events will begin in November.
+		Citi, $30,000, for a partnership with the Urban League of Metropolitan St. Louis to support literacy efforts at their Head Start facility in St. Louis County.
+		Emerson, $50,000.  Of that, $10,000 is in support of the Foundation’s Fund the Need week and $40,000 is for the Storytelling Festival in 2022.
+Author Events (Plan: Promote Literacy 1.2)
+The Library offers Livestream author events and recordings with the following authors. They are posted on our website as well as the HEC Facebook link - facebook.com/hectv and then archived at hecmedia.org. We are promoting on our social media and sending eblasts that direct patrons to the HEC sites. HEC has also started simultaneously premiering the virtual author events on their TV channel to expand access to those individuals who do not have reliable internet access. (Plan: Promote Literacy 1.3)
+	Andrienne Young, author of, “The Last Legacy,” Sunday, September 26, 2:00 p.m. Video premiere on facebook.com/STLCoLibrary.
+	Bill Schutt, author of “Pump: A Natural History of the Heart,” Thursday, September 30, 7:00 p.m. Video premiere on www.facebook.com/STLCoLibrary.
+	Jackie Kay, author of "Bessie Smith: A Poet’s Biography of a Blues Legend," Tuesday, October 5, 7:00 p.m. Virtual video premiere on www.facebook.com/STLCoLibrary.  In conversation with Gerald Early, Washington University - Chair of African and African American Studies.
+	Andrea Elliott, author of "Invisible Child: Poverty, Survival, and Hope in an American City," Friday, October 8, 7:00 p.m. Video premiere: on www.facebook.com/STLCoLibrary. In conversation with Chris Krehmeyer, President/CEO of Beyond Housing.
+	N. West Moss, author of "Flesh & Blood: Reflections on Infertility, Family and Creating a Bountiful Life," Thursday, October 14, 7:00 p.m. Video premiere: on www.facebook.com/STLCoLibrary.
+	Roshani Chokshi, author of "The Bronzed Beasts: Gilded Wolves Series #3," Saturday, October 16, 2:00 p.m. Video premiere: on www.facebook.com/STLCoLibrary.
+	David S. Reynolds, author of "Abe: Abraham Lincoln in His Times," Monday, October 18, 7:00 p.m. Video premiere: on www.facebook.com/STLCoLibrary.  In conversation with Renowned Historian HW Brands.
+	Cynthia Branigan, author "The Last Diving Horse in America: Rescuing Gamal and Other Animals--Lessons in Living and Loving," Wednesday, October 20, 7:00 p.m. Video premiere: on www.facebook.com/STLCoLibrary.
+OLD BUSINESS
+NONE
+NEW BUSINESS
+CONSTRUCTION UPDATE
+Director and CEO Kristen Sorth, delivered the Construction report in the absence of Steve Hunter, Assistant Director of Operations.
+Ms. Sorth said that permanent power will be installed this week at the Beck Building in Frontenac. The parking lot is being prepped for paving.  The roof has been declared water tight and HVAC units are now in place.
+PEST CONTROL
+Facilities Specialist Kelli Reeves, delivered the following report.
+On June 24, 2021, Library Administration issued an IFB for monthly preventative Pest Control services across all branches. Responses were due July 8, 2021. The IFB was posted on our website, an ad was placed in the Post-Dispatch, and 17 firms were contacted directly via email. One firm provided a response:
+			Firm
+			Annual Cost
+			Pestshield
+			$23,520
+Pestshield’s references reported excellent experiences with the company. Their response meets all the requirements of the IFB.
+The Library Board approved Pestshield to provide preventative pest control services to the Library District for all 20 branches for the amount of $23,520 per year, and that it authorize the Director to enter into and execute a 3-year contract to that effect (Patterson/Barry).
+TAX RATE
+CFO Laura Taylor, reported the following.
+The Library Administration has reviewed the 2021 post Board of Equalization (BOE) property value assessments.  Property values have increased over prior year in total by 6.7%.
+The Board is reminded that the 2021 tax revenue, along with the surtax on commercial property, will provide approximately 97% of the cash income needed to operate in 2021. According to State Statute, the Board must set the 2021 tax rates by October 1, 2021.  Proposed tax rates, preliminary tax rates presented at the tax hearing in August 2021, and prior year tax rates are as follows:
+The above proposed tax rates are set at the ceiling and would provide approximately $56,900,000 in tax revenue for 2022.
+The Library Board approved of the Resolution which states the above proposed tax rates listed for all subclasses of real estate and personal property are assessed as the 2021 tax rates. If, after validation by the Missouri State Auditor, the tax rate ceiling allowed for any or all subclasses is less than or greater than the approved rate(s) the Director is hereby authorized to set the final rate(s) for the Library as validated by the State of Missouri Auditor. The revenue generated by these rates will allow the District to continue providing excellent service to our patrons and will provide for the repayment of debt from our issuance of Certificates of Participation in April, 2013 and September, 2016 (Patterson/Barry).
+BUDGET REVISION
+CFO Laura Taylor presented the Budget Revision document prepared by the Budget Committee members who are listed as follows: Kristen Sorth, Director & CEO; Eric Button, Deputy Director; Barbara Turkington, Assistant Director, Advancement; Gib Van Cleve, Assistant Director, ITS; Steve Hunter, Assistant Director, Operations; and Laura Taylor, Chief Financial Officer. The committee has reviewed the 2021 budget revision. Account changes are explained within the Budget Revision narrative and summary Statement of Revenues and Expenditures.
+The Library Board approved of the 2021 revised budget (Barry/Sanditz).
+AUTOMATED MATERIALS HANDLING
+Deputy Director Eric Button, reported the following.
+Administration is seeking approval for the purchase of an Automated Materials Handler (AMH) to be installed at the Lynn Beckwith Jr. Administrative Building.  The AMH will be used primarily to check in and sort new library materials as they get routed to branches.  This equipment will greatly streamline the workflow of the departments that add new materials to the Library’s collection.  The AMH will also offer future opportunities for increased efficiency in sorting library materials as they circulate throughout the system.
+SLCL installed its first AMH equipment at the Daniel Boone Branch in 2011.  In July 2014, a Request for Proposal (RFP) was issued to prepare for another AMH installation at the Grant’s View Branch.  The objective of that RFP was to identify the best vendor AMH solution for the Grant’s View location and establish this vendor as the preferred vendor for future AMH installations at the Library.  At the September 22, 2014 Board of Trustees meeting, the Board approved the selection of Lyngsoe Systems to provide the AMH at Grant’s View and other future installations at SLCL.  This recommendation was based on the superior design and performance of the product, and the fact that their future pricing for projects as needed reflected the lowest line item cost among the responders to the RFP.
+In preparation for the acquisition and installation of an AMH at the Lynn Beckwith Jr. Administrative Building, Administration solicited a design and pricing proposal from Lyngsoe Systems.  This 22-bin sorting system, with three staff induction points, is larger in size than the systems deployed at the Daniel Boone and Grant’s View branches.  The pricing received from Lyngsoe for equipment and installation is proportionally less expensive than the cost of the previous systems purchased through Lyngsoe Systems.  In addition to the equipment and installation cost, Lyngsoe Systems was asked to provide the annual maintenance costs for years 2-5 and years 6-10.  These costs are also in line with earlier pricing.  The pricing information can be seen in the table below
+			Vendor
+			Initial Cost
+			Support and Maintenance Years 2-5
+			Support and Maintenance Years 6-10
+			Ten Year Total Cost of Ownership
+			Lyngsoe Systems
+			$321,155
+			$79,033
+			$117,160
+			$517,348
+The Lyngsoe Systems proposal was reviewed and evaluated by a team composed of Steve Hunter, Kelli Reeves, and Eric Button.
+Library Administration recommends that the Board authorizes the Library Director to enter into and execute a contract with Lyngsoe Systems for the purchase and installation of an automated materials handling system at the Lynn Beckwith Jr. Administrative Building at a total cost of $321,155.  This expense is included in the overall project budget for the building and will be paid for with funds from the Certificates of Participation issued by the Library for Phase 2 of Your Library Renewed.  The Library Board approved the recommendation (Patterson/Barry).
+MEETING ROOM POLICY
+Deputy Director Eric Button, reported the following.
+Library Administration is seeking approval of revisions to the Meeting Room Policy.  The only proposed change to the policy is to eliminate the booking fees associated with a meeting room reservation.  Currently, unless an organization or business is tax supported, they are required to pay a fee of $10.00 for a reservation up to three hours in length.  The administrative efforts required to explain, assess, collect, and sometimes refund the fee, make the minimal fee an inconvenience for both employees and patrons.  In addition, removing the fee will reduce barriers for some organizations or groups who wish to use Library meeting rooms.
+A redline version of the proposed policy was provided as an attachment, along with a clean copy of the proposed policy.  In a typical pre-COVID year, meeting room fees generated approximately $37,000 annually in revenue.  This loss of potential revenue will be factored into the 2022 annual budget.  No meeting room fees have been collected since March 2020 and no revenue was budgeted in this area in 2021 due to COVID-19.
+The Library Board approved of the revisions to the Meeting Room Policy that remove the requirement for a reservation fee (Patterson/Barry).
+INTEGRATED LIBRARY SYSTEM
+Deputy Director Eric Button and Library Director and CEO Kristen Sorth, reported the following.
+Administration is seeking approval for the purchase of a shared Integrated Library System (ILS).  St. Louis County Library (SLCL) and St. Louis Public Library (SLPL) have a desire to expand upon their current collaborations by sharing a joint ILS.  The ILS is the backbone of a library’s operation used in the creation of patron accounts, ordering materials, and adding and managing records for library materials.  The ILS also tracks circulation transactions and provides a catalog for patrons to search for and access library materials.  By sharing an ILS, SLCL and SLPL will create a better user experience for patrons in our region and provide expanded access to materials in a seamless fashion.  Utilizing a shared ILS will also lay the groundwork for successful future collaborations between SLCL and SLPL and serve as a model for regional collaboration.  The final benefit of a shared ILS is that both SLCL and SLPL can realize financial savings as a result of the joint purchase of the system.
+SLCL and SLPL are currently using different vendors and products for the ILS.  In order to ensure that both libraries obtained the same system, with the greatest functionality, at the best possible price, a joint Request for Proposal (RFP) was drafted.  The RFP was reviewed by Lashly Baer prior to its issuance on June 1, 2021.  Responses were received from four vendors:  Equinox (Koha ILS), Innovative Interfaces Inc. (Polaris ILS) SirsiDynix (Symphony ILS), and The Library Corporation (CARL-X ILS).
+SLCL and SLPL teams independently reviewed and ranked the proposals.  Both libraries ranked the proposal issued by Innovative Interfaces Inc. (III) for the Polaris system as the best proposal.
+The pricing for Polaris will be split between SLCL and SLPL based on the recommendations submitted by III.  While both libraries will share the core Polaris ILS, SLCL has opted to add some features offered in the proposal which SLPL has declined at this time.  The added features include MOBIUS INN-Reach, Vega Interact, Vega Promote, and Vega Program.
+Making the shift from our current ILS (Sierra) to Polaris requires considerable work by SLCL and III to migrate the data from our old system to the new system.  The cost for this work is reflected in the implementation fee and the de-duplication fee.  We will begin the migration process soon after approval of the contract with Innovative Interfaces Inc.
+			Expense Description
+			SLCL
+			Annual Subscription
+			$193,000
+			Implementation (one-time expense)
+			$77,700
+			Backstage Library Works De-Duplication (one-time expense)
+			$12,150
+			INN-Reach (MOBIUS)
+			$15,300
+			Vega Interact, Promote, Program
+			$53,320
+			Year One expenses
+			$351,470
+Year one costs include those one-time expenses (in black) associated with the migration and system implementation.  The pricing for years 2-5 are locked in at an annual rate of $266,620.  This cost for years 2-5 is less than what SLCL pays annually for its current ILS.  During the implementation phase some additional costs will be incurred for travel for III personnel to provide in-person training in St. Louis.  Responsibility for these expenses, which will be based on actual costs and billed at a later date, will be shared with SLPL.
+Due to the unique nature of this arrangement between SLCL and SLPL, Lashly Baer has drafted a Memorandum of Understanding to be executed by both libraries to address issues pertaining to the shared ILS, pricing and payments, and other legal matters.
+Library Administration recommends the approval of Innovative Interfaces Inc. to provide a shared Polaris ILS at a year one total cost of $351,470 and subsequent annual subscription payments for Polaris and the associated products (shown in blue above) and that the Board authorizes the Library Director to enter into and execute contracts with Innovative Interfaces Inc. to provide the Polaris Integrated Library System for the Library District. This cost will be split between the 2021 Revised Budget and the 2022 Annual Budget. Additionally, Library Administration recommends that the Board authorize the Library Director to execute the Memorandum of Understanding related to the shared ILS with St. Louis Public Library.  The Library Board approved the recommendation. (Barry/Patterson).
+ADJOURN FOR EXECUTIVE SESSION
+Deborah Patterson motioned to adjourn the Open Session Meeting and to convene Executive Session to discuss legal matters (Section 610.021(1).  Joan Barry seconded the motion.  All voted in affirmative with voice approval.
+Aye: Lynn Beckwith, Ted Sanditz, Joan Barry, Johnny Wang, Deborah Patterson
+The meeting adjourned at 5:04 p.m.
+Respectfully submitted,
+_____________________                                                                  ______________
+Joan Barry                                                                                           Date                                               Secretary

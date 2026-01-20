@@ -1,0 +1,131 @@
+{
+  "name": "Regular Meeting",
+  "description": "Library Board",
+  "unique": "AHPNXJ6203C2",
+  "date": "2017-02-06T00:00:00Z"
+}
+
+---
+
+ST. LOUIS COUNTY LIBRARY DISTRICT
+MEETING OF THE BOARD
+HEADQUARTERS
+1640 SOUTH LINDBERGH BLVD.
+MONDAY, FEBRUARY 6, 2017
+The monthly meeting of the Board of the St. Louis County Library District was held at the Headquarters Branch, 1640 South Lindbergh Blvd., St. Louis, MO 63131 on Monday, February 6, 2017 at 3:30 p.m. The agenda had been posted in all branches of the Library District at least 24 hours before the meeting.
+ATTENDANCE:
+Library Board Members:
+Dr. Lynn Beckwith, President
+Edith Cunnane, Vice President, via telephone
+Elena Kenyon, Treasurer
+Dr. Chingling Tai, Secretary
+Mr. Michael Mulligan, Member
+ADMINISTRATORS AND GUESTS ATTENDING:
+Kristen Sorth, Library Director; Eric Button, Deputy Director; Barbara Turkington, Assistant Director, Advancement; Kris Mooney, Assistant Director, Administration; Steve Hunter, Assistant Director, Construction and Facilities; Gib Van Cleve, Assistant Director, ITS; Lori Everett, Bond Architects; and Lisa Stump, Attorney, Lashly Baer.
+OTHERS ATTENDING:
+Jennifer McBride, Laura Kasak, Lori Boschert, Denise Chappell, Julia Mangner, Alaina Culbertson, Katie Holland, Emily Althoff, Barb Reale, Cindy Schultz, Nicole Higginbotham, Donna Spaulding, Aaron Eller, Chasidy Allen, Cindy A. Miller, Allison Wisniewski, Lindsey Piech, Maureen Willmann, Meg Coyle, Natalia Catlett, Janelle Turner, Sarah Brown, Julie Cruise,  Mary Arnhart, Marsha Ramey, Crystal Harris, Sri Upadhya, Edith Isele, Roz Kohen, Andrea Johnson, Paul Bayless, Amy Hanaway, Lisa Haddox, Tiffany Davis, Conrad Rader, Anne Bradley, Keir Haug, Stacey Lewis, Annie Fuller, Deanna Davis, Anna Schurk, Sarah Wood, Anne Arthur, Marie Conlin, Lauren Benson, Stacy Berger, and Michael Cohen.
+MINUTES
+The Library Board approved the December 12, 2016 minutes (Tai/Kenyon).
+PUBLIC COMMENTS
+There were no public comments.
+TREASURER'S REPORT
+Kris Mooney reported that, in December, the Library District received in excess of $20 million dollars in tax revenue for the 2017 operating year. The Library projects to receive approximately $49 million in total tax revenue for 2017.
+In December, the Library District paid Geotechnology $3,500 to investigate the void issue in the parking lot at the Weber Road branch. Geotechnology determined that the cause was ground settlement post-construction and Freeman Contracting Co, Inc. made the necessary repairs for a total cost of $4,600.
+The Library District incurred $111,604 in IT equipment expenses in December. The purchases included laptops from Dell Marketing for Training, ITS, Shop, and Outreach Departments, as well as spares for replacements as needed at total cost of $37,184. This purchase was made on a negotiated cooperative contract. The Library District also bought a Nimble SAN array controller from Alexander Open Systems, LLC for $28,813. This item is for the Disaster Recovery site at Daniel Boone. This purchase was made on a negotiated cooperative contract.  Finally, new servers at a cost of $13,864 from Dell Marketing for the disaster recovery site at Daniel Boone. This purchase was made on a negotiated cooperative contract.
+Capital Projects Fund Balance Sheet
+Total Construction in Progress for December 2016 was $693,117. The expenses included payments for:
+	Construction Costs for Phase 1B(b) buildings (Sachs, Oak Bend, Natural Bridge, Prairie Commons, Cliff Cave) - $459,165
+	Phase II construction management services - $48,615
+	Design Costs for Phase II buildings (Bridgeton Trails, Florissant Valley, Grand Glaize) - $37,573
+	Design costs for Phase 1B(b) buildings (Sachs, Oak Bend, Natural Bridge, Prairie Commons, Cliff Cave) - $30,009
+The Library Board approved the Treasurer's Report subject to audit (Cunnane/Mulligan).
+DIRECTOR'S REPORT
+Ms. Sorth gave the following report.
+Library Update
+	Ms. Sorth stated that the dashboard report for February contains end of the year information about circulation, visits, programming, transactions, new patron registrations, and PC usage in 2016.  With various branches closed for construction during 2016, circulation was down 2.7%, visits were down 1.3%, and program attendance was up 10%.
+	Ms. Sorth shared that several of the newly opened branches are experiencing a welcome increase in visits from teens.  One example is Prairie Commons.  Shortly after reopening, a large amount of teens began using the branch after school every day, filling the teen area, two study rooms, and every table located around the branch, the laptop bar, and any nook or corner they could find to sit and not be in the way. It was decided to open up the meeting room, when it was available, to allow additional space for the teens. They enjoy having a larger space to spread out.  There are always games available to them, occasionally formal programming and in February there will be additional activities. Prairie Commons has between 10-30 teens in the meeting room daily and additional teens scattered around the branch. (Plan: Create Gathering Spaces 1)
+	With a grant from Citi, the Library brought the ConnectED Library Card Challenge to the Normandy Kindergarten Center at two assemblies on December 13th.  Juggling Jeff performed, teachers received a classroom set of brand new books and each child received his/her own new book along with a library card.  There were 1964 total cards created for the school district and 295 kindergarteners received their cards that morning.  (Plan: Sense of Community 3.3)
+	Ms. Sorth shared that next week, she and Alaina Culbertson will be attending a discussion at Operation Food Search entitled Hunger Hurts: Hunger and Food Deserts in St. Louis.  They were asked to attend because of the summer free lunch program.  (Plan: Sense of Community 1.2 and 2.2)
+	Last month Ms. Sorth mentioned that Crystal Harris, Manager of Outreach, has made several suggestions regarding bookmobile service.  One of these suggestions involves the expansion of Sweet Reads outside of Spanish Lake and an additional focus on serving teens and young adults.  These visits started in the fall and include the Center for Youth on the Rise, PROBE School located in the Ferguson-Florissant School District, SCOPE School located in the Mehlville School District, and the St. Louis Job Corps Center.  Programming opportunities during the visits are currently under exploration as are additional places to visit.  (Plan: Sense of Community 3.2)
+	Ms. Sorth shared that the Library received an award from the Town & Country – Frontenac Chamber of Commerce.  The Library was recognized with the Community Outreach Award for our contribution to the community and to the Chamber.  (Plan: Sense of Community 3.3)
+	The Electronic Resources Committee has conducted a complete review of the Library’s current database usage and coverage.  When looking at all of our databases, the committee considered the number of times a database was accessed, the price, the ease of use, and the average cost per use.  The committee also considered whether the same information was available for free online or in other databases.  The committee identified a list of databases that will not be renewed in 2017 for a savings of $109,780.
+	The 2017 Library Budget included an upgrade from Millennium to Sierra for the Library’s catalog and other related services. The Library has been assigned a Project Manager for the migration.  The disruption to both employees and patrons should be minimal but there are two scheduled downtimes during migration.  We are currently scheduled to go live with Sierra on March 16.
+	Plans for the second Little Readers’ Festival are underway.  The event will take place on September 23rd.  PNC’s Mobile Learning Adventure is confirmed for that date.  The Youth Services Department is working on programming and services for the event.  (Plan: Increase Literacy 3.4)
+	The Black History Celebration kicked off Friday, January 27th with a wonderful event featuring Bernice King, daughter of Martin Luther King, Jr. and Coretta Scott King.  Over 700 people attended the event at HQ.  (Plan: Sense of Community 2.3)
+	A new computer class program for youth called Coding 101 will be offered this year.  Participants will be able to use the Google CS First platform to do some scratch coding.  Participants who attend all of the sessions will receive a free Chromebook.  Funding for this program is provided by the SLCL Foundation.  The first session filled up quickly and will take place from February 7 – March 28 at Natural Bridge. (Plan: Increase Literacy 3.1)
+	The Nine Network has approached Adult Programming about hosting their Community Conversation discussions at several branches.  St. Louis Public Library will also host.  Their goal is to find out what is important to community members.  Data collected will be shared with the Library. (Plan: Sense of Community 1.2)
+	The Library will purchase 50 charging cords for electronic devices and distribute two per branch initially.  These cords have several different types of USB connections for the various models of phones and tablets that patrons may have.  The cords will be circulated for in-house, same-day use following the same procedures used for the AV kits.  Facilities under construction or those yet to be renovated will also include several strategically placed outlets that have USB charging connections built in.  These will be placed in popular locations such as the laptop bars.  Some retrospective additions of these may be possible as well for those locations that already opened. (Plan: Create Gathering Spaces 1.2)
+	In October, Ms. Sorth presented at the Urban Libraries Council’s (ULC) annual meeting.   Her presentation was on a library’s role in maintaining healthy sustainable communities.  Ms. Sorth has been asked to present an expanded version of my presentation in a webinar in March for the ULC membership.  Jason Purnell, author of the For the Sake of All report, and Becky Hatter, CEO of Big Brothers Big Sisters, will also present.  In addition, Ms. Sorth has been invited to attend a Racial Equity Work Group Meeting in Washington, D.C. in March.  ULC has invited 20 library leaders from the U.S. and Canada to be part of this work group. (Plan: Sense of Community 2)
+	There were many mentions of the St. Louis County Library in the local media in print, radio and television, including the Sensory Story Time program.  Ms. Sorth shared these articles with the Board. (Plan: Strengthen Sense of Community 1.2)
+	Ms. Sorth shared a number of photographs with the Board from several programs and events including: We Are St. Louis, Cooks Club; Holiday Bake Off at Cliff Cave, Extreme Gingerbread Challenge at Sachs, Gift of Reading Story Time at Natural Bridge, STArt; Masks at Rock Road, New Years at Noon at HQ, and Mind Your Business: Perfect Pitch at Natural Bridge. (Plan: Increase Literacy 1 and Sense of Community 2.3)
+Library Employee Update
+	Work on the Library’s new website is progressing.  Jennifer McBride is currently working on content entry which is very labor intensive.  The new website is on track to be launched in March 2017. (Plan: Increase Literacy 3.3)
+	Ms. Sorth commented that there have been quite a few recent changes in branch managers and assistant branch managers.  With the restructuring that took place after Barbara Brain’s retirement in August, several managers have changed positions and branches.  Ms. Sorth shared the current list of Branch Managers and Assistant Branch Managers with the Board.
+	The St. Charles City-County Library requested a customer service training session by the Library’s Training Department.  The training took place in January and we have received a $200 honorarium for the training.  (Plan: Sense of Community 1)
+	On January 23, 2017, the Customer Connect Department of eight people received a record breaking 728 calls before 1:00 p.m.  In fact, there were so many calls that our phone system was temporarily overwhelmed.  This was the day that registration for the AARP tax assistance meetings began.  These meetings are held at various branches and HQ. (Plan: Sense of Community 1)
+	Library Advocacy Day is February 7, 2016.  Emily Althoff is leading a team of eleven managers to Jefferson City to meet with the Library’s elected officials.  One topic that will be discussed is state funding for public libraries.  The proposed cuts for Missouri’s public libraries in 2017 are significant.
+		On January 16, 2017, Governor Greitens announced additional restrictions of over $146 million in state funds. Regarding public libraries, the list included $500,000 from State Aid, and $105,000 from the Athletes and Entertainers Tax Fund. These amounts are what remained of the increases to those appropriations as approved by the Legislature for FY17. In July 2016, $1.5 million of the State Aid appropriation and $105,000 of the Athletes and Entertainers Tax Fund appropriation were restricted.
+	The additional restrictions for State Aid reduce the total amount available for distribution to public libraries to $723,776. Of this amount, after subtracting the funds distributed as Quarter 1 and 2 Per Capita and Equalization payments in fall 2016, only $111,888 remains. Those funds will be allocated to Per Capita payments only, to be distributed in April 2017. Unless funds are released, no further Equalization payments will be made to the 57 qualifying districts. The $105,000 restriction from the Athletes and Entertainers Tax Fund reduces the amount available for distribution to $800,000. Of this amount, $347,500 remains to be distributed in April 2017 as Quarter 3 and 4 payments.
+Library Construction and Facility Update
+	A sign will be added at HQ to better identify the non-fiction area.  The sign will be double-sided and will hang perpendicular to the entrance of the space.  It will identify both the location of the History and Genealogy Department and the non-fiction collection.  Another sign will be located on the wall and will list the collection of that area including non-fiction, large print, science fiction, and westerns. (Plan: Create Gathering Spaces 2.2)
+	The circulation desk at Lewis and Clark will be modified to assist with workflow at the desk.  This change will allow the employees to better assist the patrons.  (Plan: Create Gathering Spaces 2.2)
+	Additional lighting will be added to several areas at the Sachs Branch to improve the space in the evening.  (Plan: Create Gathering Spaces 1.3)
+	A new public water fountain has been installed in the south entry at HQ.  The water fountain has a bottle filling option as do all of the water fountains at the new or renovated branches.
+Library Foundation
+	Ms. Sorth shared the 2016 statistics for the Library’s author series. The Library hosted 101 authors with 17,188 people attending these events.  This is a record-breaking number of authors in a year and 2017 looks to be just as impressive with 27 authors scheduled for the first quarter of this year.  Diane Rehm and Markus Zusak were the biggest author events of 2016.  (Plan: Increase Literacy 2.1)
+	Carol Rohrbach, the widow of Lewis Rohrbach, has agreed to make a $75,000 gift to the Foundation.  The gift will be used for an archival area in the new HQ building as part of the History and Genealogy Department.  The Foundation Board will review and vote on the donation in February and will make a recommendation to the Library Board for the naming of the area at the March Board Meeting.  (Plan: Increase Literacy 3.2)
+	The Foundation has started work on their strategic plan.  Foundation Board Members have received a survey that will be used by the Strategic Planning Action Committee to revise the Plan.
+	The Foundation will review a change to the Friends Membership in February. Currently, a Friend at the $50 level may reserve a seat at author events.  The proposal is to raise the seat reservation benefit to the $85 membership level.
+Author Events
+	Kaitlyn Greenidge, “We Love You, Charlie Freeman”, Monday, February 6, 7:00 p.m., Library Headquarters – Auditorium.
+	Reed Farrel Coleman, “What You Break”, Wednesday, February 8, 7:00 p.m., Library Headquarters – Auditorium.
+	Danielle Ofri, M.D., “What Patients Say, What Doctors Hear”, Monday, February 13, 7:00 p.m., Library Headquarters – Auditorium.
+	A Celebration of British Suspense with Deborah Crombie and Charles Todd, Wednesday, February 15, 7:00 p.m., Library Headquarters – Auditorium.
+	Elliot Ackerman, “Dark at the Crossing”, Tuesday, February 21, 7:00 p.m., Library Headquarters – Auditorium.
+	Dr. Stefan Bradley and De Nichols present The Black Experience: Specializing in the Art of the Impossible, Thursday, February 23, 6:30 p.m., Library Headquarters – Auditorium.
+	Lydia Reeder, “The Dust Bowl girls:  A Team’s Quest for Basketball Glory”, Thursday, March 2, 7:00 p.m., Library Headquarters – Auditorium.
+	Sarah Jio, “Always”, Monday, March 6, 7:00 p.m., Library Headquarters – Auditorium.
+	Beth Kobliner, “Make Your Kid a Money Genius (Even If You’re Not): A Parents’ Guide for Kids 3 to 23”, Monday, March 13, 7:00 p.m., Library Headquarters –Auditorium.
+Dr. Beckwith shared that he has been on the Board since 2007 and he believes this is the best year of programming for the Black History Celebration.  He complimented the Black History Committee and the branch managers and assistant managers.
+NEW BUSINESS
+DESIGNS FOR GRAND GLAIZE
+Lori Everett from Bond Architects gave a PowerPoint presentation on the renovation design for the Grand Glaize Branch.
+CONSTRUCTION REPORT
+Steve Hunter gave an update on the Phase 2A renovation projects. Branches included in this phase are Daniel Boone, Bridgeton Trails, and Florissant Valley.  Mr. Hunter reported that the minority workforce participation for the projects is 21.3%.
+Bridgeton Trails has completed framing and the dry wall is being hung.
+There has been a new roof installed at Florissant Valley and there will be extensive tree removal taking place on the north side of the branch. There are a total of 16 trees that need to be removed and they will be replanted away from the power lines.
+Daniel Boone is on schedule to reopen around Labor Day.  The steel for the expansion has been installed and the upstairs is completely framed out. There will also be a new stairway installed in the addition to the branch.
+Currently, the plan is to open Bridgeton Trails and Florissant Valley this summer and Daniel Boone in early fall. Afterwards, Mid County, Grand Glaize, and Thornhill will close. In January 2019, Headquarters is expected to close.
+ADULT SERVICES REPORT
+Stacey Lewis, Adult Programming Manager, gave a PowerPoint presentation on the Adult Services Department.
+Ms. Lewis presented to the Board last year and since then the Adult Services Department has increased from one person to three.  Adult Programming Specialist Denise Chappell and Adult Programming Assistant Janelle Turner are the two newest members of the department.
+Last year, Ms. Lewis reported about new plans for adult programming, and this year she gave an update on these plans.  With a variety of new adult programs, the department has achieved many of the goals of the Strategic Plan.  For example, through new programs they have fulfilled the goal of increasing literacy and social connectedness.  This includes programming for those learning English as a second language.  The department has developed strong community partnerships with many organizations.
+Ms. Lewis said she is very proud to offer programming to the many unique cultures of the St. Louis community through the We Are St. Louis program series. In the upcoming months, there will be a Chinese Heritage program and the department is working on an Irish Heritage program.  The previous five programs have been very successful and there have been a total of about 500 attendees.
+In 2017, the department has a goal to capture patrons in their 20s and 30s. Ms. Lewis shared that this age demographic is underserved at the Library. Some other goals are creating programs involving career exploration, and concerts and yoga programs in the community gardens.
+Elena Kenyon thanked Ms. Lewis for the We Are St. Louis: Mexican Heritage program and said the program was very well organized.
+FURNITURE AND SHELVING SELECTION FOR PHASE 2A PROJECTS
+Steve Hunter presented the Administration’s recommendation for Furniture and Shelving selections for Phase 2A projects.
+Mr. Hunter reported that furniture and shelving bid packages for the Phase 2A branch renovation projects (Bridgeton Trails, Daniel Boone, and Florissant Valley) were released to the public as a combined offering on January 17, 2017.
+Bid packages were developed exclusively around open lines. Bidders were invited to bid on shelving, furniture, or both as long as the bids included all three branches. The bid was posted in the St. Louis Post-Dispatch and on the Library website. In addition, seventeen local furniture firms, including eleven which are M/WBE certified, were contacted directly. Two qualified responses were received by the time of the public bid opening on January 27, 2017.
+All requirements of the Library’s bid procedure were followed. In accordance with that procedure, Administration is recommending the lowest and best bid for each component of this work package.
+The Library Board approved the recommendation of Color-Art Integrated Interiors for Shelving at three branches for a price of a $369,345.68. The Library Board also approved the recommendation of CI Select for Furniture at the three branches for a price of $928,724.99 and the Board authorized the Director to enter into and execute contracts to that effect. The combined cost for all shelving and furniture for these three branches is $1,298,070.67. (Kenyon/Tai)
+INVESTMENT OF 2017 OPERATING FUNDS
+Kris Mooney presented the Administration’s recommendation for the selection of Commerce Bank for investment of the $34 million of 2017 operating funds.
+Mr. Mooney shared the results of the Library’s Request for Investment Rates with the Board.
+The Library Board approved the selection of Commerce Bank who returned the highest total rate of return at .683% for the entire portfolio (Mulligan/Tai).
+INVESTMENT OF FUNDS FROM 2016 DEBT ISSUANCE
+Kris Mooney presented the Administration’s recommendation for the selection of Commerce Bank for investment of $60 million of the $79 million in process received from the Library District’s September 2016 debt issuance.
+Mr. Mooney shared the results from the Library’s Request for Investment Rates with the Board.
+The Library Board approved the recommendation for the selection of Commerce Bank who returned the highest total rate of return at 1.008% for the entire portfolio (Cunnane/Tai).
+AMENDMENT TO COLLIERS CONTRACT
+Steve Hunter presented the Administration’s recommendation to amend the contract with Colliers.
+Mr. Hunter reported that construction on the Headquarters building is scheduled to start in early 2019.  Prior to closure, the Library will identify and lease a temporary space that will house current HQ employees working in a non-public service capacity, the History and Genealogy Department, Customer Connect, and some Reference Department employees while Headquarters is closed for construction.
+Colliers’ original contract for real estate brokerage services included assistance with identifying a permanent operations center.  Mr. Hunter shared an amendment with the Board that modifies this contract by re-defining their engagement to the identification of a leased temporary location.
+The Library Board approved the recommendation for the Third Amendment to the Exclusive Real Estate Brokerage Services Representation Agreement between the St. Louis County Library District and Colliers International St. Louis, LLC. This amendment will allow Colliers to assist in the identification of a temporary operations center to be used during the closure of Headquarters (Mulligan/Kenyon).
+ADJOURNMENT
+Edith Cunnane motioned to adjourn and Dr. Tai seconded.  Board members all gave voice consent.
+Aye: Edith Cunnane, Dr. Chingling Tai, Elena G Kenyon, Michael Mulligan, Dr. Lynn Beckwith
+The board adjourned at 4:37 p.m.
+Respectfully submitted,
+_____________________________                          _________________________
+Chingling Tai, Secretary                                                         Date

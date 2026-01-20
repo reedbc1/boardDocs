@@ -1,0 +1,136 @@
+{
+  "name": "Regular Meeting",
+  "description": "Library Board",
+  "unique": "AHPPY3620E99",
+  "date": "2017-06-19T00:00:00Z"
+}
+
+---
+
+ST. LOUIS COUNTY LIBRARY DISTRICT
+MEETING OF THE BOARD
+HEADQUARTERS
+1640 SOUTH LINDBERGH BLVD.
+MONDAY, JUNE 19, 2017
+The monthly meeting of the Board of the St. Louis County Library District was held at the Headquarters Branch, 1640 South Lindbergh Blvd., St. Louis, MO 63131 on Monday, June 19, 2017 at 3:30 p.m. The agenda had been posted in all branches of the Library District at least 24 hours before the meeting.
+ATTENDANCE:
+Library Board Members:
+Dr. Lynn Beckwith, President
+Edith Cunnane, Vice President
+Dr. Chingling Tai, Secretary
+Elena Kenyon, Treasurer
+Michael Mulligan, Member
+ADMINISTRATORS AND GUESTS ATTENDING:
+Kristen Sorth, Library Director; Eric Button, Deputy Director; Barbara Turkington, Assistant Director, Advancement; Kris Mooney, Assistant Director, Administration; Gib Van Cleve, Assistant Director, ITS;  Lisa Stump, Attorney, Lashly & Baer; Michael Hanson, Daniel & Henry; and Gwen Knight, Colliers.
+OTHERS ATTENDING:
+Amy Gibbons, Tracy Fletcher, Laura Kasak, Annie Fuller, Jennifer McBride, Scott Holl, Stacey Lewis, Sarah Brown, Michelle Sawicki, Emily Althoff, Andrea Johnson, Mary Meyer, Crystal Harris, Gina Sheridan, Sarah Wood, Catherine Hill, Rebecca Clark, Donna Spaulding, Michael Cohen, Sri Upadhya, Lindsey Piech, Anne Arthur, Katie Holland, Marlee Keeven, Marie Conlin, Amy Hanaway, Natalia Catlett, Mary Arnhart, Lauren Striebel, Carla Maxwell, Kelli Reeves, Aaron Eller, Hannah Komasinki, Nicole Higginbotham, Chasidy Allen, Stacy Berger, Connie Dee, Nicole Clawson, Kathy Wiese, Megan Coyle, Julie Cruise, Barb Reale, Edith Isele, Jake Eubanks, Ross Brand and Sandy Williams.
+MINUTES
+The Library Board approved the May 22, 2017 minutes (Cunnane/Kenyon).
+PUBLIC COMMENTS
+There were no public comments.
+TREASURER’S REPORT
+Kris Mooney reported that the Collector of Revenue’s office released the 2016 taxes paid under protest and the Library District received just under $6.6 million in revenue. The Library District has reached 99% of the budgeted current year tax revenue for 2017.
+In May, the Library District received a Summer Library Program grant in the amount of $10,000 to help offset the costs incurred for the Summer Reading Club.
+The Library District paid for the Sierra annual software maintenance with the Integrated Library System vendor, Innovative Interfaces Incorporated, at a pro-rated cost of $100,655 for the remaining months of 2017. Additionally, $65,946 was paid to Innovative Interfaces Incorporated for services related to the migration from Millennium to Sierra as approved by the Library Board at the December 12, 2016 Board Meeting.
+The Library District paid Suntrup Ford $6,810 to replace the engine in a 2011 Ford E-350 Van.
+Also, the Library District paid Lou Fusz $17,395 to purchase a new GMC Sierra and $23,018 for a new Dodge Grand Caravan for the Library fleet. The new vehicles are replacements for a 2007 Ford Focus and a 2008 E-350 Ford pickup, which were traded in to offset the cost. This purchase was approved at the March 20, 2017 Board Meeting.
+Capital Projects Fund Financial Statements
+Total Construction in Progress for May 2017 was $5,386,430. The expenses included payments for:
+	Construction costs for Phase 2a buildings (Bridgeton Trails, Florissant Valley, Daniel Boone) - $4,696,695
+	Design costs for all Phase 2 buildings (Bridgeton Trails, Florissant Valley, Daniel Boone, Thornhill, Grand Glaize, Meramec Valley) - $320,408
+	Construction management services for Phase 2A buildings - $133,420
+	Design costs for Mid County - $87,923
+	Technology costs for Phase 2a buildings - $61,570
+		Facilities Master Plan Administrator - $34,980
+The Library Board approved the June 2017 Treasurer's Report subject to audit (Cunnane/ Mulligan).
+DIRECTOR’S REPORT
+Kristen Sorth gave the following report.
+Library Update
+	Ms. Sorth stated that the dashboard report for June contains a variety of statistical information about circulation, visits, programming, and outreach. The report was shared with the Board. With various branches closed for construction, circulation and visits for May are up almost 3% and program attendance is up 1.5%.  Several branches saw significant increases in circulation again this month including Jamestown Bluffs by 56% and Rock Road by 45%.  The report also included information about the most popular items in the collection.
+	Ms. Sorth shared there was a delay in the receipt of federal LSTA funds to the states. The funds have now been released and we received notice that our Racing to Read grant for the production of new Rhythm and Tunes videos for parents and children can proceed. Originally, we were awarded $20,000 for the production of these videos and to provide early literacy events for families and caregivers. With the updated announcement, we were informed that the State Library was willing to fund the entire budget of $22,905 if we agreed to provide the videos to all Missouri libraries to help support the State’s Racing to Read programming. (Plan: Increase Literacy 1)
+	The Summer Reading Club kickoff parties were a huge success. The Library had 1,050 people attend at Grant’s View, 1,200 people at Grand Glaize, 600 people at Prairie Commons, and almost 400 people at HQ.  (Plan: Increase Literacy 1.3)
+	On May 12th, Ms. Sorth visited the new Beyond Housing headquarters. Ms. Sorth toured the facility with President and CEO Chris Krehmeyer and Randy Weller from Citi. The Library has worked with Beyond Housing on several projects and we discussed ways to expand our partnership. (Plan: Strengthen Sense of Community 2.2)
+	The summer lunch program, in partnership with Operation Food Search, started on June 5 at Indian Trails, Jamestown Bluffs, Lewis & Clark, Natural Bridge, Prairie Commons, Rock Road and Weber Road. From June 5 – August 11, these branches will offer a nutritious lunch along with activities for kids from 12:00-1:00 p.m. Monday - Friday.  Ms. Sorth attended and spoke about the success of the program at a media event held at Operation Food Search on June 5. This year, the Library has a promotional slideshow running during lunch that includes information about library programs and services. On Fridays, those children attending will get pizza as a special treat. Pizza Fridays are sponsored by the Foundation and several other donors. So far this year, we have served 3003 lunches. This year, the Foundation is also sponsoring Operation Backpack. On Thursdays, families will receive a bag of food to take home for the weekend.  In addition, Operation Food Search received a grant to purchase refrigerators to immediately store the meals and milk in a more temperature controlled environment. They have offered the refrigerators to us and we will be using them at four of the seven summer lunch sites.  The Library has received quite a bit of media attention this year for the program. (Plan: Strengthen Sense of Community 2)
+	The Communications Department is working on several projects. They have developed a new early literacy eNewsletter for Born to Read families. The eBlast contains early literacy tips and mentions various Library programs and services. In addition, we will be sending lapsed patron emails to those individuals that have not used their library cards in the last year. We did this in 2016 with much success. Ms. Sorth reminded the Board that she mentioned in a previous Board Meeting, that the Library is participating in a joint media campaign with St. Louis Public Library. The campaign will be called “My Card. My Way” and will feature a series of television commercials focusing on the wide variety of programs and services offered by the two library districts, such as eMedia, genealogy research, online learning and small business resources. The Library has signed a support contract with Interpersonal Frequency to address some outstanding issues with the new website. (Plan: Strengthen Sense of Community 1.2)
+	On the morning of June 28, the Library's Encore catalog will be unavailable from 10:00 a.m. to 1:00 p.m., as it is upgraded to a new hosted server. The Sierra checkout system and the classic catalog will remain up and running the entire time. A message will be posted to the Library home page and the catalog homepage the day before, informing patrons that they should use the classic catalog while the Encore catalog is down for maintenance. (Plan: Increase Literacy 3.3)
+	Ms. Sorth reported that the Overdrive Digital Bookmobile was at HQ on Friday, June 16th.  The Digital Bookmobile is on a national tour to promote downloadable resources including eBooks, eAudiobooks and movies. Patrons can board the Digital Bookmobile and learn about borrowing digital items from the Library. The bookmobile includes a Gadget Gallery with a variety of devices which can be used to borrow electronic items.  Interactive learning stations encourage visitors to search the library’s digital media collection. (Plan: Increase Literacy 3.3)
+	When Eric Button and Ms. Sorth met with St. Louis Economic Development’s Promise Zone team, we discussed the further expansion of the Library’s Recycled Reads Program in the Promise Zones within St. Louis County.  This will take place in late summer. The Partnership is planning for a total of 25 outdoor Recycled Reads locations in the Promise Zone in St. Louis County. The outdoor boxes that will house the books will be constructed ahead of time and the Library will host events where patrons can come decorate the boxes. In addition, a book drive will take place in July and all SLCL locations will be a drop-off site for donations. The Library is also working with St. Louis County Government to bring Recycled Reads to four County facilities. The kickoff for this expansion will take place on June 21 in the Administrative Building in Clayton. (Plan: Sense of Community 2.2)
+	Ms. Sorth announced that the Library received the 2017 Award of Merit for the We Are St. Louis program from the American Association for State and Local History (AASLH).  This is the nation's most prestigious competition for recognition of achievement in state and local history.  Earlier this year we were encouraged by our partners on the We Are St. Louis project from St. Louis County Parks to apply for this award. The application process was quite involved and included letters of critical review. Ms. Sorth asked Anna Crosslin, President and CEO of the International Institute, to write one of the reviews and Stacey Lewis asked Deborah Cohen, Associate Professor of History and Director of Latina-Latino Studies at UMSL, to write the other review. Ms. Sorth shared the Library is thrilled about the award and so proud of the efforts of Stacey Lewis and her team in Adult Programming. Stacey Lewis, Manager of Adult Programming, will attend the award ceremony in Austin, Texas in September. (Plan: Sense of Community 1.2)
+	There were mentions of the St. Louis County Library in the local media in print, radio and television. Those articles were shared with the Board. (Plan: Sense of Community 1.2)
+	Ms. Sorth shared a number of great photos with the Board from several programs and events including: Author Yaa Gyasi at HQ, Family Science Night at Jamestown Bluffs, Listen Up STL Live at Sachs, Lego Build at Grant’s View, Coding 101 at Rock Road, author Mo Willems at HQ, STArt; Hamilton at Lewis & Clark, Garden Festival at Prairie Commons, and Cutthroat Kitchen at Oak Bend. (Plan: Increase Literacy 1 and Sense of Community 2.3)
+Library Administrative Updates
+	Ms. Sorth announced that flu shots for employees have been scheduled for September 28 and 29. The Visiting Nurse Association will administer the shots this year.
+	Open enrollment for all employee insurance benefits will take place from June 30 – July 14. The Library Board will review employee insurance benefit recommendations later in the meeting. Informational meetings regarding open enrollment have been scheduled for employees.
+Library Construction and Facility Update
+	Ms. Sorth explained the RFP for Phase 3 Construction Manager was posted on the Library’s website on June 12. The proposals are due July 14 and a recommendation to the Board will be made at the August or September Board Meeting. (Plan: Create Gathering Spaces)
+	As both Steve Hunter and Ms. Sorth have mentioned in previous reports, the fire protection system at HQ is deteriorating with leaks visible in the tunnel. Unfortunately, the deterioration is progressing and other leaks are now occurring. Administration asked engineering firm IMEG for assistance. They visited the site and reviewed the problem with our Building Systems staff. We have chosen to bypass the entire pipe with new pipe that runs above ground, inside the downstairs hallways. We solicited bids for this work and it will begin in the next month or so. In addition, a separate leak was identified in the mechanical room. That leak was fixed during the week of June 12.  (Plan: Create Gathering Spaces 1.3)
+	The Bridgeton Trails Branch opened on June 13. Patrons were waiting outside and were thrilled to see their newly renovated branch. 1,044 people visited the branch on its opening day. (Plan: Create Gathering Spaces)
+	Plans are underway for the closure of Grand Glaize, Thornhill and Mid-County. Employees at those branches will be reassigned during the closures and the collections will be stored. (Plan: Create Gathering Spaces)
+Library Foundation
+	Ms. Sorth announced that on July 22, St. Louis native and award winning actor Jon Hamm will discuss his local roots and storytelling through film and television during an onstage interview at HQ with bestselling author, Curtis Sittenfeld.  The event will benefit the Career Online High School program. Tickets to the event went on sale June 7 and sold out in five minutes. There will be a private fundraising event as well.
+Author Events
+	Victoria Bruce w/ Jim Kennedy, "Sellout", Monday, June 19, 6:30 p.m., Headquarters.
+	Janet Evanovich, "Dangerous Minds", Saturday, June 24, 7:00 p.m., Headquarters.
+	Amy Young, "A New Friend for Sparkle", Saturday, July 1, 10:00 a.m., Headquarters.
+	Don Winslow, "The Force", Thursday, July 6, 7:00 p.m., Headquarters.
+	Roxane Gay, "Hunger", Saturday, July 8, 7:00 p.m., Headquarters.
+	Matthew Quick, "The Reason You're Alive", Tuesday, July 11, 7:00 p.m., Headquarters.
+	Adriana Trigiani, "Kiss Carlo", Thursday, July 13, 7:00 p.m., Headquarters.
+Dr. Beckwith complimented Library Planner Marie Conlin for her diligence in acquiring grants for the Library. He also mentioned that the St. Louis Post Dispatch is offering sunglasses for the upcoming solar eclipse.
+NEW BUSINESS
+CONSTRUCTION UPDATE
+Ms. Sorth reported on the construction progress of the branches.
+Ms. Sorth shared a timeline of the opening and closing of the branches. She also discussed the interior progress of Florissant Valley and Daniel Boone branches. Pictures of the nearly completed Florissant Valley branch and of the expanded Daniel Boone branch were shown.
+MEMORANDUM OF UNDERSTANDING - CAREER ONLINE HIGH SCHOOL
+Kristen Sorth presented an informational item on the Memorandum of Understanding for the Career Online High School.
+The Library Board approved the Career Online High School Program at the April 24, 2017 Board Meeting. That approval included the authorization of a contract with Cengage Learning Inc. for the service as well as a Memorandum of Understanding with St. Louis County Library and other participating library districts. Since that time, St. Charles City-County Library has decided not to participate in the program. Plans to implement the program have continued with St. Louis Public Library. Those plans are reflected in the Memorandum of Understanding (MOU) that was shared with the Board. The contract with Cengage Learning Inc. was also shared with the Board.
+As mentioned previously, St. Louis County Library holds the contract and is reimbursed by the St. Louis Public Library for the subscription fee and the scholarships as defined in the MOU. The Foundations of both Library Districts are embarking on fundraising efforts for the scholarships. The initial contribution will be $15,000 for St. Louis County Library and $10,000 for St. Louis Public Library. St. Louis County Library will pay $35,000 up front and will be reimbursed through the Memorandum of Understanding by St. Louis Public Library. In addition, SLCL will receive a $25,000 credit toward our current resources to offset the initial contribution and a portion of the scholarships. The remaining $71,535 will be raised by the St. Louis County Library Foundation.
+GOOGLE EMAIL AND ARCHIVE SERVICES
+Gib Van Cleve presented the Library Administration’s recommendation for Google Email and Archive Services.
+The Library’s current contract for Google G Suite Email and Vault archive and discovery services with Cumulus Global expires on June 31, 2017.
+An RFP (Request for Proposal) was issued seeking proposals from qualified resellers to renew these services for three years. The document detailed the Library’s specific needs for cloud-based email along with archive and discovery services. Lashly Baer was involved in this process. The RFP was published on May 1, 2017. It was posted on the Library’s website and an ad was placed in the Post-Dispatch. Responses were due May 30, 2017.
+The District requested pricing for 725 seats of Google G Suite Basic and 85 seats of Google Vault. We received three responses.
+The Library Board approved the Administration’s recommendation for the lowest and best bid of Horizon Info Services, doing business as Cumulus Global for Google G Suite Basic and Vault Services for the annual cost of $35,948 with a 36 month total of $107,844 and that the Board authorizes the Director to enter into and execute a contract to that effect. This expense will be paid for with funds from the technology budget (Mulligan/Cunnane).
+EMPLOYEE BENEFITS - HEALTH INSURANCE
+Kris Mooney presented the Administration’s recommendation, in consultation with Daniel and Henry, that the Library change health insurance providers to Anthem.
+The Library received the renewal for employee health insurance from the Library’s current carrier, Aetna.  Initially, Aetna’s renewal was 14.89%. The Library asked Daniel & Henry to approach the market due to the high rate. Daniel & Henry sent out proposals to six carriers and received three responses in addition to Aetna. Anthem was the lowest bid at 4.7%. This amount is significant enough that the Library recommends changing health insurance providers. Anthem’s summary plan benefits mirror the same benefits we had through Aetna.
+Anthem’s proposal is an increase from our currents costs. This percentage includes the required fee under the Affordable Care Act. With the Library Board’s approval, the employee rate will increase effective August 1, 2017 from $604.94 to $633.29. The dependent coverage will increase from $683.56 to $717.07. Dependent coverage is for the entire family. The employee is responsible for this entire amount if they elect to have dependent coverage. This increase will also affect the rates for the pre-65 insurance plan for retirees. The pre-65 insurance benefit is strictly voluntary and does not result in any cost to the Library.
+The Library will continue to have employees pay the preferred rate of $15 a month toward the cost of their individual health insurance if they participate in the Wellness Screenings. Employees that do not participate will pay $50 a month toward the cost of their health insurance.  In addition, the Library will continue to have the Health Reimbursement Arrangement (HRA) as defined by the IRS which was approved by the Library Board in 2008. BeneFlex administers the Library’s HRA and Flexible Spending Account plan. There will be no additional administrative costs with the exception of a renewal fee for each plan of $200 each.
+The Library Board approved the Administration’s recommendation that the Library change health insurance providers to Anthem with an increase of 4.7% from the Library’s current rate and the Board authorize the Director to enter into and execute a contract to that effect. The Library’s 2017 Budget includes a 9% increase for health insurance. This recommendation is under budget and under trend (Kenyon/Mulligan).
+EMPLOYEE BENEFITS - DENTAL INSURANCE
+Kris Mooney presented the Library Administration’s recommendation, in consultation with Daniel and Henry, to remain with Delta Dental for the Library’s dental insurance.
+The Library received the August 1, 2017 renewal for employee dental insurance from our current carrier, Delta Dental.  The Library had a rate hold for dental insurance. There will be a 0% increase in employee and dependent rates.  Dependent coverage is for the entire family. The employee rate will remain at $35.48 per month. The Library pays for this portion of the dental insurance. The dependent rate remains at $62.82 per month. The employee is responsible for this amount if they elect to have dependent coverage.
+The Library Board approved the Administration’s recommendation to remain with Delta Dental (Cunnane/Kenyon).
+EMPLOYEE BENEFITS - VISION INSURANCE
+Kris Mooney presented the Library Administration’s recommendation, in consultation with Daniel and Henry, to remain with VSP for the Library’s optional vision insurance.
+The Library has a rate hold on the vision insurance.  There will be a 0% increase for the Library’s vision insurance through VSP.  This benefit is voluntary and does not result in any cost to the Library. The employee rate will remain at $8.35/month and dependent coverage will remain at $17.96/month.
+The Library Board approved the Administration’s recommendation to remain with VSP for the Library’s optional vision insurance (Mulligan/Tai).
+EMPLOYEE BENEFITS - LIFE INSURANCE
+Kris Mooney presented the Library Administration’s recommendation, in consultation with Daniel and Henry, to change insurance providers to Hartford Insurance for life, AD&D, LTD, and voluntary life insurance.
+The Library received the renewal for life insurance from the Library’s current carrier, Reliance Standard.  The August 1, 2017 insurance renewals include life, accidental death & dismemberment (AD&D), long term disability (LTD), and voluntary life insurance.  Reliance Standard’s initial renewal was 16.71%.  The Library asked Daniel and Henry to approach the market due to the high increase.  Daniel & Henry sent out proposals to 11 providers and received a total of 6 responses that included Reliance Standard.
+Reliance Standard, the current carrier, came back with a negotiated overall rate of -3.04%.  However, Hartford was the lowest at -15.19% and gave a 2-year rate hold.  The Administration recommends changing life insurance providers due to this significant decrease in premiums. The rates for the life insurance coverage will decrease from $.32/$.010/$1000 to $.27/$.010/$1000 for basic life/AD&D and decrease from $.20/$100 to $.19/$100 for long-term disability.
+The voluntary life insurance rates increase slightly to be in compliance with IRS rules for group term insurance.  This benefit is voluntary and does not result in any cost to the Library.
+The Library Board approved the Administration’s recommendation that the Library change insurance providers to Hartford Insurance for life, AD&D, LTD, and voluntary life insurance and the Board authorize the Director to enter into and execute a contract to that effect.  The budgeted amount for this increase was 5% (Cunnane/Kenyon).
+EMPLOYEE BENEFITS - SHORT TERM DISABILITY INSURANCE
+Kris Mooney presented the Library Administration’s recommendation, in consultation with Daniel and Henry, for The Hartford Company to provide voluntary short term disability.
+Library Administration is recommending that the Library offer short term disability insurance to full-time employees as a voluntary benefit.  Short term disability is a type of insurance that pays a percentage of an employee's salary for a specified amount of time, if they are ill or injured, and cannot perform the duties of their job.
+The Library asked Daniel & Henry, the Library’s insurance broker, to explore this optional benefit.  They sent proposals for short term disability insurance and received three responses.   The maximum benefit is $800 and the maximum benefit period is 13 weeks. In addition, employees may purchase insurance in $100 increments depending on their preference.
+This benefit would be strictly voluntary and does not result in any cost to the Library.
+The Library Board approved the Administration’s recommendation for The Hartford Company to provide voluntary short term disability insurance for full time employees at the rates defined in the proposal (Mulligan/Kenyon).
+KERBER, ECK, AND BRAECKEL CONTRACT
+Kris Mooney presented the Library Administration’s recommendation for audit services related to the Library District and the Library District’s Pension Plan for years ending 2017-2019.
+The Library’s contract with Kerber, Eck, and Braeckel (KEB), the Library’s audit firm, expired with the completion of the 2016 audit. Library administration is recommending the approval of a new three year contract with KEB.  Audit fees incurred in 2016 for the Library audit and Pension audit were $22,800 and $10,500 respectively. KEB has proposed an annual 2.5% increase for the Library and Pension audit, in each of the next 3 years.
+The Library Board approved the Administration’s recommendation to for  a 3-year contract with audit firm Kerber, Eck, and Braeckel, for audit services related to the Library District and the Library District’s Pension Plan for years ending 2017 – 2019 and authorizes the Director to enter into and execute a contract to that effect (Cunnane/Tai). Fees proposed for those years are as follows:
+Year    Library District                                 Library District Pension Plan
+2017     $23,625                                              $10,760
+2018     $24,215                                              $11,030
+2019     $24,820                                              $11,305
+ADJOURNMENT
+Motion to adjourn open meeting and to convene Executive Session to discuss real estate (Section 610.021(2));
+The motion was made by Dr. Chingling Tai, and seconded by Elena G Kenyon.
+All approved with voice vote.
+Aye: Edith Cunnane, Dr. Chingling Tai, Elena G Kenyon, Michael Mulligan, Dr. Lynn Beckwith
+The meeting adjourned at 4:22 p.m.
+Respectfully submitted,
+_____________________________                          _________________________
+Dr. Chingling Tai, Secretary                                         Date

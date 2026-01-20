@@ -1,0 +1,170 @@
+{
+  "name": "Regular Meeting",
+  "description": "Library Board",
+  "unique": "AHPNXV6205C6",
+  "date": "2017-03-20T00:00:00Z"
+}
+
+---
+
+ST. LOUIS COUNTY LIBRARY DISTRICT
+MEETING OF THE BOARD
+HEADQUARTERS
+1640 SOUTH LINDBERGH BLVD.
+MONDAY, MARCH 20, 2017
+The monthly meeting of the Board of the St. Louis County Library District was held at the Headquarters Branch, 1640 South Lindbergh Blvd., St. Louis, MO 63131 on Monday, March 20, 2017 at 3:30 p.m. The agenda had been posted in all branches of the Library District at least 24 hours before the meeting.
+ATTENDANCE:
+Library Board Members:
+Dr. Lynn Beckwith, President
+Edith Cunnane, Vice President, via telephone
+Elena Kenyon, Treasurer
+Dr. Chingling Tai, Secretary
+Mr. Michael Mulligan, Member
+ADMINISTRATORS AND GUESTS ATTENDING:
+Kristen Sorth, Library Director; Eric Button, Deputy Director; Barbara Turkington, Assistant Director, Advancement; Kris Mooney, Assistant Director, Administration; Steve Hunter, Assistant Director, Construction and Facilities; Gib Van Cleve, Assistant Director, ITS; Rick Coratz, KEB; Heather Arnold, SLCL Practicum Student; Rich Wiesner, Glendale Chrysler Jeep Dodge; Scott Kolath, LCM; Bill Winningham, Milliman; Steve Calhoun, ASI Signs; LaWanda Jones, ABNA; Daniel Myers, Patron; and Lisa Stump, Attorney, Lashly & Baer.
+OTHERS ATTENDING:
+Jennifer Alexander, Catherine Hill, Allison Wisniewski, Amy Gibbons, Marie Conlin, Tracy Fletcher, Sarah Wood, Natalia Catlett, Chasidy Allen, Nicole Higginbotham, Marsha Ramey, Conrad Rader, Emily Althoff, Carrie Robb, Scott Holl, Meg Coyle, Nicole Clawson, Mary Arnhart, Michelle Sawicki, Scott Holl, Annie Fuller, Steve Hibbler, Lori Boschert, Julie Cruise, Deanna Davis, Barb Reale, Lauren Striebel, Anne Bradley, Roz Kohen, Lindsey Piech, Michael Cohen, Laura Kasak, Cindy Miller, Julia Mangner, Sarah Brown, Stephanie Nordmann, Kathy Muller, Andrea Johnson, Stacy Berger, Anna Schurk, Anne Arthur, Ross Brand, Alaina Culbertson, Donna Spaulding, Stacey Lewis, Cindy Schultz, Erin Magner, Maureen Willmann, Keir Haug, Amy Hanaway, Tiffany Davis, Kathy Wiese, Jennifer McBride, Gina Sheridan, Katie Holland and Sandy Williams.
+MINUTES
+The Library Board approved the February 6, 2017 minutes (Cunnane/Mulligan).
+PUBLIC COMMENTS
+There were no public comments.
+TREASURER'S REPORT
+Kris Mooney presented the financial reports for January and February 2017.
+Mr. Mooney reported that the Library District has received $41.1 million in tax revenue for the 2017 operating year. The budget for tax revenue in 2017 is $49.6 million.
+In January the Library District renewed the annual software maintenance with the integrated library system vendor, Innovative Interfaces Incorporated (III), at a cost of $159,196.
+BSR Services Inc was paid a total of $51,290 for ice removal services. BSR was paid $24,315 for ice management between December 15 and December 20, 2016, $10,780 for services from January 4 and January 7, 2017, and $16,195 for services from January 12 through January 15, 2017.
+The Library District paid Systems Technology Group, Inc $12,000 for the annual subscription for READsquared. READsquared is used by patrons to track their progress for Summer Reading Club.
+Capital Projects Fund Balance Sheet – January
+Total Construction in Progress for January 2017 was $1,653,512. The expenses included payments for:
+	Construction Costs for Phase 2a buildings (Bridgeton Trails, Florissant Valley, Daniel Boone) - $1,285,219
+	Construction Costs for Phase 1Bb buildings (Sachs, Oak Bend, Natural Bridge, Prairie Commons, Cliff Cave) - $92,121
+	Furniture for Phase 1 and Phase 2a buildings - $51,184
+	Technology for Phase 2a buildings - $51,616
+	Phase 2 construction management services - $33,990
+In February, the Library District invested $34,000,000 in operating funds with Commerce Bank. The investments consisted of eight Certificates of Deposit of various amounts. The investment plan was approved at the February 6, 2017 Board meeting.
+The Library District received payment from the annual tax levied on Missouri financial institutions in the amount of $466,960. In 2016, the District received a total of $376,440 in Financial Institution Taxes.
+Mr. Mooney reported that many of the Library Database subscriptions renew at the beginning of the year. The District incurred a cost of $305,109 in database subscriptions in February.
+In February, the Library District paid $36,000 to Bridgeall Libraries Limited for an annual subscription to Collection HQ. Collection HQ provides additional efficiency in purchasing decisions and managing the District’s collection.
+Capital Projects Fund Balance Sheet - February
+Balance Sheet – 2013 Debt Issuance
+Total Construction in Progress for February 2017 was $633,677. The expenses included payments for:
+	Construction Costs for Phase 2A buildings (Bridgeton Trails, Florissant Valley, Daniel Boone) - $296,861
+	Construction management services for Phase 2A buildings (Bridgeton Trails, Florissant Valley, Daniel Boone) - $139,566
+	Design Costs for all Phase 2 buildings (Bridgeton Trails, Florissant Valley, Daniel Boone, Grand Glaize, Mid-County, Meramec Valley, Thornhill) - $66,641
+	Technology for Phase 2a buildings - $55,124
+All funds received ($58 million) from the issuance of the 2013 Certificates of Participation have been disbursed.
+Balance Sheet – 2016 Debt Issuance
+Construction in Progress – Total Construction in Progress for February 2017 was $1,225,756. The expenses included payments for:
+	Construction Costs for Phase 2a buildings (Bridgeton Trails, Florissant Valley, Daniel Boone) - $1,154,560
+	Facilities Master Plan Administrator - $38,390
+	Design Costs for Mid-County - $32,806
+The Library Board approved of the January 2017 Treasurer's Report subject to audit (Cunnane/Kenyon).
+The Library Board approved of the February 2017 Treasurer's Report subject to audit (Mulligan/Tai).
+DIRECTOR'S REPORT
+Kristen Sorth reported the following.
+Library Update
+	Ms. Sorth shared the dashboard report for March with the Board. The report includes information about circulation, visits, programming, new patron registrations, and PC usage.  With various branches closed for construction, circulation for February is down 7%.  However, the circulation at Jamestown Bluffs, Rock Road, and Sachs is up significantly.  The Sachs Branch actually circulated more items than Grant’s View.  Sachs circulation was up 57% and they exceeded the circulation at Grant’s View, a much larger regional branch, by 9%.  The report also includes information about the most popular items in the collection and circulation information for the We Stories kits.
+	Ms. Sorth announced that the Library will again offer Food for Fines during National Library Week from April 9 – April 15.  Patrons may exchange one can of food for $1 in fines up to a maximum of $10. In 2016, the Library collected 27,402 pounds of food for Operation Food Search during National Library Week. (Plan: Sense of Community 1.2)
+	Participation in the Library’s Winter Reading Club was impressive again this year. The Library registered 58,251 participants which was an increase of 28% over 2016.  Completions of the program were also up by 12%. (Plan: Increase Literacy 1.3)
+	Ms. Sorth shared that the Library will be partnering with five local school districts' Parents As Teachers (PAT) organizations for a pilot program designed to promote early literacy to families in the community. The school districts include Affton, Riverview Gardens, Jennings, Bayless, and Hancock Place. Thanks to two grants, one from Boeing and one from the AP Green Foundation, St. Louis County Library is creating early literacy kits for PAT educators to take into the homes of their clients to help stress the importance of reading and play within the home. Each kit contains themed books as well as a manipulative that reinforces the connection to that theme. PAT educators will give the families information about the free programs and services offered by St. Louis County Library. The grants also allow families the opportunity to attend special programs and early literacy fairs at the local branches. (Plan: Increase Literacy 2.1)
+	Ms. Sorth reported that the St. Louis County Library was recognized by Town & Style in their Top 100 List.  Town & Style conducted a readers’ poll to select the best establishments in ten different categories.  We were recognized in the Customer Service Category for “Where do you get service with a smile.”  (Plan: Sense of Community 3.3)
+	We Are St. Louis is an adult series that explores the wide variety of identities, cultures and ethnicities in St. Louis.  The programs consist of history, dance, musical performances, and interactive workshops. We Are St. Louis is funded by a grant from the Missouri State Library. The most recent program explored Jewish American Heritage at a program on March 14 at HQ. (Plan: Strengthen Sense of Community 2)
+	Commercial Real Estate Women - St. Louis (CREW) recognized several of their members for work on the Library’s Your Library Renewed program.  CREW’s St. Louis 2017 Economic Impact Award was presented at an awards ceremony to individuals from Colliers, Bond Architects, Color Art, and Lashly Baer for their work with the Library. (Plan: Create Gathering Spaces 1 and 2)
+	Ms. Sorth explained that the 2017 Library Budget included an upgrade from Millennium to Sierra for the Library’s catalog and other related services. The Library has been assigned a project manager for the migration and a schedule of activities leading up to the migration is underway.  The disruption to both employees and patrons should be minimal but there are two scheduled downtimes during migration.  She said the Library is currently scheduled to go live with Sierra on March 23. (Plan: Sense of Community 1)
+	In 2016, the Library Board approved the purchase of Library Aware which includes templates and tools that will enable us to promote books and resources throughout the Library.  Readers’ Advisory staff has created personalized reading lists for patrons interested in receiving suggestions customized to their reading tastes. In the next several weeks, patrons will be able to sign up to receive an electronic newsletter with reading recommendations in the genre of their choice. (Plan: Increase Literacy 1.1)
+	At HQ, the Manchester Center has been bringing several adults with special needs for a special story time presentation.  It has never been open to the general public, but Youth Services is planning to make some changes to allow the program to be open to the general public to meet with needs of other adults with special needs.  This may serve as a pilot for other locations if the program is successful. (Plan: Sense of Community 3.1)
+	Ms. Sorth announced that the Library received two grants from the Missouri State Library.  The Winter Technology-Mini Grant, in the amount of $9,400, will allow the Library to streamline the 2017 Summer Reading Club with the purchase of 40 Chromebooks for use at Summer Reading Club tables in every branch and HQ.  The Show Me Steps Grant, in the amount of $3,006, will provide training for staff on incorporating early literacy tips for parents during story time. (Plan: Increase Literacy 1.3, 2.1 and 3.3)
+	Ms. Sorth mentioned in a previous report, that the Library is partnering with the United States Holocaust Memorial Museum in Washington, D.C. This partnership will result in a program on March 22 at 7:00 p.m. at HQ that will include an author event with Rebecca Erbelding, archivist and curator at the United States Holocaust Memorial Museum.   The program entitled “Americans’ Response to Jewish Refugees Wrestling with Fear and Moral Responsibility” already has over 200 people registered.  We are using the auditorium and the east room for the event due to the expected number of attendees.  (Plan: Strengthen Sense of Community)
+	The Reference Department has developed a new class entitled “Know Your News.”  The class will be held at Grant’s View, Lewis & Clark, Natural Bridge, Oak Bend, Sachs and HQ during April and will provide techniques for evaluating news stories.  Attendees will learn to evaluate a story based on its currency, relevance, accuracy, authority and purpose.  (Plan: Increase Literacy 1.1)
+	There were many mentions of the St. Louis County Library in the local media in print, radio and television.  Ms. Sorth shared these articles with the Board. (Plan: Sense of Community 1.2)
+	Ms. Sorth shared a number of great pictures to the Board from several programs and events including: We are St. Louis at Grand Glaize, Ukelele Training at HQ, Kindergarten Prep at Grant’s View, Visit from Curious George at Cliff Cave, Sensory Story Time at HQ, and Harry Potter Yoga at Oak Bend.  (Plan: Increase Literacy 1 and Sense of Community 2.3)
+	Ms. Sorth also shared more from several Black History Celebration programs with the Board. (Plan: Increase Literacy 1.2 and Sense of Community 2.3)
+Library Administrative Updates
+	Ms. Sorth reported that the Library’s new website launched on March 7.  Minor fixes are being made to the desktop version of the website in addition to major work on the mobile version of the site.  We are very pleased with the end result and have received great feedback from patrons and other libraries.  Congratulations to Jennifer McBride and her team for a successful launch.  Interpersonal Frequency will conduct Voice of Patron surveys in six months to get feedback from our users on the new website. (Plan: Increase Literacy 3.3)
+	Ms. Sorth explained that the audit for the Library will be presented to the Library Board at the April Meeting instead of this month.  We are waiting on a report from St. Louis County that will provide information for a recent GASB reporting requirement.  The Pension audit was presented to the Pension Board earlier today.
+Library Construction and Facility Update
+	Ms. Sorth stated that the Library will be converting several parking spaces to accessible parking spaces at the Sachs Branch. Since re-opening and with the closure of Daniel Boone, the Branch has seen a tremendous increase in patrons. We have received several requests for additional accessible spots and determined that two additional spots would be beneficial. (Plan: Create Gathering Spaces 2.2)
+	Plans are underway for the opening of the Library’s three community gardens. Prairie Commons will open on March 18, Grant’s View will open on April 1, and Cliff Cave will open on April 8. Prairie Commons and Cliff Cave did not open last summer due to construction.  (Plan: Create Gathering Spaces 2.2)
+	The main supply line for the HQ fire sprinkler system is deteriorating.  Building Systems has repaired one section and continues to monitor the system. (Plan: Create Gathering Spaces 1.3)
+	The automated materials handler at Grant’s View was recently vandalized. The Library is working with the police on this matter.
+Library Foundation
+	The Foundation hosted a breakfast on February 28 to unveil a new poster recognizing the recent major donors of $1,000 or more to the Born to Read Program. In addition, the Foundation will have another Born to Read fundraiser on April 26.  The Nix Family has graciously offered to again host the event at Bixby’s in the Missouri History Museum.
+	Thanks to the Foundation, all twenty library branches will received a supply of LEGOs and a collection of wooden blocks for the Library’s youngest patrons to enjoy.
+	The St. Louis Cardinals have increased their support of Born to Read by offering Cardinals ticket vouchers to families that receive Born to Read bags at the hospitals and clinics. Families will claim the voucher for two tickets to a Cardinals game when they visit any SLCL location.  The families will also receive a free book from the Foundation.  The Cardinals are also producing another promotional video about Born to Read that will include footage from a recent Born to Read birthday party at the Cliff Cave Branch.
+Author Events
+	Randy Wayne White, “Mangrove Lightning”, Thursday, March 23, 7:00 p.m., Library Headquarters – Auditorium.
+	Blanche Wiesen Cook, “Eleanor Roosevelt: The War Years and After, 1939-1962”,
+	Monday, March 27, 7:00 p.m., Library Headquarters – Auditorium.
+	Jack J. Schramm, “Passionate Purpose: A Global Governance Journey”, Tuesday, March 28, 7:00 p.m., Library Headquarters – Auditorium.
+	C.J. Box, “Vicious Circle”, Thursday, March 30, 7:00 p.m., Library Headquarters – Auditorium.
+	Pseudonymous Bosch, “Bad News”, Sunday, April 2, 2:00 p.m., Library Headquarters – Auditorium. A Young Readers’ Event, presented by the Reading Garden Event Series.
+	John A. Farrell, “Richard Nixon: The Life”, Monday, April 3, 7:00 p.m., Library Headquarters – Auditorium.
+	Ridley Pearson, "The Return: Disney At Last", Wednesday, April 5, 7:00 p.m., Library Headquarters – Auditorium.
+	Tom Angleberger, “Rocket and Groot: Keep on Truckin”, Sunday, April 9, 2:00 p.m, Library Headquarters – Auditorium. A Young Readers’ Event Presented by the Reading Garden Event Series.
+	Greg Iles, “Mississippi Blood”, Monday, April 10, 7:00 p.m., Library Headquarters – Auditorium.
+	Steve Berry, “The Lost Order”, Thursday, April 13, 7:00 p.m., Library Headquarters – Auditorium.
+Ms. Sorth commended communications manager Jennifer McBride and web coordinator Jen Messmer for the successful launch of the new website. She also commended the managers, staff, and the Black History Committee for their programming during the Black History celebration.
+NEW BUSINESS
+CONSTRUCTION UPDATE
+Steve Hunter reported that there are three branches currently closed.  Bridgeton Trails is expected to open at the end of May, Florissant Valley in June or July, and Daniel Boone in early fall.
+Some pictures of the construction were shared with the Board.
+MID COUNTY DESIGNS
+Melissa Harlan from Christner Architects gave a PowerPoint presentation on the new Mid-County Branch.
+FLEET VEHICLES
+Steve Hunter presented the Administration’s recommendation on the purchase of Library fleet vehicles.
+Mr. Hunter explained that included in the approved 2017 Library budget is the purchase of two new fleet vehicles. Accordingly, an Invitation for Bid for one van and one ¾ -ton pickup was issued on February 5, 2017. Bidders could bid on one or both vehicles. Two vehicles in our fleet are being retired and were offered as trade-ins: a 2007 Ford Focus (80,000+ miles) and a 2008 E-350 pickup (140,000+ miles). Two responses were received at the bid opening on February 17, 2017. Bids were due on February 17, 2017.
+The Library Board approved the Administration’s recommendation to accept the lowest and best bid from Lou Fusz Commercial Network for both the Dodge Caravan at $23,018 and the ¾ -ton Pickup at $17,395, a total of $40,413. These two vehicle purchases were included in the 2017 Library budget at a total of $70,000 (Tai/Mulligan).
+FIRST AMENDMENT TO PHASE 2-2 ARCHITECTURAL AND ENGINEERING SERVICES AGREEMENT
+Steve Hunter presented the Administration’s recommendation to amend Phase 2-2 of the Architectural and Engineering Services Agreement.
+Mr. Hunter explained that the original scope of the Phase 2-2 Architectural and Engineering Services Agreement with Christner, Inc. included a) a study to determine the feasibility of Mid-County being rebuilt on its existing site, and b) full architectural support for the design and construction of that facility, wherever it was to be located. The feasibility study of the existing site was included because the original Facilities Master Plan called for a new branch on a new site. Because the original plan was for a new building on a new site, a parking garage was not included in the initial scope of design.
+Once it was determined that the existing site would support the required programming elements of the new facility, discussions with the city of Clayton revealed a parking requirement that could only be satisfied with the addition of a parking garage. An Amendment to address the additional scope of the parking garage was drafted by attorneys at Lashly & Baer and is attached. This change in scope to the Agreement will result in additional, negotiated compensation of $198,015. The not-to-exceed compensation for Phase 2-2 Architectural and Engineering Services with Christner, Inc. will be adjusted to $965,910, including Reimbursables and Allowances.
+The Library Board approved the recommendation that the First Amendment to the Phase 2-2 Architectural and Engineering Services Agreement with Christner, Inc. and that the Board authorize the Director to enter into and execute that amendment (Tai/Mulligan).
+RESOLUTION APPROVING THE EXECUTION AND DELIVERY OF CERTAIN SUPPLEMENTAL DOCUMENTS IN CONNECTION WITH THE DISTRICT’S CERTIFICATES OF PARTICIPATION
+Kristen Sorth presented the Administration’s recommendation approving the execution and delivery of certain supplemental documents in connection with the District’s Certificates of Participation.
+Several documents related to the Library’s Certificates of Participation have been revised to include three branches being constructed or renovated in Phase 2 of the Facilities Master Plan. Those branches include Mid-County, Thornhill, and the Meramec Valley Branch. The revisions will allow the Library to use the cash from the 2016 issuance of Certificates of Participation to pay for these projects. The following four documents drafted by the Library’s Bond Counsel,
+Gilmore & Bell, were shared with the Board:
+1. A Resolution approving the execution and delivery of certain supplemental documents in connection with the District’s Certificates of Participation
+2. Exhibit A - Supplemental Base Lease
+3. Exhibit B - Supplemental Lease Purchase Agreement
+ 4. Exhibit C - Declaration of Trust
+The Library Board approved Administration’s recommendation that the resolution approving the execution and delivery of certain supplemental documents (Exhibit A, B and C) in connection with the District’s Certificates of Participation (Kenyon/Tai).
+INSURANCE RENEWALS
+Kris Mooney presented Administration’s recommendation regarding insurance carrier quotes.
+Mr. Mooney reported that all lines of the Library’s insurance policies renew each year on April 1. The Daniel and Henry Company, the Library’s broker for these services, marketed the Library District’s account to several carriers.
+D&H recommends the Library remain with The Hartford Company for Property, Workers Compensation, and Cyber Liability coverage. Also, D&H is recommending remaining with Travelers Casualty & Surety Company for the Directors and Officers, Cyber Liability, and Fiduciary coverage. Lastly, D&H is recommending the Library remain with ACE American (Chubb) Insurance Companies for the Pollution Liability coverage.
+Total cost to the Library District for continuing coverage will be $391,205 compared to $404,276 from last year, a savings of $13,071, or 3.2%. The Pension Plan pays for the Fiduciary coverage which will be $7,997 in 2017 compared to $7,705 in 2016.
+The Library Board approved the recommendation of  Administration of the quotes from the insurance carriers which include The Hartford Company, Travelers Casualty & Surety Company of America and Ace American Insurance Company for a total cost of $399,202 (Cunnane/Tai).
+2017 PENSION CONTRIBUTION
+Kris Mooney reported that the pension contribution from the Library to the Pension Plan is due each year on March 31. The Library’s Actuary, Milliman, has conducted the annual actuarial valuation. Milliman is recommending a contribution of $1,864,205 (see Actuarial Report, page 2). The Library’s 2017 budget for this expense is $2,000,000. The net position as a percentage of total pension liability (also known as the “funded ratio”) is 83.2%, up from 81.9% in 2016.
+The Library Board approved the recommendation of Administration to authorize the amount of $1,864,205 as the annual contribution to the Pension Plan for 2017 (Tai/Kenyon).
+NAMING RIGHTS REQUEST FROM THE FOUNDATION
+Kristen Sorth presented the Administration’s recommendation to approve of the Foundation’s request to name a room in the History & Genealogy Department at the new Library Headquarters Building.
+Ms. Sorth reported that at the February 14, 2017 meeting, the Library Foundation Board of Directors recommended the Library Board of Trustees name a room in the History & Genealogy Department at the new Headquarters building after Mr. Lewis Bunker Rohrbach.
+The Rohrbach Foundation wishes to donate $75,000 over a period of five years beginning on July 1, 2017 for a room to house special materials. The room will provide a secure space for storage of the papers and books of Mr. Lewis Bunker Rohrbach and other special materials. The Donor understands the new Library Headquarters Building has not yet been designed and planned, and is scheduled for start of construction in 2019.
+The Library Board approved Administration’s recommendation to approve of the Foundation’s request to name a room in the History & Genealogy Department at the new Library Headquarters Building as “The Lewis Bunker Rohrbach Room for Special Materials” (Tai/Mulligan).
+LIBRARY CLOSURE MAY 30, 2017
+Kristen Sorth presented Administration’s recommendation to close the Headquarters Branch on Tuesday, May 30 at 4:00 p.m., for the Mo Willems author event.
+Ms. Sorth explained that the Library Administration requests approval to close the Headquarters Branch at 4:00 p.m. on Tuesday, May 30, 2017 in order to prepare for author Mo Willems.  Mr. Willems is one of the most popular children’s authors and a large number of children and adults will be in attendance. By closing at 4:00 p.m., the Library can prepare the facility and start the event at 6:00 p.m. rather than 7:00 p.m., due to the anticipated number of young children that will attend.
+The Library Board approved Administration’s recommendation to close the Headquarters at 4:00 p.m. on May 30, 2017 (Kenyon/Tai).
+WEBSITE HOSTING SERVICES AMENDMENT
+Kristen Sorth presented Administration’s recommendation to accept the amendment of the Master Services Agreement between the St. Louis County Library and Interpersonal Frequency to include Fulcrum Cloud Hosting services for website hosting and support services.
+In December of 2016, the Library Board approved the proposal for Website Hosting Services from Fulcrum for the fee of $18,000 annually. Leading up to this the St. Louis County Library sought competitive quotes for a website hosting provider. Fulcrum website hosting services provided by Interpersonal Frequency was determined to be the lowest and best bid. The name of the hosting service should have been presented to the Library Board as Interpersonal Frequency rather than Fulcrum. Interpersonal Frequency and the St. Louis County Library are parties to a Master Services Agreement dated July 5, 2016, under which Interpersonal Frequency agreed to provide website development services to the Library.
+ After discussions with Lashly Baer, the Library desires to amend this agreement to include Fulcrum Cloud Hosting services from Interpersonal Frequency instead of engaging in a completely separate contract for hosting services.
+The Library Board approved Administration’s recommendation to accept the amendment of the Master Services Agreement between the St. Louis County Library and Interpersonal Frequency to include Fulcrum Cloud Hosting services for website hosting and support services with the lowest and best quotation complying with the terms of the specifications for $18,000 annually, and that the Board authorize the Director to enter into and execute a contract to that effect. This expense will be paid for with funds from the technology budget (Cunnane/Tai).
+SIGNAGE FABRICATION AND INSTALLATION
+Kristen Sorth presented Administration’s recommendation for signage fabrication and installation services for nine branches.
+Library staff is seeking approval of a vendor to provide signage fabrication and installation services for all Phase 2 and 3 branches (Bridgeton Trails, Daniel Boone, Florissant Valley, Grand Glaize, Meramec Valley, Mid-County, Thornhill and Headquarters). Eureka Hills Branch, which is not currently in the scope of Phase 2 or 3, is also included as part of this signage project. The signage package that was developed for Phase 1 projects was revised and included in a new Invitation for Bid (IFB) that was issued on January 12, 2017 for Signage Fabrication and Installation.
+Notifications were sent to several companies, including some from the Missouri Directory of Minority and Women Owned Businesses, and an ad was placed in the St. Louis Post-Dispatch. Four responses to the IFB were received. Final architectural designs for six of the nine locations that are included in the scope of this IFB were not available when the IFB was issued. Vendors were asked to provide unit costs for all known sign types in the Library’s signage program. These costs will be maintained with the vendor for the duration of the project, which is expected to conclude in 2021. As requested in the IFB, installation expenses were provided as “not to exceed” costs for six of the nine locations.
+ The costs include the total costs, signage and installation, for three of the nine locations, Bridgeton Trails, Daniel Boone, and Florissant Valley. They include installation only at the other six locations listed above. Actual total costs for signage will be determined based on the contractual unit pricing after the programming for the remaining Phase 2 and 3 locations is finalized. Administration will keep the Library Board apprised of these costs as the building design and signage programming is finalized.
+The Library Board approved Administration’s recommendation of the lowest and best bid from Engraphix Architectural Signage Inc. at a cost of $126,048 and that the Board authorizes the Library Director to enter into and execute a contract with Engraphix Architectural Signage Inc. to provide signage fabrication and installation services for Bridgeton Trails, Daniel Boone, Florissant Valley, Grand Glaize, Meramec Valley, Mid-County, Thornhill, Eureka Hills and Headquarters. As this project is part of the Phase 2 & 3 facility improvements, these expenses will be paid using the bond proceeds, with the exception of Eureka Hills (Mulligan/Tai).
+COLOCATION SERVICES
+Gib Van Cleve presented Administration’s recommendation for colocation services to house key network computing infrastructure.
+The Library is seeking a colocation site in the St. Louis metropolitan area to house key network computing infrastructure. During 2017, the colocation site will be used as the Library’s disaster recovery site. In 2018, the Library will run all core network computing infrastructure live from the colocation site in preparation for the closure of Library headquarters in 2019. An RFP (Request for Proposal) was developed detailing the Library’s specific needs for connectivity, power, server space and access. Lashly Baer was involved in this process.
+The RFP was published on January 12, 2017. It was posted on the Library’s website and an ad was placed in the Post-Dispatch. Responses were due February 5, 2017. Three responses were received. Site visits were conducted by Holly Che, Edsel Barrios, and Gib Van Cleve and the companies were ranked.
+The River City Internet Group’s (RCIG), Hostirian Westport facility was found to be the most desirable. The Library selected Hostirian’s Westport location because of the location, price and willingness to be flexible in supporting the Library’s presence in their facility.
+The Library Board approved Administration’s recommendation for the selection of River City Internet Group, doing business as Hostirian, for colocation services for the annual cost of $13,240 with a 36 month total of $39,720 and that the Board authorize the Director to enter into and execute a contract to that effect. This expense will be paid for with funds from the technology budget (Kenyon/Tai).
+ADJOURNMENT
+Edith Cunnane made a motion to adjourn the open meeting and to convene Executive Session to discuss real estate (Section 610.021(2)); Michael Mulligan seconded.  All gave a voice vote of approval.  The meeting adjourned at 4:42 p.m.
+Respectfully submitted,
+_____________________________                          _________________________
+Chingling Tai, Secretary                                                         Date

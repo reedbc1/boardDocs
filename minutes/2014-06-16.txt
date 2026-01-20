@@ -1,0 +1,150 @@
+{
+  "name": "Regular Meeting",
+  "description": "Library Board",
+  "unique": "9JWMD64FC9AF",
+  "date": "2014-06-16T00:00:00Z"
+}
+
+---
+
+ST. LOUIS COUNTY LIBRARY DISTRICT
+	MEETING OF THE BOARD
+	HEADQUARTERS BRANCH
+	MONDAY, JUNE 16, 2014
+	The monthly meeting of the Board of the St. Louis County Library District was held at Headquarters, 1640 S. Lindbergh Blvd., St. Louis, MO 63131 on Monday, June 16, 2014 at 3:30 p.m. The agenda had been posted in all branches of the Library District at least 24 hours before the meeting.
+	ATTENDANCE:
+	Library Board Members:
+	Dr. Lynn Beckwith, President
+	Edith Cunnane, Vice President
+	Elena Kenyon, Treasurer
+	Dr. Chingling Tai, Secretary
+	Steve Sachs, Member
+	Administrators and Guests Attending:
+	Kristen Sorth, Library Director; Barbara Brain, Assistant Director, Adult and Support Services; Barbara Turkington, Assistant Director, Advancement; Gib Van Cleve, Assistant Director, ITS; Eric Button, Assistant Director, Branch Services; Lisa Stump, Attorney, Lashly Baer; Todd Scheibe, KPFF Consulting Engineering; Todd Hornburg, Landmark; Gloria Lloyd, Call Newspapers; and Tom Curran, St. Louis County Government.
+	Others Attending:  Rebecca Clarke, Mary Arnhart, Conrad Rader, Chauncey Felder, Stephanie Nordmann, Stacy Berger, Michael Cohen, Carrie Robb, Scott Holl, Paul Bayless, Laura Kasak, Anne Arthur, Sarah Wood, Rachel Nowell, Keir Haug, Barb Reale, Kathy Wiese, Gina Sheridan, Erin Magner, Chris Pryor, Anna Strackeljahn, Erin Chapman, Jennifer Alexander, Aaron Eller, Jennifer Jung, Donna Spaulding, Marie Conlin, Alison Schnettoecke, Emily Althoff, Roz Kohen Natalia Catlett, Jennifer McBride, Steve Hibbler, Cindy A. Miller, Colleen Hall, Trudy Williams, Marsha Ramey, Sarah Steele, Margaret Dimitriades, Alaina Culbertson, Bobby Jones, Parkie L. Peck, Steve Hunter, Susie Bushnell, Anna Schurk, Ellen Schmidt, Kris Mooney and Sandra Williams.
+	MINUTES
+	The Library Board approved the minutes from the May 19, 2014 meeting (Sachs/Kenyon).
+	PUBLIC COMMENT
+	There were no public comments.
+	Dr. Beckwith announced the retirement of Board Secretary Dr. Chingling Tai from teaching at St. Louis University High School.  He wished her many years of successful retirement. Dr. Tai thanked everyone and said she planned to travel.
+	TREASURER’S REPORT
+	Finance Manager, Kris Mooney reported that the Library District received $5,162,178 in tax revenue in May.  This larger than normal distribution occurs annually in April/May and represents the County’s release of taxes held due to taxpayer protest of their assessed valuation.
+	The Library District received $50,000 in May from St. Louis County’s distribution of the Athletes and Entertainers Tax. This item is unbudgeted due to its high volatility in both amount and receipt. In 2013, the Library District received $2,788, the first distribution since 2010.
+	Stephen's Floor Covering Co. was paid $31,147 for new carpet in several areas of Headquarters.  Expenditures for this project were approved at the February Board meeting.
+	In May, the Library District paid $10,100 to Tech Electronics for various electrical projects at five branches including fire alarm reconstruction at Prairie Commons, main entry door repair at Daniel Boone, and internal wiring repair at Jamestown Bluffs. $6,122 was also paid to Overhead Door for automatic exit and entrance door repairs at four branches.
+	The ITS department purchased a Storage Area Network (SAN) unit for $30,830 to create storage space for servers and virtualization. This was approved by the Board at the March 17, 2014 meeting.  In May, the process of upgrading staff PC’s to Windows 7 continued and $147,431 was paid to Dell Marketing for PC replacements.  These purchases were made through various cooperative contracts and were included in the 2014 budget.
+	Capital Projects Fund Balance Sheet
+	Total Construction in Progress for May 2014 was $258,950.64. The expenses included payments
+	for architects’ fees in the amount of $225,130, $11,373 for legal expenses and $22,449 for the
+	services of our Facilities Master Plan Administrator.
+	The Library Board approved the Treasurer’s Report subject to audit (Cunnane/Tai).
+	DIRECTOR'S REPORT
+	Director Kristen Sorth gave the following report.
+	Facilities Master Plan Update
+	Ms. Sorth distributed a complete schedule for all of the 19 projects in the Facilities Master Plan.  She and Steve Hunter worked with Landmark to prepare the document.  This is a preliminary schedule so timeframes may be adjusted as they move through the projects.
+	South County Regional and Lewis and Clark
+	Ms. Sorth reported that Todd Hornburg from Landmark would be presenting an update on the projects later in the meeting.
+	Renovations
+	The Library received 21 responses to the RFQ for architect and engineering services for the nine renovations in Phase 1.  Four firms were interviewed.  Ms. Sorth said the Administration would be making a recommendation to the Library Board on an architect later in the meeting.
+	Library Update
+	·         The “dashboard” report for June contains a variety of statistical information for the Library and was attached to the Board report.  This month the report included statistics about circulation, PC usage, programming, visits and Summer Reading Club statistics.   As of June 12, 2014, summer reading club registrations have totaled 129,222.  This exceeds total registrations of 120,509 for in 2013.  Staff has been working very hard to promote Summer Reading Club and is thrilled with the response.
+	·         On Saturday, June 7th, the Library conducted Bounce into Summer Reading events simultaneously at all twenty locations.  The events were generously sponsored by Citi Group who provided both funding and volunteers for the events.  The outdoor events consisted of bounce houses at 17 locations, Snow cone machines at 15 locations, activities such as balloon artists and face painting at various locations, and SRC promotional tables. Branch Management and staff all contributed to organizing and facilitating the system wide events. Despite the adverse weather conditions of the day, system wide Bounce into Summer Reading involved 61 Citi volunteers, 70 branch volunteers and was attended by 1965 participants.
+	·         In coordination with Operation Food Search, the Library began offering the Free Lunch program at three branches beginning on June 2nd at Florissant Valley and Weber Road and on June 3rd at Rock Road.  The programs have been very successful and we have received positive publicity.  During the first week of the program, the Library served 821 meals to children.  After one week, the average meals served per day at Weber Road was 31, at Rock Road - 58 and at Florissant Valley - 57.  Florissant Valley and Rock Road have each seen a day where 100 meals were distributed. The program gains popularity with each passing day and continues through August 15.
+	·         The Library is exploring the option of partnering with MEAAA (Mid-East Area Agency on Aging) to offer twice-weekly senior programming at three of our branches.  We hope to begin this ongoing partnership in September of this year.  MEAAA will provide programming geared toward seniors that will cover a wide range of topics such as nutrition, stretching and physical activity, as well as other subjects that will be appealing to this demographic.  MEAAA, by coordinating with the OATS bus program, will be able to offer transportation for seniors who wish to attend.  MEAAA will also be providing nutritious meals to the seniors at each of the informational sessions.  The branches will provide programs to the seniors.
+	·         In January this year, the Library participated with Beyond Housing in a grant application to Citi Foundation.  We have just learned that our application was successful and we will be receiving $10,000 that will enable us to provide book discussion kits to Normandy Middle and High School.  We will also deliver book talks at the schools to promote reading for pleasure and arrange Family Literacy Nights at the Natural Bridge Branch for students and their families.
+	·         The Library is exploring the option of becoming part of the Project Safe Place initiative.  Project Safe Place is a preventative program aimed at children and teens in crisis situations.  When a young person is in need of a “safe place,” organizations, designated by the yellow and black Safe Place sign, serve that purpose temporarily until a Safe Place case manager can provide transportation for the child and offer assistance.  Both St. Charles City-County Library and St. Louis Public Library participate in this program and highly recommend it.  We plan to implement this at all of our locations.
+	·         Administration is working with the CityArchRiver 2015 Foundation related to the MyArchStory oral history and storytelling project.  CityArchRiver will be on hand to inform the public about the CityArchRiver project and collect My Arch Stories during Summer Reading Club events and in conjunction with the Library’s STL250 programs.
+	·         The Communications Department won two awards recently for material that they produced.  The first is a Communicator Award presented for the animation video created for the launch of the Foundation’s branding effort “Go Beyond the Page.”  The second is the Best of Show Award for the 2012 electronic Strategic Plan that will be presented at the American Library Association’s annual conference.
+	·         The Overdrive Digital Bookmobile will be at Headquarters on Monday July 21.  The Digital Bookmobile is a unique, self-sufficient community outreach vehicle and program that will help to promote our digital library services. It contains web-connected exhibits designed to provide hands-on experience with our digital download collection.
+	·         The Sweet Reads van began making visits on June 9th to various locations in Spanish Lake.  We have expanded the service this year from 4 to 13 locations. On Tuesday, June 10th, staff checked out a staggering 950 items at just two stops.  News channel 5 – KSDK was on hand at one of the locations to film and interview Colleen Hall and Ms. Sorth on Monday.  The story will air Monday, June 16th from 5:00 a.m. – 7:00 a.m.
+	·         Oak Bend had an art extravaganza program in their parking lot and we have pictures to show the Library Board of the event.
+	·         The Library Foundation partnered with the Normandy School District, the Rams, Great Southern Bank and PNC to host 104 children and their parents at the Natural Bridge Branch on the evening of May 24. The event was a celebration of reading, and was the culmination of work done by the Library's Youth Services Department over the past three years with 260 preschool and kindergarten students in the Normandy School District.  Each child received a free book, back pack, and goodies from the Rams and participated in a variety of fun activities. The event was funded by grants from several Foundations including the Dana Brown Foundation and the Greater St. Louis Book Fair.
+	·         Black Music Month was celebrated on June 13th at the Florissant Valley Branch sponsored by the Black History Committee.  The event featured three musical artists.
+	·         The Library Board approved the recommendation from administration to close the Headquarters at 1:00 p.m. on September 20, 2014 in order to prepare for the 5th Annual Library Gala (Cunnane/Tai).  This is the same closing time that has been used in previous years.
+	Library Employee Update
+	·         The Library Administration visited the St. Charles City-County Library and toured their new Spencer Road Branch.
+	·         Assistant Director of Advancement, Barbara Turkington, received the Richard H. Amberg Award.  This award was given in recognition of Barbara’s significant contributions as a Board Member of the Herbert Hoover Boys and Girls Club.
+	·         Barbara Brain and Marie Conlin attended a meeting entitled Creating Strong Communities sponsored by the St. Louis County Planning Department. Numerous local organizations were invited to attend and listen to a panel discussion regarding suburban poverty.
+	Library Facility Update
+	·         Marie Conlin, Steve Hibbler and Ed Clark attended a meeting on the implementation of the drinking fountain grant.
+	·         The Sachs branch parking lot improvements will begin this week.
+	·         The patron handrails at HQ are deteriorating in places and we will be repairing them in the next several weeks.
+	·         The HQ air conditioning unit's pan failed and the unit began leaking badly.  Water was weeping out of the walls and the lights in the ceiling in the public area at HQ near the hold shelves.  It is likely the drywall and the shelves will need to be taken down and replaced because of the water damage.
+	Author Events
+	There are several notable author events in June and July.
+	·         Jonathan Lethem, Acclaimed author of "Motherless Brooklyn" and "The Fortress of Solitude" Friday, June 27, 7:00 p.m. Library Headquarters - Auditorium
+	·         Jim Merkel, Author of "The Making of an Icon: The Dreamers, the Schemers, and the Hard Hats Who Built the Gateway Arch", Tuesday, July 1, 7:00 p.m., Library Headquarters - Auditorium
+	·         Jacqueline Winspear, Acclaimed author of the Maisie Dobbs mystery series, Wednesday, July 9, 7:00 p.m. Library Headquarters - Auditorium
+	·         St. Louis Native and Major League Pitcher Jerry Reuss, Author of "Bring in the Right Hander!: My Four Decades in the Major Leagues", Wednesday, July 16, 7:00 p.m. Library Headquarters - Auditorium
+	Dr. Beckwith stated that he viewed the positive media reports on Sweet Reads and said it was fine coverage.  Dr. Beckwith also congratulated Barbara Turkington on receiving the Amberg Award.
+	OLD BUSINESS
+	None
+	NEW BUSINESS
+	Readers’ Advisory
+	Reference Specialists Peggy Dimitriades and Sarah Steele gave a Power Point presentation on the Library’s Readers’ Advisory services. They described the growth and popularity of the Book Discussion Kits that they reserve and send to branches for library sponsored and patron organized book discussion groups. Book Discussion Kits were first offered in 2007 and have expanded from 16 adult kits at that time to 514 kits for adults, teens and children. 1,100 Book Discussion Kits were checked out last year. Kits are created based on staff and patron suggestions and many can be formed from surplus materials. A reader’s guide is created for each kit.
+	Ms. Dimitriades and Ms. Steele also gave an overview of the book discussion group programs offered by the library. There are 64 book discussion groups system wide with Weber Road’s being the oldest, having been created in 1991. Jamestown Bluffs has the distinction of being the largest group with 30 members.
+	A personalized reading service was launched in August 2013 that gives patrons the opportunity to receive customized reading lists via email.  This has proved to be a popular service with 356 requests completed so far this year.
+	Dr. Beckwith thanked the presenters for their very informative presentation.
+	Construction Update
+	Todd Hornburg, President of Landmark Construction gave an update on progress on the South County Regional Branch and Lewis & Clark Branch. Mr. Hornburg stated that the design phase was nearing completion. He anticipated that drawings would be completed by July 1, and that bids would go out on July 7 with a return date of July 28. He expected that construction would be ready to begin by the week of August 18.
+	Mr. Hornburg explained that the Lewis & Clark project is approximately one month behind schedule but he hopes construction drawings will be ready by July 21, with bids scheduled to go out Aug. 18 and construction tentatively scheduled to begin mid September.
+	He also stated that design work will begin shortly on the Phase 1B renovation projects.  The first four- Rock Road, Jamestown Bluffs, Indian Trails & Weber Road will be designed in 2014 and constructed in the first half of 2015.  The remaining five- Oak Bend, Natural Bridge, Prairie Commons, Cliff Cave & Sachs will be designed during the first half of 2015 with construction beginning in late 2015.
+	Landmark is working with SM Wilson on construction plans and on efforts to ensure diversity on these projects.   Mr. Hornberg discussed the Diversity Inclusion Program. An outreach meeting is scheduled for July 11 to formally present the project and project schedule.
+	Dr. Beckwith mentioned the need for co-ordination of the Natural Bridge Branch remodeling with the UMSL project since Natural Bridge Road will be narrowed during that process. He also stated the need for monitoring during construction to ensure that the Library’s targeted goals for minority involvement are met.
+	Architects and Engineers
+	Steve Hunter presented the Administration’s recommendation to select Bond Architects to provide architectural and engineering services for the nine projects in Phase 1B of the Construction Plan.
+	Lashly Baer and Landmark assisted with a Request for Qualifications (RFQ) that was issued on April 23, 2014 with responses due on May 9, 2014. Kristen Sorth, Barbara Brain, Eric Button, Steve Hunter, Ed Clark, and two representatives from Landmark reviewed the twenty-one responses to the RFQ. Based on the rankings, representatives from four firms were interviewed and references checked. Bond was determined to be the best qualified firm in accordance with the Library District’s Policy II for Professional Services and Missouri State Statute.  In accordance with Policy II and Missouri State Statute, the following evaluation factors were used to select Bond: (a) the specialized experience and technical competence of the firm with respect to the type of services required; (b) the capacity and capability of the firm to perform the work in question, including specialized services, within the time limitations required; (c) the past experience with references for comparable work; and (d) insurance required such as professional liability.
+	The Library Board approved Administration’s recommendation to select Bond Architects, a local firm, to provide architectural and engineering services for a renovation/addition at Rock Road and renovations at Cliff Cave, Indian Trails, Jamestown Bluffs, Oak Bend, Natural Bridge, Prairie Commons, Sachs and Weber Road. In accordance with State Statute, fees were requested after the selection process. Negotiations commenced following the review of the fees by Bond.
+	The following fees were agreed upon by Bond Architects:
+	$1,840,874 plus a not to exceed reimbursables amount of $56,434 (Sachs/Cunnane).
+	Automatic Door Safety Upgrades
+	Eric Button presented a proposal to upgrade or repair the automatic doors at Bridgeton Trails, Florissant Valley, Grand Glaize, Mid-County, Oak Bend, Prairie Commons, Samuel C. Sachs, and Thornhill. The upgrades/repairs are necessary in order to be able to certify that the doors meet the industry standards for operation and safety established by the American Association of Automatic Door Manufacturers (AAADM) and the American National Standards Institute (ANSI).
+	An Invitation for Bid (IFB) was issued on April 25, 2014 to perform these upgrades/repairs and three responses were received.
+	The Library Board approved the recommendation for the selection of the lowest and best bid from Overhead Door at a cost of $20,700. The 2014 Building Repair budget includes $60,000 for this item (Kenyon/Sachs).
+	Meeting Room Policy
+	Barbara Brain recommended that the Board approve several changes to the Meeting Room Policy. Ms. Brain explained that, since the revision allowing businesses to use the meeting rooms was approved in March 2013, there have been some problems with businesses implying that their meeting room use is sponsored by the Library when no such agreement has been reached. One of the policy revisions requires written acknowledgement of Library sponsorship. Another change emphasizes that use of the meeting rooms for financial gain is prohibited but that exceptions may be made for Library/Foundation sponsored events.
+	Other minor changes were made to the sections on refreshments and maximum capacity of the room. Legal counsel reviewed the draft policy.
+	The Library Board approved the revisions to the meeting room policy (Cunnane/Tai).
+	Bond Compliance Officer
+	Kristen Sorth presented a resolution and amendment regarding the Bond Compliance officer. When the Board approved the Tax Exempt Financing Compliance Policy and Procedures in April 2013, the Assistant Director of Administration was approved as the Bond Compliance Officer. Since this position has since been eliminated, it is necessary to change the policy and procedure. Attorneys at Lashly Baer drafted the resolution and amendment.
+	The Board approved the Administration’s recommendation for the attached resolution
+	and amendment to the Tax Exempt Financing Compliance Policy and Procedures which names the Manager, Finance as the Bond Compliance Officer replacing the eliminated title of Assistant Director of Administration (Cunnane/Kenyon).
+	Kerber, Eck and Braeckel Contract
+	Kris Mooney presented and the Library Board approved the administration’s recommendation of the 3 year contract with Audit firm Kerber, Eck, and Braeckel for Audit Services related to the Library District and the Library District’s Pension Plan for years ending 2014 – 2016 (Cunnane/Tai).
+	The fees proposed for those years are as follows:
+	Library District Library District Pension Plan
+	2014 $21,700 $10,000
+	2015 $22,250 $10,250
+	2016 $22,800 $10,500
+	Municipal Library Consortium Proposal
+	Kristen Sorth presented information from a letter received from Patrick Wall, the President of the Municipal Library Consortium (MLC) regarding a proposal to adjust the reciprocal borrowing agreement between St. Louis County Library (SLCL) and the municipal libraries. The municipal libraries include the Brentwood, Ferguson, Kirkwood, Maplewood, Richmond Heights, Rock Hill, University City, Valley Park and Webster Groves libraries.
+	Mr. Wall’s letter presented four separate options for adjustments to the reciprocal agreement. Mr. Wall stated that some MLC library boards have discussed withdrawing from the reciprocal agreement due to the impact on their budgets as municipal library patrons check out increasing numbers of SLCL materials. Ms. Sorth explained that the original agreement was developed to remove barriers to library use and the withdrawal of some libraries would have a negative impact on the residents of St. Louis County.
+	Ms. Sorth recommended that the Library Board accept the proposal to eliminate the 25-cent fee associated with renewing an item already checked out to a patron from a borrowing library.
+	The Library Board approved the administration’s recommendation for the removal of the transaction fee for renewals from the reciprocal borrowing agreement with The Municipal Library Consortium effective July 1, 2014. If approved, St. Louis County Library employees will work with the MLC to amend the contracts that we have with each MLC member library (Cunnane, Aye; Tai, Aye; Kenyon, Aye; Beckwith, Aye, Sachs, Nay).
+	Shared Services Agreement
+	Barbara Turkington presented the recommendation for approval of the Shared Services Agreement that defines the level of support provided by the Library to the Foundation. The current agreement will expire on July 31, 2014.
+	The Board approved the Library Administration and Foundation’s recommendation for approval of the annual Shared Services Agreement (Cunnane/Kenyon).
+	Joint Review Committee
+	Barbara Turkington explained that, according to Foundation by-laws, the Library Board must appoint or re-appoint members to the 5-person Joint Review Committee.  This committee determines whether the implementation of Foundation strategies, goals, programs and activities is in the best interest of the Library.
+	The Library Board approved the Library Administration and Foundation’s recommendation for the appointment of a member of the Library Board, the Library Director, and a member jointly recommended by the Library Trustees and the Foundation Board of Directors (Neil Jaffe) to the Joint Review Committee. The Library Board appointed Edith Cunnane as one of its members in addition to approving the recommendation of Neil Jaffe to the Joint Review Committee (Cunnane/Tai).
+	Health Insurance Renewal
+	The health insurance renewal recommendation was presented by Mary Arnhart, Human Resources Manager with assistance from Daniel and Henry Representative Cathy Quinn.
+	Ms. Arnhart stated that the initial renewal amount received from Coventry, the Library’s current carrier, was 9.65% but, with Daniel and Henry’s assistance, a lower renewal of 4.99% was negotiated. The 3.79% fee required under the Affordable Care Act is included in this percentage. The employee rate would increase effective August 1, 2014 from $589.68 to $619.09 a month and dependent coverage would increase from $666.31 to $699.54 a month.  Employees electing to have dependent coverage are responsible for its entire cost. The increase would also affect the rates for the pre-65 insurance plan for retirees. Pre-65 insurance is a voluntary benefit and does not result in any cost to the Library.
+	Ms. Arnhart explained that employees would continue to contribute $15 a month toward the cost of their individual health insurance. The Health Reimbursement Arrangement (HRA) approved by the Library Board in 2008 would also remain in place. The Library’s HRA and Flexible Spending Account plans are administered by BeneFlex. There would be no additional administrative costs with the exception of a $200 renewal fee for each plan.
+	The Library Board approved the recommendation of Administration in consultation with Daniel and Henry that we remain with Coventry. Daniel and Henry has reported that the average health insurance renewal this year is trending at 10%. The 4.99% renewal from Coventry is below trend and under budget as the budgeted amount for the health insurance renewal was 15% (Kenyon/Cunnane).
+	Dental Insurance Renewal
+	Mary Arnhart presented the August 1, 2014 renewal for employee dental insurance from our current carrier, Delta Dental. Ms. Arnhart explained that there will be a 4.5% increase in employee and dependent rates. The Library pays for the employee portion of the dental insurance and that rate will increase from $33.95 to $35.48 per month. The dependent rate will increase from $60.12 to $62.82 per month. Employees electing to have dependent coverage are responsible for its cost.
+	The Library Board approved the recommendation of Administration in consultation with Daniel and Henry that we remain with Delta Dental. The budgeted amount for this increase was 12% (Sachs/Cunnane).
+	Life Insurance and Vision Insurance Renewal
+	Ms. Arnhart also presented the renewal costs for employee life insurance and optional vision insurance, both of which will renew on August 1, 2014.
+	There will be a 0% increase for the Library’s basic life, accidental death and dismemberment (AD&D) and long-term disability insurance through Reliance Standard. The rates for this year will continue to be $.24/$.010/$1000 for basic life/AD&D and $.24/$100 for long-term disability. There were no changes to the voluntary life insurance rates.
+	The Library Board approved the recommendation of Administration in consultation with Daniel and Henry that we remain with Reliance Standard for life, AD&D, long-term disability, and voluntary life insurance. The budgeted amount for this increase was 15% (Sachs/Kenyon).
+	Ms. Arnhart stated that we have also received a 0% renewal from VSP, the Library’s vision insurance provider. This is a voluntary benefit and does not result in any cost to the Library. The employee rate will remain at $7.95/month and dependent coverage will remain at $17.96/month.
+	The Library Board approved the recommendation of Administration in consultation with Daniel and Henry that we remain with VSP for the Library’s optional vision insurance (Cunnane/Tai).
+	ADJOURN
+	The Library Board voted to adjourn the meeting at 4:53 p.m.
+	All approved by voice vote.
+	Aye: Lynn Beckwith, Steve Sachs, Dr. Chingling Tai, Edith Cunnane, Elena G Kenyon
+	Sincerely submitted by,
+	________________________                        ______________________
+	Chingling Tai                                                  Date

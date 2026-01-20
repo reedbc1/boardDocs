@@ -1,0 +1,134 @@
+{
+  "name": "Regular Meeting",
+  "description": "Library Board",
+  "unique": "AHPPYE621187",
+  "date": "2017-07-17T00:00:00Z"
+}
+
+---
+
+ST. LOUIS COUNTY LIBRARY DISTRICT
+MEETING OF THE BOARD
+HEADQUARTERS
+1640 SOUTH LINDBERGH BLVD.
+MONDAY, JULY 17, 2017
+The monthly meeting of the Board of the St. Louis County Library District was held at the Headquarters Branch, 1640 South Lindbergh Blvd., St. Louis, MO 63131 on Monday, July 17, 2017 at 3:00 p.m. The agenda had been posted in all branches of the Library District at least 24 hours before the meeting.
+ATTENDANCE:
+Library Board Members:
+Dr. Lynn Beckwith, President
+Edith Cunnane, Vice President
+Dr. Chingling Tai, Secretary
+Elena Kenyon, Treasurer
+Michael Mulligan, Member
+ADMINISTRATORS AND GUESTS ATTENDING:
+Kristen Sorth, Library Director; Eric Button, Deputy Director; Barbara Turkington, Assistant Director, Advancement; Kris Mooney, Assistant Director, Administration; Gib Van Cleve, Assistant Director, ITS;  Steve Hunter, Assistant Director, Operations; Lisa Stump, Attorney, Lashly & Baer; Jim Konrad, Mackey Mitchell Architects; Tom Curran, St. Louis County.
+OTHERS ATTENDING:
+Stacy Berger, Barb Reale, Amy Hanaway, Michael Cohen, Lindsey Piech, Michelle Sawicki, Jennifer McBride, Jennifer Gibson, Donna Spaulding, Deanna Davis, Keir Haug, Catherine Hill, Anna Gonzalez, Scott Kolath, Sarah Brown, Kelli Reeves, Emily Althoff, Rebecca Clarke, Scott Holl, Nicole Higginbotham, Amy Gibbons, Kathy Wiese, Anna Schurk, Roz Kohen, Annie Fuller, Chasidy Allen, Tracy Fletcher, Lauren Striebel, Marie Conlin, Nicole Clawson, Stacey Lewis, Lori Boschert, Anne Bradley, Mary Meyer, Cindy Schultz, Conrad Rader, Anne Arthur, Paul Bayless, Laura Kasak, Jennifer Alexander, Mary Arnhart, Ross Brand, Carla Maxwell, Julie Cruise, Kathy Muller, Natalia Catlett, Andrea Johnson, Gina Sheridan, Sarah Wood, and Sandy Williams.
+MINUTES
+The Library Board approved the June 19, 2017 minutes (Kenyon/Mulligan).
+PUBLIC COMMENTS
+There were no patron comments.
+TREASURER'S REPORT
+Kris Mooney reported that, in June, the Library District received three grant payments from the State of Missouri totaling $17,679. The payments include $8,928 for the final installment of a Technology Ladder grant for the website redesign, $5,927 for a Technology Mini-Grant for MacBooks for teen programs, and $2,824 for a Spotlight on Literacy grant for the We are St. Louis programs.
+The Library District also received $12,813 in revenue from the reciprocal agreements with the Municipal Libraries. This represents three of the seven libraries that were invoiced. We expect to receive the remaining four libraries’ payments in the next couple of months. Total revenue to be received after all libraries have made payment is $25,934.
+The Library District purchased Radio-Frequency Identification (RFID) tags for $20,890 from Bayscan Technologies. These supplies are generally replenished semi-annually and are placed on library materials for inventory and anti-theft purposes.
+The Library District paid for 100 additional Sierra licenses from the Integrated Library System vendor, Innovative Interfaces Incorporated, at a first year cost of $15,000. The additional licenses will prevent lost access to the Sierra software due to all licenses being in use. This purchase was approved at the May 15, 2017 Board meeting.
+Capital Projects Fund Balance Sheet
+Total Construction in Progress for June 2017 was $1,835,950. The expenses included payments for:
+	Construction costs for Phase 2a buildings (Bridgeton Trails, Florissant Valley, Daniel Boone) - $1,461,770
+	Construction management services for Phase 2a buildings - $148,270
+	Furniture and Fixtures for Bridgeton Trails - $63,994
+	Design costs for Mid-County - $55,764
+	Facilities Master Plan Administrator - $39,930
+The Library Board approved of the Treasurer's report subject to audit (Cunnane/Tai).
+DIRECTOR'S REPORT
+Kristen Sorth gave the following report.
+Library Update
+	Ms. Sorth shared that the dashboard report for July contains a variety of statistical information for the Library including information about circulation, visits, PC usage, and new patrons. The report was shared with the Board.  With various branches closed for construction, circulation is almost flat while PC usage is up 3%.  Several branches saw significant increases in circulation again this month, including another huge increase for Sachs at 64%. Also included this month is information about the summer lunch program, which has a 31% increase in total meals served compared to last year at this time. Additionally, the report includes information about the most popular items in the collection.
+	Ms. Sorth reported that the Library received a very nice email from a Library patron at Grant’s View and another nice written comment from a patron at Prairie Commons. Both patrons were searching for a job and were thankful for the kindness of Library employees and for the services available at the Library. These notes were shared with the Board. (Plan: Strengthen Sense of Community 1)
+	We Are St. Louis is an adult series that explores the wide variety of identities, cultures and ethnicities in St. Louis. The programs consist of history, dance, musical performances, and interactive workshops. The next program will explore Chinese heritage on August 31 at HQ.  (Plan: Strengthen Sense of Community 2)
+	The Library will host a Local History Fair on August 19 at Headquarters. Representatives of St. Louis-area historical societies and related organizations will be available to discuss their activities in documenting, preserving and promoting the history of their local communities. (Plan: Strengthen Sense of Community 2)
+	Ms. Sorth announced that beginning with the upcoming school year, the Library will offer school districts the option of a full access card or a card that offers access to online materials only. The online only plan would not require parental permission and would not have an actual card issued. Instead, students would use their student ID number as their library card number to access SLCL's databases and eMedia. Eric Button has communicated this information to all of the public school superintendents in St. Louis County. Ms. Sorth said the Administration is hopeful that this will attract additional school districts to the program. (Plan: Strengthen Sense of Community 3.1)
+	In April, the Library Board approved the “My Card My Way” joint marketing campaign with St. Louis Public Library. There will be four jointly branded commercials for this campaign focusing on areas of non-traditional library services. The highlighted service areas include:  Genealogy, Small Business, Downloadables/eMedia, and Telescopes. The next step is to identify patrons who are willing to participate in the commercials. Each Library District will hold a casting call. (Plan: Strengthen Sense of Community 1.2)
+	Ms. Sorth mentioned previously that Recycled Reads has expanded to four additional sites in a partnership with St. Louis County Government. These new sites launched with a ribbon cutting on June 21st at the County Government Building. County Executive, Steve Stenger, and Ms. Sorth both spoke at the kickoff and were lucky enough to cut the ribbon with several of the youngest patrons. (Plan: Strengthen Sense of Community 3)
+	There were many mentions of the St. Louis County Library in the local media in print, radio and television. These articles were shared with the Board. (Plan: Sense of Community 1.2)
+	A number of great photos were shown to the Board from several programs and events including:  Death by Tickle at HQ, author Janet Evanovich at HQ, Animal Architects at Weber Road, Storytime at Lewis & Clark, Decorating with Ink at Mid-County, Sweet Reads with Girls Inc., and Paint Your World at Weber Road. (Plan: Increase Literacy 1 and Sense of Community 2.3)
+Library Administrative Updates
+	Ms. Sorth said seven Administrators from the Seattle Public Library will be in St. Louis in September to visit both the St. Louis County Library and the St. Louis Public Library.  Details regarding the visit are underway. (Plan: Strengthen Sense of Community 1.2)
+	The Missouri Library Association’s Annual Conference will be held in St. Louis this October. We submitted ten proposals for breakout session presentations from various Library employees on programs and services offered at SLCL. All proposals were accepted. (Plan: Strengthen Sense of Community 1.2)
+	The Library has been notified of several awards and recognitions which include:
+	Dan Lilienkamp from the History and Genealogy Department has been awarded the 2017 Certificate of Appreciation from the Missouri State Genealogical Association. The award is given for exemplary and outstanding performance of duties related to Missouri genealogy and family history. Dan will be present at the 2017 MoSGA Conference to receive the award in person. (Plan: Strengthen Sense of Community 1)
+	The Library's Listen Up STL local music project was included on St. Louis Magazine's A-List as best local music initiative. (Plan: Increase Literacy 3.3)
+	The Library's promotion of last fall's Little Readers Festival received an Excellence rating as part of the NACIO (National Association of County Information Officers) Awards of Excellence. As you may recall, the Little Readers Festival was held at HQ last September and was wildly successful with over 3,000 people attending. The rating qualifies the program to be considered for the Best in Class award in the category of special projects. Ms. Sorth congratulated Jennifer McBride and her staff for their great work promoting the event. (Plan: Increase Literacy 2; Strengthen Sense of Community 1.2; Create Gathering Spaces 1.1)
+	The Cliff Cave Branch in Oakville has been notified that it is the recipient of the 2016 Renovation-Beautification Award from the South County Chamber of Commerce.  (Plan: Create Gathering Spaces 2.1)
+	For the fourth year in a row, St. Louis County Library was named a Top Workplace for 2017 by the St. Louis Post-Dispatch. The announcement appeared in the Sunday, June 25 edition of the paper. The Library was ranked 13 out of 20 "Large" companies. We were thrilled to receive this honor. The designation was made after Library employees were surveyed by an independent research organization. Library employees responded to questions about job satisfaction, benefits, management, training opportunities and leadership. Eighty-two percent of Library employees responded to the survey. (Plan: Strengthen Sense of Community 1)
+Library Construction and Facility Update
+	Ms. Sorth announced that the Library will begin construction on a new branch to replace the current Meramec Valley Branch in the fall of 2017. A seven-acre parcel of land has been purchased at 1501 San Simeon Way, the former site of Marshall’s Nursery, in unincorporated St. Louis County.  The Library closed on the property on Tuesday, July 11.  The new branch will replace the existing Meramec Valley Branch in Fenton. The current location is 2,690 square feet, the smallest in the Library District. The branch will remain open during construction. The new Meramec Valley Branch will be a full service library branch, encompassing 21,000 square feet. The new branch will feature a Discovery Zone for children, private study rooms, a quiet reading room, a community meeting room, a business center, a community garden, and an outdoor reading deck. (Plan: Create Gathering Spaces)
+	The Florissant Valley Branch will re-open to the public on August 2 following three ribbon cuttings - one for the branch, one for The Emerson Children’s Discovery Zone, and one for The Dana Brown Early Explorers' Area. (Plan: Create Gathering Spaces)
+	On May 25, a pollinator garden was installed at the Natural Bridge Branch, with assistance from SLCL's Green Team and local volunteers. The garden was designed by Lisa Williams, horticulturist at the Butterfly House. Greenscape Gardens and Gifts provided the plants at a discounted price as part of the Project Pollinator partnership. The garden is visible from the children's area as well as the meeting room. In addition to a beautiful view, the garden offers an opportunity to learn about the roles of native plants and pollinators. There will also be kinetic wind sculptures installed in the garden in the future. The garden and sculptures are funded through a gift from a private donor for the Natural Bridge Branch. (Plan: Create Gathering Spaces 2.3)
+	In anticipation of heavy study room usage at the regional branches, the Library will begin to use a pager system to alert patrons to the availability of their study room and to let them know when their time is up when others are waiting. The system would be just like those used at many restaurants. (Plan: Strengthen Sense of Community 1.1)
+	Ms. Sorth shared that the Library is planning to add panic alarms at the newly renovated branches to add another level of security. Panic buttons automatically call out to a dispatch company to contact the police. The buttons can be used discretely in situations when it is unsafe to call 911. The plan currently is to install these features at the main service desk in every renovated branch. Building Systems will coordinate the project.  (Plan: Create Gathering Spaces 1.3)
+	As was mentioned previous, the Library has been adding teen signage to the Phase 1 branches. Communications designed the signage at the Sachs Branch and it was recently installed at the branch. (Plan: Create Gathering Spaces 1.2)
+	The RFP for Phase 3 Construction Manager was posted on the Library’s website on June 12.  The proposals were due July 14 and a recommendation to the Board will be made at the August Board Meeting. (Plan: Create Gathering Spaces)
+	As Steve Hunter and Ms. Sorth have mentioned in previous reports, the fire protection system at HQ is deteriorating with leaks visible in the tunnel. Unfortunately, the deterioration is progressing and other leaks are now occurring. We asked engineering firm IMEG for assistance. They visited the site and reviewed the problem with our Building Systems staff. We have chosen to bypass the entire pipe with new pipe that runs above ground, inside the downstairs hallways.
+We have solicited and received three quotes to address the sprinkler issue at HQ.  The lowest quote was for $14,000 which is below the dollar amount that requires Board authorization. Unfortunately, this vendor is not available to do the work.  The next lowest quote from Accurate Fire Protection is for $22,390, which is above the dollar amount that requires Board authorization. Because of concerns about the significant leak as well as the potential consequences if the pipe fails, I talked with legal counsel about using Section 7 in the Board's Policy I for Procurement to proceed with the work to fix the sprinkler line and was told this was an appropriate use. I notified the Library Board of this on June 29.
+The Board's policy says:
+Section 7. Emergencies. This Policy may be waived by the Director in writing in emergencies involving the health, welfare or safety of individuals or where significant damage or disruption of service would occur if corrective action is not taken quickly. Emergency procurement shall be made with such competition as is practicable under the circumstances. If the emergency does not allow sufficient time for the Procurement Process set forth hereunder, a complete report of actions taken shall be presented to the Board at the next regular or special meeting.
+Library staff engaged as much competition as possible under the circumstances.  On July 3, we entered into an agreement with Accurate Fire Protection to start the project as soon as possible. The actual work is expected to begin early next week.
+Library Foundation
+	On July 22, St. Louis native and award winning actor Jon Hamm will discuss his local roots and storytelling through film and television during an onstage interview at HQ with bestselling author, Curtis Sittenfeld.  The event will benefit the Career Online High School program. Tickets to the event went on sale June 7 and sold out in five minutes.  There will be a private fundraising event immediately following the public event at a home in Clayton. The Library will close at 4:00 p.m. on this date in preparation for the public event with 850 people in attendance. (Plan: Strengthen Sense of Community 2.3)
+Author Events
+	Kathy Reichs, “Two Nights”, Monday, July 17, 7:00 p.m., Headquarters.
+	Jon Hamm, Actor/Entertainer, Saturday, July 22, 6:00 p.m., Main Reading Room, Headquarters.
+	Terry Tempest Williams, “The Hour of Land”, Thursday, July 27, 7:00 p.m., Headquarters.
+	Daryl Gregory, “Spoonbenders”, Tuesday, August 1, 7:00 p.m., Headquarters.
+	Donald Ray Pollack, “The Heavenly Table”, Monday, August 7, 7:00 p.m., Headquarters.
+	Lynne Cox, “Swimming in the Sink”, Wednesday, August, 9, 7:00 p.m., Headquarters.
+	Susan Elia MacNeal, “The Paris Spy”, Thursday, August, 10, 7:00 p.m. Headquarters.
+	Jonathan Losos, “Improbable Destinies:  Fate, Chance, and the Future of Evolution”, Thursday, August 17, 7:00 pm., Headquarters.
+Elena Kenyon mentioned that she thought it was inappropriate for authors to feel free to use vulgar profanity at Library events.
+NEW BUSINESS
+MERAMEC VALLEY AND THORNHILL BRANCH DESIGNS
+Jim Konrad, principal at Mackey Mitchell, presented a report on the designs for Meramec Valley and Thornhill Branches. Bond Architects are working with Mackey Mitchell on the projects.
+The Thornhill Branch sits on three acres. The new branch will be a replacement building on the same site.
+CONSTRUCTION UPDATE
+Steve Hunter gave an update on the construction projects. Mr. Hunter shared that Florissant Valley will open later this summer. He showed pictures of the work to date and renderings of the teen area and quiet room.
+Daniel Boone is nearly ready for the external panels for the addition. Pictures were shown of the children’s area. Daniel Boone is now expected to open in October.
+Mr. Hunter also mentioned that Grand Glaize construction bids will be posted July 24.
+PHASE 3 ARCHITECTS
+Steve Hunter presented the Library Administration’s recommendation for Architectural and Engineering Services for the new Headquarters facility.
+The Library Administration requested the submission of qualifications from qualified firms to provide Architectural and Engineering Services for Phase 3 of the Library’s Your Library Renewed project, the demolition and rebuilding of the Headquarters building. The schedule, budget, and sample contract were included in the RFQ, which was issued on May 1, 2017 and is attached. Responses were due on May 19, 2017. Nine responses were received. The Selection Procedures for Architects and Engineers are clearly defined by Missouri State Statute and described in the Library District’s Policy II for Professional Services.
+A five-member selection committee consisting of Kristen Sorth, Eric Button, Steve Hunter, and Kelli Reeves from the Library plus Scott Kolath from Landmark individually reviewed the proposals. Based on the committee’s consolidated rankings, the following four firms were interviewed on June 5, 2017:
+ · Forum Studio
+· Christner
+· Chiodini + MSR
+· Cannon+Bond
+In accordance with Policy II and Missouri State Statute, the following selection criteria were used:
+ (a) the specialized experience and technical competence of the firm with respect to the type of services required;
+(b) the capacity and capability of the firm to perform the work in question, including specialized services, within the time limitations required;
+(c) the past experience with references for comparable work;
+(d) insurance required such as professional liability; and
+(e) the firm’s proximity to and familiarity with the area in which the project is located.
+The Library Board approved the selection of Forum Studio to provide Architectural and Engineering services for the new Headquarters facility and that the Board authorize the Director to enter into and execute a contract to that effect. Forum Studio’s negotiated fee is $4,019,570. This fee includes $185,000 in allowances and $103,500 in optional services (Cunnane/Tai).
+CARPET CLEANING
+Steve Hunter presented the Library Administration’s recommendation for Carpet Cleaning across all branches.
+On August 29, 2016, Library Administration issued an IFB for quarterly carpet cleaning across all branches. Four firms responded. On September 19, 2016 the Board approved the selection of ISS Facility Services Subsequently a contract was executed and they began scheduling the work.
+Administration has determined that the work performed by ISS does not meet Library standards or expectations. The contract with ISS includes a termination clause. Lashly & Baer provided a termination letter, which has been sent to ISS. The termination is effective immediately.
+The second lowest bidder from September, Woodard Cleaning and Restoration, has agreed to honor their stated pricing.
+The Library Board approved Administration’s recommendation that the Library Board select Woodard Cleaning and Restoration to provide carpet cleaning services to the Library District for all 20 branches for the amount of $86,520 per year, and that it authorize the Director to enter into and execute a 3-year contract to that effect (Kenyon/Mulligan).
+NAMING RIGHTS REQUEST
+Kristen Sorth presented the Library Administration’s and the Library Foundation’s recommendation for the naming of the outdoor classroom at the Sachs Branch Reading Garden.
+Ms. Sorth shared the report to the Board that said in October of 2015, the St. Louis County Library Foundation dedicated the Jai Nagarkatti-Monsanto Company Reading Garden at the Sachs Branch. The Reading Garden was made possible by the generosity of several people, most notably former Foundation Board member Susan Nagarkatti. The Foundation believes it is fitting and well-deserved that the area of the Garden known as the Outdoor Classroom be named:
+The Susan Nagarkatti Outdoor Classroom
+The St. Louis County Library Foundation Board approved the naming recommendation at the June 13, 2017 Foundation Board meeting. The Library Board of Trustees, per its naming policy, makes all final decisions on naming rights for Library buildings, rooms or features. The policy states that exterior garden spaces may be named in recognition of individuals or groups who have made a significant financial or other contribution that advances the mission of the Library to serve its community. The full policy was shared with the Board.
+The Library Board approved the Administration’s and the Library Foundation’s recommendation for the naming of the Outdoor Classroom at the Sachs Branch Reading Garden in honor of Susan Nagarkatti (Cunnane/Tai).
+CODE OF ETHICS POLICY
+Kristen Sorth presented legal counsel’s recommendation for approval of the revised Code of Ethics. A copy of the Code of Ethics with changes noted was shared with the Board. The copy outlines the Library Board’s commitment to the proper operation of the Library District through a Code of Ethics.
+Ms. Sorth explained that the report that states the State Statute requires that the Board approve a Code of Ethics every two years. The approved policy must be sent to the Missouri Ethics Commission by September 1.
+The Library Board approved the Administration’s recommendation of the attached resolution as reviewed by the attorneys at Lashly & Baer (Mulligan/Kenyon).
+ADJOURNMENT
+Edith Cunnane made a motion to adjourn the open meeting and to convene Executive Session to discuss real estate (Section 610.021(2)); Dr. Tai seconded.  All voted in voice approval.
+The meeting adjourned at 3:50 p.m.
+Respectfully submitted by,
+________________________________                                ___________________________
+Chingling Tai, Secretary                                                         Date

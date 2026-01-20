@@ -1,0 +1,184 @@
+{
+  "name": "Regular Meeting",
+  "description": "Library Board",
+  "unique": "BX327Q7C9EBE",
+  "date": "2021-11-15T00:00:00Z"
+}
+
+---
+
+ST. LOUIS COUNTY LIBRARY DISTRICT
+MEETING OF THE BOARD
+HEADQUARTERS BRANCH
+MONDAY, NOVEMBER 15, 2021
+The monthly meeting of the Board of the St. Louis County Library District was held at Headquarters, 1640 S. Lindbergh Blvd., St. Louis, MO 63131 on Monday, November 15, 2021 at 3:30 p.m. The agenda had been posted in all branches of the Library District at least 24 hours before the meeting.
+ATTENDANCE:
+Library Board Members:
+Dr. Lynn Beckwith, President
+Johnny Wang, Vice President
+Ted Sanditz, Treasurer
+Joan Barry, Secretary, via telephone
+Deborah Patterson, Member
+ADMINISTRATORS AND GUESTS ATTENDING:
+Kristen Sorth, Library Director & CEO; Eric Button, Deputy Director; Barbara Turkington, Assistant Director, Advancement; Laura Taylor, CFO; Gib Van Cleve, Assistant Director, ITS; Steve Hunter, Assistant Director, Operations; Lisa Stump, Attorney, Lashly Baer; Gloria Carter Hicks, Aaron Van Groningen, and Maya Gann-Bociek, Hicks-Carter-Hicks.
+Others Attending:
+Gina Sheridan, Lisa Haddox, Nicole Clawson, Lindsey Piech, Natalia Catlett, Emma Figueroa, Rebecca Clark, Nora Marino, Chris Goodman, Alaina Culberson, Skylar Stanley, Emily Althoff, Crystal Harris, Marie Conlin, , Carla Maxwell, Terrence McCoy, Miriam Whatley, Yecenia Arango, Terra Sleep, Mary Arnhart, Laura Taylor, Andrea Johnson, Amy Hanaway, Jennifer Gibson, Denise Chappell, Annie Fuller, Stephanie Nordmann, Deanna Davis, Nicole Walsh, Jake Eubanks, Hannah Axt and Sandy Williams.
+APPROVAL OF MINUTES
+The Library Board approved the October 18, 2021 minutes (Wang/Sanditz).
+PUBLIC COMMENTS
+There were no patrons who wished to speak before the Board.
+TREASURER'S REPORT
+CFO Laura Taylor, reported the following.
+Maintenance and Operating Fund Financial Statements:
+Revenue
+	District Taxes – In October, the Library District received tax revenue in the amount of $173,368.  Year-to-date, total tax revenue for 2021 is at 101% of the budgeted $58.5 million.
+	State Aid – In October, the Library District received $214,787 from the State of Missouri’s distribution of State Aid to libraries.  This was the first of two payments expected for the State of Missouri’s 2022 fiscal year.
+Expense
+	Building Repair - HVAC – In October, the Library District incurred $58,858 in Building Repair – HVAC expenses.  Notable expenses are as follows:
+		$43,611 for the boiler installation at Florissant Valley – American Boiler & Mechanical
+		$10,500 to repair and replace parts in an air handler at Headquarters – Integrated Facility Services
+Capital Projects Fund Financial Statements
+Balance Sheet – 2016 Debt Issuance
+	Construction in Progress – Total Construction in Progress for October 2021 was $1,388,681.  The expenses included payments for:
+		Pay Application from Interior Construction Services for the construction performed through September 2021 at the Lynn Beckwith Jr. Administrative Building for $1,115,974.
+		Pay Application from the Lamar Johnson Collaborative for professional services performed through September 2021 at the Ladue Branch for $166,681.
+		Pay Application from the Lamar Johnson Collaborative for professional services performed through September 2021 at the Lynn Beckwith Jr. Administrative Building for $83,483.
+The Library Board approved of the November 2021 Treasurer's Report subject to audit (Sanditz/Wang).
+DIRECTOR & CEO REPORT
+Library Director and CEO Kristen Sorth delivered the following report.
+Director’s Report – November, 2021
+Library Update
+	The Dashboard report for October was shared with the Board.  Ms. Sorth reported that total circulation in October, 2021 was 44% higher than October, 2020.  Circulation remains below pre-pandemic levels; however, for the last five months we have circulated over a million items each month.  Children’s books continue to be the Library’s top circulating item followed by eMedia.  She said in October, the Library hosted 498 programming sessions with a total of 16,163 attendees.  Ten of those sessions were author events with 4,614 attendees.  Information on PC usage, new patron registrations, virtual programming attendance and the most popular titles for the month are also included.  (Plan: Promote Literacy 1.1 and 1.2)
+	There were 3,432 new patron registrations for library cards in October, and 636 new library cards were mailed to patrons who registered online. The Library created ConnectED cards for 1,183 new students.  A total of 123 patrons from Scenic Regional, Jefferson County, and Washington Public Library districts registered for a reciprocal card. (Plan: Maximize Access 1.2)
+	Ms. Sorth said the Library is exploring the idea of offering in-person programming in the first quarter of 2022.  She said the decision making will be guided by conversations with the Department of Public Health as well as current data on COVID-19 in the community.  The Library has surveyed public facing employees to gather their thoughts about how we approach in-person programming. (Plan: Maximize Access 2.4)
+	The Library maintains items in the collection that are “bookable” by patrons or employees for a particular period of time.  These booking items, such as book discussion kits, story time materials, and technology equipment, have been managed through the Integrated Library System (ILS).  After a review of several software options, the Library has selected myTurn to make these accessible when we migrate to the Polaris ILS.  The myTurn product offers increased options and features to make the booking process more streamlined. (Plan: Maximize Access 1.1)
+	Several new children’s titles will be added to the We Stories collection to increase the selection of these popular featured materials.  A partnership was established several years ago with We Stories, whose mission is to “engage white families to change the conversation about and build momentum toward racial equality in St. Louis.”  The materials selected for this collection are identifiable in the catalog and are often on display in the branches. (Plan: Promote Literacy 1.1)
+	She said Public Service managers and other employees who volunteered to provide notary services to patrons are going through the steps of becoming certified for the services.  It is expected that notary services will be offered for the public in early 2022.  The service will be available at all Library branches and HQ.  Notary services are one of the most requested service from patrons. (Plan: Maximize Access 1.1)
+	She announced that the Winter Reading Challenge will kick-off on December 1 and run through January 31. All ages can participate. Participants must complete five activities to complete the challenge and be entered into an electronic raffle for a chance to win prizes. Examples of activities include reading a non-fiction book, checking out a Read and Play kit, listening to an audiobook and attending a virtual program. (Plan: Promote Literacy 1.2)
+	Over 1,300 patrons of all ages registered for this year’s Fall into Fitness Challenge, with over 400 completions. That is a 37% increase in completions from last year’s Challenge. Participants logged either 30 miles of walking or 900 minutes of activity on paper logs found at branches or online through Beanstack. Winners were selected on November 8, with prizes including hiking gear, water bottles, and gift cards. (Plan: Sense of Community 2.3)
+	This October, the Library continued its partnership of many years with Monster Paranormal, to present their “parahistory” programs about spirit explorations in the region. The Library hosted four virtual programs with a total attendance of 1,290 people. Most of the attendance came from the final program, “Lemp Family History and Ghosts”.  This program had record-breaking attendance with 730 people joining the webinar on Zoom. (Plan: Promote Literacy 3.4)
+	The Library has continued its years-long partnership with National Novel Writing Month by hosting a series of virtual events for NaNoWriMo this November. The kickoff event held at the end of October had 82 attendees, a 228% increase over last year’s virtual kickoffs and nearly 450% increase over the in-person workshops in 2019. The remaining two “Come Write In” events will help participants celebrate reaching the mid-way point in the month-long writing marathon. Adult Services will then host a virtual finale event on November 30. This program follows the success of September’s 100 Words Daily Writing Practice and is the precursor to more diverse writing programs scheduled for 2022. (Plan: Promote Literacy 3.4)
+	The Library’s YouTube page has grown into an extension of the Library during the pandemic. With over 1,700 subscribers, patrons have been using YouTube for story times, learning how to use databases, accessing mental health resources, gaining job skills, doing arts and crafts with their family, and planning for retirement. We will continue to make use of this great tool for reaching new audiences. (Plan: Maximize Access 1.4)
+	The Board of Elections has requested to use the Daniel Boone Branch as an absentee satellite voting location.  The Mid-County Branch has served in that capacity since 2020.  Going forward, both the Daniel Boone Branch and the Mid-County Branch will be absentee satellite voting locations. (Plan: Sense of Community 2.1)
+	She said the Library continues to provide vital services to the region.  She shared a chart that showed the accomplishments as of November 11, 2021.  She also said the Library continues to host weekly vaccination clinics at four branches – Lewis & Clark, Natural Bridge, Florissant Valley and Rock Road.  Those locations are now also offering the COVID vaccine for children.  Communications has been helping promote vaccines for kids.  Their efforts include sending a press release and eBlast to patrons, and sharing the information on social media. The current chart below reflects data for 2021 only. (Plan: Sense of Community 2.1)
+	The transit advertising campaign for the Tap in Center at Florissant Valley Branch is complete.  The ads are located at Metro bus shelters and Metrolink Stations. Promotional information will also be displayed inside Metro buses. The ads have been placed across north and south routes to ensure a broad range of coverage. (Plan: Maximize Access 3.1)
+	System Administration, Cataloging, Processing, and Acquisitions are working hard on the Library’s transition to the Polaris ILS.  Support Services employees have started the process of mapping the Library’s data into new codes created for Polaris. Later this week, Innovative will visit to assess the current workflows in our technical services departments in order to match them with the most effective Polaris workflows. (Plan: Maximize Access 1.1 and 3.4)
+	There were many mentions of the St. Louis County Library in the local media in print, radio and television.  Those articles are attached. (Plan: Maximize Access 3)
+	Ms. Sorth shared pictures from various events and programs that have taken place over the last month including:  Branch Update at Florissant Valley, Congressman Adam Schiff at HQ, NASA-Story Time in the Stars Virtual Event, Grab & Go Meals at Rock Road, and author, Mitch Albom at HQ. (Plan: Promote Literacy 3.4 and Sense of Community 2.1)
+Library Administrative Updates
+	Ms. Sorth announced that the Library is receiving an award from East-West Gateway Council of Governments. The East-West Gateway Council of Governments provides a forum for cooperative problem-solving and the coordinated development of regional policy. Each year they present Outstanding Local Government Achievement Awards to honor the extraordinary work of individuals, municipal and county governments/departments, special purpose districts and public educational institutions in the city of St. Louis and Franklin, Jefferson, St. Charles and St. Louis counties in Missouri and Madison, Monroe and St. Clair counties in Illinois. The Library was nominated by St. Louis County Executive, Dr. Sam Page, for our work to support the community during the pandemic.  The Library is receiving an award for:
+Exemplary Accomplishment by a Local Government Jurisdiction, Agency or Individual:   Honors local government jurisdictions, special purpose and school districts, public agencies and individuals for unique achievements in the creation and implementation of exemplary government programs or projects and exceptional public sector contributions.
+            (Plan: Sense of Community 2.1)
+	Over the last two years, administration has been working with Lockton, the Library’s HR Consultant, on a complete revision to the performance management process and salary structure. Their recommendations were scheduled for implementation over two years.  The recommendations were included in the 2021 Library Budget and will also be included in the 2022 Library Budget.  The following adjustments were made on July 1 of this year.
+		The pay grade structure collapsed from 17 grades to 11 grades. Impacted employees in grades 1 – 5 received a structure adjustment.
+		The minimum starting salary at the Library increased to $15 an hour.   As with the other structure adjustments, efforts were made to address compression which is a situation where all employees are clustered at the bottom of the new range regardless of their time in that position.
+		The job descriptions for Circulation Assistants and Library Assistants were consolidated into one title, Library Associate, with one job description. Circulation Assistants were previously paid at a lower rate of pay than Library Assistants. Their pay range was adjusted upward and impacted employees received an adjustment on July 1.
+The 2022 proposed Library Budget includes the second part of the revision and makes adjustments to grade 6-11 on July 1, 2022.  Merit raises for all employees are also included in the 2022 proposed Library Budget.
+	Applications for the Staff Development Cohort are open for 2022. The Cohort provides opportunities for qualified employees to develop additional skills and increased knowledge of library services so that the individual may make greater contributions to St. Louis County Library to fulfill the Library’s mission.  The Cohort also provides a greater sense of how the individual’s work contributes to the whole. Any full-time employee who has been with the library for one year and does not possess a Master’s Degree in Library and Information Science may apply.  After completion of the program, the Cohort will be invited to join the Employee Engagement Committee and use the information they learned to inform decision making. (Plan: Sense of Community 1.3)
+	Ms. Sorth said that Sam Murphey, Chief Strategy Officer with Greater St. Louis, Inc. will provide a regional perspective on economic development at an upcoming Managers’ Meeting.  Mr. Murphey also presented to the Staff Development Cohort.
+	The Siteman Cancer Center’s mammography screening van will visit the four regional branches during the 2022 employee wellness screenings.  Employees can make an appointment to receive a mammogram screening free of charge followed by the annual wellness screening.
+	ITS is closely following construction progress at The Beck in an effort to coordinate the start of various network service installation and design efforts.  Numerous tasks are dependent on resource availability.  Their work is a critical part of the move as they bring the new building’s network infrastructure to life as well as move the entire Library’s network backbone to the new building.  (Plan: Maximize Access 2)
+	Ms. Sorth said it was previously mentioned that the Library would be hosting an Employee Engagement Week in December where employees would gather in person for training and collaboration.  Due to the ongoing presence of COVID in the region, the Employee Engagement has decided to postpone the event until 2022. (Plan: Maximize Access 2.4)
+	Ms. Sorth said Scott Holl has announced his retirement effective December 31, 2021. He began working for the library in March, 2007 when he was hired as Assistant Manager in Special Collections. He was promoted to the Manager of the Special Collections in August of 2014. In September of 2014, he helped rebrand the department as the History & Genealogy Department. Mr. Holl has helped to elevate the status of the History & Genealogy Department during his 14 years here at SLCL. He is a knowledgeable and trusted figure in the Genealogy world and is sought out by members of the research community.
+	She also reported that Marie Conlin has announced her retirement effective December 31, 2021.  She also read the following remarks concerning Ms. Conlin. “Marie's official title is Library Planner, but her title does not adequately describe her accomplishments!  Marie and Ms. Sorth were recently discussing her 31 years with the Library.  Ms. Conlin summarized her time here by calling it her "Life's Work" Ms. Sorth said.  Marie started with the Library on January 2, 1990 as a Professional II.  A month later, she moved to Tesson Ferry (which was our south county regional branch until Grant's View opened) as the Assistant Branch Manager.
+	At the end of 1990, Marie moved to Reference.  It’s important to note that our records do not list a title for her at that time because what she was about to accomplish was groundbreaking for SLCL.  Her title eventually became Electronic Resources Librarian.  At the time Marie moved into this position, there were ZERO electronic resources offered by the Library.  In that role, Marie spearheaded and oversaw the very first acquisition of electronic resources for St. Louis County Library.  Her job involved finding, reviewing, purchasing and then training employees and patrons on electronic resources and databases.  Marie was also here for the advent of the internet at the Library.  She was responsible for training both employees and the patrons on how to use the internet!
+Several years later, a new Director arrived at SLCL and asked Marie to consider a move to Administration.  Marie accepted and again was tasked with starting something new for the Library.  She started as the Library Planner in November of 1997.  In this role, Marie would create the first Strategic Plan for the Library and would go on to create many more Strategic Plans by actively listening to the community.  She has planned and hosted focus groups for so many patrons and employees over the years.  Her work on the Strategic Plan has steered the priorities of the Library for almost 25 years.
+As for grants . . . Prior to Marie, the Library did not actively seek out and apply for grants.  As another first for the Library, Marie took on this role and has successfully written over 300 grants and is responsible for the Library receiving over $3 million in grant funds!
+Marie is kind and caring and interested in people.  She is an exceptional listener and never fails to remember an important milestone, birthday or celebration.  Marie serves as a confidant and conscience to many and also happens to be an incredible editor but most of all is the true definition of a Friend.   Marie will be missed!”
+Library Construction and Facility Update
+	Administration has received the next round of incentives in the amount of $4,192 from Ameren for the efficiencies realized from the construction of the new Eureka Hills Branch. (Plan: Maximize Access 2)
+Library Foundation
+	Administration was notified of the following grant awards:
+	Library Automation Grant from the Missouri State Library for $60,000 to assist with the purchase of the promotional and communications module of the new integrated library system with St. Louis Public Library. (Plan: Maximize Access 1.1)
+	Strengthen Missourians Grant from the Missouri State Library for $76,000 to purchase licensing of Brainfuse, which is one of the most experienced online tutoring companies in the nation. (Plan: Promote Literacy 3)
+Author Events (Plan: Promote Literacy 1.2)
+We have Livestream author events and recordings with the following authors. They are posted on our website as well as the HEC Facebook link - facebook.com/hectv and then archived at hecmedia.org. We are promoting on our social media and sending eblasts that direct patrons to the HEC sites. HEC has also started simultaneously premiering the virtual author events on their TV channel to expand access to those individuals who do not have reliable internet access. (Plan: Promote Literacy 1.3)
+November and December 2021 Authors
+	Betsy Cohen, author of “You’re Hired,” Monday, November 15, 2021, 7:00 p.m.
+Headquarters, Doors open at 6:00 p.m. Books for signing will be available for purchase from Left Bank Books. MASKS REQUIRED FOR ALL ATTENDEES.
+	Linda Greenhouse, author of “Justice on the Brink,” Tuesday, November 16, 2021, 7:00 p.m., Virtual. on www.facebook.com/STLCoLibrary In conversation with Missouri Supreme Court Justice Mary R. Russell.
+	H.W. Brands, author of "Our First Civil War: Patriots and Loyalists in the American Revolution," Video premiere: November 18, 7:00 p.m. on www.facebook.com/STLCoLibrary.  In conversation with bestselling historian and podcast host Alexis Coe.
+	Blair Braverman and Quince Mountain, authors of "Dogs on the Trail: A Year in the Life," Monday, November 22, 2021, 7:00 p.m. Virtual  on www.facebook.com/STLCoLibrary.
+	Judith Mackrell, author of "The Correspondents: Six Women Writers on the Front Lines of World War II," Tuesday, November 30, 2021, 7:00 p.m., Virtual on www.facebook.com/STLCoLibrary.
+	Brendan Borrell, author of “The First Shots: The Epic Rivalries and Heroic Science Behind the Race to the Coronavirus Vaccine,” Wednesday, December 1, 7:00 p.m. Video premiere: on www.facebook.com/STLCoLibrary.  In conversation with New York Times Health and Science Reporter Apoorva Mandavilli.
+	Tony Messenger, author of “Profit and Punishment:  How America Criminalizes the Poor in the Name of Justice,” Friday, December 10, 2021, 7:00 p.m. Headquarters.  Doors open at 6:00 p.m.  Books for signing will be available for purchase from Left Bank Books.
+	Sophie Kinsella, author of “The Party Crasher,” Video premiere: Wednesday, December 15, 7:00 p.m. on www.facebook.com/STLCoLibrary.  In conversation with novelist Amanda Eyre Ward.
+Following Ms. Sorth’s report, Dr. Beckwith said he wanted to take the personal privilege of calling Marie Conlin to the podium to have some words. She thanked everyone for their kindness and recognized Ms. Sorth for her leadership.  Dr. Beckwith acknowledged Scott Holl’s retirement announcement and announced that he was not present.
+OLD BUSINESS
+NONE
+NEW BUSINESS
+CONSTRUCTION UPDATE
+Assistant Director of Operations Steve Hunter, reported on the current activities at the Beck Building.  He said a number of activities were going on simultaneously in the areas of electric and mechanical. Mr. Hunter also mentioned that the Ladue Branch Zoning & Planning meeting is scheduled for Nov. 17, and the Ladue City Council meets Dec. 20th. During that meeting, construction documents are to be reviewed.  To allow Steve and Kristen to attend the City Council meeting in December, the December Board meeting has been moved to begin at 3 p.m.
+COMMUNITY CONVERSATIONS - PRESENTED BY HICKS-CARTER-HICKS
+Library Director and CEO Kristen Sorth introduced the Hicks-Carter-Hicks team.
+Gloria Carter-Hicks, Aaron Van Groningen and Maya Gann-Cociek shared their findings with the Library Board.  The information obtained was research and data driven. There were 14 interviews that were one on one, including Dr. Beckwith, key library staff and community stakeholders. The focus groups saw 81 people with a mix of virtual and in-person meetings. People were engaged and involved. They also conducted a survey with 1500 responses. The themes conveyed included increasing communication surrounding DEI programs and services, continuing to focus on staff representing the communities they serve and maintaining partnerships to support DEI work in the community.
+Some respondents said the Library should ‘stick to books,’ while others liked the nontraditional programs and services.
+Deborah Patterson stated that DEI work should not threaten anyone.  They need to understand that providing equity is not taking anything away from anyone. People need to know it is ok to be who they are as long as they respect others.
+Johnny Wang wondered whether the respondents suggested particular groups that the Library was missing. Ms. Hicks said that some patrons thought we could have more focus on those suffering from neurological and developmental disorders like those on the autism spectrum; Patrons were also concerned with transportation to libraries in all our communities.  It was evident through their findings that the 18-24 age group was difficult to reach with traditional marketing methods.
+FURNITURE AND SHELVING FOR THE LYNN BECKWITH, JR. ADMINISTRATIVE BUILDING
+Assistant Director of Operations, Steve Hunter presented the following.
+On September 28, 2021, Administration issued an IFB for Furniture and Shelving at the new Lynn Beckwith, Jr. Administrative Building. Bid packages were developed around open lines and Bidders were invited to bid on shelving, furniture, or both. A link to the bid documents was posted in the St. Louis Post-Dispatch and on our website. In addition, thirty-four local firms, thirty-two of which are M/WBE certified, were contacted directly. Forty-six companies viewed the bid documents.
+Two responses – one for shelving, one for furniture – were received by the time of the public bid opening on October 25, 2021. Due to pandemic restrictions the bid opening was conducted via Zoom.
+All requirements of the Library’s bid procedure were followed. The two companies being recommended have provided shelving and furniture at all new & renovated branches to date.
+The combined cost for all shelving and furniture for the Administrative Building is $1,385,566.37. The overall furniture and shelving budget was $3,000,000 and included three sections of high-density shelving that were previously purchased under a negotiated government contract. The budget was extremely conservative due to uncertainties related to the pandemic. This overall budget item will show a $1,238,000 surplus, which will be redirected into building costs.
+RECOMMENDATION: Library Administration recommends the Board selects the two firms listed below for Furniture and Shelving at the new Lynn Beckwith, Jr. Administrative Building and that it authorizes the Director to enter into and execute contracts to that effect:
+	Furniture: CI Select for $1,289,364.80.
+	Shelving: Color-Art Integrated Interiors for $96,201.57.
+The Library Board approved the recommendation (Wang/Patterson).
+PHONE LINE CONTRACT RENEWAL
+Assistant Director of ITS Gib Van Cleve, presented the following.
+The Library uses AT&T analog phone lines across the District for fire and burglar alarm services and elevator alarm services.  The devices that make up these services require older phone service also known as “Plain Old Telephone Service” or POTS lines. AT&T is a sole source provider of POTS lines.  Our current two-year AT&T contract for POTS lines is due for renewal.
+The Library currently has 39 POTS lines in use across the District.  That count will decrease to about 32 lines once Headquarters is closed.  We currently pay a base rate of $33 per line per month plus taxes and fees.  If we renew a one-year contract with AT&T, we can lock in a rate of $39 per line per month, plus taxes and fees.  If we choose not to renew our contract and go with month-to-month billing, the average line rate would increase to $175 per line per month.
+			POTS Line Quantity
+			Per Line Monthly Cost
+			Monthly Total
+			One Year Contract
+			32
+			$39
+			$1,248
+			 No Contract
+			32
+			$175
+			$5,600
+RECOMMENDATION: Library Administration recommends approval of a new one-year contract with AT&T for the period of December 2021 through November of 2022 at the base line rate of $39 per POTS line per month and that the Board authorize the Director to enter into and execute a contract to that effect.
+The Library Board approved the recommendation (Patterson/Sanditz).
+PRINT, COPY, FAX FEES
+Deputy Director Eric Button presented the following.
+Library Administration is seeking approval to reinstate the collection of fees assessed for patron printing, copying, and faxing, and to establish a fixed monthly printing credit for Library patrons.  Prior to the pandemic, the Library charged patrons fees for printing, copying and faxing.  They were established as follows:
+Printing and copying (black and white) $0.10 per page
+Printing and copying (color) $0.30 per page
+Faxing $0.50 per page
+When the Library was closed because of Covid-19, and continuing since that time, fees for these services were suspended with some limitations.  Patrons were told that these free services were limited to a 60 page maximum.  This limit proved difficult to enforce and created some complaints from patrons who had to wait for extensive print jobs to be completed.  The fees were suspended because of the challenges of access to the equipment and collecting money during the pandemic.  During this time, the Library absorbed the direct and indirect costs associated with these services.
+The access to this equipment is back to normal and library services have mostly been restored to pre-pandemic conditions.  In order to offset the expenses associated with these services, address the difficulty of managing a page limit, and lower patron wait times, Administration wishes to reinstate the fees, effective January 1, 2022 with a few key adjustments.
+Proposed Pricing:
+Printing and copying (black and white) $0.10 per page
+Printing and copying (color) $0.25 per page
+Faxing $0.25 per page
+The above proposed pricing lowers the cost of color copying and printing and greatly reduces the cost of faxing for patrons.  Furthermore, Library employees will encourage patrons to use the scan-to-email function, which is entirely free, in place of sending faxes whenever possible.
+In addition, Administration proposes the adoption of a monthly printing credit in the amount of $5.00 per patron to provide a limited amount of free printing from Library computers to all patrons.  This provides for 50 free pages of black and white printing.  This credit will not rollover from month to month.  St. Louis Public Library has implemented this process for patron printing and found it to be the best practice for serving their users.  This proposal will generate the revenue to offset the expense of providing these services, while still easing the financial burden for Library patrons who need this access.
+RECOMMENDATION:  Library Administration recommends the approval of the reinstatement of revised print, copy, and fax fees and the establishment of a $5.00 monthly printing credit for computer users at the Library effective on January 1, 2022.
+The Library Board approved the recommendation (Wang/Sanditz).
+2022 BUDGET
+CFO Laura Taylor presented the following.
+The 2022 Budget document was prepared and approved by the Budget Committee consisting of the following individuals:
+Kristen Sorth – Director & CEO
+Eric Button – Deputy Director
+Barbara Turkington - Assistant Director, Advancement
+Gib Van Cleve – Assistant Director, ITS
+Steve Hunter – Assistant Director, Operations
+Laura Taylor – Chief Financial Officer
+The 2022 Budget document was shared with the Board.  The Library Budget is a spending guideline for the upcoming year. Projects discussed in the Budget document will be individually presented to the Library Board for review and approval during 2022 as outlined in the Library Board’s By-Laws. The Budget Revision is presented to the Library Board in September.
+The Library Board of Trustees set the 2021 tax rates at $0.2060 for Residential assessments, $0.1860 for Agricultural assessments, $0.2340 for Commercial assessments and $ 0.2600 for
+Personal Property assessments. These rates will provide 98% of the cash income to operate in
+2022. The Executive Summary on page 2 and the Revenue and Expenses on page 4 - 7 are a synopsis of the proposed 2022 Budget.
+In 2022, the Library District will have a $718,500 surplus in the Maintenance and Operation Budget with a transfer of funds from the Assigned for Capital Improvements Fund.  The Library anticipates that all the money from the 2016 Certificates of Participation will be spent by the end of 2021.
+The 2022 Budget is an informational item for this month in order to give the Library Board of Trustees time to review the document and ask questions.  The Budget Committee would like to receive your questions by December 6 so we may respond accordingly before the December Library Board Meeting.  The Library Board of Trustees will vote on the 2022 Library Budget at the December Meeting.   That vote will allow the Library to operate in 2022.
+Dr. Beckwith and Deborah Patterson suggested moving a line item up higher to show the transfer of funds from the Unassigned Fund Balance, consequently making it clear that the Library will not operate in a deficit in 2022.
+Dr. Beckwith also shared concerns about the Pension Plan and the raises for 2022.
+ADJOURNMENT
+Deborah Patterson motioned to adjourn the meeting.  Ted Sanditz seconded.  All voted in voice approval. Aye: Lynn Beckwith, Ted Sanditz, Johnny Wang, Deborah Patterson
+Not Present at Vote: Joan Barry
+The meeting adjourned at 5:08 p.m.
+Respectfully submitted,
+_____________________                                                      ____________
+Joan Barry, Secretary                                                              Date

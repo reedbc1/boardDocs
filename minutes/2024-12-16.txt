@@ -1,0 +1,244 @@
+{
+  "name": "Regular Meeting",
+  "description": "",
+  "unique": "CYRUB47B15C3",
+  "date": "2024-12-16T00:00:00Z"
+}
+
+---
+
+ST. LOUIS COUNTY LIBRARY DISTRICT
+MEETING OF THE BOARD
+CLARK FAMILY BRANCH
+MONDAY, DECEMBER 16, 2024
+The monthly meeting of the Board of the St. Louis County Library District was held at Clark Family Branch, 1640 S. Lindbergh Blvd., St. Louis, MO 63131 on Monday, December 16, 2024 at 3:30 p.m. The agenda had been posted in all branches of the Library District at least 24 hours before the meeting.
+ATTENDANCE:
+Library Board Members:
+Johnny Wang, President
+Deborah Patterson, Vice President
+Joan Barry, Secretary
+Ted Sanditz, Treasurer
+Dr. Lynn Beckwith, Member
+Ms. Barry and Mr. Sanditz were in attendance via phone.
+ADMINISTRATORS AND GUESTS ATTENDING:
+Kristen Sorth, Library Director & CEO; Eric Button, Deputy Director; Laura Taylor, CFO; Gib Van Cleve, Assistant Director, ITS; Jennifer McBride, Assistant Director, Communications; Jennifer Gibson, Assistant Director, Strategic Initiatives; Attorney Lisa Stump, Lashly Baer; and Desiree Whitlock, St. Louis County.
+OTHERS ATTENDING:
+Anne Arthur, Emma Figueroa, Sarah Wood, Kat VanArsdale, Sarah Jones, Carrie Robb, Amy Gibbons, Ja’Mel McCaine, Megan Phifer-Davis, Alaina Culbertson, Kelli Reeves, Stephanie Nordmann, Nora Marino, Sarah Brown, Emily Althoff, Ashley Sexton, Amy Hanaway, Lisa Haddox, Mary Arnhart, Anna Schurk, Deanna Davis, Stacy Berger, Jess Huffman, Miriam Whatley, Allison Wisniewski, Annie Fuller, Kalin Preston, Keir Haug, Andrea Johnson, and Becky Maue.
+MINUTES
+The Library Board approved the November 18, 2024 Library Board minutes (Patterson/Beckwith). Motion passed unanimously.
+PUBLIC COMMENTS
+There was no one to speak before the board.
+TREASURER'S REPORT
+Laura Taylor, CFO, presented the report.
+Maintenance and Operating Fund Financial Statements:
+Revenue (page 2)
+	District Taxes - The total tax revenue for 2024 is $63.8 million which is 100% of the total budget of $63.6 million.
+	Current Year Interest - In November, the Library District received $87,154 in interest. The total interest revenue is $2,329,649 which is 83% of the total budgeted amount of $2,800,000. Market conditions have declined slightly in 2024 compared to 2023 when total interest revenue was $2,855,495.
+Expense (page 5)
+	Bldg. Operations-Grounds & Outside Projects - In November, the Library District incurred a total of $139,890 in Bldg. Operations-Grounds & Outside Projects. Of this amount, $139,340 was paid to Surecut Solutions, LLC for landscaping between July and September. The company was selected at the February 2024 Board Meeting to provide lawn and landscaping maintenance services for three years.
+	Technology - Equipment - In November, the Library District incurred a total of $152,779 in Technology - Equipment. Of this amount, $128,880 was paid to Dell Marketing, LP for the upgrade of Library computers to Windows 11.
+	Capital Improvements - In November, the Library District incurred a total of $79,380 in Capital Improvements. Of this amount, $28,676 was paid to Lamar Johnson Collaborative for October Clark Family and Sachs expenses, $25,623 was paid to Engraphix for interior signage at Clark Family, and $21,460 was paid to Flooring Systems, Inc. for flooring at seven locations.
+The Library Board approved the December 16, 2024 Treasurer's Report subject to audit (Patterson/Beckwith). Motion passed unanimously.
+DIRECTOR AND CEO'S REPORT
+Ms. Sorth delivered the attached Dashboard report for December.
+	Circulation in September totaled 871,752.  The most popular print collection in September was the children’s picture book collection with over 96,000 books checked out to patrons.  With 299,630 people visiting the branches, Library visits in November increased by 11% compared to November of 2024.   November saw a 32% increase in WiFi usage compared to last year.  The Clark Family Branch had the largest number of WiFi sessions with 4,440.  Last month, 2,327 patrons registered for a Library card.  This is an increase of 68% over the total number of registrants added in November of 2023. The Storytelling Festival hosted 72 events attended by 11,577 patrons. The Urban Libraries Council released the 2024 Library Insights Report on November 19. The report included the average % change of various metrics among urban libraries from 2019 vs 2023. A chart included on the dashboard compares the ULC averages with the percent change at St. Louis County Library.  For example, eMedia usage increased an average of 40% from 2019 vs 2023, while SLCL saw an increase of 57%.  Program attendance for other libraries was down by 38% and SLCL’s was down by just 20%.  (Plan: Promote Literacy 1a, 3b, Sense of Community 1b, 2a, 3a, Increase Access 1c)
+	Ms. Sorth announced the 45th Annual St. Louis Storytelling Festival was held November 13-23, 2024. 11,577 people experienced the festival with 24 public programs, 39 school visits, and nine senior living facility visits. She said the new collaborations with the Saint Louis Art Museum, The Repertory Theatre of St. Louis and Campfire along with the newly added storytelling workshops were all well attended and received many positive comments, such as:
+		Attendees commented how they liked having the festival all day at Clark Family on Saturday and Sunday. One attendee said she stayed all day on Sunday for the programs and had even packed her lunch.
+		Several attendees remarked that it gets better every year!
+		The national storytellers commented on how well-organized the festival was and how great it was that they were able to go to schools and connect with the children. They said our festival is one that they would immediately say “yes” to in the future.
+		National storyteller, Adam Booth, remarked that our partnerships with other St. Louis cultural institutions really elevated storytelling in the region. (Plan: Promote Literacy 3d, Sense of Community 3a, 3b)
+	Starting the first week of February, 2025, volunteers from AARP, CORP, Gateway EITC, and the St. Louis Tax Assistance Program will provide free tax assistance at ten branches. With the exception of a new partner, St. Louis Tax Assistance Program, these same organizations helped over 1,400 patrons get free tax assistance in 2024. The following organizations will be at these branches: AARP Tax-Aide at Grand Glaize, Lewis & Clark, Natural Bridge, Parkview, and Rock Road. CORP Tax Service at Daniel Boone, Florissant Valley, and Grant’s View. Gateway EITC at Natural Bridge. St. Louis Tax Assistance Program at Jamestown Bluffs and Weber Road. Customer Connect will start making appointments for AARP Tax-Aide on Wednesday, January 22. Registration for other sites will be handled by the hosting organizations. (Plan: Sense of Community 3a, 3c)
+	St. Louis County Library hosted another round of eight-week Creative Wisdom courses in watercolor and memoir writing for older adults at the Thornhill and Oak Bend branches. Participants learned new art forms from two talented teachers, increasing their confidence and forming relationships along the way. Through an Institute of Museum and Library Services grant from Missouri State Library and Lifetime Arts, participants were also provided with all the art and writing supplies they needed to explore their new passion and continue growing their skills. Some of the final pieces were showcased during the St. Louis Storytelling Festival at A Night of Stories and Art on Tuesday, November 19. Over 90 people attended that special event at the Clark Family Branch. (Plan: Promote Literacy 3d, Sense of Community 3a, Increase Access 1a)
+	Ms. Sorth announced the Library will offer a new virtual program series entitled Challenging History from January 17 – February 14, 2025.  Patrons can join leading historians as they explore the complex and untold stories of St. Louis’ past, challenge prevailing narratives and foster a deeper understanding of our diverse history.  Some of the topics include understanding your ancestral heritage, African American STEM Pioneers in St. Louis, Segregation and Cemeteries in St. Louis and many more. (Plan: Promote Literacy 3d, Sense of Community 1a, 1b, 3a)
+	On Friday, December 6, Adult Services and the History and Genealogy Department hosted the 3rd Annual Beercember: A Celebration of St. Louis Brewing History. This year, it was hosted at the Daniel Boone Branch, with 173 patrons enjoying live music from Wolf Creek Bluegrass, a short lecture from historian Cameron Collins about the history of the lager in St. Louis, samples from 2nd Shift, Third Wheel, Arch Nemesis, Old Bridgeview, Blue Jay Brewing, and Narrow Gauge Brewing Company, and Gus' pretzels. (Plan: Promote Literacy 3a, Sense of Community 3a)
+	The Library is partnering with the Transition Center of St. Louis to provide library services to residents. The Transition Center is a Missouri Department of Corrections facility intended to provide reentry programming for individuals who will be released from custody within six months. The Library is reserving 20 seats in SkillMill for residents who are interested in a career in the skilled trades. This will allow participants to access online training courses in over 14 industry areas. The Library is also providing ten virtual reality headsets to accompany this program and allow for a more immersive educational experience. Library cards are being created for residents to access a variety of digital resources while in the facility, and to have upon release. (Plan: Promote Literacy 2d, 3a, 3b, 3c, Sense of Community 1a, 2a, 3a, 3c, 3c)
+	Ms. Sorth said on January 6, 2025, the Adult Services Department will host a St. Louis Area Volunteer Fair featuring over 25 local organizations looking to meet and recruit prospective adult volunteers.  The Fair will take place at the Clark Family Branch. (Plan: Promote Literacy 3a, Sense of Community 1a, 3c)
+	The Library again hosted National Novel Writing Month (NaNoWriMo) events, a partnership that first began in 2012. During this challenge, writers attempt to compose a 50,000 word novel in November. Between all of the NaNoWriMo events, the Library supported 138 writers in this endeavor. This included 13 in-person and four virtual Come Write In programs, where attendees came together to furiously write and cheer each other on. We also hosted The Evening of Scribing Recklessly at Mid-County Branch. During this 6-hour writing marathon, attendees collectively wrote over 80,000 total words. (Plan: Promote Literacy 3d)
+	Library employees collected over 4,200 holiday cards from November 15 to December 5 for Project Holiday Cheer, an initiative organized by Library partner VOYCE to bring festive cheer to long-term care residents in the St. Louis metro area.  This year, the branches hosted 15 programs where participants crafted heartfelt cards featuring meaningful messages and inspiring artwork, including watercolor, collage, and hand lettering. SLCL joined other libraries, car dealerships, and banks in serving as collection points for holiday cards, contributing to the goal of collecting 40,000 cards for the season. (Plan: Sense of Community 3a, 3b)
+	Ms. Sorth reported the 3rd Annual St. Louis Teen Book Festival took place on Saturday, December 7 at the Clark Family Branch from 10:00 a.m.-6:00 p.m.  The day included book talks, author signings, and meet-and-greet opportunities with 16 amazing young adult authors. The festival line-up included a diverse group of fan-favorite, bestselling YA authors from all genres, as well as the hottest debut voices and local authors. She said there were 725 very happy people who attended.  We hosted several buses of school kids from Missouri and Illinois and others traveled from three hours away. (Plan: Promote Literacy 1b, 1c, 3d, Sense of Community 3b)
+	In January, the Library will again start taking readalong book kits to Urban League Head Start on a monthly basis to promote early literacy skills. We will also be providing kits to a new location, Pine Lawn YWCA Head Start. The kits consist of Wonderbooks and Vox books along with extension activity ideas and supplies for the 3-5 year old rooms. This project is funded by Citi. (Plan: Promote Literacy 1a, 2a, Sense of Community 2a, 3a)
+	Ms. Sorth reported the St. Louis Cardinals bookmobile was wrapped and well-stocked with materials for the December ribbon cutting event at Bierbaum Elementary School in the Mehlville School District. Bookmobile employees began training and spending time driving the new units which are quite different from the traditional truck and trailer model. The new units come with a lot of safety features such as 360 cameras on the exterior of the vehicle.  She also reported the Great Southern Bank Bookmobile was also complete.  Communications is helping plan the launch event for the Great Southern Bank bookmobile.  A press release and media alert will be issued prior to the event. The launch of that bookmobile will take place at Parker Road Elementary in the Ferguson-Florissant School District on January 8th at 10:00 a.m.  Invitations have been sent.  The third bookmobile unit, sponsored by Emerson, will be delivered near the end of 2024.  The fourth bookmobile, which is being manufactured by CAD Industries, is expected in the spring of 2025. (Plan: Promote Literacy 1a, 2a, 3d, Sense of Community 1d, 2a, 2c, 3a, 3c, Increase Access 1c, 2a)
+	The Memory Lab in the History and Genealogy Department at the Clark Family Branch hosted 161 visitors in November. Since opening on July 9th, patrons have digitized a total of 501 8mm films. This is a savings of $30,000 for patrons as this type of digitizing service is very expensive. The Memory Lab’s Personal History Recording Studio received an influx of visitors as part of the St. Louis Storytelling Festival. Fifty-six patrons recorded their oral history. (Plan: Promote Literacy 2d, 3b, Increase Access 1a)
+	The Adult Services Department is working with the Missouri History Museum to offer a temporary banner exhibit for their exhibit "#1 In Civil Rights." Various branches hosted the exhibit for one month increments from July-December 2024.  Six more branches will host the exhibit in the first half of 2025.  The exhibit consists of 14 banners that can be displayed throughout the branches. (Plan: Promote Literacy 3d, Sense of Community 2a, 1b, 3a, Increase Access 1a)
+	Operation Food Search and the Library have decided expand the number of Library Pantries in mid-January. In addition to Rock Road and Florissant Valley, the OFS Library Pantry will also be offered at Lewis & Clark and Mid-County.  The OFS Library Pantry began as a pilot in late 2023 as a way for the branches to offer robust snack type food to our patrons in need.  To date the Library pantries, have served 485 patrons. (Plan: Sense of Community 1a, 3a, 3b, 3c)
+Service Stats 2021 to Current:
+2024 only:
+	Ms. Sorth mentioned the St. Louis County Library has been in the local media in print, radio and television.  Those articles are attached. (Plan: Increase Access 2)
+Impact Stories
+	Regarding the students learning about architecture at Clark Family.  The students had a great time and asked many interesting questions about the building.  They recently followed up with a selection of thank you notes from the class including this one: “Thank you Kelli,
+Thank you for helping us learn and letting us go in rooms we are not allowed to go in and thank you for letting us go in the library and setting up the trip.  Thank you for everything you do for the field trip and my favorite part was the teen room the red laser room and the kid room thank you for everything) Im feeling happy.  HAPPY HAPPY HAPPY :) :) :) :)” (Plan: Promote Literacy 3d, Sense of Community 1a, Increase Access 1a)
+	Regarding the Teen Book Festival:  A young woman in the signing line said she flew in from Texas. She stayed with a friend, but her parents bought the plane ticket as a Christmas gift to her, just so she could attend. (Plan: Promote Literacy 3d, Sense of Community 3a, 3b)
+	Regarding ePop Up Library:  I have found a book that I have been searching for. There was no waiting list for it. Every airport should have this service! Your website is very user- friendly. Thank you to all who made this possible!  (Plan: Promote Literacy 1a, 3b)
+	A patron asked to speak to the manager and wanted to tell me how happy she is with the St. Louis County Library. She has lived in multiple states (Utah, Florida, Arizona) and this is the best library system she has ever belonged to. She said "everything we do is good for the people and the services we provide are what we need. The programs are wonderful." and then she gave me a hug.
+	After providing notary services for a couple, they let me know they were from Romania but had lived in the US since 1992. They said they had never experienced any service as good or efficient as the library. They expressed gratitude for the notary services specifically, but also lauded how the library seemed to be offering something new every time they were in. They asked how those decisions were made and by whom and wanted to pass along their thanks.
+Library Administrative Updates
+	Ms. Sorth shared the 2024 Staff Development Cohort held its final session on December 6th. To conclude the Cohort’s professional development journey, they spent part of the day with her and viewed a presentation with Muriel Smith, the Executive Director of the St. Louis Area Diaper Bank. The presentation gave an introduction to the Diaper Bank and how the Library plays a critical role in providing diapers and period supplies for the region. Muriel and Ms. Sorth talked about the importance of community trust and partnerships and highlighted the Library’s successful efforts in those areas. This last session was aimed at piecing together all the components of the Library’s organizational structure and workflow as well as spending time with leadership. Congratulations to the following employees who completed this year's program:
+		Austin Krueger, Library Associate, Oak Bend Branch
+		Isabella Marcallini, Marketing Assistant, Communications Department
+		Kathryn Altman, Library Associate, Clark Family Branch
+		Kelsey Roberts, Library Associate, Cliff Cave Branch
+		Madison Ravenscraft, Library Associate, Prairie Commons Branch
+		Marianne Atkinson, Library Associate, Weber Road Branch
+		Miriam Frenchie, Library Associate, Thornhill Branch
+		Sarah Kuchenmeister, Library Associate, Mid-County Branch
+		Sierra Williams, Senior Technical Assistant, Acquisitions Department (Plan: Sense of Community 1c, 1d)
+	Ms. Sorth reported in 2021, the Library embarked on a much more involved and transparent financial reporting process by creating a Comprehensive Financial Report. For the fifth year in a row, the Library’s work has been acknowledged.  We are again receiving the Government Finance Officers Association (GFOA) Certificate of Achievement for Excellence in Financial Reporting. The GFOA established the Certificate of Achievement for Excellence in Financial Reporting Program in 1945 to encourage and assist state and local governments to go beyond the minimum requirements of generally accepted accounting principles to prepare comprehensive annual financial reports that evidence the spirit of transparency and full disclosure and then to recognize individual governments that succeed in achieving that goal. The Certificate of Achievement is the highest form of recognition in government accounting and financial reporting.  Congrats to CFO, Laura Taylor, and the Finance Department. (Plan: Increase Access 2c)
+	Moneta, the Library's Deferred Compensation Investment Advisors, has scheduled a live webinar on retirement planning for employees.  This webinar is scheduled for two dates: Tuesday, January 7, 2025 and Thursday, January 16, 2025. The topics of discussion during the virtual sessions will discuss the benefits of savings in the deferred compensation plan, retirement planning tools, budgeting for retirement, and other information. (Plan: Sense of Community 1c)
+	Communications has collected several interesting marketing stats from 2024.  The Library:
+		Had over 189 media mentions
+		Sent over 54 million emails with an average open rate of 35%
+		Fulfilled over 2,100 branch and departmental requests for promotional materials.
+		Created thousands of print materials to market library programs, services and events.
+		Took over 10,000 photos at Library programs and added to Flickr.
+		Launched a weekly KTRS Book Club on 550AM featuring interviews with authors appearing at SLCL, as well as segments about library news and programs, and weekly commercials.
+	Placed 52 GO! ads in the Friday edition of the St. Louis Post Dispatch, promoting a wide variety of Library programs, events and services.
+	Placed 12 A&E ads promoting the author series.
+	Provided 288 spots on St. Louis Public Radio promoting the authors series, STL Summer Adventure, Winter Reading Club, Black History Month, Storytelling Festival, Teen Book Festival.
+	Provided radio spots on 104.1 by Princess Stormm promoting a wide variety of Library programs and services.
+	Completed two transit campaigns promoting ePop Up Library and the Storytelling Festival with placements on area bus and Metrolink shelters, and interior bus/Metrolink cards.
+Social Media Statistics:  Total number of posts on our social media platforms:
+	Facebook: 1,264
+	Instagram: 2,399
+	Twitter: 1,032
+	YouTube: 157
+	Tiktok: 50
+Total followers as of 12/9/24
+	Facebook: 36,337
+	Instagram: 12,475
+	Twitter: 13,013
+	YouTube: 4,760
+	Tiktok: 1,073 (Plan: Increase Access 2a, 2b, 2c, 2d)
+	Ms. Sorth reported the System Administration Department has been working with Orange-Boy to set up historical data and real-time data connections into the new Savannah statistics platform. The system will interface with systems like the PC reservation system, visit tracker, Polaris, and eMedia platforms to offer dynamic charts and comparison data that we will be able to use internally and share with the Library Board and the community. (Plan: Promote Literacy, Sense of Community 2, 3, Increase Access 2)
+	The Diversity, Equity, Inclusion and Belonging (DEIB) Council is previewing the online micro courses on inclusion and belonging that all employees will complete in early 2025. The online courses can be completed asynchronously in small time increments. These individual courses will be followed by group training sessions.  (Plan: Sense of Community 1a, 1c, 1d)
+Library Construction, Facility, IT and Transportation Update
+	The Library was notified that the MSD work in Ellisville adjacent to the Daniel Boone Branch will be starting soon.  The Library Board approved a Construction and Temporary Use Easement for this work earlier in the year.  This work will begin with the removal of the large trees along Clarkson Drive and will most likely take three to six months. (Plan: Increase Access 1b)
+	Ms. Sorth mentioned new play markets were recently delivered to nine branches to replace the old, well-loved existing ones.  New furniture has been ordered and will be arriving soon for several branches including the replacement of the Carolina loveseats at Natural Bridge, Florissant Valley, Prairie Commons, and Bridgeton Trails.  New seating will replace chairs in the adult collections at Rock Road, Prairie Commons, and Weber Road.  These chairs will replace existing ones which have become stained and worn over the past several years. (Plan: Increase Access 1a)
+	In early November, two groups of students from the Rockwood School District, Center for Creative Learning Architecture Class visited the Clark Family Branch.  They received a tour and presentation of the design and construction of the building led by representatives from Lamar Johnson Collaborative along with Kelli Reeves, Manager of Facilities.  They also were given a special tour of the Teen Creative Lab by the Manager, Ja’Mel McCaine. (Plan: Promote Literacy 3d, Sense of Community 1a, 3a, 3b)
+Library Foundation and Grants
+	Ms. Sorth announced the Library Foundation received a $42,000 grant from the Dana Brown Charitable Trust (in collaboration with the St. Louis Area Diaper Bank) to support Potty Training 101 sessions in 2025. (Plan: Promote Literacy 3d, Sense of Community 3a, 3c)
+	The Library Foundation and Library have been awarded 77% of the grants submitted this year, for a total of $534,000. (Plan: Promote Literacy, Sense of Community, Increase Access)
+	The Library has applied for two large digital inclusion grants that, if awarded, will result in significant amounts of technology to advance digital access in the community:
+		NTIA Digital Equity Competitive Grant - $3,000,500 for 1,700 hotspots with 4 years of mobile data
+		Missouri Digital Opportunity Grant - $500,000 for 900 WiFi-enabled Chromebooks that would check out for 6 months at a time (Plan: Promote Literacy 3b, Sense of Community 3c)
+Author Events (Plan: Promote Literacy 1c)
+	Ms. Sorth reported this has been the biggest year ever for the Library’s Author Series. In addition to opening the new Post Event Center at the Clark Family Branch, we have hosted 144 authors and 33,031 people have attended our author series events.  In 2023, we hosted 144 authors with 18,288 people in attendance.
+Author Events for January (Plan: Promote Literacy 1c)
+	Gayle Forman, author of “After Life,” Monday, January 6, 2025, 7:00 p.m.-9:00 p.m., Clark Family Branch
+	Alafair Burke, author of “The Note,” Tuesday, January 7, 2025, 7:00 p.m.-9:00 p.m., Clark Family Branch
+	Gale Galligan, author of “Fresh Start,” Thursday, January 9, 2025, 6:30 p.m.-8:00 p.m., Clark Family Branch
+	Kate Winkler Dawson, author of “All the Sinners Bow: Two Authors, One Murder and the Real Hester Prynne,” Friday, January 10, 2025, 7:00 p.m., Clark Family Branch
+	Jewell Parker Rhodes, author of “Will’s Race for Home,” Tuesday, January 14, 2025, 6:30 p.m.-8:00 p.m., Clark Family Branch
+	Robert Crais, author of “The Big Empty,” Wednesday, January 15, 2025, 7:00 p.m., Clark Family Branch
+	Scott Turow, author of “Presumed Guilty,” Friday, January 17, 2025, 7:00 p.m., Clark Family Branch
+	Brad Meltzer, author of “The JFK Conspiracy: The Secret Plot to Kill Kennedy–and Why It Failed,” Friday, January 18, 2025, Clark Family Branch
+	Lee Hawkins, author of “I Am Nobody’s Slave: How Uncovering My Family’s History Set Me Free,” Thursday, January 23, 2025, 7:00 pm, Clark Family Branch
+	Lisa Genova, “More or Less Maddy,” Friday, January 25, 2025, 7:00 p.m., Clark Family Branch
+	John McMahon, “Head Cases”, Tuesday, January 28, 2025, 7:00 p.m., Clark Family Branch
+	Juan Williams, “New Prize for These Eyes: The Rise of America’s Second Civil Rights Movement,” Wednesday, January 29, 2025, 7:00 p.m., Clark Family Branch
+	Joseph Finder, “The Oligarch’s Daughter,” Friday, January 31, 2025, 7:00 p.m., Clark Family Branch
+OLD BUSINESS
+2025 BUDGET
+Laura Taylor, CFO, presented the following:
+The 2025 Budget document was prepared and approved by the Budget Committee consisting of the following individuals:
+Kristen Sorth – Director & CEO
+Laura Taylor – Chief Financial Officer
+Eric Button – Deputy Director
+Gib Van Cleve – Assistant Director, ITS
+Jennifer Gibson – Assistant Director, Strategic Initiatives
+Kelli Reeves – Manager, Facilities
+The 2025 Budget document is attached.  The Library Budget is a spending guideline for the upcoming year. Projects discussed in the Budget document will be individually presented to the Library Board for review and approval during 2025 as outlined in the Library Board’s By-Laws. The Budget Revision is presented to the Library Board in September.
+The Library Board of Trustees set the 2024 tax rates at $0.1870 for Residential assessments, $0.2310 for Agricultural assessments, $0.2340 for Commercial assessments and $ 0.2600 for
+Personal Property assessments. These rates will provide 92% of the cash income to operate in
+2025. The Executive Summary on page 2 and the Revenue and Expenses on page 4 - 6 are a synopsis of the proposed 2025 Budget.
+In 2025, the Library District will have a $500,000 surplus in the Maintenance and Operation Budget with a transfer of funds from the Assigned for Capital Improvements Fund.
+The 2025 Budget was presented at the November Library Board meeting as an informational item to give the Library Board time to review the Budget document, ask questions and for Administration to respond accordingly. The Administration is recommending approval of the 2025 Library Budget, which will allow the Library to operate in 2025. The Library Board unanimously approved the Administration’s recommendation (Beckwith/Patterson).
+NEW BUSINESS
+STAFF DEVELOPMENT COHORT
+Kristen Sorth introduced Marianne Atkinson, Library Associate, Weber Road Branch and member of the 2024 Staff Development Cohort. Ms. Atkinson asked all of the 2024 Staff Development Cohort to come up and introduce themselves to the Board. Each individual talked about what their favorite part was and the impact the cohort had on them. They then shared a video they created. Each cohort member talked about the benefits of meeting all of the departments and learning about how they make the library work as a whole. They talked about how far we reach out into the community and appreciated knowing the other opportunities that are available in the library.
+2025 ACTIVITIES PREVIEW
+Jennifer Gibson, Assistant Director, Strategic Initiatives presented the following.
+The Board approved the 2023-2026 St. Louis County Library Strategic Plan at the November 2022 Board Meeting; a copy of the full Strategic Plan and the corresponding infographic are attached. In this presentation, I will highlight some of the hundreds of 2024 activities and preview some of the 2025 activities in support of the Strategic Plan.
+Ms. Gibson gave highlights on Literacy programs, Community Services, Resource programs, Festivals, Author Events, the new Clark Family Branch, and new employee benefits. She highlighted the 2025 new initiatives: Gateway to Reading Workshops and kits, additional bookmobiles coming (GSB and Emerson), the redesign of the Sachs Branch, programs and more.
+Ms. Patterson expressed how proud she is to be a trustee. She thanked everyone for all of the work that we do in taking care of the community.
+EMEDIA CHANGES
+Eric Button, Deputy Director, presented the following informational item:
+Library Administration will be enacting several changes that will have an impact on eMedia users at St. Louis County Library (SLCL).  The changes described below will be effective February 1, 2025.  These adjustments are necessary to help manage the increasingly high cost of eMedia, including Overdrive and Hoopla.  Under the current practices, the provision of eMedia would become unsustainable.
+The Library’s 2025 collection budget will see a modest 1.5% increase over the original 2024 budget.  Nearly half (47%) of that $9,000,000 budget will be devoted to providing access to eMedia through popular services like Overdrive and Hoopla.  In 2024, 55% of the circulating Collection Budget (databases excluded) was spent on eMedia and it generated 32% of the overall circulation this year.
+Two things we know are true: 1) Patron demand for eMedia is high and growing at a rapid pace, and 2) The cost to make eMedia available to our patrons is already high and increasing over time.  The Board may recall past conversations about the eMedia pricing structure offered to libraries that makes the cost of titles significantly higher than individual consumer prices.  For example, The Women by Kristen Hannah is $14.99 for consumers, but $60.00 for libraries.  These high prices are coupled with metered access for more than 80% of all titles, meaning a library must repurchase eMedia after a certain period of time or after a certain number of checkouts.  This is in stark contrast to the lifespan of physical material, which is purchased once and owned until the Library decides to remove it from its collection.
+Overdrive
+Our analysis of patron usage of Overdrive shows a heavy reliance on holds.  Unfortunately, many of those holds that are placed never result in a checkout, either because the patron cancels them later or because they fail to borrow the item when their turn comes up in the holds queue.  In fact, 30% of all holds placed in Overdrive fall into one of these categories.  The Library’s purchasing of eMedia through Overdrive closely tracks with and follows a 7:1 holds ratio.  Many of the holds are placed a full six months before the items will become available for circulation.  The Library currently has a very high holds limit (50) for Overdrive and a high checkout limit of 20 simultaneous checkouts.  In a review of our peer libraries and other large library districts in Missouri, our limits were far higher than any other library.
+Changes to Overdrive (effective February 1, 2025)
+	The Library will purchase titles no more than 3 months in advance of the publication date.
+	The number of allowable holds by a patron will drop from 50 to 20.
+	The number of simultaneous checkouts will drop from 20 to 10.
+All of these changes to Overdrive bring us more in line with many other large libraries struggling to keep up with the high demand for eMedia.  The changes will allow us to have a better gauge on actual demand by creating more realistic holds queues, which employees can then respond to with more accurate and cost effective purchasing actions that will benefit our patrons.
+Hoopla
+Hoopla, which is a very popular pay-per-use, on-demand supplier of eMedia, including books, audiobooks, movies, television shows, and music, has been increasingly placing stress on the Library’s collection budget.  When the Library began offering Hoopla as a service in 2013, it spent less than $20,000 per month on the pay-per-use circulation.  The average cost per checkout is $2.23, but many items exceed $3.00 per checkout.  As a result of Hoopla’s growing popularity, the Library now spends nearly $79,000 per month on Hoopla checkouts.  This number is driven in large part by a small number of power users.  At the current rate of growth, this number is projected to increase significantly by the end of 2025 if no changes are made.  Up to this point, SLCL has declined to enact monthly or daily spending limits for Hoopla to control and limit expenses.  Once the daily spending limit is reached for the Library, patrons cannot borrow anything else from Hoopla until the next day.  Again, in a review of our peer libraries and other large Missouri libraries, we were one of the few libraries that have not set a spending limit.
+Changes to Hoopla (effective February 1, 2025)
+	The Library will set a daily budget cap for Hoopla usage.
+	The Library will lower the individual monthly checkout limit from 10 to 8.
+These changes to Hoopla will allow us to accurately anticipate monthly and annual spending on Hoopla and budget funds accordingly.  By lowering the individual checkout limit, we prevent a small number of patrons (only 11% of all Hoopla users) from monopolizing the daily checkout limits set for all SLCL patrons.  This should create more equitable access for all users.
+A thoughtful informational campaign will begin in January to alert patrons to these changes.  All employees will be aware of the reasoning behind the changes so they may address any concerns expressed by patrons.  Library Administration believes these changes will help us be good stewards of taxpayers’ funds, while ensuring continued and equitable access to these increasingly popular resources.  Additional adjustments have been made to other portions of the collection budget in order to allocate as much funding as possible to eMedia.
+Mr. Wang asked where these changes will put us compared to our peers. Eric said this will put us in the middle. In the region and state, we have the largest eMedia budget. Dr. Beckwith asked why Libraries are getting charged differently. Eric responded.
+SHARED SERVICES AGREEMENT
+Kristen Sorth, Director and CEO, presented the following:
+The Shared Services Agreement defines the level of support provided by the Library to the Foundation and is a requirement of the Affiliation Agreement between the Library and the Foundation. Both the Library Board and the Foundation Board review and approve this Agreement each December.
+The Shared Services Agreement also includes a continued commitment by the Foundation toward independency.  This year, the Shared Services Agreement was revised to include a specific amount of additional support that the Foundation agrees to provide to the Library for consideration of the services provided by Library employees.  A letter to the President of the Foundation Board outlining the Shared Services Agreement, as well as a copy of the agreement with the changes tracked and a clean copy are attached. The St. Louis County Library Foundation Board approved the updated Shared Services Agreement on December 11, 2024 and it has been signed by the President of the Foundation Board.
+Library Administration recommends approval of the annual Shared Services Agreement. This Shared Services Agreement is intended to replace the 2024 Shared Services Agreement which is effective until December 31, 2024. The term of this 2025 Shared Services Agreement shall be from January 1, 2025 through December 31, 2025, unless the parties agree in writing to terminate earlier or to extend this 2024 Agreement. The Library Board unanimously approved the Administration’s recommendation (Beckwith/Patterson).
+REVIEW COMMITTEE
+Ashley Sexton, Manager of Development, presented the following:
+The Library Board must appoint members to the Review Committee according to the Affiliation Agreement between the Library and the Foundation, Section 6, a. The Review Committee shall determine whether the implementation of the prioritized strategies and goals, programs, and activities of the Foundation (i) will lessen the burden of government (ii) will further the interest of the Library and (iii) are in the best interest of the Library and will periodically review the terms of the Affiliation Agreement.
+The Review Committee is a four person committee. The members of the Committee consist of one (1) Library trustee appointed by the Library Board; the Foundation President of the Board of Directors, the Library Director and CEO, and the Development Manager. The members of the Review Committee shall serve until replaced by their respective organization.
+The Library Administration and the Library Foundation recommend the appointment of Deborah Patterson as the Library Trustee representative on the Review Committee to begin in January 2025. The Library Board unanimously approved the Administration’s and Foundation’s recommendation (Beckwith/Patterson).
+MOBILE WI-FI HOTSPOTS
+Eric Button, Deputy Director, presented the following:
+Library Administration is seeking approval for the selection of a provider for Mobile Wi-Fi Hotspot services.  St. Louis County Library has been offering hotspots for public checkout for many years now.  Starting with funding year 2025, Mobile Wi-Fi Hotspots are now eligible for E-Rate funding.  In order to qualify for E-Rate funding, the Library is required to issue a Request for Proposals (RFP) following both the Library’s policy and the requirements of the E-Rate program.
+The Library issued a Request for Proposals (RFP) for a Mobile Wi-Fi Hotspot provider on October 3, 2024.  The RFP, and a subsequent amendment, were posted on the Library’s website and a notice was sent directly to a number of potential vendors.  Four responses to the RFP were received by the November 21, 2024 deadline.  The RFP solicited pricing for 400 hotspot devices and two years of service for these devices.  This is approximately the number of hotspots currently circulated to the public by the Library.
+A review team composed of Eric Button, Laura Taylor, Gib Van Cleve and Amy Hanaway reviewed and ranked the proposals.  A number of factors played into the overall rankings, including the price for the service, the cost of the device, the technical specifications of the device, the service reputation of the companies, and the network coverage.  Based on these factors, T-Mobile was the lowest and best proposal.  T-Mobile offered the lowest monthly cost for the lines of service, the most robust network coverage with the most areas covered by 5G service, and a strong reputation for customer support and service.  T-Mobile offers a “bring your own device” (BYOD) option as well, which will save time and money for the Library.  All of the Library’s hotspots are currently provided by T-Mobile.  The service and support from T-Mobile has been outstanding.  The Library intends to continue the use of their current devices as offered by T-Mobile in their bring your own device model.
+The Library owns 327 hotspot devices that will be brought in through the BYOD program, and will purchase 73 additional devices at a unit cost of $198 to bring the total number to 400.  The E-Rate reimbursement program is expected to cover $90 per device purchased and 40% of the service cost for this service excluding any taxes and fees that are included in the monthly service cost.
+The two year cost for each proposal is included in the chart.
+			AT&T
+			CDW/Kajeet
+			T-Mobile
+			Verizon
+			Service per line
+			$15.00
+			$14.15
+			$11.97
+			$15.00
+			2-year service cost
+			$144,000.00
+			$135,840.00
+			$114,912.00
+			$144,000.00
+			Device cost
+			$36,000.00
+			$26,000.00
+			$14,454
+			$24,000.00
+			$180,000.00
+			$161,840.00
+			$129,366.00
+			$168,000.00
+Mr. Wang asked if anyone had questions. Ms. Patterson asked who CDW was. Eric responded.
+Library Administration recommends that the Board authorize the Library Director and CEO to enter into and execute a contract with T-Mobile to provide Mobile Wi-Fi Hotspot service for two years at a cost of $129,366. Of this cost, it is expected that E-Rate reimbursement will cover $52,534.80, bringing the estimated cost for the Library to $76,831.20. The Library Board unanimously approved the Administration’s recommendation (Beckwith/Patterson).
+WINDOW CLEANING SERVICE
+Kelli Reeves, Manager of Facilities, presented the following:
+On November 21, 2024, Library Administration issued an Invitation for Bid (IFB) for a three-year contract to perform twice-annual window cleaning at all Library facilities. This includes all of the exterior windows at every building in the system as well as the interior windows at the Lynn Beckwith, Jr. Administrative Building and the Clark Family Branch due to the large amount of interior glass at these two locations.
+The contract with the current vendor was established in December of 2022, with one year left on the contract.  However, this year the current window cleaning vendor was acquired by another company.  The new owner of the company notified the Library that they could no longer continue at the previously contracted rate.  Legal counsel at Lashly Baer was consulted and Administration made the decision to terminate the current contract and conduct an IFB to determine the new vendor for window cleaning.
+The IFB was emailed directly to fourteen local companies and posted on the SLCL website. Responses were due December 6, 2024. Two firms responded:
+			Company
+			Cost
+			Fish Window Cleaning
+			   $39,410
+			Jack & Joe’s Window Cleaning, Inc. dba Squeegee Squad
+			   $65,238
+Administration and Custodial Services have thoroughly reviewed the bids and agree that Fish Window Cleaning has provided the lowest and best response to the IFB. When checked, the references for Fish Window Cleaning reported excellent experiences with the company.  Window Cleaning is included in the 2025 Library Budget.
+Library Administration recommends that the Library Board select Fish Window Cleaning to provide Window Cleaning Services at all Library locations for an annual cost of $39,410, and that it authorize the Director and CEO to enter into and execute a three-year contract to that effect. The Library Board unanimously approved the Administration’s recommendation (Patterson/Beckwith).
+ADJOURN FOR EXECUTIVE SESSION
+Dr. Beckwith made a motion to adjourn open meeting and to convene Executive Session to discuss personnel matters (Section 610.021) (3) and (13)). Deborah Patterson seconded the motion. All approved with voice vote: Johnny Wang, Deborah Patterson, Joan Barry, Lynn Beckwith, Ted Sanditz.
+Meeting adjourned at 4:41 p.m.
+Respectfully submitted by,
+__________________________________                              _____________
+Joan Barry                                                                              Date
+Secretary

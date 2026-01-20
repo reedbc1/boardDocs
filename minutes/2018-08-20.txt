@@ -1,0 +1,138 @@
+{
+  "name": "Regular Meeting",
+  "description": "Library Board",
+  "unique": "AV3QWD66AA5F",
+  "date": "2018-08-20T00:00:00Z"
+}
+
+---
+
+ST. LOUIS COUNTY LIBRARY DISTRICT
+MEETING OF THE BOARD
+HEADQUARTERS
+1640 SOUTH LINDBERGH BLVD.
+MONDAY, AUGUST 20, 2018
+The monthly meeting of the Board of the St. Louis County Library District was held at the Headquarters Branch, 1640 South Lindbergh Blvd., St. Louis, MO 63131 on Monday, August 20, 2018 at 3:30 p.m. The agenda was posted in all branches of the Library District at least 24 hours before the meeting.
+ATTENDANCE:
+Library Board Members:
+Dr. Lynn Beckwith, President
+Michael Mulligan, Vice President
+Dr. Chingling Tai, Secretary
+Edith Cunnane was present via telephone
+Elena Kenyon, Treasurer, had an excused absence.
+ADMINISTRATORS AND GUESTS ATTENDING:
+Kristen Sorth, Library Director; Eric Button, Deputy Director; Barbara Turkington, Assistant Director, Advancement; Steve Hunter, Assistant Director, Operations; Kris Mooney, Assistant Director, Administration; Gib Van Cleve, Assistant Director, ITS; Tom Curran, St. Louis County; and Lisa Stump, Attorney, Lashly & Baer.
+OTHERS ATTENDING:
+Anne Bradley, Meg Coyle, Annie Fuller, Nicole Clawson, Amy Gibbons, Carla Maxwell, Connie Dee, Cheri Remington, Barb Reale, Kelli Reeves, Jake Eubanks, Tiffany Davis, Rebecca Clarke, Patricia Pfeiffer, Deanna Davis, Lauren Striebel, Maureen Willmann, Ross Brand, Anna Schurk, Andrew Freshwater, Anna Maria Gonzalez, Lorraine Budke, Emily Althoff, Nicole Higginbotham, Rachel Nowell, Conrad Rader, Chasidy Allen, Stephanie Nordmann, Keir Haug, Kathy Muller, Marie Conlin, Anne Arthur, Sarah Brown, Paul Bayless, Mary Arnhart, Chris Goodman, Amy Hanaway, Lisa Haddox, Terra Baca, Lauren Hoerr, Natalia Catlett and Sandra Williams.
+Dr. Lynn Beckwith called the meeting to order.
+APPROVAL OF MINUTES
+The Board approved the July 16, 2018 minutes (Cunnane/Mulligan).
+Dr. Beckwith announced that the Board would move to open the Tax Hearing by acclamation.
+TAX HEARING
+Kristen Sorth reported that the Missouri State Statute requires that a public hearing be held prior to the Library Board setting the 2018 tax rates. The four subclasses of property are residential, agricultural, commercial, and personal property. As in prior years, the required legal notice must be published at least 7 days prior to the date of the hearing.
+The notice appeared in the St. Louis Post Dispatch on Friday, August 10, 2018. On the same day, the attached notice was posted in all branches and headquarters. Notices will be on display at the branches until the date of the tax hearing, August 20, 2018. The tax hearing gives the public the opportunity to present their comments about the Library’s tax rates.
+The agenda for the meeting is attached. The setting of the 2018 tax rates will take place at the September Library Board meeting. Updated post Board of Equalization assessments for 2018 will be used to set the tax rates and will be available in September. Tax rates must be set prior to October 1, 2018.
+Dr. Beckwith asked if there was anyone to address the Board concerning the Tax Hearing.
+No patrons came forward.
+THE REGULAR BOARD MEETING RESUMED
+PUBLIC COMMENTS
+There were no public comments.
+TREASURER'S REPORT
+Kris Mooney reported that, in July, the Library District received $6,873 for the final payment from the 2017 Racing to Read Grant from the State of Missouri. The funds were used to create the Rhythm and Tunes videos performed by the Youth Services Department to help teach a variety of fine and gross motor skills as well as vocabulary and early literacy skills.
+In July, the Library District incurred $40,997 in Other Personnel expense. Included in the expense for July was the annual payment of $15,000 to Daniel & Henry for the medical insurance broker services; $2,030 was paid to H&H Health Associates for employee health screenings. Also in July, the Library District paid $39,243 for Summer Reading Club expenses. The Library District also paid Engraphix $4,810 for the teen signage installed at Cliff Cave.
+Capital Projects Fund Balance Sheet
+Total Construction in Progress for July 2018 was $1,606,603. The expenses included payments
+for:
+		Construction costs for Mid-County - $913,899
+		Construction costs for Grand Glaize - $561,779
+		Facilities Master Plan Administrator - $36,300
+The Library Board approved the Treasurer's Report subject to audit (Tai/Mulligan).
+DIRECTOR'S REPORT
+Kristen Sorth gave the following report.
+	Ms. Sorth stated that the Dashboard Report for August contains a variety of statistical information for the Library, including information about circulation, visits, and programming.  The report was shared with the Board. With three branches closed for construction, circulation is up 1.2%.  In July, the circulation for HQ reached a record high of 154,549 and Daniel Boone exceeded last month’s system record high by setting a new highest monthly circulation total at any branch - ever! Other branches saw huge increases including Bridgeton Trails, Oak Bend and Meramec Valley. As for visits and programming, visits are up 4.1% and programming attendance is up 15%. This month’s report also includes a peer comparison of circulation trends for a selection of large Missouri libraries.
+	Ms. Sorth shared the 2019 Holiday Schedule with the Board. The schedule was established and approved many years ago and is included in the Library’s Personnel Manual.
+	The Summer Reading Club ended on August 4. As mentioned in previous meetings, staff considered various methods to increase both the participation and completion rate numbers in 2018. This year, the Library moved to a new online software program, which was more user friendly, to track the progress of participants. In addition, we modified the incentive program in an effort to increase completions of the program. Administration is very pleased by the results of these efforts.  Registrations are up by 8% and completions are up 7%. (Plan: Increase Literacy 1.3)
+	The Library hosted a mobile farmer’s market this summer at the Lewis & Clark Branch on Wednesdays from 2:00 – 4:00 p.m. St. Louis MetroMarket is a non-profit mobile farmers’ market whose goal is to restore access to healthy, affordable food to St. Louis food deserts. Launched in 2013, the organization converted a donated city bus into a grocery store on wheels with a goal of bridging the physical, financial, and educational barriers in food deserts by supplying healthy foods in low-income, high need communities. Because the visits have been so successful (Lewis & Clark is their busiest stop), the MetroMarket will continue to visit the branch until Thanksgiving. In addition, plans are underway to offer the service at Natural Bridge and Indian Trails with funding provided by Beyond Housing.  (Plan: Sense of Community 2.2)
+	Starting this month, St. Louis County Library and Operation Food Search are partnering to provide after school meals to children at six branches. The Library offered this program during the second half of the 2017/2018 school year at Lewis & Clark, Natural Bridge and Weber Road and the program will expand to Jamestown Bluffs, Prairie Commons and Rock Road this school year. In 2018, over 6,200 meals were served from January to May at the three locations.  Participating branches will serve a healthy grab and go light meal and will offer activities for kids and teens from 2:30–4:30 p.m. (depending on the location), Monday–Friday during the school year. Meals will be available free of charge for children ages 5–18. The St. Louis Chess Club will provide chess instruction every other week at each location. (Plan: Sense of Community 2.1)
+	She announced that the Library will host a series of virtual reality programs starting in September using Google Expeditions.   Participants will use virtual reality headsets to explore a variety of scenarios and landscapes including oceans, volcanoes, outer space and college campuses. The programs are taking place at multiple branches and sessions are available for each designated age group. (Plan: Increase Literacy 3)
+	HQ is hosting the Little Readers Festival on Saturday, September 22 from 10:00 a.m.–1:00 p.m. This free event will feature a variety of activities for families including the PNC Mobile Learning Adventure, performances by Mr. Stinky Feet and story time with Elephant & Piggie and more. Kids ages 5 and under will receive two free books and a shaved ice.  This is the third year of the event.  Last year, over 1800 people attended the Little Readers Festival. (Plan: Increase Literacy 1)
+	We currently have five students that have completed their Career Online High School coursework. Several other students are getting close to finishing the program. We will host a graduation ceremony for the graduates on October 27 at 7:00 p.m. at HQ. (Plan: Increase Literacy 3)
+	Weber Road was selected to receive a Great Stories Club grant from the American Library Association for the theme “What Makes a Hero.” Great Stories Clubs give underserved youth the opportunity to read, reflect, and share ideas on topics that resonate with them. For example, one of the first titles the Branch will use is the graphic novel Black Panther, to explore themes of power and diversity. Weber Road is currently working out the details with its partnering organization. (Plan: Sense of Community 2)
+	The Library’s work with the Urban Libraries Council’s Libraries and Entrepreneurship Learning Cohort is progressing. As Ms. Sorth mentioned previously, the Library submitted a work plan in June. At the end of August, Jennifer Gibson, Manager of Reference, will be presenting a webinar on our progress. The plan includes the following Statement of Work:  St. Louis County Library is embarking on a long-term objective to strengthen our local economy by supporting entrepreneurs in several specific populations within our community: immigrants, students, veterans, women, and minorities.  (Plan: Increase Literacy 3.2)
+	The Library offered Hip Hop Architecture Camp for thirty-one middle school kids at the Natural Bridge Branch from July 30 – August 3. The camp is designed to introduce underrepresented youth to architecture, urban planning, creative place making and economic development through the lens of hip hop. During the camp, students were paired with architects, urban planners, designers, and musicians to create unique visions for their communities which include the creation of physical models, digital models and the creation of a Hip Hop Architecture track and music video summarizing their designs. Participants worked with the St. Louis County Planning Department and Metro to select the area around the North Hanley Transit Center as the focus of the camp.  On the first day, the kids rode MetroLink to visit the Transit Center. The camp was an amazing experience for the presenters, volunteers and kids.  Local hip-hop artist Chingy visited the camp to help the kids with their rap. On Friday, the kids visited Busch Stadium, the Arch, the Old Courthouse, City Garden and the North Hanley Station to film their rap video. Metro requested the models that were designed by the kids and intend to display them at their transit stations. We plan to have a screening of the hip hop video in the fall and will invite the kids, their families and the volunteers to the event. (Plan: Sense of Community 2.2)
+	There were many mentions of the St. Louis County Library in the local media in print, radio and television. Those articles, including one from the Washington Post, were shared with the Board. (Plan: Sense of Community 1.2)
+	Ms. Sorth showed a number of great photos to the Board from several programs and events in July and August including: Teens in Business at Indian Trails, All About Eagles at Indian Trails, Author Kate DiCamillo at HQ, Musical Art at Oak Bend, Harry Potter Party at Weber Road, Ladybug Release at Cliff Cave, Sew-Tastic at Sachs, and Teen Summer Ending Party at Grant’s View.  (Plan: Increase Literacy 3.4 and Sense of Community 2.3)
+Library Administrative Updates
+	Ms. Sorth reported that the ITS Department installed two payment terminals on the circulation desk at HQ to test new fine payment credit card readers. These devices utilize the latest credit card technology and are designed to work directly with our existing Smart Money Manager system to allow patrons to pay fines with a credit card. The testing will extend through August and will be discussed in more detail at the September Board Meeting. (Plan: Sense of Community 1)
+	The Library has completed the upgrade to our previous telephone notification system. This is one of the ways in which we notify patrons about various issues related to their records. For example, the TNS makes 600-700 calls a day to patrons which accounts for 17% of patron hold notices. The new system is more compatible with modern voicemail and provides additional capabilities to enhance the service for patrons. (Plan: Sense of Community 1)
+	The ITS Department is continually working behind the scenes to improve the District's network computing environment. The Branch Network IP Conversion project is one such project that was recently completed. This effort entailed ITS changing the IP address of every network device located at 17 branches. Equipment included PCs, printers, phones, RFID equipment, security cameras, HVAC controllers and AMH devices. ITS collaborated with numerous outside vendors during the effort. A typical branch conversion saw ITS staff arrive onsite early in the morning to minimize the impact on staff and the public. Once the site's network was reconfigured, changes to the various network devices were completed during the next 3 days. This effort took a year to complete at 17 branches. It has improved the District's disaster recovery preparedness and the ability to move the data center out of HQ for future construction efforts. (Plan: Create Gathering Spaces 1.3)
+	During the month of August, Library employees will be trained by the Training Department on the upgraded event scheduling and room reservation software that is used to reserve meeting rooms for patron and Library events and programs. (Plan: Sense of Community 1)
+	Congratulations to Deanna Davis, who has received the 2018 Technical Services Community Award from the Missouri Library Association. Deanna is the Assistant Manager of Acquisitions and Collection Development.  (Plan: Sense of Community 1.2)
+	Congratulations to Library Assistant Mike Bridwell, from the History and Genealogy Department.  Mike received a Certificate of Appreciation from the Missouri State Genealogical Association. (Plan: Sense of Community 1.2)
+Library Construction and Facility Update
+	In July, the Library Board approved a Memorandum of Understanding with the Gathering, a church occupying adjacent property on the east side of the Mid-County Branch.  The MOU outlined the details and agreement regarding the new power distribution and HVAC equipment for the church as a result of the Ameren line removal and re-routing.    That work was completed last week and completes an important step in the construction progress for the Branch. (Plan: Create Gathering Spaces)
+	Work continues on Musick and Gravois Road near the Grant’s View Branch. Various utilities have been relocated and now work will commence on the road itself. The project is scheduled to be completed in early December. (Plan: Create Gathering Spaces)
+	Dan Lucas, Manager of Safety and Security, is working on security assessments for every branch. (Plan: Create Gathering Spaces 1.3)
+Library Foundation
+	Ms. Sorth announced that the Library Foundation’s Gala will take place on Saturday, September 15 at HQ. The Gala is sold out with one presenting sponsor, four platinum sponsors, nine gold sponsors and 30 table sponsors. There will be a silent and live auction. This year the Fund a Need theme will be dedicated to the Career Online High School Program.
+	The winner of the Library Foundations’ 2018 Sidney Johnson Learning Award is Bao Nguyen from the Weber Road Branch. Bao will receive a check for $1,000 and an invitation to attend the Foundation’s Gala, where he will be presented with the award. Since December 2015, Bao has been a volunteer and unspoken ambassador for the Weber Road Branch. He is a constant presence at the branch. He knows all of the staff and has been a huge help to Youth Librarian, Samantha Dozier. Besides volunteering at Weber, Bao is very active in school. He is part of DECA, FBLA, student council, National Honor Society, Students Demand Action, band, and many others. In her letter of recommendation, Samantha talked about Bao’s background. Bao came to this country five years ago with his mother from Vietnam; and it has been a struggle. But Bao has huge plans for his future: attend an Ivy League school, teach at a university, and eventually become a federal judge. And, he is on his way with an acceptance to Harvard’s summer program.
+	Actress and St. Louis native, Ellie Kemper, will be visiting the Library as part her book tour on October 13.  Ellie has agreed to participate in a fundraiser for the Foundation as part of her visit. The details are being worked out for the event that will take place right before the public author event.
+	On July 24, Marie Conlin and Ms. Sorth participated in a conference call coordinated by the St. Louis Promise Zone. The call included local and federal agency contacts who discussed current and upcoming sources of funding and technical assistance that is relevant for Promise Zone stakeholders.
+Upcoming Author Events
+	Karin Slaughter, author of Pieces of Her, Monday, August 27, 2018 7:00 p.m., Headquarters.
+	Sylvia Acevedo, author of Path to the Stars, Sunday, September 09, 2018 2:00 p.m., Headquarters. Presented by the Reading Garden Event Series.
+	Stephen Fried, author of Benjamin Rush, Wednesday, September 12, 2018 7:00 p.m., Headquarters. Presented by the Medical Arts Series.
+	Reed Farrel Coleman, author of Robert B. Parker’s Colorblind, Monday, September 17, 2018 7:00 p.m., Headquarters.
+	SOLD OUT: Dav Pilkey – Ticketed Event, Dog Man, Lord of the Fleas, Friday, September 21, 2018 6:00 p.m., Headquarters, Doors open at 5:00 p.m. Tickets are sold out for the 6:00 p.m. book discussion and signing.
+	Deborah Harkness, author of Times Convert, Saturday, September 22, 2018, 7:00 p.m., Headquarters.
+OLD BUSINESS
+NONE
+NEW BUSINESS
+CONSTRUCTION UPDATE
+Steve Hunter reported that four buildings were under construction. Grand Glaize is scheduled to open September 13 with a 5,000 foot expansion. The structural floor is being poured for Mid-County and the branch will have steel soon. There are three types of brick involved at the Mid County Branch, which Mr. Hunter showed to the Board. Thornhill is progressing nicely and roofing material is nearly completed.  Steel has already gone up at Meramec Valley.  One of the features of the new branch is a walking trail.
+LIBRARY BOARD ORGANIZATION
+Ms. Sorth stated that, according to the Library Board’s By-Laws, officers of the Board need to be elected at the August meeting to serve for the next twelve months.
+Director Kristen Sorth asked for a nomination for Board President.
+Edith Cunnane nominated Dr. Beckwith for President, seconded by Mike Mulligan. All voted in approval.
+Dr. Beckwith took over and entertained nominations for vice president. Dr. Tai nominated Mike Mulligan, seconded by Edith Cunnane. All voted in approval.
+Edith Cunnane nominated Elena Kenyon for Treasurer, seconded by Dr. Tai seconded. All voted in approval.
+Michael Mulligan nominated Dr. Tai for Secretary, seconded by Edith Cunnane. All voted in approval.
+All members were re-elected by acclimation.
+LIBRARY BOARD MEETING DATES -2019
+Kristen Sorth reported that the Library Board approves meeting dates for the subsequent year each August so that meeting rooms can be reserved. The following dates were presented for the Library Board and Pension Board.
+Library Board                                   Pension Board
+January – No meeting                         January 28
+February 4                                           March 18
+March 18                                             April 15
+April 15                                               July 15
+May 20                                                October 21
+June 17
+July 15
+ August 19
+*September 23
+October 21
+November 18
+December 16
+Unless otherwise stated, all meetings will be held at Headquarters per the Library Board ByLaws and will start at 3:30 p.m. The Tax Hearing is held in August each year. The Pension Board is scheduled to meet at 2:45 p.m. unless otherwise noted.
+*This is a change from the 3rd Monday to the 4th Monday.
+The Library Board approved of the 2019 Board meeting dates and locations as presented (Cunnane/Tai).
+PARKING LOT SEAL AND STRIPE
+Steve Hunter presented Administration’s recommendation for Parking Lot Seal and Stripe services.
+Mr. Hunter reported that on July 16, 2018, Library Administration issued an IFB for Sealcoating and Restriping five branch parking lots (Bridgeton Trails, Florissant Valley, Jamestown Bluffs, Rock Road, and Weber Road). The bid was posted on the SLCL website and direct mailed to twelve local companies, including the five local W/MBE firms that identified as providing this service. Responses were due August 3, 2018. Two firms replied.
+The responses were reviewed by a selection team consisting of Steve Hunter and Steve Hibbler. The team unanimously chose Parking Lot Picassos as having provided the lowest and best bid. The approved 2018 Library budget included $50,000 for this project. The work is to be completed by October 26, 2018.
+The Library Board approved Administration’s recommendation for Parking Lot Picassos to provide Seal & Stripe services to the Library District for 5 locations for the amount of $39,035.00 and the Board authorizes the Director to enter into and execute a contract to that effect.  (Mulligan/Tai).
+PATRON CODE OF CONDUCT
+Eric Button reported that Library Administration is seeking approval of revisions to the Library Code of Conduct.
+In an effort to make the library more welcoming, while still emphasizing patron and staff safety, several changes are proposed. The changes were shared with the Board, including a clean copy of the proposed policy and a redlined version of the proposed policy. Below is a summary of the most important changes:
+· The introduction was reframed to place the emphasis on creating a safe and welcoming environment for all library users. In addition, a statement was added that patrons should comply with instructions given by staff.
+· Several statements that are assumed were removed, including those about properly issuing library materials before leaving the library with them, and leaving the library promptly at closing time.
+· Some statements were removed because they are duplicating other existing Library policies, including the Petitioning, Electioneering, and Surveys Policy, the Animal Policy, and the Computer Use Policy.
+· A couple of statements were removed because Library staff can adequately address the matter through the use of strategically placed signage. These included the statements about the use of cell phones and the possibility of restricted use of children’s and teen spaces
+The end result will be a more welcoming library environment that still maintains the objectives stated in the introduction to the Code of Conduct “to provide a safe and welcoming environment for all library users.” This revision has been reviewed and approved by Lashly Baer.
+The Library Board approved the Administration’s recommendation for revisions to the Patron Code of Conduct (Cunnane/Mulligan).
+ADJOURNMENT
+Dr. Beckwith made a motion to adjourn. Dr. Tai seconded.  The meeting adjourned at 4:13 p.m. with voice approval of each member.
+Respectfully submitted,
+­­­­­­­­­­­­­­­­­­­­­­­­________________________________                                _________________________
+Dr. Chingling Tai, Secretary                                                  Date
+.

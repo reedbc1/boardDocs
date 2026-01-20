@@ -1,0 +1,146 @@
+{
+  "name": "Regular Meeting",
+  "description": "Library Board",
+  "unique": "AGCSQS72276B",
+  "date": "2016-12-12T00:00:00Z"
+}
+
+---
+
+ST. LOUIS COUNTY LIBRARY DISTRICT
+MEETING OF THE BOARD
+HEADQUARTERS
+1640 SOUTH LINDBERGH BLVD.
+MONDAY, DECEMBER 12, 2016
+The monthly meeting of the Board of the St. Louis County Library District was held at the Headquarters Branch, 1640 South Lindbergh Blvd., St. Louis, MO 63131 on Monday, December 12, 2016 at 3:30 p.m. The agenda had been posted in all branches of the Library District at least 24 hours before the meeting.
+ATTENDANCE:
+Library Board Members:
+Dr. Lynn Beckwith, President
+Edith Cunnane, Vice President
+Elena Kenyon, Treasurer
+Dr. Chingling Tai, Secretary
+Mr. Michael Mulligan, Member
+ADMINISTRATORS AND GUESTS ATTENDING:
+Kristen Sorth, Library Director; Eric Button, Deputy Director; Barbara Turkington, Assistant Director, Advancement; Kris Mooney, Assistant Director, Administration; Steve Hunter, Assistant Director, Construction and Facilities; Gib Van Cleve, Assistant Director, ITS; Tom Curran, St. Louis County;  and Lisa Stump, Attorney, Lashly Baer.
+OTHERS ATTENDING:
+Steve Hibbler, Darryl Wallace, Michael Cohen, Connie Dee, Gina Sheridan, Sarah Brown, Michelle Sawicki, Conrad Rader, Nicole Higginbotham, Jennifer McBride, Barb Reale, Anne Arthur, Mary Arnhart, Anne Bradley, Matt Lakin, Marsha Ramey, Laura B. Kasak, Crystal Harris, Alaina Culbertson, Stacey Lewis, Stephanie Nordmann, Kathy Muller, Julia Mangner, Tiffany Davis, Paul Bayless, Amy Hanaway, Anna Schurk, Rachel Nowell, Sri Upadhya, Rebecca Clarke, Jennifer Alexander, Marie Conlin, Kathy Wiese, Emily Althoff, Cheri Remington, Anna Gonzalez, Lauren Benson, Julie Cruise, Andrea Johnson, Deanna Davis, Lisa Haddox, Catherine Hill, Keir Haug, Donna Spaulding, Roz Kohen and Sandy Williams.
+MINUTES
+The Library Board approved the minutes of the November 21, 2016 meeting (Cunnane/Tai).
+PUBLIC COMMENTS
+There were no public comments.
+TREASURER'S REPORT
+Kris Mooney reported that, in November, the District received $27,500 from the State of Missouri’s distribution of the Athletes and Entertainers Tax. This was the first of two payments expected for the State of Missouri’s 2017 fiscal year. The next payment is expected in March 2017.
+The Library District also received $76,423 in E-Rate rebates in November. The rebates help to cover the cost of the Library’s Internet and WAN services from Charter Communications. An additional $15,000 in rebates is expected by the end of 2016.
+The Library District paid $41,458 to purchase two 2017 GMC Savana Vans for the Library Fleet, which are to be used for the delivery drivers to transport library materials to the branches. The new vehicles are replacements for two Chevrolet 2500 vans, which were traded in to offset the cost. This purchase was approved at the September 19, 2016 Board Meeting.
+The Library District paid CDW-G $13,265 for seven MacBook Pros to be used for teen programming. A portion of the cost was offset by a State of Missouri Technology Mini-Grant for $5,932 that was received in October 2016. This purchase was made on a negotiated cooperative contract and does not require board approval.
+In November, the Library District made two payments to Interpersonal Frequency totaling $37,200 for the website redesign. This purchase was approved at the June 20, 2016 Board Meeting. Additionally, $37,874 was paid to World Wide Technology for a Barracuda Web filter for the disaster recovery site at Daniel Boone. This purchase was made on a negotiated cooperative contract and does not require board approval.
+Capital Projects Fund Balance Sheet
+Total Construction in Progress for November 2016 was $766,387. The expenses included payments for:
+	Furniture & Fixtures for all Phase I buildings - $384,288
+		Design Costs for Phase II buildings (Daniel Boone, Bridgeton Trails, Florissant Valley, Grand Glaize, Meramec Valley) - $39,825
+		Phase II construction management services - $23,896
+The Library Board approved the Treasurer's Report subject to audit (Kenyon/Tai).
+DIRECTOR'S REPORT
+Library Director Kristen Sorth gave the following report.
+Library Update
+	Ms. Sorth stated that the dashboard report for December contained information about circulation, visits, and programming in November. The report was shared with the Board. With three branches closed for construction, circulation is down 2.3%; however, visits are up 9%.  This month, the report also includes information about eMedia circulation in 2016, circulation by material type, and a look at the first year in a renovated building for Indian Trails and Jamestown Bluffs.
+	Ms. Sorth reported that on December 7, Emily McIlvoy and Andrea Walter in Youth Services attended the monthly STEM event at Southwest Middle School in the Parkway School District. Every month students have a two hour block to explore a variety of STEM related activities. Emily and Andrea brought the Sphero robots for students to explore visual coding to make the Sphero roll in the pattern of a square, change its LED light colors, and experiment with different sounds. They saw 85-100 students during that time. (Plan: Increase Literacy 3.1)
+	Ms. Sorth stated that with a grant from Citi, the Library will bring the ConnectED Library Card Challenge to the Normandy Kindergarten Center at two assemblies on December 13th.  Juggling Jeff will perform, teachers will receive a classroom set of brand new books, and each child will receive his/her own new book along with a library card. Ms. Sorth and Eric Button will attend along with several employees from Youth Services department and representatives from Citi. (Plan: Sense of Community 3.3)
+	Ms Sorth said the Library received two really nice comments that she wanted to pass along.  Regarding 1000 Books Before Kindergarten . . . The Library heard this from a branch,  “While awarding a young boy his ‘I've read 200 books’ sticker today, his mom told me that she loves this program because her son always loved to read, but he didn't like visiting the library.  Because of the 1000 Books program, he loves visiting Grant’s View.”  Regarding Kindergarten Prep . . . “A few days after we had our Kindergarten Prep program, a parent stopped me and said ‘My daughter did not want to go to Kindergarten and protested it every time we tried to bring it up. After Saturday, she can't stop talking about how much she wants to go to Kindergarten. Thank you so much!’” (Plan: Increase Literacy 2.1)
+	Ms. Sorth said that Crystal Harris, Manager of Outreach, has made a suggestion regarding bookmobile service that we plan to implement next fall.  The Library currently has a senior bookmobile that visits a number of assisted living facilities.  The Library will move those stops to the schedule for the vans that visit nursing homes and senior centers and transform this bookmobile into a school unit.  The Library currently has more requests for visits from schools than we can accommodate.  By adding a fourth bookmobile, the Library could visit more schools and reach more children.  (Plan: Sense of Community 3.2)
+	Ms. Sorth explained that this is the 7th year for Money Smart Week (April 22-29), a national initiative sponsored by the American Library Association and the Federal Reserve Bank, to provide financial literacy programming for the community. Planning is underway for financial literacy programs at the branches on topics such as personal savings, building good credit and retirement. At HQ, Tim Mauer will speak on Wednesday, April 26 in the evening.  Tim is the Director of Personal Finance for Buckingham Asset Management and author of a new book, Simple Money. He has appeared on the Today Show, Nightline and NPR and is a regular contributor for CNBC, Forbes and TIME/Money. (Plan: Increase Literacy 3.2)
+	The Library continues its partnership with the Alzheimer's Association, St. Louis Chapter and Maturity and Its Muse, with Exploring Alzheimer's Difficult Conversations on Wednesday, December 14 at 6:30 pm (Headquarters).  A panel of experts, including a social worker, a clinical psychologist and a nurse manager, will discuss how, when, and why to start the conversation with loved ones of all ages.  Nine Network’s Jim Kirchherr, senior director of content and host of “SciTech Now” will moderate. (Plan: Increase Literacy 3.4)
+	The Library submitted a grant application to Penguin-Random House.  They were sponsoring a first time grant to libraries.  We were not selected; however, they are providing the Library with a donation of books to show their support of the library and the Born to Read project.  (Plan: Increase Literacy 2.1)
+	Ms. Sorth reported that the History and Genealogy Department is moving materials around to make the Missouri and Illinois periodicals more accessible to patrons by locating them in an area where patrons can browse.  They are currently located in an area of HQ that is not accessible to patrons.  (Plan: Sense of Community 1)
+	On December 15th, Ms. Sorth is traveling to Columbia, Missouri to meet with the directors of other large libraries in Missouri. Waller McGuire, Director of St. Louis Public Library, and Ms. Sorth are riding together.
+	During the evening of December 15th, Ms. Sorth will be part of a panel discussion about libraries and school libraries that the Parkway School District is presenting for parents, students, teachers and administrators.  (Plan: Sense of Community 1.2)
+	The Library has a number of great photos to show the Board from several programs and events including: Sweet Reads at Bangert Park, Science in St. Louis at Natural Bridge, Author David France at HQ and Winter Make It and Take It at Grand Glaize.  (Plan: Increase Literacy 1 and Sense of Community 2.3)
+Library Employee Update
+	Ms. Sorth shared that work on the Library’s new website is progressing. Interpersonal Frequency conducted user testing and gathered feedback on the initial designs. The feedback was very positive. The Library is planning to launch the new website in March 2017. (Plan: Increase Literacy 3.3)
+	Ms. Sorth reported that there have been quite a few recent changes in branch managers and assistant branch managers. With the restructuring that took place after Barbara Brain’s retirement in August, several managers have changed positions and branches.  Ms. Sorth shared a current list of Branch Managers and Assistant Branch Managers with the Board.
+	Monetta, the Library’s 457/Deferred Compensation administer, is recommending a change to the plan. The Library currently restricts contributions to 25% of an employee’s annual pay. In some cases, this does not allow the employee to contribute the maximum amount legally allowed each year.  Administration discussed this change with attorney Josh Richardson from McMahon Berger.  At his suggestion, staff has removed the restriction and has limited the contribution to 75% of an employee’s annual pay.  FICA still has to be paid on earnings.  If an employee were to contribute 100% of their pay, there would be nothing left to pay FICA.
+Library Construction and Facility Update
+	Ms. Sorth said that there have been several trips and falls on the exterior steps at the new Cliff Cave Branch. The stairs have now been striped with reflective material to alert patrons when they are entering or exiting the branch. (Plan: Create Gathering Spaces 1.3)
+	All of the work on the detention pond at HQ is complete and has been approved by MSD.
+	Prior to opening, the Cliff Cave Branch experienced water issues in the basement.  Numerous efforts have been undertaken to correct the problem. Administration is investigating a final solution for the water issue. More information will be shared with the Board as it becomes available.
+Library Foundation
+	Ms. Sorth reported that the Library has been notified that it is receiving a $6,000 grant from the A.P. Green Foundation for the Parents as Teachers literacy kits. (Plan: Increase Literacy 2.1)
+	The Library will pilot a Born to Read expansion with Children’s Hospital through their pediatric clinics in St. Louis County. Three BJC pediatrician’s offices are located at the Mason Road and Highway 40 facility. The doctors will deliver the Born to Read bags to families at a baby’s one-month appointment. (Plan: Increase Literacy 2.1)
+	The Foundation hosted a Planned Giving/Estate Planning Program at the Sachs Branch on November 16. Thirty people attended the event. (Plan: Increase Literacy 3.2)
+Author Events
+Ms. Sorth shared the upcoming author events with the Board.
+	James Rollins, “The Seventh Plague: A Sigma Force Novel”, Thursday, December 15, 7:00 p.m., Library Headquarters – Auditorium.
+	Alexandra Bracken, “Wayfarer”, A Young Adult Event Presented by the Reading Garden Event Series, Friday, January 6, 7:00 p.m., Library Headquarters – Auditorium.
+	Gary Kodner, “St. Louis Cardinals Uniforms and Logos, An Illustrated History”, Co-sponsored by the St. Louis Cardinals, Monday, January 9, 7:00 p.m., Library Headquarters – Auditorium.
+	Will Schwalbe, “Books for Living,” Thursday, January 12, 7:00 p.m., Library Headquarters – Auditorium.
+	Steve Sheinkin, “Undefeated: Jim Thorpe and the Carlisle Indian School Football Team”
+	Tuesday, January 17, 7:00 p.m., Grant’s View Library.
+	Chris Bohjalian, “The Sleepwalker”, Wednesday, January 18, 7:00 p.m., Library Headquarters – Auditorium.
+	James Hamblin, M.D. “If Our Bodies Could Talk: A Guide to Operating and Maintaining a Human Body”, Thursday, January 19, 7:00 p.m., Library Headquarters – Auditorium.
+	Heather Graham and Jon Land, “The Rising”, Tuesday, January 24, 7:00 p.m., Library Headquarters – Auditorium.
+	Thomas Madden, “Istanbul: City of Majesty at the Crossroads of the World”, Thursday, January 26, 7:00 p.m., Library Headquarters – Auditorium.
+	Tracy Chevalier, “At the Edge of the Orchard”, Tuesday, January 31, 7:00 p.m., Library Headquarters – Auditorium.
+Ms. Sorth wished happy holidays to the Library Board.  She thanked them for another great year at the St. Louis County Library.
+OLD BUSINESS
+2017 LIBRARY BUDGET
+Kris Mooney presented the 2017 Budget. He stated that the document was prepared and approved by the Budget Committee consisting of the following individuals:
+Kristen Sorth – Director
+Eric Button – Deputy Director
+Barbara Turkington - Assistant Director, Advancement
+Gib Van Cleve – Assistant Director, ITS
+Kris Mooney –Assistant Director, Administration
+Steve Hunter – Assistant Director, Construction & Facilities
+Mr. Mooney said that the Library Budget is a spending guideline for the upcoming year. Projects discussed in the Budget document will be individually presented to the Library Board for review and approval as outlined in the Library Board’s By-Laws. The Budget Revision is presented to the Board in September. The 2017 Budget was first presented at the November Library Board meeting as an informational item to give Board members time to review the Budget document, ask questions and for Administration to respond. The Budget Committee then meets as a group to review and approve the document and Ms. Sorth has the final say on items included in the budget.
+The Library Board approved administration’s recommendation for approval of the 2017 Library Budget which will allow the Library to operate in 2017 (Cunnane/Mulligan).
+NEW BUSINESS
+CONSTRUCTION UPDATE
+Steve Hunter reported that there are currently three branches under construction - Bridgeton Trails, Florissant Valley, and Daniel Boone.  Mid-County and Grand Glaize are currently in design and should be closing in late summer or early fall. The Thornhill Branch will be closed late in 2017.
+2015-2018 STRATEGIC PLAN UPDATE
+Marie Conlin presented an update on the 2015-2018 Strategic Plan approved by the Board on October 20, 2014. Ms. Conlin explained that the plan is arranged into three main areas of focus: increasing literacy, strengthening the sense of community, and creating gathering spaces.
+Ms. Conlin highlighted some of the Strategic Plan activities staff was engaged in this year as well as some of the additional 2017 activities.
+To increase literacy, in 2016 the Library increased support for local and self published authors, the Library began 1000 Books Before Kindergarten, and We Stories was offered at the Library to provide literature for parents to teach children about race and racism. To support the goal of strengthening the sense of community, the Library began the process of creating a new web presence and additional telescopes were added for the Telescope Lending Program. Finally to create gathering spaces, the Library added more interactive spaces, started the Little Readers Festival, and created more community gardens.
+In 2017, the Library has planned numerous activities to support the first goal of increasing literacy. The Library will increase marketing for personalized reading list services, sensory story time will be developed, the Library will add mobile maker spaces for children and adults, and Parent Packs will be developed to explain important life events such as starting school and dealing with death. To strengthen the sense of community, the Library will utilize audience response systems which are key pads for responding quickly to surveys at programs and events and Kitchen Chemistry for adults will be added. In order to continue the goal of creating gather spaces, the Library will bring more activities to spaces to strengthen neighborhoods, parking lots will be used for more community events, and programs will be created for the Children’s Garden at the Prairie Commons branch.
+PAPER CUTTER
+Communications Manager Jennifer McBride presented the Administration’s recommendation for a paper cutter for the Communications Department.
+The Library Administration requested the submission of bids from vendors to provide a new paper cutting machine for the Communications Department. The machine is used to cut large volumes of bookmarks, half-sheet flyers and other promotional materials.
+On October 17, 2016 Library Administration issued an Invitation for Bid, which was posted on the Library’s website. One vendor, Payver, responded and the bid was opened at a public opening on November 17, 2016. Payver was selected as the best qualified respondent with the lowest reasonable fee.
+The Library Board approved the Administration’s recommendation to select Payver to provide a new paper cutter for the Library District for the total amount of $12,500 (Cunnane/Kenyon).
+WEBSITE HOSTING SERVICES
+Gib Van Cleve presented Administration’s recommendation for website hosting services.
+Mr. Van Cleve explained that in June of 2016, the Library Board approved a proposal from Interpersonal Frequency for the redesign of the Library’s website.  The project is progressing and the selection of a web hosting provider is required prior to implementation of the website.  A list of website hosting requirements was compiled and competitive quotations were sought.
+The Library requires a website hosting provider with a balance of server infrastructure and technical support expertise.  Of the six responding quotations received, only three met the required technical specifications.  Phone conversations with technical representatives from each of the top three quotes were conducted to further assess their ability to meet the technical and support requirements. Fulcrum was selected as the best qualified respondent with the lowest reasonable fee at $18,000 per year. Funds for website hosting services were included in the 2017 technology budget.
+The Library Board approved the Administration’s recommendation to select Fulcrum for website hosting and support services with the lowest and best quotation complying with the terms of the specifications for $18,000 annually, and that the Board authorize the Director to enter into and execute a contract to that effect.  This expense will be paid for with funds from the technology budget (Cunnane/Tai).
+MANAGED PRINT
+Kris Mooney presented Administration’s recommendation for managed print services.
+The Administration is proposing a move to a managed print system where a provider will service all printers and copiers going forward, providing all the necessary maintenance and printer/copier toner. In addition, a provider will assist in acquiring new printers and copiers for the District at a fair cost, which includes the option to lease equipment rather than purchase new equipment.
+The Library District posted an RFP to the District’s website for a managed print provider on October 13, 2016. The RFP clearly stated the Library District would not make a substantial capital investment and the District was interested in finding a provider to maintain our current inventory of devices.
+The Library District received one bid, from a current provider, GFI Digital, Inc. It should be noted the Library District did receive a response from a local business that distributes and manages Xerox equipment. Their response stated that our devices were aging and they would not be able to maintain them, thus wanting the District to make a capital investment in new equipment.
+GFI Digital, Inc. bid a variable cost of $16,768 based on estimated volumes provided in the RFP to maintain 100% of the Library District’s devices. They also bid a fixed cost of $14,316, which is based on a specific number of copies/print outs per month. The difference in the variable and fixed pricing bid is a lower cost per page on the fixed cost pricing. While this is an overall increase in cost per month, the Library District will no longer have to incur the cost of printer/copier toner. In 2016, the Library incurred approximately $7,000 per month in toner costs. The savings related to not purchasing toner will offset the cost increase and make this agreement cost neutral, with the potential of cost savings likely.
+The Library Board approved the Administration’s recommendation for the approval of GFI Digital, Inc as the Library District’s managed service provider and that the Board authorizes the Library Director to enter into and execute a contract with GFI Digital, Inc. and to select between the fixed cost and variable cost pricing after confirming the monthly volume of copies/print outs and determining which option will be the best value. The increase in monthly cost and decrease in toner cost are both accounted for in the 2017 Library budget (Mulligan/Tai).
+BOARD AMENDMENT TO BRINKMANN
+Steve Hunter presented the Administration’s recommendation for the First Amendment to the Facilities Master Plan Phase 2 Construction Management Services Agreement.
+The original scope of Phase 2 of the Your Library Renewed program included a separate, standalone Operations Center. The decision to remove that Operations Center from the program has necessitated a change to our Construction Management Services Agreement with Brinkmann Constructors. The First Amendment to the Agreement was drafted by attorneys at Lashly & Baer and was shared with the Board.
+The removal of the Operations Center from the scope of the contract will result in a reduction in compensation of $787,281. The adjusted, not-to-exceed compensation for Phase 2 Construction Management Services is $3,000,752.
+The Library Board approved the Administration’s recommendation  for the First Amendment to the Facilities Master Plan Phase 2 Construction Management Services Agreement and that the Board authorize the Director to enter into and execute that amendment (Kenyon/Cunnane).
+SIERRA UPGRADE
+Eric Button presented the Administration’s recommendation to upgrade to Sierra.
+Mr. Button explained that the Library Administration seeks the Board of Trustees’ approval to upgrade from Millennium to Sierra as a hosted solution for the Integrated Library System (ILS).  The ILS is the heart of many library operations from the technical side.  It includes modules that run circulation, patron accounts, the catalog, acquisitions, cataloging, processing, serials, and general system administration of this data.  The Library has been using Millennium as its ILS since 2004.
+In recent years, the Millennium developer, Innovative Interfaces Incorporated (III) has shifted all of its attention and development over to Sierra, their new upgraded system.  Support for Millennium has declined and it has been labeled as a legacy system and will receive no additional development or enhancements.
+Library staff requested pricing from III for this upgrade to Sierra.  The original quote was for a three year contract.  Library staff then negotiated a quote for a five year contract in hopes of lowering the total cost.
+Average annual cost for 3-year quote (including migration expenses) $361,173.70
+Average annual cost for 5-year quote (including migration expenses) $281,312
+In addition to having lower average annual costs, the 5-year quote includes several additional modules that are not included in the 3-year quote.  Finally, securing a product for a five year term ensures that this area of library operations will not be disrupted during the future transitions related to the Headquarters building project.
+The Library Board approved the Administration’s recommendation to upgrade to Innovative Interfaces Incorporated’s Sierra software as a hosted solution with a five year subscription at a first year cost of $315,946, and that the Board authorizes the Library Director to enter into and execute any necessary contracts with III. Year one expenses are accounted for in the 2017 Library budget (Cunnane/Tai).
+COMPUTER USE POLICY
+Eric Button presented the Administration’s recommendation to approve a revise Computer Use Policy.
+The current Computer Use Policy was last amended by the Library Board in July 2015. Since that time a request was introduced by public service managers to amend the policy to allow library card holders with unexpired cards to access library computers regardless of fines or charges on the account. Currently, a patron who has $15.00 or more in fines on his or her record is blocked from accessing library computers. At this fines threshold, the library cards are also blocked to prevent further checkout and potential loss of physical library materials. In the case of computer usage, there is no additional risk or exposure for the library to allow patrons who exceed the $15.00 fines threshold to access a library computer.
+In many cases, those patrons with charges on their accounts are unable to pay off the library fines. Patrons are thus prevented from accessing important resources such as job databases and applications, resume development, and educational pursuits. The library has the capacity to accommodate all of these patrons on computers without negatively affecting patrons whose cards are in good standing.
+The Library Board approved the Administration’s recommendation of the revised Computer Use Policy. This change in procedure would be effective immediately (Cunnane/Kenyon).
+ADJOURNMENT
+Dr. Beckwith and the Library Board, wished the staff happy holidays.
+Dr. Tai moved for the adjournment and Mrs. Kenyon seconded. Board members all gave voice consent.
+Aye: Dr. Lynn Beckwith, Edith Cunnane, Dr. Chingling Tai, Elena G Kenyon, Michael Mulligan
+The Board adjourned at 4:45 p.m.
+Respectfully submitted,
+__________________________________                            _________________________
+Chingling Tai, Secretary                                                         Date

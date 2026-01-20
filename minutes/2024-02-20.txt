@@ -1,0 +1,234 @@
+{
+  "name": "Regular Meeting",
+  "description": "",
+  "unique": "CYRU5M7A67E2",
+  "date": "2024-02-20T00:00:00Z"
+}
+
+---
+
+ST. LOUIS COUNTY LIBRARY DISTRICT
+MEETING OF THE BOARD
+THORNHILL BRANCH
+MONDAY, FEBRUARY 20, 2024
+The monthly meeting of the Board of the St. Louis County Library District was held at Thornhill Branch, 12863 Willowyck, Dr., St. Louis, MO 63146 on Monday, February 20, 2024 at 3:30 p.m. The agenda had been posted in all branches of the Library District at least 24 hours before the meeting.
+ATTENDANCE:
+Library Board Members:
+Dr. Lynn Beckwith, President
+Joan Barry, Secretary
+Ted Sanditz, Treasurer
+Deborah Patterson, Member
+Dr. Beckwith announced that Johnny Wang, Vice-President, had an excused absence.
+ADMINISTRATORS AND GUESTS ATTENDING:
+Kristen Sorth, Library Director & CEO; Eric Button, Deputy Director; Laura Taylor, CFO; Steve Hunter, Assistant Director, Operations; Gib Van Cleve, Assistant Director, ITS; Jackie Hamilton, Assistant Director, Advancement; Jennifer Gibson, Assistant Director, Strategic Initiatives; Jennifer McBride, Assistant Director, Communications; Attorney Lisa Stump, Lashly Baer; and Dr. Monica Stewart, St. Louis County; and Stan Brasch, patron and Luke Cameron patron.
+OTHERS ATTENDING:
+Matt Lakin, Luke Cameron, Becky Maue, Stephanie Nordmann, Cheri Remington, Andea Johnson, Beth Watts, Andrea Carter, Katie Lappe, Eve Amailuk, Katie Keeven, Keir Haug, Adeline Chow, Alaina Culbertson, Emily Althoff, Kim Ford, Melissa Albers, Kelli Reeves, Terri Williams, Sarah Wood, Rebecca Clark, Yecenia Arango, Laura Taylor,Emma Figueroa, Nicole Walsh, Andrew Freshwater, Abby Atsepoyi, Kalin Preston, Lisa Haddox, Deanna Allsman, Sarah Brown, Michelle Hawkins, Stacey Berger, Anne Bradley and Sandy Williams.
+MINUTES
+The Library Board approved the January 22, 2024 minutes (Patterson/Sanditz).
+PUBLIC COMMENTS
+Patron Stan Brasch thanked everyone on the Board for their volunteer work.  He also thanked Director Sorth and her staff. Mr. Brasch said he respectfully requests part time employees get paid for holidays or compensatory time to be taken at a later date.  He said they were great employees and that the Library should take care of them.
+Patron Luke Cameron addressed the board regarding sexually explicit content in adult and children’s library material. His concern was that children should be educated about these things from their parents.  Specifically, he was concerned that children and some adults could be adversely affected by a long period of time. He thanked the Board for hearing him.
+TREASURER'S REPORT
+Laura Taylor, CFO, delivered the December 2023 Treasurer’s report.
+Maintenance and Operating Fund Financial Statements:
+Revenue
+	District Taxes - The total tax revenue for 2023 is $59.5 million and is at 99% of the total revised budget amount.
+	Other Gifts & Contributions - In December, the Library District recognized $2,724,007 in Other Gifts & Contributions. Of this amount, $1,398,584 was received from the Foundation and $1,321,423 from the Center for Family History (CFH), which is a separate fund, as capital transfers for the Clark Family Branch. The branch is anticipated to open this summer.
+Expense
+	Grant Fulfillment Expense - In December, the Library District incurred a total of $126,193 in Grant Fulfillment Expense. Of this amount, $94,800 was paid to Epworth for social workers from October-December. Social workers are currently based out of five branches: Florissant Valley, Lewis & Clark, Natural Bridge, Rock Road, and Weber Road.
+	Building Repair-HVAC - In December, the Library District incurred a total of $314,293 in Building Repair-HVAC expense. Of this amount, $159,572 was paid to Integrated Facility Services and $154,721 to American Boiler & Mechanical for various projects throughout the District including boiler replacements at Bridgeton Trails, Jamestown Bluffs, and Weber Road. The Bridgeton Trails and Jamestown Bluffs contracts were approved by the Board in May 2023, and the Weber Road contract was approved by the Board in December 2022.
+	Capital Improvements - In December, the Library District incurred a total of $3,534,379 in Capital Improvements expense. Of this amount, $3,346,055 was paid to Interior Construction Services, $57,762 to Lamar Johnson Collaborative, and $47,860 to Avison Young for services performed at the Clark Family Branch in November and December.
+The Library Board approved the Treasurer's Report subject to audit (Patterson/Barry).
+DIRECTOR AND CEO'S REPORT
+Kristen Sorth, Director and CEO, delivered the following report.
+Library Update
+	Ms. Sorth shared the Dashboard report for January. Circulation for the month increased 3% over total circulation in January, 2022.  EMedia circulation increased by 17% compared to this time last year.  Patrons checked out 324,405 eMedia titles which sets a record for the highest month ever for eMedia circulation.  Statistics for visits are based on the new People Counters.  In the experience of Trafsys, the vendor, institutions generally see a 35% drop in reported numbers when moving from a gate counter to a camera system.  This is our experience with visits for January dropping by 23%.  The increased accuracy of the new counters, eliminates double counting and over-reporting.  This month, the Dashboard also includes Overdrive usage by patron type with 82.6% of the circulation coming from St. Louis County Library residents. (Plan: Promote Literacy 1a, Increase Access 1c)
+	In December, Ms. Sorth presented at the St. Louis Digital Inclusion Summit and said she was very lucky to meet Robert Powell III, the CEO of the BGG Foundation. The BGG Foundation is dedicated to empowering socioeconomically disadvantaged youth by utilizing gaming to lead them to higher education. I reached out to him following the event and we met a few weeks later to brainstorm and talk about ways to partner. We plan to introduce four events that will empower youth through gaming. The goal of the partnership is to attract a younger audience, promote literacy and learning, increase library usage, and foster personal growth and community engagement in teens. The Library will host a one of a kind gaming event at the Clark Family Branch in mid-July.  She said the Library will also have several events leading up to the tournament in July at various branches including a program for parents/caregivers to talk about educational and career paths in gaming. We are thrilled about the collaboration between the BGG Foundation and the St. Louis County Library. (Plan: Promote Literacy 2d, 3a, Sense of Community 1b, 2d, 3a, 3c)
+	The employees in the Processing Department prepared over 16,000 items for circulation in January of 2024.  Rhythm kits and drum practice pads are now in circulation; however, in just two days after the announcement, all of these items were checked out. (Plan: Promote Literacy 3b, 3d)
+	The Library partnered with Operation Food Search to hold a food drive from November – January.  In total, 7,541 pounds of non-perishable food was donated.  This is over 2,000 pounds more than was collected in the 2023 Library food drive. (Plan: Sense of Community 3a, 3b)
+	She said employee training for Vega Program, the Library’s new meeting room and event management software, is well underway with dozens of training sessions being offered already.  Beginning on March 1, employees will begin the manual migration of data from the old software to Vega Program.  This includes approximately 9,000 entries.  This work is being divided up by branch and some departments to make the project more manageable.  Entry will be completed prior to the April 15 go-live date on Vega Program. (Plan: Sense of Community 3c, Increase Access 1a, 1c)
+	The next Reentry Resource Fair will be held on Tuesday, February 27 from 6-8 pm at the Florissant Valley Branch. This event brings together vital resources to address the needs of people returning to their communities from incarceration. In addition to Adult Services, Reference, and the social workers, 15 community agencies will be participating in the event to connect with justice-involved attendees and their families. This will be the third Reentry Resource Fair hosted by the Library and the largest one yet. Participating agencies include All of Us or None, The Bail Project, League of Women Voters, Mission: St. Louis, Missouri Appleseed, Missouri Institute of Mental Health, Places for People, Preferred Family Healthcare, St. Francis Xavier's State ID and Birth Certificate Program, St. Louis County Workforce Development, St. Louis Integrated Health Network, St. Louis Pretrial Release for the 22nd Circuit, St. Patrick's Center, the Tap In Center, and Urban League of Metropolitan St. Louis. (Plan: Promote Literacy 2d, 3c, Sense of Community 1b, 3a, 3b, 3c)
+	The Small Business Launchpad held their final class session on Wednesday, January 24th after meeting every other week for six months. Out of the 12 participants that started the program, 7 officially completed the 6 months. Those that completed have businesses for the following:
+		Eyelash and nail technician
+		Cannabis infused eats
+		Author/motivational speaker
+		Mobile car detailing and oil change
+		Domestic violence home (nonprofit)
+		Custom t shirts
+		Barber shop
+The Pitch Night will be held on Thursday, March 7th at Florissant Valley starting at 6:00 p.m. The event is open to friends and family of the participants. (Plan: Promote Literacy 2d, 3a, 3b, 3c, Sense of Community 1b, 3a, 3b)
+	Residents at the St. Louis County Justice Center (SLCJC) have access to JPay tablets through a cooperative agreement with the State of Missouri. Through these tablets, residents have access to St. Louis County Library programming.  Nature, gardening, cooking classes, mental health workshops, meditation, yoga, exercise programs, and history are popular program topics. Residents at the SLCJC know that they are watching library programs and have repeatedly expressed gratitude for them. The Justice Center has also expressed great appreciation for this partnership and the programming they are able to offer their residents. The Justice Center reported 200,297 views of library programs since the start of the program in early 2023. (Plan: Promote Literacy 2d, 3a, 3b, 3d, Sense of Community 1a, 1b, 2a, 3a, 3b, 3c)
+	The Adult Services Department is working with the Missouri History Museum to offer a temporary banner exhibit for their exhibit "#1 In Civil Rights". Various branches will host the exhibit for one month increments from July-December 2024. The exhibit consists of 14 banners that can be displayed throughout the branches. (Plan: Promote Literacy 3d, Sense of Community 1b, 3a)
+	The prestigious St. Louis Literary Award presented by St. Louis University has honored writers for over 50 years. This year’s award winner is Jamaica Kincaid, a renowned novelist and essayist. The Library is offering a number of programs to engage our community as writers and readers: two book discussions of “Lucy” by Jamaica Kincaid, three virtual programs related to her work, and an Inspired by Jamaica Kincaid collection of written pieces under 500 words submitted by our patrons for inclusion in our eMedia collection on Biblioboard. (Plan: Promote Literacy 1b, 1c, 3d, Sense of Community 1b, 3a)
+	Thanks to a new partnership with the St. Louis Symphony Orchestra, Ms. Sorth says more than 3,200 vouchers have been distributed to branches for free symphony tickets for patrons. Each voucher can be redeemed for two tickets to a classical concert or 4 tickets to a family concert. We've been getting great feedback from patrons including:
+“My 11 year old daughter plays violin through her elementary school strings program. We try to expose her to cultural opportunities, particularly those where she can see violinists in action. I'd long wanted to take her to the symphony, but the prices made me hesitate. As soon as I heard about the voucher program through the library, I made a beeline for my local branch. We got tickets to see the orchestra this past weekend, the first date available. It was incredible! My daughter really loved it, as did I, and we are so grateful that we had this opportunity. I am continuously impressed by the offerings through SLCL and I am grateful that our family has benefitted in so many ways from your programming. Thank you!" (Plan: Promote Literacy 3d, Sense of Community 3a)
+	The Library will host the 2024 online adult high school commencement ceremony on Saturday, July 20th at the Clark Family Branch.  Each year, Adult Literacy Coordinator, Ricqui Brooks prepares a report about the Excel Online High School program.  Here is the report for 2023. (Plan: Promote Literacy 2d, 3a, 3c, Sense of Community 3c)
+	Ms. Sorth said the Library will host the Partners for Native Landscaping webinar series for the fourth year. These virtual programs are consistently among our highest attended programs.  The community is eager to hear from experts at EarthWays Center of the Missouri Botanical Garden, St. Louis Audubon Society and Bring Conservation Home, Shaw’s Nature Reserve, and Forest ReLeaf of Missouri, among others. Last year, the webinar series had a total attendance of over 2,000 participants and nearly 4,000 views on YouTube. We are grateful to once again share our reach and promote access to these valuable resources for sustainable native plant landscaping practices. (Plan: Promote Literacy 3d, Sense of Community 3a, 3c)
+	The Adult Services Department has been offering several extremely popular classes related to crocheting including the Crochet for a Cause Daily Practice that highlighted the Library database, Creativebug, as well as the Library’s ongoing contributions to Warm up America. Over 300 people took part in the practice. The Library has also hosted Beginning Crochet classes with community partner Craft Academy with full registration across our northern branches, as well as hosting a virtual crochet program with nearly 300 attendees and almost 200 YouTube views after two weeks. These classes have provided opportunities to connect over 1,000 library users to databases Creativebug and Craft & Hobby, in-branch programs such as Needlework or Crochet for a Cause, and books and magazines in the collection. (Plan: Promote Literacy 1b, 2d, 3d, Sense of Community 3c)
+	The 2023-2024 Winter Reading Challenge ended on January 31. There were 26,919 participants in this year’s challenge which was a 59% increase from the previous year. Of those, 22,946 participants completed the challenge. Completions had a 77% increase over the previous year. (Plan: Promote Literacy 1a, 1b, 2a, 2b, 3d)
+	For Black History Month, Author Len Campbell of the St. Louis African American History & Genealogy Society will present “African-American Genealogy: A Mississippi Case Study” virtually on Monday, February 26th.  Attendees can learn about resources for African-American Genealogy through an exploration of families documented in the author’s book, “Scattered Leaves: The African American Families of the Rock Hill Community in Panola County, Mississippi.”  The Black History Month programming has been very well received and attendance has been excellent. (Plan: Promote Literacy 1c, 2d, 3d, Sense of Community 1a, 1b, 3c)
+	On Saturday, February 3, all branches celebrated Take Your Child to the Library Day by hosting various activities such as Scavenger Hunts and making bookmarks. 765 patrons participated in activities this year. (Plan: Promote Literacy 2a, 3d, Sense of Community 3c, Increase Access 1c)
+	Applications for the Sidney Johnson Internship will open on March 1 and will close on March 31. Three teens will be chosen to intern this summer.  This program is sponsored by the Foundation. (Plan: Promote Literacy 3a, 3d, Sense of Community 1a, 1c, 2d, 3b, Increase Access 1c, 2c)
+	The Library continues to provide vital services to the region shown on the chart below. (Plan: Sense of Community 3a, 3b, 3c, Increase Access 1, 1c)
+Service Stats 2021 to Current:
+Service Stats 2024 only:
+	There were mentions of the St. Louis County Library in the local media in print, radio and television.  Those articles are attached. (Plan: Increase Access 2)
+	Here are pictures from various events and programs that have taken place over the last month including: Evening Craft Hour at Meramec Valley, Bluey Party at Oak Bend, Reading to Dogs at Daniel Boone, Rockin’ Reptiles at Prairie Commons, Parachute Play at Grand Glaize, Lunar New Year at Rock Road and Book Buddies at Grand Glaize.  (Plan: Promote Literacy 1b, 1c, 3d; Sense of Community 1b, 3b, 3c)
+Impact Stories
+	Students at St. Ann Catholic School located next door to the Natural Bridge Branch wrote letters to Natural Bridge employees.  They were filled with love and thanks.  Ms. Sorth shared  a few as they were written.
+		Thank you for creating a safe environment for us St. Ann Students.  I love how comforting the library is.  The library has made a safe place for me and my friends.
+		Thank you for making the environment safe.  Thank you for making it safe to hangout.  Thanks for all the food you give us.  And thank you for hotspots.
+		Thank you for proving a nice working/reading environment.  Thank you for providing snacks as well.  Thank you for providing GOOD books and I really appreciate you guys!
+		Thank you for proving the essentials like books, bathroom and security to be safe.  Books are very good because it helps you understand things, get exposed to big words.  People need to go the restroom and if they didn’t have a restroom and if they didn’t have a restroom they’ll have to do it outside but good thanks to the library we don’t have to do that.  Have having security at the library we can be safe and protected when we get out of school.
+		Thanks for refilling the vending machine and thanks for the computer.
+		Thanks you for being an after school source.  Better than staying at school.  Sorry for some of the loud laughing.  We’re just kids and things are funny.
+		Thank you for talking to me and Amari almost every day and hearing her rant ALL THE TIME.  Anyways . . . Thank you for try to help them weird girls and get them off my case.  Your Bestie.  (Plan: Promote Literacy 2a, Increase Access 1c, 2c)
+Library Administrative Updates
+	Ms. Sorth said six Library employees traveled to Jefferson City on February 6 to participate in the Missouri Library Association’s Library Advocacy Day.  The team consisting of Eric Button, Yecenia Arango, Megan Phifer-Davis, Kalin Preston, Rebecca Clarke, and Hannah Axt visited with over 30 Representatives and Senators.  A number of bills related to library funding and operations have been introduced in the House or Senate.  House Bill 2498, which would make library boards elected for 2-year terms rather than being appointed, received considerable attention during the day.  The Library team was successful in raising awareness of the impact of this proposed bill.  Library opposition to this bill focused largely on the fiscal impact, as it would require libraries to carry a portion of the election expenses, which in the case of SLCL would likely exceed $500,000 every two years.  Several of our elected officials testified in opposition of this bill as a result of the conversation with Library employees on February 6.  Other important topics of conversation included discussion of State Aid which is projected to provide about $600,000 for SLCL in 2024.  The entire SLCL team enjoyed the experience and made valuable connections throughout the afternoon. (Plan: Sense of Community 2c, 2d, Increase Access 2c)
+	Ms. Sorth has been asked to serve on the Regional Early Childhood Education and Workforce Taskforce, which is a partnership between the YWCA, BioSTL, Cortex, Greater St. Louis Inc. and StemSTL.  The YWCA is serving as the convener.  The goal of this regional effort is to begin leveraging resources across the public and private sectors to create real impact for the future of the children in our region and state. The focus is on action, implementation, and results. (Plan: Promote Literacy 2a, Sense of Community 1a, 3a, Increase Access 2c)
+	Communications completed work on a logo for the new joint summer reading program between SLCL and St. Louis Public Library. The SLCL team will be creating all of the print materials to be used by both library systems. (Plan: Promote Literacy 1a, 2a, Sense of Community 3a, 3c, Increase Access 2a)
+	As mentioned previously, Communications is embarking on a fun new video series called, “A Day in the Life” that features different jobs within the Library featuring several of our incredible employees.  The latest video featured Library Associate Lucas Cusi from Meramec Valley and was shared with the Board. (Plan: Sense of Community 2d, Increase Access 2d)
+	Jackie Hamilton is being honored this summer by a local chapter of Black Girls Who Rock.  The organization surprised Jackie last week where she was presented with a golden ticket to the event.  The Black Girls Who Rock St. Louis Awards Celebration honors outstanding women in the St. Louis Metropolitan area who have made a significant contribution to their community or in their field of endeavor. (Plan: Sense of Community 2d, Increase Access 2a, 2c)
+	The Library held a Pension Election for the employee representative on the Pension Board.  Jennifer Alexander was re-elected to the Pension Board. (Plan: Sense of Community 1d)
+	The Library has hired the Creative Lab Manager for the new Clark Family Branch Creative Lab that will be located in the Teen Space.  Ja’Mel McCaine comes to us from St. Louis Public Library.  While the Clark Family Branch will not open until late spring, Ja’Mel will start on March 4 to begin outreach and planning efforts for the space. Ja’Mel was the Creative Experience Resource Specialist overseeing all of the creative labs at St. Louis Public Library. We are so happy to welcome him to St. Louis County Library. (Plan: Promote Literacy 2d, 3b, 3d, Sense of Community 3b, 3c, Increase Access 1a, 1c)
+Library Construction and Facility Update
+	The 2024 Library Budget included plans to engage architectural and engineering support for smaller construction projects, such as renovating a teen area or upgrading a children’s space. An RFQ was issued, responses were received and interviews were conducted. An architect was selected.  Per State Statute, we are currently in negotiations with the selected firm. We plan to present a recommendation to the Library Board in April. (Plan: Increase Access 1a, 1c)
+	The first design meeting for the new Sachs Branch is scheduled for Thursday, February 19. (Plan: Increase Access 1a, 1c)
+Library Foundation
+	Ms. Sorth said the Foundation’s annual gala will take place on October 5th at the Clark Family Branch.  The theme will be Casino Royale. (Plan: Increase Access 2a)
+	The following grant was awarded:
+		The Library received a $200,000 grant from the State and Local Cybersecurity Grant Program from the Missouri Department of Public Safety and the Office of Homeland Security to support a 3-year project that will support our work to upgrade and secure the District’s digital infrastructure. (Plan: Increase Access 1c, 1d)
+Author Events (Plan: Promote Literacy 1c)
+	Ticketed Event: Billy Dee Williams, author of “What Have We Here,” Tuesday, February 20, 7:00 p.m.-9:00 p.m., Skip Viragh Center for the Arts at Chaminade.
+	Steve Berry, author of “The Atlas Maneuver,” Wednesday, February 21, 7:00 p.m.-8:00 p.m., Daniel Boone Branch.
+	A'Ja Wilson, author of “Dear Black Girls: How to Be True to You,” Thursday, February 22, 7:00 p.m.-9:00 p.m., Ethical Society of St. Louis.
+	Tony Messenger, author of “Profit and Punishment,” Thursday, February 29, 7:00 p.m.-9:00 p.m., The J.
+	C.J. Box, author of “Three-Inch Teeth,” Friday, March 1, 7:00 p.m.-9:00 p.m., Ethical Society of St. Louis.
+	Jennifer Nielsen, author of “Uprising,” Tuesday, March 5, 6:30 p.m.-8:00 p.m., The J.
+	David Finkel, author of “An American Dreamer,” Wednesday, March 6, 7:00 p.m.-9:00 p.m., The J.
+	Ariel Lawhon and Katherine Reay, authors of “The Frozen River” and “The Berlin Letters,” Thursday, March 7, 7:00 p.m.-8:00 p.m., Grant's View Branch.
+	SOLD OUT–Ticketed Event: RuPaul, author of “The House of Hidden Meanings,” Monday, March 11, 7:00 p.m.-9:00 p.m., The Pageant.
+	Chris Bohjalian, author of “The Princess of Las Vegas,” Wednesday, March 20, 7:00 p.m.-9:00 p.m., The J.
+	Tarryn Fisher, author of “Good Half Gone,” Thursday, March 21, 7:00 p.m.-9:00 p.m., The J.
+	Heather Gudenkauf, author of “Everyone is Watching,” Friday, March 29, 7:00 p.m.-8:30 p.m., Daniel Boone Branch.
+	Don Winslow, author of “City in Ruins,” Saturday, April 6, 7:00 p.m.-8:00 p.m., Daniel Boone Branch.
+Ms. Sorth said the library will host several big ticketed events this spring.  Here are a few upcoming event highlights. There are more announcements to follow.  Tickets will be available soon through the Library’s website.
+	Saturday, April 6, 7 pm - Skip Viragh Center for the Arts, Beloved actress and bestselling author - Valerie Bertinelli, “Indulge: Delicious and Decadent Dishes to Enjoy & Share.”
+	Wednesday, May 1, 7 pm - Graham Chapel at Washington University, Novelist Amor Towles, “Table for Two: Fictions.”
+	Thursday, May 9, 7 pm - Touhill Performing Arts Center, Historian Erik Larson, “The Demon of Unrest: A Saga of Hubris, Heartbreak, and Heroism at the Dawn of the Civil War”
+Materials Reconsideration Actions
+Date Submitted            Item                                                                                    Decision of Committee
+12/24/2023                       Everything You Need to Ace Chemistry               Retained in collection
+NEW BUSINESS
+CONSTRUCTION UPDATE
+Steve Hunter, Assisted Director of Operations, presented an update on the Clark Family Branch construction. The elevator is being installed. Carpeting is beginning to be installed. A walking path has been installed. New lights have been suspended. The upper level study rooms are coming together.
+LAWN AND LANDSCAPING MAINTENANCE
+Steve Hunter, assistant director of Operations, presented the following.  On January 25, 2024, Library Administration issued an Invitation For Bid (IFB) for Lawn & Landscaping Maintenance at all Library locations. The bid was posted on the SLCL website and directly e-mailed to 15 local lawn maintenance firms. Responses were due February 9, 2024. Eight firms responded:
+			Firm
+			Annual Cost
+			Surecut Lawncare LLC
+			$198,331.00
+			MACC Contracting
+			$199,360.00
+			True Cut Lawn Service LLC
+			$218,246.00
+			Focal Pointe Outdoor Solutions, Inc.
+			$295,505.00
+			Lawn Groomers, Inc.
+			$307,565.00
+			Contemporary Landscape
+			$333,089.00
+			SFP Landscaping, Inc.
+			$404,227.04
+			Frisella Nursery, Inc.
+			$455,595.29
+The responses were reviewed by Steve Hunter, Matt Manwarring (Manager, Building Systems), and Drew Schulze (Assistant Manager, Building Systems). After checking references, the group selected Surecut Lawncare LLC as having submitted the lowest and best bid for the work. Surecut’s current clients include St. Charles Community College and WorldWide Technology.
+The Library Board selected Surecut Lawncare LLC to provide Lawn & Landscaping Maintenance Services to the Library District at an annual cost of $198,331, and that it authorize the Director & CEO to enter into and execute a three-year contract to that effect (Patterson/Barry).
+CUSTODIAL SERVICES
+Kelli Reeves, Manager of Facilities, presented the following. On January 25, 2024, Library Administration issued an Invitation For Bid (IFB) for nighttime Custodial Services at nineteen Library Branch locations. The bid was posted on the SLCL website and directly e-mailed to five local firms that identified as providing this service. Responses were due February 9, 2024. Although six firms responded, only three responses can be considered complete:
+			Firm
+			Annual Cost
+			Deep Kleen and Maintenance LLC
+			$205,200
+			Cochren Facility Management Inc.
+			$307,395
+			Simplei Sunshine Cleaning LLC
+			$439,940
+Responses from C.E. Berry, Showtime Cleaning, and Angies and Leos Cleaning LLC did not include the required acknowledgement of receipt of Bid Addendum #1.
+The responses were reviewed by Steve Hunter, Kelli Reeves (Manager, Facilities) and Brett Boling (Manager, Custodial Services). After checking references, it was determined that Deep Kleen and Maintenance LLC submitted the lowest and best bid for the work. Deep Kleen has performed work for Ameren as well as St. Louis County, St. Louis City, and the City of Olivette.
+The current contract for this work is $250,000 per year. The current provider of this service, Building Stars, declined to respond to this IFB.
+Library Administration recommends that the Library Board select Deep Kleen and Maintenance LLC to provide Custodial Services to the Library District at nineteen locations at an annual cost of $205,200, and that it authorize the Director & CEO to enter into and execute a three-year contract to that effect.  The Library Board approved the recommendation (Patterson/Sanditz).
+MANUFACTURING SERVICES FOR A MOBILE OUTREACH VEHICLE
+Eric Button, Deputy Director, reported the following.  The Library Administration is seeking approval for the selection of a provider for Manufacturing Services for a Mobile Outreach Vehicle.  The fleet of the Library’s school bookmobiles is rapidly aging, and the useful life of these trailers is nearing an end.  The Library currently operates four school bookmobile trailers. In December 2022, the Board approved a manufacturer for the first three new school bookmobile replacement vehicles, using funds from the three sponsors, Emerson, Great Southern Bank, and the St. Louis Cardinals
+When funding for a fourth vehicle was secured from the McDonnell Family Foundation, the Library issued a Request for Proposals (RFP) for Manufacturing Services for a Mobile Outreach Vehicle on December 13, 2023.  This RFP solicited proposals for a single bookmobile vehicle.  Ten manufacturers were directly invited to respond to the RFP in addition to its placement on the Library’s website.  Three responses to the RFP were received by the January 18, 2024 deadline.
+A review team composed of Michael Swendrowski (SVS), Eric Button, Steve Hunter, Amy Hanaway, and Crystal Harris, reviewed the proposals from the three vendors and conducted follow-up interviews with all three vendors.  At the completion of the interview process, the review team selected CAD Industries as the best proposal.  CAD Industries presented the lowest total cost for the project.  They were the only proposal that could guarantee the price would not increase during the manufacturing process.  CAD Industries also had the most appealing timeline with the vehicle completion and delivery projected to be August of 2024, aligning nicely with the anticipated arrival of the first three units being produced by Farber.  SVS reported that in their experience CAD Industries has consistently provided quality work and delivered a professional product on-time and on-budget.  The references for CAD Industries were very positive.
+The entirety of this expense will be covered through funds secured by the Library Foundation, through generous sponsorship by the McDonnell Family Foundation.
+			Company
+			Total Price
+			CAD Industries
+			$436,515
+			Farber Specialty Vehicles
+			$585,887
+			TechOps Specialty Vehicles
+			$464,311.65
+			*TechOps Specialty Vehicles (revised quote following interview)
+			$471,200.53
+*The original price from TechOps excluded a closet which was shown in the floor plan but not specifically called out in the detailed specifications.  This updated price includes added cost of this closet.
+The Library Board approved the recommendation to authorize the Library Director and CEO to enter into and execute a contract with CAD Industries to provide Manufacturing Services for a Mobile Outreach Vehicle (Sanditz/Patterson).
+FIBER INTERNET SERVICE
+Gib Van Cleve, Assistant Director of ITS, reported the following.  Library Administration is seeking approval of a new 36-month Fiber Internet Services contract.  The current contract with Spectrum Enterprise expires on June 31, 2024.  A Request for Proposal (RFP) was issued for Fiber Internet Services to solicit competitive proposals as required by E-Rate.  Lashly & Baer was involved in this process.  The RFP was posted on both the Library’s website and the Universal Services Administrative Corporation (USAC) website.  It was also advertised in the St. Louis Post-Dispatch.  Laura Taylor manages the E-Rate process for the Library in her role as CFO.
+The Fiber Internet Service connections provide Internet access for public PCs and employee PCs across the District.  The RFP requested pricing for a circuit at the Lynn Beckwith, Jr. Administrative Building and for the disaster recovery site at Hostirian.  The RFP was posted on January 10, 2024, and responses were due on February 9, 2024.  The Library received responses from Cytranet, T-Mobile and Spectrum Enterprise. T-Mobile’s submittal was non-responsive because it proposed services that were inadequate for the application.  Spectrum’s price is the lowest and meets both the Library’s technical and flexibility requirements by doubling the District’s gigabits per second (Gbps), which is the Internet bandwidth for the Library.
+The District can continue to meet its Internet bandwidth needs for public access PCs and staff PCs by accepting the proposal from Spectrum Enterprise.  The Fiber Internet circuit at the Library’s Hostirian disaster recovery colocation site will remain at 1Gbps and the Administrative Building connection will increase to 2Gbps.
+Library Administration recommends the lowest and best proposal for Fiber Internet Services from Spectrum Enterprise at a cost of $81,864 for 36 months which will provide Internet connectivity for the District’s public and employee PCs, and that the Board authorize the Director to enter into and execute a contract to that effect.  An anticipated E-Rate refund of 40% would reduce the 36 month total to $49,118.40.  Internet services are included in the 2024 Telecommunications budget.  The Library Board approved the recommendation (Patterson/Barry).
+BRANCH WI-FI INTERNET SERVICES
+Gib Van Cleve, Assistant Director of ITS, presented the following.
+Library Administration is seeking approval of a new 36-month Fiber Internet Services contract.  The current contract with Spectrum Enterprise expires on June 31, 2024.  A Request for Proposal (RFP) was issued for Fiber Internet Services to solicit competitive proposals as required by E-Rate.  Lashly & Baer was involved in this process.  The RFP was posted on both the Library’s website and the Universal Services Administrative Corporation (USAC) website.  It was also advertised in the St. Louis Post-Dispatch.  Laura Taylor manages the E-Rate process for the Library in her role as CFO.
+The Library’s Branch Wi-Fi Internet Services provide wireless Internet access at 20 branches and the Lynn Beckwith, Jr. Administrative Building.  The RFP was posted on January 10, 2024, and responses were due on February 9, 2024.  The Library received responses from Cytranet, T-Mobile and Spectrum Enterprise. T-Mobile’s submittal was non-responsive because it proposed services that were inadequate for the application.  Spectrum’s price is the lowest and meets both the Library’s technical and flexibility requirements by tripling the District’s megabits per second (Mbps), which is the Internet bandwidth for the Library.
+The District can continue to meet its Branch Wi-Fi Internet bandwidth demands by accepting the proposal from Spectrum Enterprise and triple the wireless bandwidth, moving from 200 Mbps to 600 Mbps for patrons.
+RECOMMENDATION:  Library Administration recommends the lowest and best proposal for branch Wi-Fi Internet Services from Spectrum Enterprise at a cost of $115,185.60 for 36 months which will provide wireless Internet for public Wi-Fi enabled devices across the District, and that the Board authorize the Director to enter into and execute a contract to that effect.  As anticipated, an E-Rate refund of 40% would reduce the three year total to $69,111.36.  Branch Wi-Fi Internet services are included in the 2024 Telecommunications budget. The Library Board approved the recommendation (Barry/Patterson).
+PERSONNEL MANUAL RESTATEMENT
+Mary Arnhart presented the following.
+The Personnel Manual was last revised in May of 2018.  Attached is a complete restatement of the Library’s Full Time and Part Time Personnel Manual for your review.  Where applicable, changes to the Part Time Manual are identical to the Full Time Manual with the exception of one change mentioned below that only impacts Part Time employees.  The attachment includes a copy with changes tracked and a clean copy.  The entire updated Personnel Manual has been discussed and reviewed by Constangy, Brooks, Smith & Prophete, the Library’s HR Legal Counsel.  In addition, Hicks-Carter-Hicks, the Library’s Diversity, Equity, Inclusion and Belonging (DEIB) Consultant reviewed the Personnel Manual during their DEIB review and made suggestions that were incorporated.
+Many of the changes are clarifications that do not affect policy or are revisions reflective of current best practices for human resources (HR).  Also, several changes have been made in accordance with current state and federal law impacting HR.  Four new policies have been added to the Personnel Manual.  Three of the four new policies were approved by the Library Board in 2023.  A new policy was added to the Personnel Manual in this restatement to address Generative AI.
+The new policies and major revisions are discussed below.  Once approved, all Library employees will be notified of the changes and the updated manuals will be placed on the Library’s intranet.
+New Policies
+	Paid Parental Leave
+This is a new policy that was approved by the Library Board in December 2022. The policy became effective on January 1, 2023.  A new section was added in the Personnel Manual.
+	Domestic Violence Leave
+The Missouri State Legislature passed the Victims Economic and Security Act Law. The new policy was approved by the Board in December of 2022.  A new section was added in the Personnel Manual.
+	Pregnant Worker’s Fairness Act
+The United States Congress passed the Pregnant Worker’s Fairness Act.  The new policy was approved by the Board in September of 2023.  A new section was added in the Personnel Manual.
+	Generative AI
+Artificial Intelligence policies are recommended by legal counsel.  A new section was added in the Personnel Manual.
+Major Revisions
+	Vacation
+This policy has been changed to allow employees to use vacation as soon as it is earned without a waiting period.  The updated policy also lowers the years of service required for employees to accrue 15 and 20 days of vacation.
+	Sick Leave
+This policy has been changed to allow employees to use sick leave as soon as it is earned without a waiting period.  This will coincide with the Library’s health insurance guidelines.
+	Holidays
+	Juneteenth has been added to this policy.  Juneteenth was previously approved by the Library Board as an official holiday.
+	Closing at 5:00 p.m. on Thanksgiving Eve has been added to this policy.  Closing early was previously approved by the Library Board.
+	The Holiday Policy was changed in the Part Time Manual.  Part time employees will be paid when the library is closed for a holiday if they were scheduled to work that day.
+	Bereavement Leave
+The number of days allowed off for the funeral of an immediate family member has been changed from three to five days.
+	Accident Insurance
+This coverage was added to the Library’s list of optional employee benefits in 2021.  A new section has been added in the Personnel Manual.
+	Critical Illness Insurance
+This coverage was added to the Library’s list of optional employee benefits in 2021.  A new section has been added in the Personnel Manual.
+	Pet Insurance
+This coverage was added to the Library’s list of optional employees benefits in 2021.  A new section has been added in the Personnel Manual.
+	Deferred Compensation
+A mention of the forthcoming match, as approved by the Library Board in the 2024 Library Budget, has been added to the policy.
+	Employee Dress Code
+This policy has been changed to allow employees to wear jeans with or without also wearing a Library shirt.
+	Tuition Reimbursement
+This policy has been reorganized to provide clarification.  The changes do not result in a change to the policy.
+The Administration recommends that the Library Board approve the restated Personnel Manual in its entirety.  Once approved, all Library employees will be notified of the changes.  The restated manuals are effective March 1, 2024 and will be placed on the Library’s intranet.  The Library Board approved the recommendation. (Patterson/Barry).
+ADJOURNMENT
+Joan Barry moved to adjourn the meeting.  All agreed with voice vote.
+Beckwith, Aye, Patterson, Aye, Sanditz, Aye.  Motion passed.
+Meeting ended at 4:52 p.m.
+Respectfully submitted,
+_____________________________                                      ________________
+Joan Barry                                                                                           Date
+Board Secretary

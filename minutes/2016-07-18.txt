@@ -1,0 +1,118 @@
+{
+  "name": "Regular Meeting",
+  "description": "Library Board",
+  "unique": "ABKTHR777E19",
+  "date": "2016-07-18T00:00:00Z"
+}
+
+---
+
+ST. LOUIS COUNTY LIBRARY DISTRICT
+MEETING OF THE BOARD
+HEADQUARTERS
+1640 SOUTH LINDBERGH BLVD.
+MONDAY, JULY 18, 2016
+The monthly meeting of the Board of the St. Louis County Library District was held at the Headquarters Branch, 1640 South Lindbergh Blvd., St. Louis, MO 63131 on Monday, July 18, 2016 at 3:30 p.m. The agenda had been posted in all branches of the Library District at least 24 hours before the meeting.
+ATTENDANCE:
+Library Board Members:
+Dr. Lynn Beckwith, President
+Edith Cunnane, Vice President, via telephone
+Elena Kenyon, Treasurer
+Dr. Chingling Tai, Secretary
+Michael Mulligan, Member
+ADMINISTRATORS AND GUESTS ATTENDING:
+Kristen Sorth, Library Director; Barbara Brain, Assistant Director of Adult and Support Services; Barbara Turkington, Assistant Director, Branch Services; Gib Van Cleve, Assistant Director, ITS; Eric Button, Assistant Director, Branch Services; Kris Mooney, Manager, Finance; Steve Hunter, Construction Manager; Mary Arnhart, Manager, Human Resources; and Lisa Stump, Attorney, Lashly Baer.
+OTHERS ATTENDING:
+Marsha Ramey, Nicole Clawson, Stephanie Nordmann, Jeff Krus, Aaron Eller, Kathy Wiese, Scott Holl, Julia Mangner, Laura Kasak, Tiffany Davis, Anna Gonzalez, Natalia Catlett, Julie Cruise, Jennifer McBride, Barb Reale, Rebecca Clarke, Amy Hanaway, Emily Althoff, Megan Coyle, Anne Arthur, Stacey Lewis, Deanna Davis, Alaina Culbertson, Catherine Hill, Cindy Schultz, Lisa Haddox, Marie Conlin, Donna Spaulding, Susie Bushnell, Erin Magner, Jake Eubanks, Andrea Johnson, Conrad Rader, Tom Curran, Gwen Knight, Trudy Williams, Tracy Fletcher, Paul Bayless, Rachel Nowell, Allison Wisniewski, Annie Fuller, Lauren Benson, Kathy Muller, Michelle Bock, Michael Cohen, Roz Kohen and Sandy Williams.
+MINUTES
+The Library Board approved minutes from the June 20, 2016 Board meeting (Mulligan/Kenyon).
+PUBLIC COMMENTS
+There were no public comments.
+TREASURER'S REPORT
+Kris Mooney reported that, in June, the Library District received $8,825 in revenue from the reciprocal agreements with the Municipal Libraries. This represents six of the nine libraries that were invoiced. We expect to receive the remaining three library’s payments in the next couple of months. Total revenue to be received after all libraries have made payments is approximately $29,550.
+The Library District paid EBSCO $180,000 for the 2017 periodical order. This purchase is usually made at the end of the year, but the Library received a discount of 0.625% or $1,125 for early payment.
+The Library District paid $44,228 to purchase two new Dodge Grand Caravans for the Library Fleet, which will be used by ITS, Youth Services, and other Headquarters staff to travel to branches. The new vehicles are replacements for two Ford Focus vehicles, which were traded in to offset the cost.
+Capital Projects Fund Balance Sheet
+Total Construction in Progress for June 2016 was $2,973,736. The expenses included payments
+for:
+	Branch renovation construction expenses (Samuel Sachs, Oak Bend, Natural Bridge, Prairie Commons, Cliff Cave) - $2,075,044
+	Branch renovation construction expenses (Rock Road, Jamestown Bluffs, Indian  Trails, Weber Road) - $143,254
+	Furniture and Fixtures for Phase I buildings - $119,110
+		Design Costs for Phase II buildings (Daniel Boone, Bridgeton Trails, Florissant Valley) - $99,227
+	Technology - $47,624
+		The remaining dollars were largely spent for the services of the Facilities Master Plan Administrator, architect fees, and environmental professional services.
+The Library Board approved the Treasurer’s Report subject to audit (Tai/Mulligan).
+DIRECTOR'S REPORT
+Kristen Sorth gave the following report.
+Library Update
+	Ms. Sorth shared the June dashboard report with the Board. She stated that the report contains a variety of statistical information for the Library including circulation, visits, and programming. Even with five branches closed for construction, June circulation is down only 3.7%. The report also includes statistics about eMedia usage, the Free Summer Lunch Program, and new patron registration at the re-opened branches. The re-opened branches have experienced a 74% increase in new patron registrations.  Ms. Sorth also shared pictures of the Free Summer Lunch program with the Board.
+	Ms. Sorth reported that in 2015, the Library Board approved the purchase of new networking equipment for HQ and the renovated branches. ITS deployed the equipment to all of the Phase 1 construction branches prior to their openings. The effort to upgrade the core network switching equipment at HQ kicked off in April and consisted of a detailed analysis of network traffic flow as well as a configuration design effort for the new equipment. All of the fiber optic network connections have been migrated to the new equipment. Our main Charter WAN (wide area network) connection will be upgraded this month. ITS is creating a new network design which will allow the WAN to fail over to a disaster recovery site in the event of a significant issue at HQ. Major milestones remaining in this effort include:
+	Deploying new network design at all branches.
+	Selecting and establishing a disaster recovery site.
+	Purchasing redundant servers, firewall, and web filter.
+	Establishing WAN connectivity to the disaster recovery site.
+	Deploying and configuring equipment at the disaster recovery site.
+	Testing and documenting the disaster recovery fail over procedures. These are all behind the scenes efforts that require a significant amount of afterhours work so that day to day operations of the staff and patrons are not impacted. This work is very important to library operations. (Plan: Increase Literacy 3.3)
+	Youth Services staff will be designing and presenting sensory story times as a pilot at HQ and Weber Road. The programs will be presented semi-monthly in the evenings and will be open to any ages and abilities, but they will be designed specifically for children ages 2-9 with special needs. (Plan: Increase Literacy 2.1)
+	The Outreach Department often receives calls from concerned parents who have received overdue notices for books their children had checked out from the school bookmobile. The overdue notice is an unpleasant surprise because parents are not always aware that their children have checked out bookmobile materials. Crystal Harris, Outreach Manager, and Stephanie Nordmann, the System Administration Manager, implemented a way to email parents to notify them of materials their children checked out on the school bookmobile. (Plan: Strengthen Sense of Community 1.1)
+	Ms. Sorth announced that the Library is making progress on Listen Up STL, a local music project we hope to launch later this year. Staff has uploaded several files to test both the process and the sound quality. (Plan: Increase Literacy 1.2)
+	Several months ago, Ms. Sorth mentioned piloting a curbside pickup service at one of the branches. The Grand Glaize Branch was selected for the pilot and plans are underway to start the service. (Plan: Strengthen Sense of Community 3.1)
+	Youth Services staff will be coordinating a large event at HQ on Saturday, September 24 that is focused on early literacy. The Little Readers Festival will feature PNC Bank's Mobile Learning Adventure, which has 5-6 stations for play and engagement for children ages 0-5. In addition to what PNC is offering, the Library will have several activities such as the Bubble Bus and Juggling Jeff. A number of community partners, such as Ready Readers, Center for Hearing and Speech, and Parents as Teachers will also be in attendance. The bookmobiles will be used for checking out books and for hearing and vision screenings for children by the Center for Hearing and Speech. We are making arrangements to use the back portion of the parking lot by relocating many of the fleet vehicles to Plaza Frontenac. (Plan: Increase Literacy 2.1)
+	Ms. Sorth announced that 1,000 Books Before Kindergarten will launch on August 15. Children and parents will track the number of books read to a child before kindergarten and each time they reach a 100 milestone (100, 200, etc) they will receive a sticker to mark the progress. At 500 books they will receive a free book and Wikki Stix. When they complete the challenge by reading 1,000 books, they will receive a drawstring backpack filled with school supplies and another free book. This program is supported by PNC Bank. (Plan: Increase Literacy 2.1)
+	Last month, the Board approved moving forward with the re-design of the Library’s website. The process begins with a patron survey that will be used for the re-design. The survey will appear when an individual is accessing the Library’s website. Not every person visiting the website will receive a survey. The survey will remain on the website for approximately one month. (Plan: Strengthen Sense of Community 1.2)
+	A staff comment resulted in an incentive for patrons that donate blood during the Red Cross Blood Drives that are regularly held at our branches. Those donating will receive a voucher for one free book from the sale shelf. (Plan: Increase Literacy 3.4)
+	Ms. Sorth mentioned previously that the Library is working with a new non-profit called We Stories. We Stories is a literature-based organization to help parents initiate discussions with their children about race and racism. The Library has We Stories Kits that are now available for patrons to check out. These kits contain a book, discussion questions, and an activity for caregivers and children to work on together. Ms. Sorth shared some of the kits with the Board. (Increase Literacy 1.3 and 2.1)
+	There were numerous mentions of the St. Louis County Library in the local media in print, radio and television. Ms. Sorth shared those articles with the Board. (Plan: Strengthen Sense of Community 1.2)
+	Ms. Sorth shared a number of photographs with the Board from several programs and events including: Authors, Walter Mosley and Diana Nyad at HQ, Battle of the Bands at HQ, Hooping Harmony at Rock Road, Preschool Olympics at Mid-County, Little Ninja Training Camp at Thornhill, and Design Your Own T shirt at Rock Road. (Plan: Increase Literacy 1 and Sense of Community 2.3)
+Library Employee Update
+	Ms. Sorth announced that Kelly Draper was awarded the Missouri State Genealogical Society’s Certificate of Appreciation for significant contributions to the field of genealogy and family history. Kelly is a Library Assistant in the History and Genealogy Department. She has worked for the Library since 1995.
+	The Communications Department won the 2016 National Association of County Information Officers (NACIO) Award of Excellence for the “Your Library Renewed” public campaign, which focused on educating the public about the constructions projects.
+	Open enrollment for all lines of employee health insurance is complete. The new plans begin on August 1.
+	Barbara Brain, Assistant Director, Adult and Support Services, has announced her retirement effective August 31, 2016. Barbara began her library career at St. Louis County Library in September 1985 as a Professional in Headquarters, Readers' Service. Barbara has led or worked on many important initiatives at the Library, including, but not limited to, floating collections, the community gardens and other green initiatives, Sweet Reads, and many construction projects both during her time as a branch manager and as an assistant director. She has also hired and mentored many employees and managers and provided important insight and counsel to all who have worked with her. We know Barbara will enjoy retirement and are so happy for her, but she will be missed.
+	The Library Board and attendees applauded Ms. Brain’s service to the Library and Ms. Brain thanked everyone for their good wishes.
+Library Facility Update
+	Plans for the debt issuance for Phase 2 are underway. The Library will issue the Certificates of Participation for Phase 2 of the Your Library Renewed capital improvement plan on September 19th at 10:00 a.m. As that date approaches, we will be engaged in document preparation and will be submitting credit packages to the rating agencies. The Library Board will authorize the sale of the bonds at the August Board Meeting.
+	Concerns were expressed at Grant’s View about the crosswalks that run through the center of the parking lot. At times, drivers do not stop for pedestrians as they look for parking spots at the branch. To address this issue, the crosswalks have been striped to indicate that pedestrians may be crossing. (Plan: Create Gathering Spaces 1.3)
+	Patrons frequently request a small table next to the book return slot at the new and renovated branches so they may place their items on the table while they are returning materials. We are ordering these for all Phase 1 branches except for Grant’s View because they already have a system in place. (Plan: Create Gathering Spaces 1.2)
+	Residents in the areas surrounding the Indian Trails Branch and the Jamestown Bluffs Branch will receive a direct mail piece with information about the new and improved branches. (Plan: Strengthen Sense of Community 1.2)
+	The HQ retention pond has been drained due to a backup. We will also remove silt and some trees from near the pond.
+Library Foundation
+	Schnucks has agreed to be the official sponsor of the one year Born to Read birthday parties. They are making a $5000 donation to the program. In addition, the Magic House has provided the Youth Services Department with free admission coupons which will be distributed at the birthday parties.
+	The Jai Nagarkatti/Monsanto Reading Garden at the Sachs Library Branch is complete and will re-open with the Branch on July 27th.
+	The Foundation has received a grant from the Simon Foundation in the amount of $15,000 to support the Free Summer Lunch program.
+	Through the efforts of the Youth Services Department, Chipotle has been a multi-year sponsor of the summer reading club. Chipotle’s St. Louis marketing team approached Youth Services about a fundraiser for the Library. On August 9, 2016, 50% of the proceeds from sales at all St. Louis Chipotle’s will benefit the Born to Read program. Customers must mention St. Louis County Library or show the flyer to make their purchase count. We will be publicizing this in the days leading up to the fundraiser.
+	The Foundation will receive their first month’s check for $572 from donations to the clothing bins that are located at several of our branches.
+	Energizer has made a large donation of 20,000 books and Scholastic book credits to the Library. These books will be used to support several literacy-based library programs, such as Kindergarten Prep, literacy workshops and fairs, Recycled Reads in the WIC offices, and Sweet Reads. For Kindergarten Prep, we will order bags that feature the Energizer logo to recognize their contribution. In addition to the gift of books, we are receiving $29,000 in book credits that will be used to purchase materials for a new program at the Normandy Middle School.
+Author Events
+ · Peter Spiegelman, “Dr. Knox”, Tuesday, July 19, 7:00 p.m., Library Headquarters – Auditorium.
+ · Julie Barton, “Dog Medicine: How My Dog Saved Me From Myself”, Thursday, July 21, 7:00 p.m., Library Headquarters – Auditorium.
+· John C. McManus, “Hell Before Their Very Eyes: American Soldiers Liberate Concentration Camps in Germany, April 1945”, Monday, July 25, 7:00 p.m., Library Headquarters – Auditorium.
+ · Megan Abbott, “You Will Know Me”, Wednesday, July 27, 7:00 p.m., Library Headquarters – Auditorium.
+· Jeffrey Toobin, “American Heiress: The Wild Saga of the Kidnapping, Crimes, and Trial of Patty Hearst”, Wednesday, August 10, 7:00 p.m., Library Headquarters – Auditorium.
+In response to the overdue notice emails from the Outreach Department to parents of children checking out materials on school bookmobiles, Dr. Beckwith asked that consideration be given to contacting parents who do not have email for books checked out for their students.
+OLD BUSINESS
+None
+NEW BUSINESS
+2015-2018 STRATEGIC PLAN UPDATE
+Marie Conlin, Library Planner, gave a PowerPoint Presentation on the Library Strategic Plan for 2016.
+The Library Strategic Plan was approved by the Board on October 20, 2014. The plan is arranged into three major areas of focus: literacy, sense of community, and gathering spaces. Ms. Conlin shared some of the programs and services the Library has to support the Strategic Plan.
+CONSTRUCTION UPDATE
+Steve Hunter updated the Board on the renovation progress of the branches. He announced that Sachs is scheduled to open July 27, and Oak Bend will follow in mid-August. Mr. Hunter also reported that planning is underway for the next phase of renovation. He shared progression photographs of Oak Bend, Sachs, Natural Bridge and Cliff Cave with the Board.
+READER'S ADVISORY
+Branch managers Amy Hanaway, Laura Kasak, Rachel Nowell and Assistant Managers Natalia Catlett and Megan Coyle gave a PowerPoint Presentation about Reader’s Advisory.
+The general idea is to find different and interesting ways to recommend materials to the patrons.
+CUMULUS GLOBAL CONTRACT RENEWAL
+Gib Van Cleve presented the Administration’s recommendation to approve a one year contract renewal with Cumulus Global for Google Apps and Google Vaults for the term of July 1st, 2016 thru June 30th, 2017.
+Mr. Van Cleve explained that the Library uses Google Apps for email services and Google Vault for archive and discovery services. The Library’s contract for Google Apps and Google Vault is due for renewal. Our Google Apps reseller, Cumulus Global, will honor the current contract’s renewal clause and maintain pricing levels for another year. The Library requires 704 Google Apps accounts and 85 Google Vault accounts.
+Renewing services for another year at last year’s pricing of $45 per Google Apps account and $40.80 per Google Vault account will result in a cost of $35,148.
+The Library Board approved Administration’s recommendation for a one year contract renewal with Cumulus Global for Google Apps and Google Vault for the term of July 1, 2016 thru June 30, 2017 at the cost of $35,148. The Board also authorized the Director to enter into and execute a contract to that effect. (Cunnane/Mulligan).
+PHONE LINE CONTRACT RENEWAL
+Gib Van Cleve presented the Administration’s recommendation to approve a three year phone line contract with AT&T.
+The Library uses AT&T analog phone lines across the District for fire and burglar alarm services, fax lines and elevator alarm services. The devices that make up these services require older phone service also known as “Plain Old Telephone Service” or POTS lines. AT&T is a sole source provider of POTS lines. Our AT&T contract for POTS lines is due for renewal.
+The Library has 65 POTS lines across the district. The Library currently pays an average base rate of $30 per line per month. If the Library renews a three year contract with AT&T, we can decrease the base rate for these lines to $27 per line per month. If the Library chooses not to renew the contract and go with month to month billing, the average base rate would increase to $68 per line per month.
+The Library Board approved the Administration’s recommendation for a new three year contract with AT&T for the period of July 1, 2016 thru June 30, 2019 at the base line rate of $27 per POTS line per month. The Board also authorized the Director to enter into and execute a contract to that effect. (Kenyon/Tai).
+ADJOURNMENT
+A motion to adjourn open meeting and to convene Executive Session to discuss real estate (Section 610.021(2)); legal matters (Section 610.021(1)) was given by Chingling Tai and seconded by Edith Cunnane.  All agreed with a voice vote.  Aye:  Cunnane, Tai, Kenyon, Mulligan, Beckwith.  The meeting adjourned at 4:33 p.m.
+Respectfully submitted,
+_____________________________                                      _________________________
+Chingling Tai, Secretary                                                         Date

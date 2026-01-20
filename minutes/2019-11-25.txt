@@ -1,0 +1,121 @@
+{
+  "name": "Regular Meeting",
+  "description": "Library Board",
+  "unique": "B8HRCQ65954B",
+  "date": "2019-11-25T00:00:00Z"
+}
+
+---
+
+ST. LOUIS COUNTY LIBRARY DISTRICT
+MEETING OF THE BOARD
+HEADQUARTERS
+1640 SOUTH LINDBERGH BLVD.
+MONDAY, NOVEMBER 25, 2019
+The monthly meeting of the Board of the St. Louis County Library District was held at the Headquarters Branch, 1640 South Lindbergh Blvd., St. Louis, MO 63131 on Monday, November 25, 2019. The agenda was posted in all branches of the Library District at least 24 hours before the meeting.
+ATTENDANCE:
+Members present:
+Dr. Lynn Beckwith, President
+Joan Barry
+Laura Horwitz
+Ted Sanditz
+Johnny Wang
+ADMINISTRATORS AND GUESTS ATTENDING:
+Kristen Sorth, Library Director; Eric Button, Deputy Director; Kris Mooney, Assistant Director, Administration; Gib Van Cleve, Assistant Director, ITS; Steve Hunter, Assistant Director, Operations; Paul Hampel, St. Louis County; Scott Kolath, Landmark, Dan Millman, patron, H.O. Watkins, patron, Kate Hatfield, Frontenac Mayor.
+OTHERS ATTENDING:
+Rachel Nowell, Keir Haug, Lindsey Piech, Gina Sheridan, Marie Conlin, Nora Marino, Erin Pearce, Jennifer Gibson, Emma Figueroa, Emily Althoff, Katie Keeven, Julie Cruise, Will LaChance, Conrad Rader, Lauren Hoerr, Heather Neill, Skylar Stanley, Kat Van Arsdale, Kelli Reeves, Carla Maxwell, Stacy Berger, Terra Bacca, Paul Bayless, Annie Fuller, Kim Ford, Lori Boschert, Mary Arnhart, Amy Hanaway, Nicole Walsh, Tracy Fletcher, Carrie Robb, Kalin Preston, Anna Schurk, Kathy Muller, Andrea Johnson, Barb Reale, Stephanie Nordmann, Jennifer McBride, Nicole Clawson, Chris Goodman, Natalia Catlett, Alaina Culbertson, Michelle Hawkins, Sarah Wood, Anne Bradley, Erin Magner, Chasidy Allen, Scott Holl, Rebecca Clarke, Jackie Hamilton, Lauren Striebel, Aaron Loste, and Sandra Williams.
+Dr. Beckwith called the meeting to order and asked the new Board members to introduce themselves. Ted Sanditz, Joan Barry, Laura Horwitz, and Johnny Wang each introduced themselves to the audience.
+APPROVAL OF MINUTES
+Both the October 21, 2019 and November 20, 2019 minutes were approved (Barry/Wang).
+PUBLIC COMMENTS
+Three individuals appeared before the Board to make comments.
+Dan Millman, a Frontenac Alderman, addressed the Board.  He mentioned concerns regarding the new Library structure at location of Spoede and Clayton Roads which is to be built in his community. He also said he was excited to have a new dialogue with the new Board members.  Alderman Millman left copies of his concerns with the Board.
+Mr. Howard O. Watkins addressed the Board and congratulated the new members on their appointment. He said he had concerns about the new Operations Center.
+Mayor Kate Hatfield, congratulated the new members on their appointment to the Board.  She also expressed concerns about the new facility scheduled to be built in Frontenac.
+TREASURER'S REPORT
+Kris Mooney reported that, in October, the Library District received $23,500 from St. Louis County’s distribution of the Athletes and Entertainers Tax. This is the first of two payments for the State of Missouri’s 2020 fiscal year. The next payment is expected in March of 2020. The Library District received $214,787 from the State of Missouri’s distribution of State Aid to libraries. State Aid is now funded back to the level funded in FY2015, an increase to the Library District of more than 25%. This was the first of two payments expected for the State of Missouri’s 2020 fiscal year. The next payment is expected in March 2020. Additionally, the District received $11,410 in support from the State of Missouri. The funds received were for the following: $6,647 for the purchase of two-way radios at various branches and $4,763 for the 2019 Summer Reading Program.
+In October, the Library District paid BSR Services Inc. $50,770 for ice and snow removal services for several snow events occurring earlier this year.
+Capital Projects Fund Balance Sheet
+Total Construction in Progress for October 2019 was $927,189. The expenses included payments for:
+	Construction costs for Mid-County - $397,056
+	Demolition, site clearing and grading costs for the Genealogy Library & Administrative Library Building - $207,408
+	Construction costs for Meramec Valley - $196,416
+	Construction costs for Thornhill - $73,060
+	Facilities Master Plan Administrator - $37,725
+	Construction costs for Grand Glaize - $7,752
+The Library Board approved the November 2019 Treasurer's Report subject to audit (Wang/Horwitz).
+DIRECTOR'S REPORT
+Director Kristen Sorth presented the following report.
+Library Update
+	Ms. Sorth stated that the dashboard report for November contains a variety of statistical information about circulation, visits, programming, and PC usage. All of the branches are now open for the first time in over five years.  Circulation is up 25% from this same time last year.  Visits, PC usage, and program attendance all increased in October.  This month the Dashboard focuses on statistics for MOBIUS and Prospector lending.  Since implementation on June 18, 2019, our patrons have checked out 9,254 items. (6,912 books and 2,342 AV items from other participating libraries.) Patrons from other MOBIUS libraries have checked out 7,921 items from St. Louis County Library. DVDs are the most popular items borrowed by patrons from other libraries. Since the start of the service, 2,831 DVDs have been checked out to MOBIUS and Prospector patrons.  (Plan: Maximize Access 2)
+	The Library has forged a multi-faceted partnership with the St. Louis County Justice Center.  Plans are in motion to provide services to individuals that are incarcerated and upon their release. Individuals who spend more than a few days at the County Justice Center will be presented with the opportunity to have a library card issued to them upon their release. Those who grant their permission will receive a library card and information about the numerous services, resources, and programs that are offered by the Library. The Library also established a book loan program with the County Justice Center providing paperbacks and magazines for the enrichment of individuals while incarcerated. Each month, the Library will provide a supply of surplus and donated books. The Library is also exploring opportunities to engage directly with those residing at the County Justice Center as well as the Center’s employees to promote library services. Conversations are happening at the state level to try to engage in similar programs with the Missouri Department of Corrections. (Plan: Maximize Access 1.2)
+	October was TEENtober at the Library. The Library celebrated teens with special programs at all branches and HQ. Activities included laser tag, virtual reality yoga, escape challenges, dancing, poetry and crafts. (Plan: Sense of Community 2.2)
+	The Library’s Winter Reading Challenge kicks off December 1 and and runs through January 31, 2020. Last year, over 26,000 people participated in the club, which offers fun programs and reading opportunities for the whole family. Participants can track their reading online or by using a paper log, available at all branches and HQ. The Winter Reading Challenge offers four categories: ages 0-4, 5-12, 13-17 and 18+. Those who complete the reading challenges will be entered into a prize raffle. Winners will be chosen in each age group. (Plan: Promote Literacy 1.2)
+	The three branches that feature Discovery Zones, Daniel Boone, Florissant Valley, and Meramec Valley, will host Sensory Saturdays for children with special needs. The program will begin in January and will take place from 8:00-9:00 a.m. on the second Saturday of each month. On a typical day, the environment in the children's spaces can be overwhelming for some children.  The Sensory Saturday program will provide a more controlled environment where children can comfortably play, read, and interact with the children's space and collections. (Plan: Sense of Community 2.3)
+	The Library will offer a new program in 2020 in partnership with the non-profit organization, Artists First. The program will be offered at almost every branch and HQ.  Artists First is an inclusive, nonprofit art studio, empowering artists of all abilities. The organization focuses on breaking down stereotypes of youth, veterans and individuals with disabilities while building community relationships by showcasing artwork made at the library in local galleries. (Plan: Sense of Community 2.2)
+	The new partnership with the St. Louis Area Diaper Bank has been very successful. We continue to discuss opportunities to expand the partnership. In particular, we are discussing the placement of Diaper Time is Talk Time posters near the diaper changing tables in Library restrooms.  (Plan: Sense of Community 2.1)
+	Patrons and employees can donate to the Library’s holiday food drive benefitting Operation Food Search. The drive runs from November 1 – December 31, 2019.  Last year, thanks to the generosity of our staff and patrons, the Library collected over 8,400 pounds of food. (Plan: Sense of Community 1.4)
+	The Library is celebrating National Novel Writing Month (NaNoWriMo) in November. All across the country, individuals are taking the challenge to work on writing a novel. The Library is supporting participants with writing workshops and write-ins at several branches this month. (Plan: Promote Literacy 3.4)
+	November is Native American Heritage Month. The Library is celebrating with a series of programs exploring the history and influence of Native Americans in our region, including a “We Are St. Louis” program on November 18 at the Grand Glaize branch. (Plan: Sense of Community 1.1)
+	The Library’s Black History Committee has selected the keynote speaker for the Black History Celebration. Valerie Jarrett will give the Frankie Freeman Lecture on February 7, 2020 at HQ at 7:00 p.m. She served as the Senior Advisor to U.S. President Barack Obama and Assistant to the President for Public Engagement and Intergovernmental affairs from 2009 to 2017.  That evening, the Black History Committee will also present the Frankie Freeman Inspirational Award to Valeda Keys. A two-time breast cancer survivor, Ms. Keys is the founder and executive director of Valeda’s Hope. This organization is dedicated to increasing awareness of breast cancer through education and early detection, providing mammograms and other services for those in need. (Plan: Sense of Community 2.3)
+	There were mentions of the St. Louis County Library in the local media in print, radio and television.  Those articles were shared with the Board. (Plan: Maximize Access 3)
+	We have a number of great photos to show the Board from several programs and events in
+October and November, including:  Author Rachel Ray at HQ, Diwali Mala at Thornhill, Coding 101 Finales at Natural Bridge and Prairie Commons, Local History Expo at HQ, Halloween Story Time and Parade at HQ, Authors Eva Chen and Derek Desierto at HQ, Contemporary Line Dancing at Daniel Boone, and Art History at Sachs. (Plan: Promote Literacy 3.4 and Sense of Community 2.3)
+Library Administrative Updates
+	As Ms. Sorth mentioned last month, for many years, libraries have been charged significantly more for eBook copies than individual customers would pay. In addition, many of these titles are available to libraries with only limited access - after 24 months or after a certain number of checkouts, licenses expire and the copy must be repurchased.  This summer, Macmillan Publishers escalated the struggle over library eBook purchases when they announced an eBook purchasing embargo on libraries. Beginning on November 1, 2019, libraries may purchase only one single copy of each new Macmillan title in eBook format for the first eight weeks after its release. That means that every library, big or small, will be able to offer only one eBook copy of new titles to patrons for two months. Libraries are committed to promoting literacy and a love of reading with diverse collections of materials. Macmillan’s embargo limits libraries’ ability to provide access to information for all.  We have notified Library patrons of the embargo.  In addition, St. Louis County Executive, Dr. Sam Page, has joined other mayors and county executives from the United States and Canada in signing the “Statement on Equitable Public Access to E-Books” from the Urban Libraries Council.  (Plan: Promote Literacy 1.1)
+	On November 14, 2019, Kenya Johnson, Director, Marketing Communications and Events for the University of Arizona University Libraries, and Ms. Sorth gave the keynote address at the Library Marketing Communication Conference to 475 attendees in downtown St. Louis.  Their presentation was entitled, “Seeing Diversity and Inclusivity Differently: Creating New Stories for Everyone.” (Plan: Maximize Access 3)
+	The Library has issued an RFP for security services at six library branches, including Florissant Valley, Lewis & Clark, Natural Bridge, Prairie Commons, Rock Road, and Weber Road. The company that was selected to provide these services by the Library Board in 2018 often struggles to find off-duty St. Louis County Police Officers to fill our schedule. That original RFP only allowed for St. Louis County Officers. This RFP will expand the services to include officers from other accredited police departments within St. Louis County in an effort to meet our scheduling needs. The Library Board will review the responses at the December Library Board Meeting. (Plan: Maximize Access 2.4)
+Library Construction and Facility Update
+	The site plan for the new Eureka Hills Branch was presented by the Library’s architect, Arcturis, to the Eureka Planning and Zoning Commission on October 23, 2019. The plans were unanimously approved. Construction will begin in the second quarter of 2020. (Plan: Maximize Access 2)
+Library Foundation
+	The St. Louis County Library Foundation is currently working on their 2020 budget.
+	The Foundation was recently notified of the following grant awards:
+				Hannibal Arts Council, $1,600 ($400 ea. for WR, EH, JB and CC) for arts programming in 2020.
+				St. Louis Regional Census Fund, $23,833 for Census-related programs, services, marketing and technology.
+Author Events
+ (Plan: Promote Literacy 1.2)
+	B.J. Miller, author of “A Beginner’s Guide to the End,” Thursday, November 21, 2019, 7:00 p.m. Headquarters. Presented by the Medical Arts Series.
+	SOLD OUT! Ticketed Event – Mo Rocca author of “Mobituaries: Great Lives Worth Reliving,” Friday, November 22, 2019, 7:00 p.m., Headquarters.
+OLD BUSINESS
+None
+NEW BUSINESS
+CONSTRUCTION UPDATE
+Steve Hunter, Assistant Director, Operations stated they are in the middle of site work for the new Genealogy Library & Administrative Library. Construction for the new Eureka Hills will begin in 2020. Mr. Hunter showed the renderings.
+LIBRARY BOARD ORGANIZATION
+Per the Library Board’s ByLaws, Officers of the Board were elected to serve until the August 2020 Library Board meeting.
+Johnny Wang was named Vice President of the SLCL Board (Barry/Horowitz).
+Ted Sanditz was named Treasurer (Wang/Horowitz).
+Laura Horowitz was named Secretary (Wang/Sanditz).
+Joan Barry was named a member of the Pension Board (Horowitz/Wang).
+Johnny Wang was named a member of the Pension Board (Sanditz/Barry).
+Ted Sanditz was named a representative for the Foundation Board (Wang/Barry).
+VIDEO SURVEILLANCE SYSTEM POLICY
+Steve Hunter gave the Administration’s recommendation for the Video Surveillance System Policy.
+Mr. Hunter explained that each Library Branch in the district utilizes security cameras. Currently, there is no specific Board-approved policy covering the management of the cameras and the images they record.
+This new policy, which was shared with the Board, was developed with input from Lashly Baer. Among other things, the Video Surveillance System Policy provides guidelines for interaction with law enforcement agencies and for producing and retaining video and still images. The policy identifies and clearly defines and limits the roles and responsibilities of Library Administration and Management.
+The Library Board approved the Video Surveillance System Policy (Wang/Sanditz).
+BRANCH WINDOW CLEANING
+Steve Hunter gave the Administration’s recommendation for Branch Window Cleaning services for all library locations.
+Mr. Hunter said on October 15, 2019, Library Administration issued an IFB for twice-annual Window Cleaning at all branch locations. Bids were sent to twelve known service providers in the area including the three MBE/WBE firms listed in the directory of the Missouri Office of Equal Opportunity. The bid was posted on our website and an advertisement was placed in the St. Louis American. Responses were due October 24, 2019. Two firms responded.
+American National Skyline is the incumbent provider of window cleaning services. Their bid maintains the price that was offered for their current three-year contract. Administration has been satisfied with the quality of their work.
+The  Library Board selected American National Skyline to provide window cleaning services to the Library District for all 20 branches for the amount of $7,630 per year, and authorized the Director to enter into and execute a 3-year contract to that effect (Barry/Wang).
+2020 DRAFT LIBRARY BUDGET
+Kris Mooney and Kristen Sorth presented the draft budget for 2020. The 2020 Budget document was prepared and approved by the Budget Committee consisting of the following individuals:
+Kristen Sorth – Director
+Eric Button – Deputy Director
+Barbara Turkington - Assistant Director, Advancement
+Gib Van Cleve – Assistant Director, ITS
+Kris Mooney –Assistant Director, Administration
+  Steve Hunter – Assistant Director, Operations
+The 2020 Budget document was presented to the Board. The Library Budget is a spending guideline for the upcoming year. Projects discussed in the Budget document will be individually presented to the Library Board for review and approval during 2020 as outlined in the Library Board’s By-Laws. The Budget Revision is presented to the Library Board in September.
+The Library Board of Trustees set the 2019 tax rates at $0.212 for Residential assessments, $0.219 for Agricultural assessments, $0.243 for Commercial assessments and $ 0.225 for
+Personal Property assessments. These rates will provide 96% of the cash income to operate in
+2020. The Executive Summary on page 2 and the Revenue and Expenses on page 4 - 8 are a synopsis of the proposed 2020 Budget. The 2020 Budget has a deficit of $5.1 million.
+The 2020 Budget is an informational item for this month in order to give the Library Board of Trustees time to review the document and ask questions. The Budget Committee requested to receive questions from the Board by December 6 so they can respond accordingly before the December Library Board Meeting. The Library Board of Trustees will vote on the 2020 Library Budget at the December Meeting.  That vote will allow the Library to operate in 2020.
+EXECUTIVE SESSION
+Motion to adjourn open meeting and to convene Executive Session to discuss legal matters (Section 610.021(1)) (Barry/Wang).
+The meeting adjourned at 4:45 p.m.
+Respectfully,
+______________________________                        ________________
+Laura Horwitz                                                             Date
+Secretary

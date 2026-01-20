@@ -1,0 +1,205 @@
+{
+  "name": "Regular Meeting",
+  "description": "",
+  "unique": "CYRU8W7AD534",
+  "date": "2024-08-19T00:00:00Z"
+}
+
+---
+
+ST. LOUIS COUNTY LIBRARY DISTRICT
+MEETING OF THE BOARD
+CLARK FAMILY BRANCH
+MONDAY, AUGUST 19, 2024
+The monthly meeting of the Board of the St. Louis County Library District was held at Clark Family Branch, 1640 S. Lindbergh Blvd., St. Louis, MO 63131 on Monday, August 19, 2024 at 3:30 p.m. The agenda had been posted in all branches of the Library District at least 24 hours before the meeting.
+ATTENDANCE:
+Library Board Members:
+Dr. Lynn Beckwith, President
+Johnny Wang, Vice President
+Joan Barry, Secretary
+Ted Sanditz, Treasurer
+Deborah Patterson, Member
+ADMINISTRATORS AND GUESTS ATTENDING:
+Kristen Sorth, Library Director & CEO; Eric Button, Deputy Director; Laura Taylor, CFO; Gib Van Cleve, Assistant Director, ITS; Attorney Lisa Stump, Lashly Baer; and Desiree Whitlock, St. Louis County.
+OTHERS ATTENDING:
+Annie Fuller, Stephanie Nordmann, Andrea Carter, Katie Keeven, Miriam Whatley, D.J. Mays, Will LaChance, Chris Goodman, Rachel Dippel, Kat VanArsdale, Alaina Culbertson, Stacy Berger, Deanna Davis, Nikole Brown, Ja’Mel McCaine, Brent Trout, Anna Schurk, Renny Canaday, Adeline Chow, Carrie Robb, Sarah Wood, Lisa Haddox, Kelli Reeves, Mary Arnhart, Dany Nenninger, Amy Hanaway, Kim Ford, Anne Bradley, Becky Maue and Sandy Williams.
+MINUTES
+The Library Board approved the July 15, 2024 Library Board minutes (Barry/Wang).
+ADJOURN FOR TAX HEARING
+The regular meeting was adjourned to convene the tax hearing.
+TAX HEARING
+The tax hearing began at 3:30 p.m.
+Dr. Beckwith asked if anyone had any statement to make regarding the tax hearing. No one came forward to speak to the Board.
+Laura Taylor, Library CFO reported the following information.
+Missouri State Statute requires that a public hearing be held prior to the Library Board setting the 2024 tax rates. The four subclasses of property are residential, agricultural, commercial, and personal property. As in prior years, the required legal notice must be published in one newspaper or in a minimum of three branch locations at least seven days prior to the date of the hearing. The attached notice appeared at all the branches on August 9, 2024.
+The tax hearing gives the public the opportunity to present their comments about the Library’s
+tax rates. The agenda for the meeting is attached.
+The setting of the 2024 tax rates will take place at the September Library Board meeting.
+Updated post Board of Equalization assessments for 2024 will be used to set the tax rates and
+will be available in September. Tax rates must be set prior to October 1, 2024.
+This was an informational session.
+ADJOURN TAX HEARING
+Motion was made to adjourn the tax hearing and resume regular meeting. (Patterson/Wang)
+PUBLIC COMMENTS
+There was no one to speak before the board.
+TREASURER'S REPORT
+Laura Taylor, CFO, presented the report.
+Maintenance and Operating Fund Financial Statements:
+Revenue (page 2)
+	District Taxes - The total tax revenue for 2024 is $63.1 million which is 99% of the total budget of $63.9 million. The District will continue to receive tax revenue throughout the year.
+	Other Gifts & Contributions-Restricted - In July, the Library District recognized $1,632,705 in Other Gifts & Contributions-Restricted. Of this amount, $917,277 was received from the Foundation and $715,428 from the Center for Family History (CFH), which is a separate fund, as capital transfers for the Clark Family Branch. This branch opened to the public on July 9.
+Expense (pages 3-5)
+	Collection Processing Services - In July, the Library District incurred a total of $86,946 in Collection Processing Services. This entire amount was paid to OCLC, Inc. for cataloging access and metadata subscriptions through June 2025.
+	Grant Fulfillment Expense - In July, the Library District incurred a total of $101,640 in Grant Fulfillment Expense. Of this amount, $46,990 was for upgrading credit card payment terminals, $30,718 for June social worker services, and $12,205 for a virtual reality classroom kit.
+	Capital Improvements - In July, the Library District incurred a total of $2,789,670 in Capital Improvements. Of this amount, $2,420,438 was paid to Interior Construction Services for June services and $209,432 to Modern Business Interiors for shelving at the Clark Family Branch.
+The Library Board approved the August 19, 2024 Treasurer's Report subject to audit (Sanditz/Patterson).
+DIRECTOR AND CEO'S REPORT
+Ms. Sorth delivered the attached Dashboard report for July.
+	Circulation in July reached 1,000,335. This is the first time since January 2022 that SLCL monthly circulation topped 1 million.  The total circulation is 3% higher than total circulation in July 2023.  Children’s print material made up the highest percentage of circulation with 32% of the total. eMedia made up 30% of total circulation, while adult print material made up 22%.  MOBIUS service resumed after the system migrated to a new lending software on July 12.  Ms. Sorth said library patrons have checked out 1,013 MOBIUS items since service resumed.  The Dashboard includes a chart that shows the daily July visits at the four regional branches. It illustrates the significant daily usage of the Clark Family Branch.  In total, 43,278 patrons visited the Clark Family Branch between July 9 and 31. Of those, 10,120 patrons also visited the History and Genealogy department.
+July also saw an 11% increase in PC usage and a 15% increase in Wifi usage over July 2023.  The Clark Family Branch hosted 2,979 PC sessions and 3,090 wifi sessions, which contributed significantly to the increase. In July 2024, 6,278 patrons registered for a library card. Total circulation for only patrons registered in July 2024 totaled 15,887.  At the Clark Family Branch, 1,353 patrons registered for a Library card in July. The branch with the second highest number of Library card registrations was Daniel Boone with 373.  (Plan: Promote Literacy 1a, 3b, Sense of Community 1b, 2a, 3a, Increase Access 1c)
+	The Library will once again hold a diaper drive to support our partner, the St. Louis Area Diaper Bank.  Diapers may be donated at any Library location throughout the month of September. (Plan: Sense of Community 3a)
+	Ms. Sorth reported that St. Louis County Library is partnering with the St. Louis County Department of Public Health on its C-PODs initiative. C-PODs are Commodity Points of Dispensing.  In the event of local or regional disasters, such as flood, fires, earthquakes, etc., C-PODs will be placed where residents can acquire commodities such as food, water, batteries, blankets, and other items needed in response to the emergency.  Several, if not all, Library branches will be registered as C-PODs.  The Library will not store commodities, nor will the Library procure the commodities. Instead our locations will be mobilized in the days immediately following an event and residents would access the commodities at Library branches and other locations.  The Health Department will recruit a separate team of commodity suppliers, such as grocery stores. (Plan: Sense of Community 3a, 3c, Increase Access 1c)
+	The History & Genealogy Department (H&G) was open for 23 days in July and welcomed 9,603 persons over the 23 days resulting in a 58.6% increase in in-person transactions.  The Memory Lab rooms hosted 159 visitors. The three Epson fast scanners, scanned 16,935 total images in the digitizing room.  H&G materials usage increased 3389% from 2023 with the opening of the Clark Family Branch. (Plan: Promote Literacy  2d, 3b, 3d, Increase Access 1a)
+	H&G offered tours to the St. Louis Genealogical Society on July 31 at three separate sessions to introduce genealogy society members to the new facility. (Plan: Sense of Community 2d, Increase Access 1a, 2c).
+	Genealogy University will return in September through November. This will run in conjunction with Family History Month programming in October.  Graduates of the program will receive a free My Heritage DNA kit upon completion. (Plan: Promote Literacy 2d, 3b, 3d) Deborah Patterson asked if there was a capacity for of the Genealogy University. Brent Trout, History and Genealogy Manager, responded.
+	H&G has published a monthly newsletter for Library patrons since 2008 called PastPorts. Each month includes a feature article written by an H&G employee, as well as highlights from collections and activities of the department. The August 2024 edition focused on introducing readers to the new Emerson History & Genealogy Center.  The issue contains maps of the facility, information on where materials are located, as well as highlights of new features including the Memory Lab and available equipment. (Plan: Promote Literacy 3b, 3d, Sense of Community 2d, 3c, Increase Access 2c)
+	Ms. Sorth reported that the Creative Lab had a total of 7,147 visitors in July. The employees printed 122 3D prints and 14 large format prints for patrons and provided 17 recording room orientations, conducted 12 Book A Maker (BAM) sessions, and the game lounge entertained 228 guests. The Lab had 550 public computer sessions.  Programming began in August with the following topics:
+	Decorative Skateboard Design The St. Louis County Library is thrilled to introduce a groundbreaking initiative, "Skateboard Artistry," aimed at merging creativity, innovation, and community engagement. This program invites teens to explore the intersection of art and skateboarding through the creation of custom decorative skateboards. Leveraging the cutting-edge technology of the Glowforge laser cutter, participants will embark on an exciting journey of design and craftsmanship.
+	Celebrate National Coloring Book Day Stop by the Creative Lab and color on large coloring sheets!
+	Anime Club Watch and discuss your favorite anime and manga series with other fans!
+	Basic Photo Editing in Photoshop Learn the basics of editing different types of photos in Adobe Photoshop.
+	Create A Magic: The Gathering Custom Card Use Photoshop to create a custom MTG card! Make a card of your favorite character or yourself.
+	Intro to OBS - Part 1: Getting to Know OBS Have you ever wanted to get into live streaming, but can’t figure out the technical details? We’ve got you covered! In Part 1 of this Introduction to OBS series, we'll take you through the basic layout of the software, as well as adding basic sources like webcams, microphones, and images/overlays.
+	Customized Night Light with Cricut at Creative Lab Utilize Cricut and vinyl to customize your own nightlight with fun shapes or your own text. (Plan: Promote Literacy 2d, 3a, 3b, 3d, Sense of Community 3b, Increase Access 1a)
+	The Virtual Meeting Space at Clark Family is equipped with a Chromebook, laptop stand, wireless mouse, headset, speaker, and microphone. It serves as an ideal space for job interviews, and client meetings. Patrons have used the room for educational tutorial recordings and YouTube video productions as well. They have expressed great enthusiasm for the availability of such a space. A total of 24 visitors have used the room during July. The room can be reserved online up to 30 days in advance, for two-hour sessions, with a limit of two bookings per week. (Plan: Promote Literacy 3b, 3c, Sense of Community 3c, Increase Access 1a, 1c)
+	The Business Workspaces at Clark Family, cater to entrepreneurs for various business needs. These rooms can also be reserved online up to 30 days in advance, for two-hour sessions, with a limit of two bookings per week. Walk-ins are welcomed when the rooms are not pre-booked. In July there were 122 bookings, mostly for 1-2 people, with occasional groups of 4-5. (Plan: Promote Literacy 3b, 3c, Sense of Community 3a, 3c, Increase Access 1a, 1c)
+	The School Bookmobiles completed summer service in mid-July and visited 25 schools. Bookmobile employees assisted 9,861 patrons who checked out 22,071 items. The 2024-2025 School Bookmobile Service year begins on Monday August 26, 2024 and will conclude on May 23, 2025.  Sixty schools will receive a monthly visit. (Plan: Promote Literacy 1a, 2a, 3d, Sense of Community 2a, 3c, Increase Access 1c)
+	She said the Library and Operation Food Search are partnering to provide after school meals to children at four branches starting August 19, 2024. Meals are offered at Lewis & Clark, Natural Bridge, Prairie Commons and Weber Road. Participating branches will serve a healthy, light meal along with activities for kids and teens Monday–Friday during the school year. (Plan: Sense of Community 1b, 3a, 3b, 3c, Increase Access 1c)
+	Senior bookmobile employees and the school bookmobile employees hosted the grant-funded Robot Lab Virtual Reality (VR) Expeditions program at 20 older adult oriented locations. They served over 200 senior van patrons as well as patrons at an adult daycare center that expressed interest in the program. The patrons overwhelmingly enjoyed the VR program headsets. The expeditions on the VR sets had a myriad of available sessions to explore that included birds, monuments, galaxies, countries, and bodies of water. (Plan: Promote Literacy 2d, 3b, Sense of Community 2a)
+	Starting on August 1, the St. Louis Symphony Orchestra (SLSO) is partnering with the Library to offer another round of vouchers for patrons to receive free tickets to concerts.  Each month patrons can see the available shows on the SLSO redemption site for the next two months. (Plan: Promote Literacy 3d, Sense of Community 3a, 3c)
+	The Library and the St. Louis Fashion Fund partnered to host an exclusive premiere of the Diane Von Furstenberg documentary on July 23rd at Clark Family.  Over 300 people attended the fantastic event which included a red carpet and reception. (Plan: Promote Literacy 3d, Sense of Community 3a, 3c, Increase Access 1a, 1c, 2a) Ms. Sorth showed pictures from the Fashion Fund event.
+	The Library’s annual online adult high school graduation ceremony will be held on Saturday, September 28th, at 6:00 pm at the Clark Family Branch. We are thrilled to celebrate our graduates and enjoy Dr. Lynn Beckwith's keynote address. (Plan: Promote Literacy 3a, 3d, Sense of Community 3c)
+	Ms. Sorth reported that over 530 people recently attended Backstage Pass: Introducing The Rep’s New Studio Season featuring immersive and entertaining sneak peeks of the upcoming mainstage and studio productions. The new Post Event Space provided a lovely stage, lighting and sound for the event. The Rep received orders for 300 new subscriptions on the launch day of the Steve Woolf Studio Series, the day following the Backstage Pass event. That's about 200 more than in past years, thanks in part to the big event.  We look forward to many more successful collaborations in the future with The Rep, such as the upcoming shuttles to The Rep from Florissant Valley Branch on Sunday afternoons and Your Stories on Stage during the St. Louis Storytelling Festival. (Plan: Promote Literacy 3d, Sense of Community 3a, 3c) She showed pictures from the Backstage Pass event.
+	On Friday, August 30th, Adult Services will host our 2nd annual Hip Hop Block Party in partnership with the City of Florissant.  The Library hosted over 2,000 people at the Hip Hop Block Party in 2023 as part of the 50th anniversary of hip hop partnership with Saint Louis Art Museum. This year's block party will offer live DJs, the Bubble Bus, food trucks, yard games, and a graffiti wall at Bangert Park next to the Florissant Valley Branch. (Plan: Promote Literacy 3d, Sense of Community 1a, 1b, 3a, 3c, Increase Access 1b)
+	Adult Services is kicking off the Fall into Fitness challenge with Bike the Branches on Saturday, October 5th from 10:00 am -1:00 pm. Patrons will ride their bikes on the 3.6 miles of Greenway between the Oak Bend and Grant's View Branches, which should take about 20 minutes, and stop for prizes at The Sappington House and Ulysses S. Grant National Historic Site. The Library will offer drop-in stretching sessions, bike maintenance classes with Trailnet, swag from Great Rivers Greenway, plus youth activities, and snacks. (Plan: Promote Literacy 3d, Sense of Community 3c, Increase Access 1b)
+	The LEGO Event took place at the Post Event Center on Friday, August 16 in the evening. She reported there were 531 of enthusiastic kids, teens and adults that came to Clark Family to partake in various activities, see the displays by Gateway LEGO Users Group and create their very own minifigures. (Plan: Promote Literacy 3d, Sense of Community 3b, 3c, Increase Access 1a, 1c)
+	We continue to provide vital services to the region shown on the chart below. (Plan: Sense of Community 3a, 3b, 3c, Increase Access 1, 1c)
+Service Stats 2021 to Current:
+Service Stats 2024 only:
+	Ms. Sorth mentioned the St. Louis County Library has been in the local media in print, radio and television.  Those articles are attached. (Plan: Increase Access 2)
+	Pictures were shown from various events and programs that have taken place over the last two months: Taylor Swift Happy Hour at Sachs, Pop Up Play with the Magic House at Sachs, Gaming @ the Library at Clark Family, Eye Thrive Visit at Lewis & Clark, author Victor Lukerson at Clark Family, Pizza Friday at Lewis & Clark, Design a Bookmobile at Clark Family, Harry Potter Adventure at Weber Road, author Rainbow Rowell at Clark Family, Taste of India at Thornhill. (Plan: Promote Literacy 1b, 1c, 3d; Sense of Community 1b, 3b, 3c)
+Impact Stories
+	“I am so grateful for the SLCL partnership with social workers through Epworth. We had an instance today where a gentleman was released from the hospital and sent to the Daniel Boone Branch in a cab. He did not have housing, his own clothing (still wearing hospital scrubs) or access to any resources. Laura got in touch with Katie Lappe, who was able to arrange for him to get a bed at a shelter in the city for the night. Katie even arranged for an Uber to transport him from the branch. It’s still a sad and distressing situation, but knowing he will have access to a roof, food, and social workers to help him figure out a better solution for a living situation is the best possible outcome today. It's amazing Katie was able to navigate the system so quickly to find a spot for him on the same day. I'm so grateful for this partnership and the network of resources it gives us access to as library staff who interface with members of the public and their myriad situations.” (Plan: Sense of Community 1a, 1b, 3a, 3c, Increase Access 1c)
+	 “Kristen - I learned today that you all are providing space to us to hold one of our author events for the Jewish Book Festival this Fall in the new library space. This is truly wonderful and I just want to express our deep gratitude and appreciation for continuing to collaborate with us now that the library renovation is completed.  It means so much as a community organization to partner with likeminded institutions to help make an impact in the community. We don’t take this for granted. THANK YOU!  Blessings, Rabbi Brad.” (Plan: Promote Literacy 1c, Sense of Community 1a, 3a)
+	“While requesting manga holds, two 7th graders chatted with me about all the reasons they love the library: activities, ordering any book or game they want, getting pickleball supplies, visiting pretty buildings, spending time in the teen areas, etc. They also asked questions about working for the library (someday) and volunteer opportunities for teens.” (Plan: Promote Literacy 1a, 1b, 2b, 3d, Sense of Community 1a, 3b, Increase Access 2c)
+	"Thank you, you have saved my life today" – from a patron who spoke minimal English and was very appreciative that we were patient and helpful with him while making copies of important documents.
+	Patron told me a story about how her eldest daughter with autism won the design a bookmark contest several years back and it inspired her love of art and now she has a Masters degree and works for COCA. Her youngest daughter who also has autism wants to follow in her sisters footsteps and is going to try and get her design printed this year too!  (Plan: Promote Literacy 2c, 3b, Sense of Community 1a, 3b)
+Library Administrative Updates
+Ms. Sorth shared that this was Sandy Williams’ last Library Board Meeting.  She expressed how much we are going to miss her and gave her Top 5 things she loves about Sandy. Kristen said we will be celebrating Sandy on August 29th at 3:00 at the Beck but we also wanted to celebrate her here as well. All of the Board members spoke about her kindness, dedication, patience and her helpfulness over the years.
+	The Holiday Schedule for 2025 is attached.  The list of holidays was approved by the Library Board for inclusion in the Personnel Manual. (Plan: Sense of Community 1c)
+	The St. Louis Cardinals again donated tickets for Library employees to enjoy a Cardinals Game. They gave us 300 tickets for each game on August 6, 7 and 8. (Plan: Sense of Community 1c, 3a)
+	Ms. Sorth reported that the Employee Engagement Committee (EEC) is finalizing plans for Employee Engagement Week and Day. Engagement Week (October 7-12) will include daily activities and communications to all employees. (Plan: Sense of Community 1c, 1d)
+	The entire Library District will be closed to the public on Employee Engagement Day, October 14th.  The day will include three breakout sessions, guest speakers and other activities for employees to learn and connect with one another. (Plan: Sense of Community 1c, 1d, Increase Access 1c)
+	In July, Jennifer Gibson visited every branch and department to build awareness of the DEIB Council and encourage interested employees to apply. (Plan: Sense of Community 1b, 1c, 1d)
+	The Communications Department is setting up meetings with the bookmobile sponsors to start talking about launch events in the fall.  The first three bookmobiles are currently in the fabrication stage but are nearing completion.  We expect delivery in September/October and then the bookmobiles will be “wrapped” with the design. (Plan: Promote Literacy 1a, 2a, Sense of Community 1a, 2a, 3a, Increase Access 2a)
+Library Construction and Facility Update
+	The Board approved increasing the Library’s branch Wi-Fi circuits from 200 Mbps to 600 Mbps at the February Board meeting.  Charter has completed the upgrade of their cable modems and the upgraded circuits are now in place at all branches.  IT has reconfigured the Library’s wireless access points so that patrons and staff can take advantage of the increased Wi-Fi service. (Plan: Promote Literacy 3b)
+	Ms. Sorth said the carpet replacement projects are almost complete.  These projects included new entry walk-off carpet at Oak Bend, Cliff Cave, Jamestown Bluffs, Prairie Commons, and Rock Road, which allowed for the removal of the security gates from these locations.  It also included new carpet in the study rooms and a portion of the children’s area at Cliff Cave, Prairie Commons, and Daniel Boone; the teen area at Rock Road; and the meeting rooms at Jamestown Bluffs.  She reported the new tile was installed in the central walkway at Jamestown Bluffs, and new carpet and tile were installed throughout the majority of the Parkview Branch.  The only carpet left to install under this contract will be in the computer lab at Rock Road.  The new carpet and tile was needed due to staining on the existing carpets.  Darker carpets are being installed in all of these areas. (Plan: Increase Access 1)
+	Florissant Valley experienced HVAC issues last week due to a power surge or a short in the system.  This required the early closure of the branch on Monday, August 5th.  Building Systems employees were able to find a temporary fix to the system, which allowed the building to reopen early to the public for voting on Tuesday, August 6th and remain open for the entire day.  The final repairs to the system were made later in the week once the parts became available and there was time to reprogram the system. (Plan: Increase Access 1c)
+	On July 16, the St. Louis metro area experienced heavy rains which caused flash flooding.  Up to 8 inches of rain fell in some areas.  Library branches had minimal damage.  Only a few leaks were noticed, including one in the Lewis & Clark quiet room.  Building Systems is working with local roofing contractors to find and repair these issues. (Plan: Increase Access 1c)
+	On July 20th, Grant’s View staff was alerted that someone had driven into the side of the building. The car went through the brick wall and created an opening to the library's mechanical room.  A board-up service was called out to create a temporary repair of the opening.  This will keep moisture out of the building until the final repairs can be made.  The Library is working with the insurance companies to proceed with these repairs. (Plan: Increase Access 1c)
+Library Foundation
+	The Foundation received the following grant.
+		 $24,433 grant from the Missouri Arts Council to support the Storytelling Festival. (Plan: Promote Literacy 3d, Sense of Community 1b, 3c)
+	The Library and the Foundation will be represented at the Great Forest Park Balloon Race from September 20 – 21, 2024.  Post Holdings has graciously donated their space so that we can promote the Library and the Foundation. (Plan: Sense of Community 2b, 2c)
+Author Events (Plan: Promote Literacy 1c)
+Ms. Sorth said the author events in the new Post Event Space at Clark Family Branch continue to draw record-breaking crowds. Since opening on June 1, we have hosted 34 programs and welcomed over 9,200 patrons.  In most cases, we are the biggest stop on the visiting author’s tour.
+Upcoming event highlights include ticketed events with bestselling novelists Nicholas Sparks and Jodi Picoult, actor and children’s book author Max Greenfield, and actor Riley Keough, daughter of Lisa Marie Presley.
+Author Events for August and September 2024
+	Thomas Fuller, author of “The Boys of Riverside: A Deaf Football Team and a Quest for Glory,” Monday, August 19, 2024, 7:00 p.m.-9:00 p.m., Clark Family Branch.
+	Reed Farrel Coleman, author of “Blind to Midnight,” Wednesday, August 21, 2024, 7:00 p.m.-9:00 p.m., Clark Family Branch.
+	David Wroblewski, author of “Familiaris,” Monday, August 26, 2024, 7:00 p.m.-9:00 p.m., Clark Family Branch.
+	Ticketed Event: Jodi Picoult, author of “By Any Other Name,” Wednesday, September 4, 2024, 7:00 p.m.-9:00 p.m., Blanche M. Touhill Performing Arts Center.
+	Sharon Draper, author of “Out of My Dreams,” Wednesday, September 4, 2024, 6:30 p.m.-8:30 p.m., Clark Family Branch.
+	Ticketed Event: Max Greenfield, author of “Good Night Thoughts,” Thursday, September 5, 2024, 6:30 p.m.-8:30 p.m., Clark Family Branch.
+	Middle Grade Reads with authors James Ponti, Natalie Lloyd and Soman Chainani, Tuesday, September 10, 6:30 p.m.-8:30 p.m., Clark Family Branch.
+	Alison Gaylin, author of “Robert B. Parker’s Buzz Kill,” Wednesday, September 11, 2024, 7:00 p.m.-9:00 p.m., Clark Family Branch.
+	Marty Makary, MD, author of “Blind Spots: When Medicine Gets it Wrong and What it Means for Our Health,” Thursday, September 12, 2024, 7:00 p.m.-9:00 p.m., Clark Family Branch.
+	Ticketed Event: TJ Klune, author of “Somewhere Beyond the Sea,” Saturday, September 14, 2024, 7:00 p.m.-9:00 p.m., Clark Family Branch.
+	H. W. Brands, author of “America First: Roosevelt vs. Lindbergh in the Shadow of War,” Sunday, September 22, 2024, 4:00 p.m.-6:00 p.m., Clark Family Branch.
+	Martin Walker, author of “A Grave in the Woods: A Bruno, Chief of Police Mystery,” Thursday, September 27, 2024, 7:00 p.m.-9:00 p.m., Clark Family Branch.
+	Ticketed Event: Nicholas Sparks, author of “Counting Miracles,” Friday, September 27, 2024, 7:00 p.m.-9:00 p.m., Clark Family Branch.
+Materials Reconsideration Actions
+Date Submitted            Item                                        Decision of Committee
+7/23/2024                     Flamer                                     Retained in collection
+Mr. Beckwith asked if anyone had questions. Mr. Sanditz asked what percentage of residents have library cards around the branches. Mr. Sanditz said it would be a great to see opportunities for growth. Ms. Sorth said she could put that into a dashboard and present it next month. Dr. Beckwith also commented that we need a clock in the meeting space.
+OLD BUSINESS
+None
+NEW BUSINESS
+PRESENTATION BY THE HISTORY AND GENEALOGY DEPARTMENT
+Brent Trout, History and Genealogy Manager, presented about the Digital Archives. He gave a background on the project and showed the items that were digitized. He explained the reason behind doing this project was to break down barriers and to increase the accessibility of the collection. Brent reported they have had 2,600 total users. In the future, they would like to expand the yearbook collection, preserve items that are at risk, partner with smaller libraries, and collect stories that people have about SLCL to collect our own history. Deborah Patterson and Dr. Beckwith asked follow-up questions about the earlier African American newspapers and Stowe Teachers College yearbooks.
+LEGAL COUNSEL ENGAGEMENT LETTER
+Kristen Sorth, Director and CEO, presented the following.
+The St. Louis County Library’s engagement agreement with legal counsel, Lashly & Baer, P.C., has not been updated since March of 2022.  The attached letter from Library Board attorney, Lisa Stump, outlines changes to the standard engagement letter issued by the firm.
+The current blended hourly rate for St. Louis County Library is $210.  Lashly is proposing a change in the rate structure to be effective October 1, 2024.  In this new structure, different rates will be applied based on the experience level of the attorney at the law firm who is working on the matter. Lashly has also included a separate rate for paralegals.
+The rate per hour for shareholders and “of counsel” attorneys will increase to $245.  The rate per hour for associates will decrease to $205 and the rate per hour for all paralegals providing services to the Library will be $130.  In addition, the hourly rates for all three levels, shareholder, associate and paralegal, will increase $5 per hour annually starting on January 1, 2026.
+The Library Administration recommends approval of the attached engagement letter from Lashly & Baer which includes a change in the rate structure as follows. The rate per hour for shareholders and “of counsel” attorneys is $245. The rate per hour for associates is $205 and the rate per hour for all paralegals is $130. In addition, the hourly rates for all three levels, shareholder, associate and paralegal, will increase $5 per hour annually starting on January 1, 2026. The Library Board approved (Patterson/Wang).
+DIVERSITY, EQUITY, INCLUSION AND BELONGING TRAINING FOR EMPLOYEES
+Kristen Sorth, Director and CEO, presented the following.
+On June 24, 2024, Library Administration issued a Request for Qualifications (RFQ) for Diversity, Equity, Inclusion, and Belonging (DEIB) Training Services for a three-year contract to provide DEIB training for Library employees, including annual training plus additional topics as needed. The RFQ was posted on the SLCL website and directly emailed to five local firms that provide these services and identify as Minority- and/or Women-owned Business Enterprises (MBE/WBE). Eight firms responded by the due date of July 24, 2024.
+A selection committee consisting of Kristen Sorth, Jennifer Gibson (Assistant Director, Strategic Initiatives), and Mary Arnhart (Manager, Human Resources) individually reviewed the responses. Based on the selection committee’s consolidated rankings, the top three responses were from Hicks Carter Hicks, UPD Consulting, and Anavo Strategies.
+			Firm
+			Annual training for all employees & managers/leadership
+			Additional training
+			Hicks Carter Hicks
+			$47,200
+			$1,800 per 25-person 3-hour session
+			UPD Consulting
+			$99,400
+			$14,800 per 30 person 6-hour session
+			Anavo Strategies
+			$136,950 (no price breakdown available)
+After opening and reviewing the sealed fee proposals, it was determined that Hicks Carter Hicks submitted the best and lowest proposal. Hicks Carter Hicks has performed DEIB services for SLCL in the form of Community Conversations in 2021 and an internal audit in 2022 and we have been satisfied with their work.
+The Library Administration recommends that the Library Board select Hicks Carter Hicks to provide DEIB Training services for employees over a three-year period and that it authorize the Director & CEO to enter into and execute a contract to that effect. The Library Board approved (Barry/Wang).
+Dr. Beckwith did ask for further information on what the additional training would cost.
+LIBRARY BOARD MEETING DATES – 2025
+Kristen Sorth, Director and CEO, presented the following.
+The Library Board approves meeting dates for the subsequent year each August.
+Library Board                                   Pension Board
+*January 27                                         January 27
+**February 18- Tuesday                     April 21
+March– No meeting                            July 21
+April 21                                               October 20
+May 19
+June 16
+July 21
+August 18
+September 15
+October 20
+November 17
+December 15
+Unless otherwise stated, all meetings will be held at Clark Family Branch and will start at 3:30 p.m. The Tax Hearing is generally held in August each year. The Pension Board is scheduled to meet at 2:45 p.m. unless otherwise noted.
+The Library Administration recommends approval of the 2025 Board meeting dates and locations as presented. The Board approved (Wang/Barry).
+LIBRARY BOARD ORGANIZATION
+Kristen Sorth, Director and CEO, presented the following.
+The Library Board’s ByLaws Article 1, Section 5 states as follows: “The officers of the Board of Trustees shall be a President, Vice-President, Secretary and Treasurer who shall be elected annually at the August meeting of the Board and shall hold office for a period of one year.”
+The current officers and members of the Board are as follows:
+President                     Lynn Beckwith, Jr.
+Vice-President             Johnny Wang
+Secretary                     Joan Barry
+Treasurer                     Ted Sanditz
+Member                       Deborah Patterson
+Ms. Sorth turned it over to Dr. Beckwith. He spoke of his time on the Board since he was first appointed in 2007 and said he has been President since 2010. He explained with his appointment up in May 2025 he feels this is a good time for someone else to run for President.
+Dr. Beckwith opened the nomination for President.
+Motion by Deborah Patterson for Johnny Wang to be President, seconded by Ted Sanditz (Motion approved).
+Motion by Joan Barry for Deborah Patterson to be Vice President, seconded by Johnny Wang (Motion approved).
+Motion by Dr. Beckwith for Joan Barry to be Secretary, seconded by Ted Sanditz (Motion approved).
+Motion by Deborah Patterson for Ted Sanditz to be Treasurer, seconded by Joan Barry (Motion approved).
+Kristen Sorth gave her Top 5 List for things she loves about Dr. Beckwith. Johnny Wang expressed his sincerest thanks for his service and everything he has accomplished with the Your Library Renewed project. Deborah Patterson said it has been an honor and privilege to work with him and how much he cares for the community. Joan Barry spoke of how helpful and how much he has cared about all of them. Ted Sanditz talked of how much he has learned from him and how the word dignity comes to mind when he thinks of him. Dr. Beckwith spoke about how the library has been a part of his life from an early age and how it developed his love of reading. Libraries had an impact on his life and it does for so many people in the community.
+ADJOURN FOR EXECUTIVE SESSION
+Deborah Patterson made a motion to adjourn the open meeting and to convene Executive Session to discuss legal and personnel matters (Section 610.021)(1), (3) and (13)). A seconded was made by Ted Sanditz. All approved with voice vote. Aye: Lynn Beckwith, Ted Sanditz, Joan Barry, Johnny Wang, Deborah Patterson.
+Meeting adjourned at 4:47 p.m.
+Respectfully submitted by,
+______________________________________                    ___________________________
+Joan Barry                                                                     Date
+Secretary

@@ -1,0 +1,134 @@
+{
+  "name": "Regular Meeting",
+  "description": "Library Board",
+  "unique": "AHPPZ4621527",
+  "date": "2017-09-25T00:00:00Z"
+}
+
+---
+
+ST. LOUIS COUNTY LIBRARY DISTRICT
+MEETING OF THE BOARD
+HEADQUARTERS
+1640 SOUTH LINDBERGH BLVD.
+MONDAY, SEPTEMBER 25, 2017
+The monthly meeting of the Board of the St. Louis County Library District was held at the Headquarters Branch, 1640 South Lindbergh Blvd., St. Louis, MO 63131 on Monday, September 25, 2017 at 3:30 p.m. The agenda had been posted in all branches of the Library District at least 24 hours before the meeting.
+ATTENDANCE:
+Library Board Members:
+Dr. Lynn Beckwith, President
+Michael Mulligan, Vice President
+Elena Kenyon, Treasurer
+Dr. Chingling Tai, Secretary
+Edith Cunnane, Member via telephone
+ADMINISTRATORS AND GUESTS ATTENDING:
+Kristen Sorth, Library Director; Eric Button, Deputy Director; Barbara Turkington, Assistant Director, Advancement; Kris Mooney, Assistant Director, Administration; Gib Van Cleve, Assistant Director, ITS;  Steve Hunter, Assistant Director, Operations; Lisa Stump, Attorney, Lashly & Baer; Joe Meyer, Lockton; and Tom Curran, St. Louis County.
+OTHERS ATTENDING:
+Erin Magner, Anna Schurk, Lisa Haddox, Mary Meyer, Anna Gonzalez,  Rachel Nowell, Conrad Rader, Stephanie Nordmann, Anne Arthur, Stacey Lewis, Terra Sleep, Amy Hanaway, Barb Reale, Kelli Reeves, Sarah Brown, Scott Holl, Alaina Culbertson, Jennifer Gibson, Cheri Remington, Ricqui Brooks, Donna Spaulding, Natalia Catlett, Michelle Sawicki, Roz Kohen Cindy Schultz, Sri Upadhya, Sarah Wood, Nicole Higginbotham, Patricia Peiffer, Matt Lakin, Mary Arnhart, Tiffany Davis, Stacey Berger, Marsha Ramey, Tracy Fletcher, Deanna Davis, Laura Kasak, Katie Keeven, Catherine Hill, Julie Cruise, Crystal Harris and Sandy Williams.
+APPROVAL OF MINUTES
+The Library Board approved the August 2017 Board minutes (Mulligan/Kenyon).
+Dr. Tai joined the meeting.
+PUBLIC COMMENTS
+There were no public comments.
+TREASURER'S REPORT
+Kris Mooney, Assistant Director of Administration, delivered the following report.
+Maintenance and Operating Fund Financial Statements:
+Revenue
+E-rate Discounts – The Library District received $70,584 in E-Rate rebates in August. The rebates help to cover the cost of the Library’s Internet and WAN services from Charter Communications.
+Expenses
+	Other Personnel Expense – The Library District made its first payment to H&H Health Associates for the Wellness Program in the amount of $44,340. The payment was for health screenings available to full time employees. Total costs for health screenings in 2017 will be approximately $48,000. These costs were included in the 2017 budget. Additionally, Daniel & Henry Co. was paid $16,000 for the annual brokerage fee for Medical, Dental, and Vision Insurance for staff.
+Expenses
+	Mobile Operation Other – In August, Craftsmen Industries was paid $4,903 for the fabrication and installation of the new wrap for the exterior of one of the District’s bookmobiles. The bookmobile was converted from a community unit to school unit.
+	Automotive – In August, $4,078 was paid to Pickup Outfitters for a camper shell and cargo drawer for the GMC Sierra work truck purchased in May 2017. The truck purchase was approved at the March 2017 Board meeting. The camper shell and drawer will provide storage for tools and other materials being transported between branches.
+	Equipment – Other – Today’s Business Solutions was paid $13,980 for two self-service scanning and faxing machines, known as “Simple Scan” machines. These are additional units purchased for the Rock Road and Lewis & Clark Branches in order to meet patron needs. This purchase was approved at the April 24, 2017 Board Meeting.
+Capital Projects Fund Financial Statements
+Balance Sheet – 2016 Debt Issuance
+Construction in Progress – Total Construction in Progress for August 2017 was $1,261,757. The expenses included payments for:
+		Construction costs for Phase 2a buildings (Bridgeton Trails, Florissant Valley, Daniel Boone) -$819,106
+		Furniture and Fixtures for Phase 2a buildings - $187,312
+		Construction management services for Phase 2a buildings - $75,377
+		Design costs for Mid County - $39,053
+		Signage for Florissant Valley - $35,237
+		Facilities Master Plan Administrator - $29,260
+The Library Board approved the Treasurer’s report subject to audit (Cunnane/Mulligan).
+DIRECTOR'S REPORT
+Director Kristen Sorth reported the following:
+Library Update
+· Ms. Sorth said the dashboard contains a variety of statistical information for the Library and is attached. The report includes information about circulation, visits, PC usage and monthly trends. The numbers for August are impressive with one branch still closed for construction. Visits increased 7%. The total of 501,307 is the highest monthly visit count since June 2014. Circulation increased 0.5% compared to August 2016 and several branches saw significant increases. For example, circulation at the Sachs Branch was 87% higher than this time last year. PC sessions increased 5% and Wifi sessions saw the highest monthly count the library has had to date. Wifi sessions were 14% higher than those in August 2016. As for programs, the attendee count is 12% higher than August 2016.
+· The Library will again offer a one-hour class on assessing the credibility of news stories. All open SLCL branches will offer Know Your News, a free class demonstrating ways to evaluate the credibility of stories and sources. Reference Librarians will share their best tips and introduce participants to a number of databases which patrons can use to verify data. (Plan: Increase Literacy 2)
+· The St. Louis Eclipse Task Force is partnering with Astronomers Without Borders (AWB) and St. Louis area libraries, schools and businesses to collect new and gently used ISO certified solar glasses for use by other countries during upcoming eclipses in South America and Asia in 2019. Each of our branches will be a public collection site during the month of September. Grand Glaize will be the centralized collection site for the St. Louis Task Force and all glasses will be prepared for shipment to AWB on October 7. (Plan: Sense of Community 1)
+· The Library will host the Immigrant Service Providers Network (ISPN) on October 18. ISPN is hosting a listening session/forum for county schools to discuss their experiences with English language learner students and families or other immigrant students and families. In addition, the Library is making plans to become a Mosaic Ambassador. This is a program from the St. Louis Mosaic Project that includes specific actions and strategies to make an organization welcoming and empowering to immigrant populations. (Plan: Sense of Community 2.2)
+· The Library has been investigating alternatives to our current online Summer Reading Club product and will be switching to a new product named, Beanstack, in 2018. We have solicited feedback from several libraries in Missouri that are using the new product, including St. Louis Public Library, and they are pleased with it. In addition, the cost of Beanstack is less than our current vendor, READsquared. (Plan: Increase Literacy 1.3)
+· The Youth Services Department hosted an Educator Appreciation Night on September 19 at HQ. Twenty-six educators attended the event, which included stations that promote library resources and services such as reference/eMedia, History & Genealogy, Readers Advisory, etc. (Plan: Sense of Community 1.2)
+· We are exploring a new partnership with Operation Food Search in which we would offer evening meals to children at the Natural Bridge and Weber Road branches. The program would provide after school meals following a “Super Snack” model. The meals are designed to be enough food to fulfill the supper requirement, and appeal to children. All of the meals will be chilled meals and will include a wider variety of fresh fruits and vegetables. The meals would be accompanied by branch programming. (Plan: Increase Literacy 3.4)
+· September is Library Card Sign Up Month. The Bookmobile and Mobile Services Department celebrated at their first visit of the school year to Gibson Elementary in the Riverview Gardens School District. Sweet Reads also celebrated at a visit to a preschool. (Plan: Sense of Community 3.2)
+· Library Headquarters hosted the Little Readers Festival on Saturday, September 23 from 10:00 a.m. - 1:00 p.m. This free event featured a variety of activities for families including the PNC Mobile Learning Adventure, musical performances by Sugar Free Allstars, story time with Pete the Cat and more. Kids ages 5 and under received two free books and a shaved ice treat. (Plan: Increase Literacy 1)
+· The Career Online High School Program launches on October 2. We are working with St. Louis Public Library on a joint marketing plan to promote the program. In addition, Ricqui Brooks, the Library’s new Adult Literacy Coordinator, has almost completed the training for administering the online program and is conducting outreach to community organizations and other Library partners. (Plan: Increase Literacy 3.3) Ms. Brooks was present and told the Board that she was excited to be a part of the Library to offer the service to the community.
+· There were mentions of the St. Louis County Library in the local media in print, radio and television. Those articles are attached. (Plan: Sense of Community 1.2)
+· A number of great photos were shown to the Board from several programs and events including: Ukulele Jam Session at HQ, We Are STL; Chinese Heritage at HQ, Author Salman Rushdie at HQ, Costumes by the REP at TH, Baby Dance Party at WR and Bookmobile Outreach. (Plan: Increase Literacy 1 and Sense of Community 2.3) Library Administrative Updates
+· In August, the ITS Department conducted disaster recovery testing for branches that have received their network IP address changes. The loss of HQ's network was simulated by disconnecting it from the District's wide area network. Key network computing services were successfully delivered over the WAN to select branches from Oak Bend's data closet where redundant servers were temporarily located.
+· Six administrators from the Seattle Public Library, including their Director, visited both the St. Louis County Library and the St. Louis Public Library during the second week of September. Eric Button, Steve Hunter and I took them to visit Lewis & Clark, Florissant Valley, and Grant’s View. In addition, they toured HQ and had meetings with various administrators and managers from SLCL. (Plan: Sense of Community 1.2)
+· Leon Sharpe from the Praxis Group led an interactive discussion at the August Managers’ Meeting. The topic was "Community, Culture, and Consciousness: Libraries and Leadership in an Era of Challenge and Change." (Plan: Sense of Community 2.1)
+· New Assistant Branch Manager, Patricia Peiffer, has been awarded a Spectrum Scholarship from the American Library Association. Jennifer Gibson, the new Assistant Branch Manager at Cliff Cave, was also a recipient a few years ago. The Spectrum Scholarship Program actively recruits and provides scholarships to American Indian/Alaska Native, Asian, Black/African American, Hispanic/Latino, Middle Eastern and North African, and/or Native Hawaiian/Other Pacific Islander students to assist them with obtaining a graduate degree and leadership positions within the profession and ALA.
+· This year the Library offered a number of training opportunities for managers and employees via webinars conducted by various library associations. Topics include: Combating Toxic Stress, Dealing With Challenging Patrons, Hiring New Library Employees, Brain Development and Language Acquisition, and Coaching and Supervising Employees.
+·Ms. Sorth was recently nominated by Yemi Akande-Bartsch of Focus St. Louis to become a member of the St. Louis Forum and was accepted. The goals of the Forum are to advance women in professions, as well as the community, by sharing ideas and discussing a wide range of issues in the region. (Plan: Sense of Community 1.2) Library Construction and Facility Update
+· The Daniel Boone Branch will re-open to the public on October 25 following a ribbon cutting for the Branch. Grand Glaize will close for renovation four days later on October 28 at 5:00 p.m. (Plan: Create Gathering Spaces)
+· The Library has received correspondence from and is working with the Grant’s View Homeowners’ Association regarding several agreements that were part of the original purchase contract for the land which includes a Detention Basin Easement and Maintenance Agreement and an Access Easement Agreement. (Plan: Create Gathering Spaces)
+· The work packages for construction on the Mid-County Branch have been released and are due September 29. They will be presented to the Library Board for consideration at the October Board Meeting. (Plan: Create Gathering Spaces) Library Foundation
+· The Gala was held on September 16 and is the most successful gala to date. With additional sponsors this year, revenue increased by 15% over last year, generating almost $260,000. Ms. Sorth offered congratulations to Barbara Turkington, Jim Bogart, Courtney Wood and Nicole Higginbotham for their amazing work as well as a huge thanks to all of the Library employees and Foundation Board Members that contributed to its success.
+· The Foundation sponsored the Little Readers Festival this year and rented a tent and cooling misters to help provide relief from the heat.
+· The Foundation’s Gift of Reading program took place at the Rock Road Branch during Lap Time on September 15.
+The following author events were shared with the Board.
+· Chris Van Dusen, “Hattie and Hudson”, Headquarters, Monday, September 25, 6 p.m.
+· Dan O’Neill, “When the Blues Go Marching in: An Illustrated Time”, Headquarters, Tuesday, September 26, 7 p.m.
+· Dan Santat, “After the Fall: How Humpty Dumpty Got Back Up Again”, Saturday, October 7, 10 a.m. Headquarters,
+· Katherine Applegate, “Wishtree”, Headquarters, Friday, September 29, 6 p.m., Headquarters
+Ticketed Events – October through November
+· Dan Brown, “Origin” This event is Sold Out, Wednesday, October 4, 7:00 p.m., Headquarters HQ will close at 5:00 p.m. for this event.
+· Art Garfunkel, “What is it All but Luminous”, Friday, October 6, 7:00 p.m., Headquarters
+· Gabrielle Union, “We’re Going to Need More Wine”, Saturday, October 28, 7:00 p.m., Headquarters
+· Lee Child, “The Midnight Line”, Friday, November 10, 7:00 p.m., Headquarters
+· Khizr Khan, “An American Family”, Wednesday, November 29, 7:00 p.m., Headquarters HQ will close at 5:00 p.m. for this event.
+Dr. Beckwith congratulated Kristen Sorth on the full page article in the St. Louis Post Dispatch featuring St. Louis area leaders.  It was titled, “Advancing St. Louis” and published Friday, September 22, 2017.
+He also announced that one of the Riverview Garden Schools has been renamed in honor of Michelle Obama.
+NEW BUSINESS
+CONSTRUCTION UPDATE
+Steve Hunter, Assistant Director of Operations, gave the following report: DB opens Oct. 25, 2017..  He reported that shelving has already been installed and furniture was scheduled to arrive soon.  Pictures of DB under construction were shown including the quiet room with a lovely view of the outside. A unique feature is the children’s slide on the lower level.
+TAX RATE
+Kris Mooney, assistant director of Administration, presented:
+The Library Administration has reviewed the 2017 post Board of Equalization (BOE) property value assessments.  Property values have increased over prior year in total by 7.7%. A breakdown of the assessments by category is as follows:
+The Board is reminded that the 2017 tax revenue along with the surtax on commercial property will provide approximately 97% of the cash income needed to operate in 2018. According to State Statute, the Board must set the 2017 tax rates by October 2, 2017.  Proposed tax rates, preliminary tax rates presented at the tax hearing in August, 2017, and prior year tax rates are as follows:
+The above proposed tax rates are set at the ceiling and would provide approximately $50,800,000 in tax revenue for 2018.
+The Library Board approved the attached Resolution which states the above proposed tax rates listed for all subclasses of real estate and personal property are assessed as the 2017 tax rates. If, after validation by the Missouri State Auditor, the tax rate ceiling allowed for any or all subclasses is less than or greater than the approved rate(s) the Director is hereby authorized to set the final rate (s) for the Library as validated by the State of Missouri Auditor. The revenue generated by these rates will allow the District to continue providing excellent service to our customers and will provide for the repayment of debt from our issuance of Certificates of Participation in April, 2013 and September, 2016 (Kenyon/Mulligan).
+BUDGET REVISION
+Kris Mooney, assistant director of Administration, reported the following:
+The Budget Committee members are as follows: Kristen Sorth, Director;  Barbara Turkington, Assistant Director, Advancement; Gib Van Cleve, Assistant Director, ITS; Eric Button, Deputy Director;  Steve Hunter, Assistant Director, Construction & Facilities; and Kris Mooney, Assistant Director, Administration.
+The committee has reviewed the 2017 budget revision. Revenue will increase by approximately $460,000. Expenditures will decrease by approximately $369,000. Account changes are explained within the Budget Revision narrative and summary Statement of Revenues and Expenditures. The Library Board approved the Budget Committee recommendation for the 2017 revised budget (Mulligan/Cunnane).
+CREDIT CARD POLICY
+Kris Mooney, assistant director of Administration, reported the following:
+Library Administration is seeking approval of the proposed Credit Card Policy. The Library does not currently have a policy governing the use of Library issued Credit Cards. The attached Policy was drafted with the assistance of Lashly & Baer. This policy assigns the management of the credit card program to the Assistant Director of Administration. The policy also outlines the process for eligibility, approval, and details the procedures for use of the card. Prior to issuance, each employee must sign an acknowledgement that he/she has read, understands, and agrees to be bound to the terms of this Policy.
+The Library Board approved the Administration’s recommendation for the Credit Card Policy (Mulligan/Kenyon).
+RECIPROCAL LENDING AGREEMENTS
+Deputy Director Eric Button presented this report:
+Library Administration is seeking approval of changes to the current Reciprocal Borrowing Agreements that are in place with St. Louis Public Library (SLPL), St. Charles City-County Library (SCCCL), and seven of the nine member libraries of the Municipal Library Consortium, which are all located within St. Louis County.  The proposed changes will remove barriers for library patrons, resolve the confusion from patrons about library access, and foster more cooperative work between libraries in the St. Louis region.
+Library Administration recommends the cessation of exchanging transactional fees with reciprocal libraries.  The elimination of transactional fees will yield several benefits including:
+	Less staff time required for the compilation and exchange of reports and invoices and payments
+	Clearer messaging to library patrons
+	The removal of barriers that impact patrons in the Valley Park and Webster Groves areas in particular  Residents of those districts must currently purchase a non-resident card at a cost of $50 per year
+	Elimination of confusion and frustration for patrons and staff
+	Enhancement of regional cooperation amongst libraries in the St. Louis region
+These recommendations would have a financial impact on revenue at the Library.  Overall, the Library is a “net lender” of materials in the reciprocal borrowing environment, thus based on 2016 usage, we netted $40,554 in revenue for transactional fees from other library districts.  In addition, if the proposal is approved, residents of Valley Park and Webster Groves would be eligible for a free library card instead paying a $50 non-resident fee.  Based on revenue from 2016, this could lead to a loss of approximately $13,250 in non-resident fee revenue.  Thus, between the two lost sources of revenue, SLCL may sacrifice $53,804 in revenue annually.
+The Library Board approved the Administration’s recommendation of eliminating the transactional fees associated with the Reciprocal Borrowing Agreements, and allowing the provision of free library cards to all residents of St. Louis Public Library, St. Charles City-County Library, and the nine Municipal Library Consortium member libraries including, Valley Park Library and Webster Groves Public Library, and that the Board authorize the Library Director to negotiate and execute changes to the Reciprocal Borrowing Agreements with each institution (Cunnane/Mulligan).
+MERIT RAISES
+Kristen Sorth reported that the 2018 Library Budget will include a structure adjustment and  merit raises for Library employees. We have been working with Lockton Companies, the Library’s Human Resources Consultant, on this recommendation. The implementation of the following two salary adjustments will result in a salary increase for Library employees. Each type of salary adjustment and a description of the recipients are defined below.
+ Structure Adjustment
+There is a salary structure in place for the Library’s seventeen pay grades. Each pay grade contains a minimum, midpoint and maximum salary. Each title is assigned to a pay grade. Lockton  is recommending an updated structure for 2018. The comparison between the 2017 and 2018 structure is illustrated on the attachment. The recommended increase to the structure adjustment averages out to be 2%. The structure adjustment only affects employees that are new to the Library or new to their position. These individuals are not eligible for a merit raise. Lockton conducted an analysis and identified 73 employees that will receive a structure adjustment. The structure adjustment costs $23,383.
+Merit Raises
+The Library uses a performance management system where individual raises are tied directly to the level of performance for each employee. Through this process, managers can make real distinctions between levels of performance and reward employees accordingly. For 2018, we are recommending the following: 0 - 5% merit raise range 0 - 4.5% merit raise range for cabinet level positions Merit at these ranges cost $594,027. Only employees that have worked for the Library for one year or more are eligible for merit raises.
+The Library Board approved the Administration’s recommendation for the 2018 salary adjustments based on the analysis conducted by Lockton. These adjustments will cost $617,410. The merit raise ranges are 0 – 4.5% for cabinet level positions and 0 – 5% for all other positions with an average of 3% (Kenyon/Tai).
+ADJOURNMENT
+Edith Cunnane made a motion to adjourn open meeting and to convene Executive Session to discuss real estate (Section 610.021(2)); Michael Mulligan seconded.  All agreed with voice vote.
+The meeting adjourned at 4:24 p.m.
+Respectfully submitted,
+______________________________________________________________________________
+Chingling Tai                                                              Date
+Secretary

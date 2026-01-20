@@ -1,0 +1,104 @@
+{
+  "name": "Regular Meeting",
+  "description": "Library Board",
+  "unique": "AV3QV666A26B",
+  "date": "2018-05-21T00:00:00Z"
+}
+
+---
+
+ST. LOUIS COUNTY LIBRARY DISTRICT
+MEETING OF THE BOARD
+HEADQUARTERS
+1640 SOUTH LINDBERGH BLVD.
+MONDAY, MAY 21, 2018
+The monthly meeting of the Board of the St. Louis County Library District was held at the Headquarters Branch, 1640 South Lindbergh Blvd., St. Louis, MO 63131 on Monday, May 21, 2018 at 3:30 p.m. The agenda was posted in all branches of the Library District at least 24 hours before the meeting.
+ATTENDANCE:
+Library Board Members:
+Dr. Lynn Beckwith, President
+Elena Kenyon, Treasurer
+Dr. Chingling Tai, Secretary
+Michael Mulligan, Vice President, and Edith Cunnane, member, both had excused absences.
+ADMINISTRATORS AND GUESTS ATTENDING:
+Kristen Sorth, Library Director; Barbara Turkington, Assistant Director, Advancement; Kris Mooney, Assistant Director, Administration; Gib Van Cleve, Assistant Director, ITS; Steve Hunter, Assistant Director, Operations; Tom Curran, St. Louis County; and Lisa Stump, Attorney, Lashly & Baer.
+OTHERS ATTENDING:
+Anne Arthur, Sarah Brown, Donna Spaulding, Laura Kasak, Alaina Culbertson, Carla Maxwell, Lauren Striebel, Sri Upadhya, Michael Cohen, Cindy Schultz, Patricia Peiffer, Erin Magner, Katie Keeven, Jacob Eubanks, Kelli Reeves, Julie Cruise, Natalia Catlett, Roz Kohen, Nicole Clawson, Sarah Wood, Amy Hanaway, Gib Van Cleve, Stephanie Nordmann, Stacy Berger, Nicole Higginbotham, Jennifer Gibson, Tracy Fletcher, Paul Bayless, Jennifer Alexander, Chasidy Allen, Marie Conlin, Annie Fuller, Will LaChance, Lindsey Piech, Lori Boschert. Scott Holl, Kat VanArsdale and Sandra Williams.
+APPROVAL OF MINUTES
+The Library Board approved the April 16, 2018 minutes (Kenyon/Tai).
+PUBLIC COMMENTS
+There were no public comments.
+TREASURER’S REPORT
+Kris Mooney reported that, in April, the Library District received $23,500 from St. Louis County’s distribution of the Athletes and Entertainers Tax. This is the first of two payments for the 2018 fiscal year. The Library District also received a state aid payment for $162,988. This is the first of two payments for the 2018 fiscal year. The Library District budgeted $326,906 in 2018 for Missouri state aid. Additionally, the Library District received insurance proceeds for $31,389 to cover the expenses associated with the power outage at Headquarters at the end of January. The Library District paid $33,077 for a new server and associated licensing and software to upgrade the Library District’s Microsoft server.
+Total Construction in Progress for April 2018 was $3,339,753. The expenses included payments for:
+	Construction costs for Grand Glaize - $1,749,933
+	Construction costs for Mid-County - $804,321
+	Construction costs for Thornhill -  $324,535
+	Construction costs for Phase 2a buildings (BT, FV, DB) - $177,526
+	Construction Management services for Phase 2 buildings - $115,821
+	Facilities Master Plan Administrator - $39,530
+The Library Board approved the April Treasurer's Report subject to audit (Tai/Kenyon).
+DIRECTOR'S REPORT
+Kristen Sorth presented the following report.
+Library Update
+	Ms. Sorth stated that the dashboard report for April contains a variety of statistical information for the Library and shared the report with the Board. The report includes information about circulation, visits, programming and PC usage. With three branches closed for construction, circulation is down 1% but visits are up 2%. For the second month in a row, the most notable statistics are in programming. Program sessions increased 4% over this same time last year and program attendance increased 44%. This month the report includes information regarding Food for Fines. This year, the Library collected 13,623 pounds of food for Operation Food Search. The report also includes information about the most popular items in the collection.
+	This summer, the Library will begin lending musical instruments to the public. The instruments, which include 10 ukuleles, 4 acoustic guitars, 4 banjos, and 4 bongos will check out for a period of two weeks. They will be housed at Headquarters, Daniel Boone, Florissant Valley, and Grant's View. Patrons will select a pickup location from one of the four libraries, and the instrument must be picked up and returned to that same location. Instructional music books and DVDs will be included with each instrument, along with a hard case to protect it from damage. Any maintenance and repair of the instruments will be performed as part of the maintenance plan. Although the project was budgeted in the 2018 collection budget, we were able to extend the impact of the program through a generous donation received from members of the Ukulele Fight Club to cover the cost of the ukuleles. (Plan: Increase Literacy 3)
+	In collaboration with the LUME Institute, the Library recently agreed to promote awareness and usage of Vroom. Vroom is a set of tools and resources, including a mobile app, from the Bezos Family Foundation designed to inspire families to turn everyday moments into “brain building moments” by layering activities that are essential to healthy brain development onto existing routines. LUME will participate in the Little Readers Festival this year to promote Vroom. Several library programs will be infused with Vroom activities and references. The Library will promote awareness of Vroom by posting flyers in children's Discovery Zones. (Plan: Increase Literacy 3.4)
+	The Library applied for and was selected to host an intern this summer as part of the Public Library Association's Inclusive Internship Initiative. This is an internship program designed to introduce young people from diverse backgrounds to careers in librarianship. Bri'Yana Merril has been selected out of 285 applicants as St. Louis County Library's intern. Bri'Yana is currently a junior and an honors student at Hazelwood Central High. She has a variety of interests and participates in many activities that make her an ideal intern. She previously interned at SLU, where she created an infographic about planned obsolescence in iPhones and she has participated in Monsanto's Coding Camp. (Plan: Increase Literacy 3)
+	The summer lunch program, in partnership with Operation Food Search, will begin on June 4 at Bridgeton Trails, Florissant Valley, Indian Trails, Jamestown Bluffs, Lewis & Clark, Natural Bridge, Prairie Commons, Rock Road and Weber Road. These branches will offer a nutritious lunch along with activities for kids from 12:00-1:00 p.m., Monday - Friday. On Fridays, those children attending will get pizza as a special treat. Pizza Fridays are sponsored by the Foundation and several other donors. The Foundation is also sponsoring Operation Backpack. On Thursdays, families will receive a bag of food to take home for the weekend. (Plan: Sense of Community 2.2)
+	Ms. Sorth announced that beginning on June 1, meeting rooms at Sunday branches will be made available for public booking. Previously, the meeting rooms were only used for library related programming on Sundays. (Plan: Create Gathering Spaces 1.2)
+	The Library will be hosting the "Scholastic Summer Reading Road Trip" on the evening of July 16.  The outdoor event will feature an RV and several smaller tents for authors and activities. The Library is expecting a large crowd for the event.  (Plan: Increase Literacy 3.4)
+	The Star Wars Fan Fest was held at Grant’s View on Friday, May 11. The event hit a new record with over 2,000 people attending. The Grant’s View employees, Youth Services employees and employees volunteering from other branches did a fantastic job planning and executing the event. Carrie Robb, the Library’s Author Event Coordinator, also played a big role this year because the Fan Fest was paired with an author event featuring Ashley and David Eckstein. Ashley is the voice of a character in the animated series “The Clone Wars” and, of course, David used to play for the Cardinals. After her talk, Ashley and David signed books and memorabilia for almost three hours. (Plan: Sense of Community 2.3)
+	The Library will be shifting the strategy and emphasis for Library ConnectED cards to online only cards in the next school year. Less student data will be collected which should alleviate the schools' concerns about privacy and will hopefully increase the number of districts participating. Currently, twelve school districts are participating in Library ConnectED. (Plan: Sense of Community 3.2)
+	Ms. Sorth announced that the Summer Reading Club starts today. Summer Reading Club participants can track their reading online or by using a paper log, available at all Library locations. Young readers can collect virtual badges for reading, attending library events and visiting participating area attractions like the Saint Louis Zoo, The Magic House and the Science Center.  Prizes, including books, sponsor coupons and more, will be awarded for each age group (early readers, kids, teens and adults). Raffles for bonus prizes will be available for individuals who complete additional reading. Kick-off parties will be held on Wednesday, May 30 at Florissant Valley, Thursday, May 31 at Daniel Boone, Friday, June 1 at Grant's View and Saturday, June 2 at Headquarters.  (Plan: Increase Literacy 1.3)
+	This summer, in conjunction with the Summer Reading Club, the Library is hosting an underwear and sock drive for The Little Bit Foundation. The Foundation advocates for impoverished children in St. Louis by removing barriers to learning. Little Bit does this through partnerships with area schools where they serve as the convener of programs that provide for students’ essential needs. Underwear and socks are the items most in need by youth and teens in our community. (Plan: Sense of Community 3.3)
+	Ms. Sorth shared that Jazz St. Louis has notified the Library that we have received funding for a Jazz Speaks author series that Ms. Sorth mentioned previously. The program is in partnership with the St. Louis County Library and St. Louis Public Library. They have funding to bring four authors to St. Louis. Two author events will take place in the County and two will take place in the City. I will update the Board on the progress of this partnership as details develop. (Plan: Increase Literacy 1.2)
+	The Library has been discussing the possibility of selling a few small and low cost items to the public. These would include bags with the Library's logo, flash drives, ear buds, etc. We reached out to Lashly Baer to inquire about the possibility. It is their opinion that we may do so and be exempted from Missouri Sales Tax provided that the items are sold only at Library facilities, are limited in scope, and are not broadly advertised. We will begin offering these items to the public on June 1. (Plan: Sense of Community 1.2)
+	As Ms. Sorth mentioned at last month’s meeting, demand for library services to senior housing centers has steadily increased.  There are currently more than 20 facilities on a waiting list. Crystal Harris, Manager of Bookmobile and Mobile Services, developed a plan to address this need with existing staff and vehicle resources. One of the two Preschool Outreach Program (POP) vans is no longer needed because of efficiencies gained in that area of operations. This POP van will be re-purposed and deployed as a senior van. It will provide service to several smaller senior housing centers that we currently serve, as well as adding many of the locations from the waiting list. The van will be able to make quick and efficient stops at more locations than the two new senior vans that were recently ordered. The new senior vans will focus on larger housing centers and make longer service stops. This new two-tiered service will enable more efficient operations and allow library staff to serve all of our current housing centers as well as all of the centers on our waiting list for service.  (Plan: Sense of Community 3.2)
+	There were mentions of the St. Louis County Library in the local media in print, radio and television.  Those articles were shared with the Board. (Plan: Sense of Community 1.2)
+	A number of great photos were shared with the Board from several programs and events in April and May:  LEGO Family Fun Night at HQ, PAWS for Reading at Rock Road, STArt; Tunes with Tots at Cliff Cave, Peeps Diorama Contest at Weber Road, Classical Art for Seniors at Oak Bend, Author Jennifer Chambliss Bertman at HQ, and Cat Castles at Sachs. (Plan: Increase Literacy 3.4 and Sense of Community 2.3)
+Library Administrative Updates
+	The Library submitted three proposals for presentations at the Missouri Library Association conference this October in Columbia, Missouri, and all were accepted.
+	Public and employee engagement for the Strategic Plan is going very well.  Over 2,200 people (patrons and employees) participated in the online survey.  Focus group meetings for patrons and employees are also underway and have been well attended. Below is the schedule of public meetings.
+	Friday, May 11th, 2:00 – 3:30 p.m.    Headquarters   Adults
+	Wednesday, May 23rd, 6:30 – 8:00 p.m.   Daniel Boone   Adults
+	Wednesday, May 30th, 6:30 – 8:00 p.m.   Jamestown Bluffs Adults
+	Wednesday, June 13th, 3:00-4:30 p.m.     Grant’s View Teens
+	Thursday, June 14th, 3:00 – 4:30 p.m.      Florissant Valley Teens
+	Saturday, June 16th, 2:00 – 3:30 p.m.     Cliff Cave Adults
+	One more meeting, date TBD, with non-patrons
+ (Plan: Sense of Community 1.1)
+Library Construction and Facility Update
+	Ms. Sorth announced that the groundbreaking for the new Meramec Valley Branch will take place on May 30 at 10:00 a.m. Invitations were sent via email. (Plan: Create Gathering Spaces)
+Library Foundation
+	Give STL Day took place on May 2. The St. Louis County Library Foundation raised $8,500 from 88 individual donors.
+	Waller McGuire, Director of St. Louis Public Library, and Ms. Sorth met with the Education Committee of Civic Progress to discuss the Career Online High School program and partnership.
+	The following grant notifications have been received since the last Board Meeting.  Ms. Sorth congratulated all those that worked on these.  It was a team effort!
+	Norman J. Stupp Foundation, $7,995 for Career Online High School
+	Commerce Bank Foundation, $1,000 for Career Online High School
+	Blueprint 4 Summer, $2,500 for Hip Hop Architecture Camp
+	Old Newsboys, $1,250 for Born to Read
+	Josh Seidel Memorial Foundation, $2,000 for Coding 101
+	Racing to Read, $20,000 for Rhythm & Tunes videos
+	Spotlight on Literacy, $7,910 for Parents as Teachers Educator kits
+	Walmart, $500 for chess sets
+Author Events
+	Lloyd I. Sederer, MD, author of “The Addiction Solution,” Monday, May 21, 2018, 7:00 p.m., Headquarters, Doors open at 6:00 p.m. Presented by the Medical Arts Series.
+	Jessica Knoll, author of “The Favorite Sister,” Wednesday, May 23, 2018, 7:00 p.m., Headquarters, Doors open at 6:00 p.m.
+	Jon Meacham - Ticketed Event, author of “The Soul of America,” Friday, May 25, 2018 7:00 p.m., Headquarters. Doors open at 6:00 p.m. The event will be an onstage interview with St. Louis Public Radio host Don Marsh.
+	Joshua Zeitz, author of “Building the Great Society:  Inside Lyndon Johnson’s White House,” Tuesday, June 05, 2018, 7:00 p.m., Headquarters, Doors open at 6:00 p.m. Presented by the ‘Buzz’ Westfall Favorite Author Series.
+	Zinzi Clemmons, author of “What We Lose,” Tuesday, June 12, 2018, 7:00 p.m., Headquarters, Doors open at 6:00 p.m.
+	Richard O Prum, author of “The Evolution of Beauty,” Wednesday, June 13, 2018, 7:00 p.m., Headquarters, Doors open at 6:00 p.m.
+	Ben Rhodes, author of “The World As It Is,” Monday, June 18, 2018, 7:00 p.m., Headquarters, Doors open at 6:00 p.m.
+NEW BUSINESS
+CUSTOMER CONNECT PRESENTATION
+Lindsey Piech, manager of the Customer Connect Department, presented an overview of the services offered through her department. The staff consists of eight full-time employees and two part-time employees. Customer Connect became its own department in January of 2016.  A summary of the jobs performed by the department fall under “The Five R’s”: Requests, Renewals, Registrations, Reservations and quick Reference. Ms. Piech shared that the department averages around 16,000 calls per month.
+PERSONNEL MANUAL POLICY ADDITION AND REVISIONS
+Human Resources Manager, Mary Arnhart, shared a complete restatement of the Library’s Personnel Manual which included a copy with changes tracked and a clean copy. The manual was last revised in April 2011.   Many of the changes are clarifications that do not affect policy or were revised to reflect current policy based on state and federal law.  However, there are several major revisions to note.  In addition, there are five new policies that have been added to the document.  The new policies were shared with the Board.  The major revisions were also discussed. The entire Personnel Manual has been reviewed by McMahon Berger, the Library’s HR Legal Counsel.  In addition, McMahon Berger drafted the new policies that were shared with the Board.  Once approved, all Library employees will be notified of the changes.
+The Library Board approved Administration’s recommendation for the restated Personnel Manual in its entirety. All Library employees will be notified of the changes. The restated manual is effective July 1, 2018 (Tai/Kenyon).
+ADJOURNMENT AND EXECUTIVE SESSION
+Dr. Tai made a motion to adjourn open meeting and to convene Executive Session to discuss real estate (Section 610.021(2)); Elena Kenyon seconded.  All voted in approval.
+The meeting adjourned at 4:25 p.m.
+Respectfully submitted,                                                          Date
+_____________________________________                      ___________________
+Dr. Chingling Tai
+Board Secretary

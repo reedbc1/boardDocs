@@ -1,0 +1,151 @@
+{
+  "name": "Regular Meeting via Zoom",
+  "description": "Library Board",
+  "unique": "BL3MEY5AAE46",
+  "date": "2020-05-18T00:00:00Z"
+}
+
+---
+
+ST. LOUIS COUNTY LIBRARY DISTRICT
+MEETING OF THE BOARD
+HEADQUARTERS BRANCH
+1640 SOUTH LINDBERGH BLVD.
+MONDAY, MAY 18, 2020
+3:30 p.m.
+The regular meeting of the Board of the St. Louis County Library District was held through Zoom telecommunications, Monday, May 18, 2020. The agenda was posted via SLCL website at least 24 hours before the meeting.
+ATTENDANCE: Members present:
+ Dr. Lynn Beckwith, President
+ Johnny Wang, Vice President
+ Laura Horwitz, Secretary
+ Ted Sanditz, Treasurer
+ Joan Barry, Member
+ADMINISTRATORS AND GUESTS ATTENDING: Kristen Sorth, Director; Eric Button, Deputy Director; Barbara Turkington, Assistant Director, Development; Kris Mooney, Assistant Director, Administration; Gib Van Cleve, Assistant Director, ITS; Steve Hunter, Assistant Director, Operations; and Lisa Stump, Lashly and Baer.
+OTHERS ATTENDING: Sandy Williams.
+APPROVAL OF MINUTES
+The Library Board approved of the April 20, 2020 minutes (Barry/Sanditz).
+PUBLIC COMMENTS
+Library patron Ingrid Haake requested through the website that all future meetings be audio recorded and made available on-line. She said the meeting was very informative and thought it would be of value to our community to make the meetings accessible in more than one format.  Dr. Beckwith said Ms. Haake would get a written response.
+TREASURER'S REPORT
+Kris Mooney reported the following.
+Maintenance and Operating Fund Financial Statements:
+Revenues (page 4)
+	Financial Institution Taxes – In March, the Library District received payment from the annual tax levied on Missouri financial institutions for the amount of $280,252. In 2019, the District received a distribution of $543,433. The annual tax levied is 7% of net income on financial institutions in the State of Missouri. The amount distributed fluctuates from year to year. It is based on the number of financial institutions in St. Louis County, as well as their net income.
+	Reading Clubs – In March, the Library District paid $22,444 to various vendors to purchase prizes for Summer Reading Club.
+	Building Repair – Roof & Carpet – In March, the Library District paid $4,136 to Murphy Company to repair a leaking roof drain at Headquarters.
+	Building Operations – Snow Removal – In March, BSR Services Inc. was paid a total of $24,277 for ice and snow removal services for snow events occurring on February 5-7 and February 12-13, 2020.
+	Certificates of Participation – Principal and Interest – The Library District transferred funds to the trustee of the Library’s Certificate of Participation funds, BOKF, to pay the annual principal payment of $2,620,000 and the April interest payment of $1,957,521. These payments were made by BOKF on April 1, 2020 and are included in the 2020 budget.
+Capital Projects Fund Financial Statements
+Balance Sheet – 2016 Debt Issuance
+	Construction in Progress – Total Construction in Progress for March 2020 was $112,177. The expenses included payments for:
+		Construction costs for Thornhill –  $57,714
+		Construction costs for Meramec Valley – $41,838
+		Facilities Master Plan Administrator – $12,625
+The Library Board approved the Treasurer’s Report, subject to audit (Wang/Horwitz).  Dr. Beckwith announced that this is Kris Mooney’s last Library meeting due to him taking employment with a different organization.  He said he was on the Board when Kris Mooney was hired, and that he has done an excellent job as a CFO.
+DIRECTOR'S REPORT
+Library Update
+	Ms. Sorth said the Library continues to closely monitor the experiences of our peer libraries around the United States, particularly those that are weeks ahead of us in the reopening process.  Administration is working on a phased approach for reopening to the public.  There are many details that are still in progress.  She planned to send an email to employees tonight after the Board Meeting with the information that has been discussed, reviewed, and approved during this meeting, including the HR Policies and procedures addressing new laws passed, directly related to COVID-19. On Tuesday, she said she planned to announce the reopening plans in a joint press release with St. Charles City-County Library and all nine of the Municipal Libraries in St. Louis County. Our dates are all in sync.
+	She said the world as we know it is a completely different place, especially the workplace.  She explained a document of Safety Procedures that covers information related to the safety of our employees and patrons. There are sections that cover the following topics: Social Distancing Procedures, Modification of Duties, Schedules and Workspaces, COVID-19 Exposure Risk, Self-Reporting Forms, Cleaning and Disinfecting Procedures, and Personal Protective Equipment Procedures. All employees and patrons will be required to wear masks. These procedures were developed with recommendations from the CDC, the State of Missouri and St. Louis County. In addition, Administration looked at best practices from private, public and non-profit organizations and other large library districts around the United States that are weeks ahead of us, since their state and local stay-at-home orders have already been lifted.
+	Ms. Sorth reported that the Reopening Team has been leading 13 different work groups that engaged more than 60 staff members in their discussions. These teams have made significant progress in determining our process and plans for a gradual reopening of the library. Administration has developed a four-phased approach which is outlined below. Outside of the dates specifically listed below, all other dates and transitions from one phase to the next are undetermined at this time. A full, detailed plan will be communicated once it is finalized.
+	Phase One
+		Employees may return to the library buildings for discussion/training on May 20, 21 or 22.  Details, times and the method of delivery are at the manager's discretion. We have established three dates to accommodate schedules and social distancing requirements. Managers may also opt to host virtual meetings for employees as well. This face-to-face discussion will cover a variety of topics and will include training on safety procedures as well.
+		Book drops will open on May 26.  Staff will quarantine returned items for 72 hours before employees or patrons touch them.  Employees will return to work this week based on the schedule established by the branch or department manager. Schedules will vary to allow for social distancing and some employees may still be allowed to work from home. Pre-COVID work schedules will change dramatically.
+		Staff will begin to fulfill holds for patrons.
+		Curbside pickup of library materials begins on June 3.
+		Staff have established hours to assist patrons. Employees may be scheduled to work hours that fall outside of the ones listed below.
+Curbside Hours in Phase 1 for All 20 Library Locations
+Monday – Thursday, 1:00 - 6:00 p.m.
+Friday – Saturday, 1:00 – 5:00 p.m.
+Phone, Text, and Chat Service Hours in Phase 1
+Monday -Thursday 9:00 a.m. – 6:00 p.m.
+Friday - Saturday 9:00 a.m. – 5:00 p.m.
+	Phase Two
+		Limited patron access to library buildings for browsing collections and accessing PCs.
+		Visits will be limited to 60 minutes or less.
+		Capacity of buildings will be strictly monitored and limited in accordance with guidelines established by the State of Missouri and St. Louis County.
+		No seating (other than at computers) will be available for the public.
+		Library hours and services may be limited.
+	Phase Three
+		Increased public access to the library.
+		Capacity of buildings is increased.
+		Library hours and services increase.
+	Phase Four
+		Our “new normal”.
+	The Safety Procedures are attached.  This document covers many areas of discussion for multiple workgroups.  We are comfortable in our current levels of PPE and cleaning supplies and will continue to order additional items.  All employees will play a role in implementing these safety procedures.  Maintaining safe facilities for employees and patrons is a high priority as we gradually bring employees and patrons back to our buildings. (Plan: Maximize Access 2.4)
+	As she mentioned earlier, detailed plans are underway for reopening.  Topics include:  building capacity, signage needs, workplace modification plans, book drop procedures, curbside procedures (In addition to providing materials, we will also print items for patrons), phone procedures, collection management approaches, and virtual programming.  Detailed plans will be shared when they are finalized.  I am very grateful for the reopening team and workgroups.  We are also soliciting input from employees and managers. This team effort has resulted in creative, safe, efficient and detailed reopening plans for the Library. (Plan: Sense of Community 1)
+	Staff continue to provide vital services to the region.  She shared a chart of Library resource distribution accomplishments as of May 15.  The chart features statistics on items the Library has distributed, including: meals for kids, free new books, catered meals, MetroMarket boxes, period packs, diapers, and comfort kits.  In addition, staff will begin to distribute fresh fruits and vegetables, meals for the whole family, goldfish crackers, facemasks, and possibly pizzas.  Operation Food Search is the recipient of St. Louis County CARES Act dollars.  Ms. Sorth was included in both the grant submission and the award discussions.  With that money, OFS will deliver family meal boxes to our current sites. Each family meal box will contain five meals of shelf-stable food.  Each family will receive one box. The Library will also be able to add an additional branch as a drive-thru site, bringing us to 10 locations! The Cliff Cave Branch in Oakville will begin drive-thru service on June 1. Before this addition, Weber Road was the only Library branch offering drive-thru in South County. Ms. Sorth said she was so thankful to the many community partners who have reached out to us to provide additional items to be distributed through our drive-thru meal sites.  The County Executive and County Councilmembers, with drive-thru sites in their districts, have been visiting during the last month. (Plan: Sense of Community 2.1)
+	Staff are currently surveying patrons on their interest in topics for virtual programming.  At the same time, we are gathering input from our staff about their interests in virtual programming.  Administration has made the decision to cancel all programs, outreach events and community meetings through July 31, 2020. (Plan: Sense of Community 2.3)
+	As mentioned last month, Ms. Sorth has been an active member of the COVID-19 Regional Response Team.  The Regional Response Team’s mission is to create a centralized system of response to meet the social needs of residents during the COVID-19 pandemic in the St. Louis region.  The region is defined as St. Louis and St. Charles counties in Missouri, Madison and St. Clair counties in Illinois, and the city of St. Louis.  St. Louis County Library was designated as the lead agency for Remote Learning and Technology.  Ms. Sorth continues to engage with St. Louis County and various groups to discuss options for the region. (Plan: Maximize Access 1)
+	Ms. Sorth presented the Director’s Dashboard, which contains a variety of statistical information for the Library and is attached.  This month, the Dashboard reflects various statistics from our current closures.  eMedia circulation has reached 234,591. This is 43% higher than last April, and the highest eMedia circulation to date. The dashboard also includes a breakdown of eMedia circulation by platform.  Through May 6, there have been 928 total chats and texts sent by patrons. Of those, there were 221 eMedia questions, 73 database questions, and 346 SLCL questions.  Through the end of April, we have registered 5,255 new ConnectEd students. These students checked out nearly 6,000 books from Overdrive. Over 3,600 patrons have registered for library cards using our web form. These patrons have checked out nearly 4,000 books from Overdrive. (Plan: Maximize Access 1)
+	In response to the closure, several adjustments were made in Sierra, the Library's integrated library system. Due dates on all checked out items were extended to June 30. The same extension was granted for all items that are currently on the hold shelf since patrons are unable to pick them up at the present time. Additionally, to prevent any disruption to online library services, all expiring library cards have been renewed through at least June 30, including nonresident cards. Nonresident cardholders pay an annual fee to access library services. These cardholders will be granted a free extension of services that is equal to the period of time that the Library remains closed to public access. (Plan: Sense of Community 1)
+Library Administrative and Construction Updates
+	Ms. Sorth said she was very sad to announce that Kris Mooney is resigning. He has accepted a position with the City of Collinsville, Illinois as their CFO.  His last day will be June 5.  The Library has posted Kris’ position and will be interviewing several independent contractors to work with the Library during the search.  At the suggestion of Dr. Beckwith, the title of Kris’ position will change from Assistant Director, Administration to CFO.  In addition, the Library Director’s title will change to Director and CEO.
+	Staff continue to work with the St. Louis County Board of Elections.  The Secretary of State has offered ballot boxes to State Boards of Elections to assist with absentee voting.  Unfortunately, these boxes will not be available by the June election.  Fifteen of our branches will serve as polling sites.  The Library will not yet be open for curbside service, but there will be managers in the buildings to assist election officials.  Voters will not have access to the rest of the building. The Board of Elections has issued safety guidelines that will be carried out by their election workers and volunteers.  The issue of absentee and mail-in voting has been discussed as a way to keep elections safe in 2020.  We will examine ways in which the Library can assist. (Plan: Maximize Access 1)
+	On April 25, there was a fire in the main power transformer at HQ. This fire destroyed the transformer, rendering all primary and secondary power cables unusable. The Library’s backup generator kept critical systems running until power was restored on May 11 (17 days).  Quotes for the work were obtained, and the Board was notified of the requirement for an emergency expenditure. The work to replace all cables from the Ameren pole to the transformer, all cables from the transformer to the building, and to install a new transformer resulted in a low bid of $75,736. This was awarded to Kaemmerlen, per the Emergency Policy, which states:
+Section 7. Emergencies. This Policy may be waived by the Director in writing in emergencies involving the health, welfare or safety of individuals or where significant damage or disruption of service would occur if corrective action is not taken quickly. Emergency procurement shall be made with such competition as is practicable under the circumstances. If the emergency does not allow sufficient time for the Procurement Process set forth hereunder, a complete report of actions taken shall be presented to the Board at the next regular or special meeting.
+Additional costs include damage to the transfer switch ($2,312) and the cost of the damaged generator ($19,604.76). This totals $97,652.76. We are still collecting other costs, including fuel for the generator.  An insurance claim has been opened. Evidence acquired on-site and through Ameren indicates that a contractor working for Charter bored under our parking lot, striking the existing power conduit, damaging both the conduit and the cables. Water seeped in, and eventually led to the short, which caused the fire. (Maximize Access: 2.4)
+	On April 21, Steve Hunter, the project architect (Christner), and mechanical engineer (Ross & Baruzzini) met at Mid-County to review the noise being generated by the rooftop HVAC unit. We have received several comments from concerned neighbors.  On May 13, Christner reported that “Ross & Baruzzini has been working with the manufacturer going through various scenarios to resolve the issue. After receiving the testing & balancing reports they were running through the math to vet assumptions. We are close to presenting you with a solution.”  We expect to have their recommendations this week. (Plan: Maximize Access 2)
+	Ms. Sorth said Administration is working with the Library’s architects to discuss changes to the Administrative Building in Frontenac resulting from the City’s decision to choose option 1 in the legal agreement.  Option 1 is a 3,520 square foot reduction to the building.  In addition, History and Genealogy will stay in Ladue on the current site of HQ.   (Plan: Maximize Access 2)
+	The Library’s Wi-Fi signal is now on 24 hours a day at all Library branches.  Tests were conducted on the Wi-Fi signals in branch parking lots. Several branches had a weak or no signal in the parking lot. Those locations were prioritized for installation of external Wireless Access Points and equipment was purchased.  To date, the following branches have received external Wireless Access Points: LC, FV, NB, WR and CC.  We have pulled data and can see that people are using our external Wi-Fi.  We plan to promote this service when we announce our reopening plans.  (Plan: Maximize Access 1)
+Library Foundation
+	The St. Louis County Library Foundation raised over $20,000 on Give STL Day for the COVID-19 Relief Fund. This far exceeds any other total dollars received by the Foundation for Give STL Day, and we had almost 100 brand new donors. The previous record was around $8000. The Advancement Department and the Communications Department did a fabulous job marketing all of our efforts to support the region over the last few months with drive-thru meals, diapers, period supplies and now books! (Plan: Maximize Access 3)
+	The Library has been asked to submit a grant for CARES Act money that will be distributed through the State Library.  Their intent is to reserve funds for communities that have been impacted the most by COVID-19.  The State Library will consider offering additional funds if necessary to fulfill grant requests if they exceed the CARES Act fund. Marie Conlin, Eric Button, and Ms. Sorth will be working on this grant. (Plan: Sense of Community 2)
+	The Library was recently notified of the following grant awards:
+		Author Visit Grant (LSTA), $5,000 for a Teen Book Festival in December
+		Opportunity Trust, $5,000 to purchase books to distribute -- COVID Response
+		Saigh Foundation, $5,000 for Oasis Intergenerational Tutoring
+		Neighbors Credit Union, $2,250 for COVID Response efforts
+		St. Louis Community Foundation, $25,000 for COVID Response efforts
+Author Events for May (Plan: Promote Literacy 1.2)
+The Library will livestream author events and recordings with the following authors. They are posted on our website as well as the HEC Facebook link - facebook.com/hectv. Archived  author events can be found at hecmedia.org. We are promoting on our social media and sending eBlasts that direct patrons to the HEC sites.
+	Ruth Reichl, author of “Save Me the Plums: My Gourmet Memoir,” Video premiere: May 12, 7:00 p.m., on Facebook.com/hectv
+	Brad Meltzer, author of "The Lincoln Conspiracy: The Secret Plot to Kill America's 16th President--and Why It Failed," Live event: May 15, 7:00 p.m., on Facebook.com/hectv
+	Jeffery Deaver, author of "The Goodbye Man," Virtual Video premiere: Monday, May 18, 7:00 p.m. on Facebook.com/hectv
+	Jeff Shaara, author of "To Wake the Giant: A Novel of Pearl Harbor," Wednesday, May 20, 2020, 7:00 p.m., Virtual, Video premiere: on Facebook.com/hectv
+	Curtis Sittenfeld, author of “Rodham,” Live event: Wednesday, May 27, 2020, 7:00 p.m., Facebook.com/hectv
+	Nick Bruel, author of “Bad Kitty Joins the Team,” kids event, June 1, 2:00 p.m., Facebook.com/hectv
+	Elliot Ackerman, author of “Red Dress in Black and White,” and Matt Gallagher, author of Empire City,” (live event), Facebook.com/hectv
+NEW BUSINESS
+FIRST CONTINGENCY ITEM FOR EUREKA HILLS BRANCH
+Steve Hunter, Director of Operations, presented the following.
+An additional cost for the new Eureka Hills Branch will be for the relocation of an existing Ameren power pole. The pole is currently in conflict with the planned exit driveway to Workman Road. Due to other site restrictions, the exit road cannot be relocated away from the pole.
+This was a known condition during design. Since it is Ameren's work, and therefore not biddable, Administration elected to keep it out of the scope of work in the RFP for a General Contractor. The intention is for the Library to pay Ameren directly, without needing to incur the General Contractor's fee.
+The work has been estimated at $60,000 - $70,000 (this is not an actual quote). Ameren is requesting authorization to proceed from the Library. Once authorized, Ameren will begin the design, which will in turn lead to a true cost for the work. Ameren will not proceed with design work until the estimate is accepted.
+This cost was anticipated during development of the contingency fund that the Board established at the April 20, 2020 meeting. It will be paid out of that contingency fund.
+The Library Board approved the Administration’s recommendation to authorize the Director to accept Ameren’s cost estimate, and to authorize them to proceed with the work of designing the pole relocation at the site of the new Eureka Hills Branch. The final cost will be paid out of the approved contingency fund (Barry/Wang).
+SAFETY GUIDELINES RELATED TO COVID-19
+Kristen Sorth, Library Director, presented the following.
+In March 2020, the Board authorized the Director to implement health and safety measures related to the outbreak of COVID-19.
+As the Library begins to reopen facilities, the Director will need flexibility to provide guidelines and safety procedures related to the return of patrons to Library facilities so that any change in federal, state, or St. Louis County requirements can be quickly implemented.
+Library Administration is recommending that the Library Board of Trustees hereby suspend all Library policies and administrative procedures to the extent that any policy or procedure conflicts with state, federal, or local laws, regulations, or orders adopted relating to the COVID-19 pandemic and that the Board authorize and direct the Library Director to draft and implement any safety guidelines deemed necessary or desirable, in accordance with federal, state, and local public health recommendations, to ensure the safety of patrons and employees at Library facilities as they are reopened. The Library Board approved the policy (Sanditz/Wang).
+FAMILIES FIRST CORONAVIRUS RELIEF ACT LEAVES (FFCRA) AND TEMPORARY COVID-19 FURLOUGH POLICY
+Kristen Sorth, Library Director, presented the following.
+The U.S. Department of Labor (DOL) issued regulations for the Families First Coronavirus Response Act (FFCRA) on April 1, which states that employees must give notice to their employers of the need to take leave and must provide supporting documentation for requests for paid sick leave and emergency family and medical leave.
+In order to comply with the issued regulations, the Library Board should enact policies consistent with the FFCRA.  The Library is also adding a Temporary COVID-19 Furlough Policy.  Below is a summary of the policies.
+	Families First Coronavirus Response Act (FFCRA) Leaves:  The FFCRA creates two new types of leave for employees who are unable to work, including work-from-home, because of the COVID-19 pandemic.
+		Emergency Paid Sick Leave (EPSL):  The FFCRA creates EPSL, which provides up to two weeks of paid leave at either the employee’s full rate of pay, or 2/3 of the employee’s rate of pay, depending upon the qualifying condition.
+		Expanded Family Medical Leave Act:  The FFCRA also expands the Family and Medical Leave Act to provide for up to twelve weeks of leave at 2/3 an employee’s regular rate of pay for the purposes of caring for a child under the age of 18 whose school, daycare, or care provider is closed or unavailable for reasons related to COVID-19.  While the first two weeks of this leave are unpaid, an employee may substitute other paid leave, including EPSL, if available.
+	Temporary COVID-19 Furlough:  If an employee is instructed to return to work from COVID-19 Leave, but does not feel comfortable returning to work at this time due to concerns regarding COVID-19, and the employee is not otherwise qualified for leave under any other Library leave policy, employee may request to take an unpaid furlough of up to 30 days.  The Library will pay only its portion of the employee’s health insurance, if any, during this furlough. Any employee who fails to return as scheduled after any approved Furlough will be deemed to have abandoned their position absent extenuating emergency circumstances
+All employees will be required to acknowledge that they have read these policies.
+The Library Administration recommends that the Library Board approve the Families First Coronavirus Response Act Leaves (FFCRA) and Temporary COVID-19 Furlough Policy. Once approved, all Library employees will be notified of the policies.  The Library Board approved the policy (Barry/Wang).
+COVID-19 LEAVE AND RETURN TO WORK POLICY
+Kristen Sorth and Kris Mooney presented the following.
+The St. Louis County Library closed on March 17, 2020 due to the spread of COVID-19.  All employees were placed on COVID-19 Leave beginning March 18, 2020.  Once employees are instructed to return to work, COVID-19 Leave will end.
+In anticipation of employees returning to work and the Library reopening, the Library Board should adopt a Return to Work Policy.  Below is a summary of this policy.
+Return to Work Policy
+The Library’s goal is to have employees return to work as soon as safely possible to do so.  The Library will continue to provide employees with paid leave and benefits pursuant to this policy until the Library instructs employees to return to work.  The Library will also enact COVID-19 Safety Procedures.  All employees will be required to read, sign, and become familiar with all policies and procedures.
+The Library will inform employees when they are required to return to work.  If an employee is unable to return to work, the employee may be eligible for other Library leave.  Any employee who fails to return to work within two working days after being instructed to do so without contacting their manager or human resources, will be deemed to have abandoned their position and resigned.
+Upon returning to work, there will be many changes which affect Library employees.  Changes may include, but are not limited to work hours, job duties, physical workspaces, access to communal amenities, safety practices and leave policies.  The Library Director is authorized to revise and update safety procedures as needed.  For the time being, all regular personnel policies may be waived, suspended, or amended to the extent not contrary to state, local, and federal law.
+Working from Home
+Some employees may be instructed to work-from-home.  An employee is expected to work their entire scheduled shifts while assigned to work-from-home.  They must meet the Library’s expectations for work performance and productivity and complete their tasks within the time they are instructed to do so.  Employees working from home are expected to meet all other reasonable expectations associated with their position, just as if the employee was reporting to the Library rather than working from home.
+Future Consideration Regarding Coronavirus
+At this time, much remains unknown about the continued and/or future impact of COVID-19.  After employees return to work, worsening conditions related to COVID-19 in the community, or smaller outbreaks of COVID-19 could require that the Library Board of Directors again close facilities or limit operations.  Any future closures will not be covered under this policy, unless subsequent action by the Library’s Board of Directors extends and/or modifies this policy.
+The Library Administration recommends that the Library Board approve the Paid Leave Due to COVID-19 Pandemic Closure and Return to Work Policy.  Once approved, all Library employees will be notified of the policies. The Library Board approved the policy (Wang/Barry).
+ADJOURNMENT
+Johnny Wang moved to adjourn the meeting and Ted Sanditz seconded.
+All approved by voice vote.
+Aye: Lynn Beckwith, Ted Sanditz, Laura Horwitz, Joan Barry, Johnny Wang
+The meeting adjourned at 5:13 p.m.
+Respectfully submitted by,
+_________________________________                              _______________
+Laura Horwitz, Secretary                                                        Date

@@ -1,0 +1,168 @@
+{
+  "name": "Regular Meeting",
+  "description": "Library Board",
+  "unique": "B8HRA7658EED",
+  "date": "2019-08-19T00:00:00Z"
+}
+
+---
+
+ST. LOUIS COUNTY LIBRARY DISTRICT
+MEETING OF THE BOARD
+HEADQUARTERS
+1640 SOUTH LINDBERGH BLVD.
+MONDAY, AUGUST 19, 2019
+The monthly meeting of the Board of the St. Louis County Library District was held at the Headquarters Branch, 1640 South Lindbergh Blvd., St. Louis, MO 63131 on Monday, August 19, 2019 at 3:30 p.m. The agenda was posted in all branches of the Library District at least 24 hours before the meeting.
+ATTENDANCE:
+Members present:
+Dr. Lynn Beckwith, President
+Michael Mulligan, Vice President
+Elena Kenyon, Treasurer
+Dr. Chingling Tai, Secretary
+Dr. Beckwith said Edith Cunnane had an excused absence due to illness.
+ADMINISTRATORS AND GUESTS ATTENDING:
+Kristen Sorth, Library Director; Eric Button, Deputy Director; Barbara Turkington, Assistant Director, Advancement; Kris Mooney, Assistant Director, Administration; and Gib Van Cleve, Assistant Director, ITS.
+OTHERS ATTENDING:
+Skylar Stanley, Rachel Nowell, Tiffany Davis, Katie Keeven, Connie Dee, Sarah Brown, Annie Fuller, Paul Bayless, Amy Gibbons, Cierra Summers, Terra Baca, Julie Cruise, Keir Haug, Adeline Chow, Nicole Walsh, Emily Althoff, Anne Bradley, Anne Arthur, Tracy Fletcher, Jackie Hamilton, Mary Arnhart, Jennifer Alexander, Allison Wisniewski, Gina Sheridan, Yoli Buie, Will LaChance, Steve Hunter, Meg Coyle, Lauren Striebel, Stephanie Nordmann, Nora Marino, Bonnie Buhse, Patti Lee, Donna Spaulding, Liz Ruhbeck, Ross Brand, Nakisha Ford, Barb Reale, Anna Schurk, Marcia Green, Cheri Remington, Marie Conlin, Jennifer McBride, Natalia Catlett, Jake Eubanks, Scott Holl, Sarah Wood, Amy Hanaway, Aaron Loste, Andrea Johnson, Lauren Hoerr, Conrad Rader, Rebecca Clarke and Sandra Williams.
+APPROVAL OF MINUTES
+The Library Board approved of the July 15, 2019 minutes (Mulligan/Tai).
+TAX HEARING
+Michael Mulligan made a motion to open the Tax Hearing.  Chingling Tai seconded. All voted in approval.
+Tax Hearing
+Kristen Sorth reported that Missouri State Statute requires that a public hearing be held prior to the Library Board setting the 2019 tax rates. The four subclasses of property are residential, agricultural, commercial, and personal property.  As in prior years, the required legal notice must be published in one newspaper or in a minimum of three branch locations at least 7 days prior to the date of the hearing.  The attached notice was posted in all branches and headquarters on Monday, August 12, 2019 and the notice appeared in the St. Louis Post Dispatch on Wednesday, August 14, 2019.
+The tax hearing gives the public the opportunity to present their comments about the Library’s tax rates.
+The setting of the 2019 tax rates will take place at the September Library Board meeting.  Updated post Board of Equalization assessments for 2019 will be used to set the tax rates and will be available in September. Tax rates must be set prior to October 1, 2019.
+Dr. Beckwith asked if anyone wanted to address the Board concerning the tax hearing. No tax hearing patrons came forward.
+Michael Mulligan asked for the adjournment of the hearing. Elena Kenyon seconded. All voted in approval.
+THE REGULAR MEETING RESUMED
+PUBLIC COMMENTS
+There were no public comments.
+TREASURER’S REPORT
+Kris Mooney reported that, in July, the Library District received $83,015 in E-Rate rebates. The rebates help to cover the cost of the Library’s Internet and WAN services from Charter Communications. The Library District also received $16,106 in proceeds from the sale of four Library vehicles by Enterprise Fleet Management (EFM). At the November 2018 Board meeting the Library Board approved shifting from Library owned vehicles to leased vehicles from EFM. As the Library District converts current vehicles to leased vehicles, EFM will sell the vehicle and give the proceeds to the Library District minus a small commission.
+In July, the Library District paid Arcturis $64,315 for architect fees for the new Eureka Hills Branch.
+Capital Projects Fund Balance Sheet
+Total Construction in Progress for June 2019 was $383,047. The expenses included payments for:
+		Construction costs for Meramec Valley - $203,810
+		Construction costs for Thornhill - $121,663
+		Facilities Master Plan Administrator - $35,470
+The Library Board approved of the July 2019 Treasurer's Report subject to audit (Kenyon/Tai).
+DIRECTOR'S REPORT
+Library Director Kristen Sorth gave the following report.
+	Ms. Sorth stated that the dashboard report for April contains a variety of statistical information about circulation, visits, programming and PC usage. Ms. Sorth shared the report with the Board. With one branch closed for construction, circulation was up 18%. This is the first month the Library has ever exceeded a circulation of 1.5 million items. Visits, PC usage, and program attendance all increased in July. In addition, eMedia circulation reached an all-time high, increasing 22% over the same time last year. The top titles by circulation were also listed. (Plan: Maximize Access 2)
+	The Library offered binoculars for checkout starting July 22, 2019 in partnership with the St. Louis Astronomical Society and the St. Louis Audubon Society. Twenty pairs of binoculars have been added to the collection. Each pair comes with a waterproof case, a night sky viewing guide, and a Backyard Birds of Eastern/Central North American guide. The binoculars have already checked out 35 times and there are currently 90 patrons on the waiting list. We plan to add more units in the future to meet the demand. (Plan: Promote Literacy 3.4)
+	The Summer Lunch Program ended on August 8 with the start of the school year. Below are the final statistics for the summer of 2019. Nine branches participated.
+			Total Meals Served (All Branches): M-F
+			Pizza Friday - Total Eligible Children
+			14,698
+			5,320
+			Total Attendance (All Branches): M-F
+			Pizza Friday - Total Attendance
+			19,294
+			6,676
+			Average Daily Participation (All Branches): M-F
+			Pizza Friday - Average Participation
+			44
+			75.01123596
+Also, After School Meals started on August 12 at seven branches: Florissant Valley, Jamestown Bluffs, Lewis & Clark, Natural Bridge, Prairie Commons, Rock Road and Weber Road. (Plan: Sense of Community 2.1)
+	Ms. Sorth stated that the Library’s new pilot, in partnership with Oasis’ Intergenerational Tutoring program, was successful. Children in kindergarten through third grade had the opportunity to improve their reading skills during the summer months with this partnership.  From July 16 - August 8, tutors were available at Weber Road and Florissant Valley. Children participating in the free program worked one-on-one for 30-minute sessions with older adults who serve as tutors with the Oasis Intergenerational Tutoring Program, the largest older adults tutoring program in the U.S. The tutors worked with 108 children during the one-month pilot.  The Library plans to expand the program to additional branches in the summer of 2020. (Plan: Promote Literacy 2.1)
+	This summer, the Library launched a new pilot with Eye Thrive. Their Mobile Vision Clinic provided free eye exams and glasses for youth ages 4 – grade 12. The mobile clinic visited Natural Bridge, Weber Road, Rock Road and Lewis & Clark this summer. The Eye Thrive mobile clinic saw 293 kids at the Library this summer. Of those, 194 children received a free pair of glasses. We heard from many caregivers who were so thankful for these visits. There were many cases where an older child required a strong prescription and received their first pair of glasses at the visit. (Plan: Sense of Community 2.1)
+	The Reference Department recently met with Legal Services of Eastern Missouri to discuss a partnership that would include informational sessions at several branches and then a legal clinic at the same branches the following month. The partnership would begin in 2020. Ms. Sorth will continue to update the Board on this partnership. (Plan: Sense of Community 2.1)
+	More than 30 students have graduated from the COHS program, which has now been in place for more than 18 months. The original scholarships provided students up to 18 months to complete the program to earn the high school diploma. Several students have come to the end of the 18-month period without completing all of the required coursework. Gale, the vendor for the COHS program, offered an opportunity to purchase a one-time three-month extension for the scholarships. Staff assessed students who were strong candidates to receive a scholarship extension based on their commitment to completing the program in the three-month extension and invited four students to apply. If any of the four students are selected, a scholarship extension is $250 and will be covered by the scholarship funds for the COHS program. (Plan: Promote Literacy 3)
+	The Library hosted Hip Hop Architecture Camp again this summer. The camp took place at the Natural Bridge Branch from June 3 – 7, 2019. Twenty-nine kids attended the camp.  In addition to learning about architecture through the lens of hip hop, the camp attendees also created a music video. The video screening took place for the campers, their families, and camp volunteers on August 6 at the Natural Bridge Branch.  (Plan: Maximize Access 1.4)
+	Ms. Sorth announced that the partnership with the St. Louis Area Diaper Bank will begin at the end of this month. Two branches, Florissant Valley and Lewis & Clark, will serve as emergency distribution sites for diapers.  Starting on August 26, families can pick up a one-time supply of 50 diapers along with information about using diaper changing times as bonding and language development time at those branches. In addition, diapers and cognitive development information will be included in the Born to Read bags. The Library also plans to host a diaper drive at all 20 branches during Diaper Awareness Week, September 23-29, 2019.  (Plan: Sense of Community 2.1)
+	In 2018, the Library was selected as one of 12 libraries to join the Urban Libraries Council's Entrepreneur Peer Learning Cohort. The Library’s Reference Department has represented the Library in the cohort. For SLCL, the first year of the cohort focused on exploring methods of supporting entrepreneurs, especially people of color, women, immigrants, and veterans in St. Louis. The second phase will focus on helping women and people of color “cross the finish line” by starting businesses, securing funding and participating in support networks. ULC received a grant from the Kauffman Foundation and all travel expenses are paid for by ULC. (Plan: Maximize Access 1.4)
+	Library Headquarters is hosting the Little Readers Festival on Saturday, September 28 from 10:00 a.m.–1:00 p.m. This free event will feature a variety of activities for families including the PNC Mobile Learning Adventure, performances by Mr. Stinky Feet, story time with Llama Llama and more. Kids ages 5 and under will receive two free books and a shaved ice. (Plan: Promote Literacy 3)
+	As previously mentioned last month, the Library has created a new pilot program that will allow students at Ritenour High School to borrow Wi-Fi hotspots for the 2019-20 school year. The program is made possible by a $35,000 gift from Emerson. A distribution event will take place at Ritenour High School, on September 5 at 2:00 p.m. Representatives from Ritenour School District and the Library will gather to issue the 100 hotspots to students. Wi-Fi hotspots will allow Ritenour High students to access resources on the internet at any time to complete school assignments, including information from the Library’s subscription databases and other electronic resources available through the SLCL website. (Plan: Promote Literacy 3)
+	As mentioned previously, the Library reached out to the St. Louis Cardinals about a limited edition Library Card during National Library Card sign up month in September and they agreed.  The cards have been designed and are on order. The Library will announce their availability jointly with the St. Louis Cardinals. The cards will also be promoted on KMOX.  (Plan: Maximize Access 3)
+	The Library is partnering with the American Association of University Women to offer their free online program, "Work Smart" to patrons. The gender pay gap has far-reaching consequences on the financial security of women from all backgrounds. The AAUW's Work Smart self-paced free online program is designed to help women negotiate for a new job, raise, or promotion. AAUW is committed to closing the gender pay gap by 2030. The Library will start offering the programs in October at the four regional branches: HQ, Daniel Boone, Florissant Valley and Grant’s View. (Plan: Sense of Community)
+	There were mentions of the St. Louis County Library in the local media in print, radio and television. Those articles were shared with the Board. (Plan: Maximize Access 3)
+	There were a number of great photos to show the Board from several programs and events in July and August, including: Air in Action at Prairie Commons, Zumbini at Sachs, Author Charles Fishman at HQ, Craft Night at the Muny, Sweet Reads, Sheltered Reality Drumline at Jamestown Bluffs, American Creed: Community Conversations at HQ, Harry Potter Party at Weber Road, and Gift of Reading at Bridgeton Trails. (Plan: Promote Literacy 3.4 and Sense of Community 2.3)
+Library Administrative Updates
+	Ms. Sorth shared the 2020 Holiday Schedule. The schedule was established and approved many years ago and is included in the Library’s Personnel Manual.
+	The Jive phone conversion project is underway. Weekly calls with Jive are working through the details of the effort. The goal is to match the configuration of our current Shoretel system as closely as possible to simplify the transition process for staff. The phones have been delivered and training for ITS is in progress. A go-live date has been set for September 25.
+	The Service Desk has re-imaged two public access PCs with Windows 10 at each branch. This was done to give staff time to acclimate to Windows 10 before all public access PCs are converted. The Training Department has provided informational material on the differences between Windows 10 and Windows 7. Amy Gibbons will be coordinating with branches on re-image dates for each branch to complete the conversion effort. (Plan: Promote Literacy 3.1)
+	The History & Genealogy Department is now accepting applications for the Family History Ambassador Program. This program is open to full-time branch desk staff that are interested in helping patrons with beginning genealogical research and can act as point persons at their branches for the History & Genealogy Department. Candidates will attend orientation and training sessions provided by H&G staff. (Plan: Maximize Access)
+	Sharion Duncan in History and Genealogy has been chosen by the Missouri State Genealogical Association to receive the 2019 Certificate of Appreciation for her work as a cataloger of materials for History and Genealogy.
+	The Missouri Library Association has chosen Lewis & Clark Branch Manager Gina Sheridan as its 2019 Outstanding Professional Librarian. This award recognizes a person with an MLS degree who has made a significant contribution to the improvement and advancement of library and information services.
+	Lisa Watson at Natural Bridge received honors from the Iota Phi Lambda Sorority. During National Business Month, the sorority recognizes the accomplishments of local business professionals and entrepreneurs. Lisa was nominated by one of NB's beloved patrons for her 35 years of service at Natural Bridge Branch.
+	Ms. Sorth announced that she has been asked by the St. Louis County Executive to serve on the County’s Complete Count Committee. As discussed previously, libraries will play an important role in the 2020 Census. (Plan: Sense of Community)
+Library Construction and Facility Update
+	Ms. Sorth announced that the Mid-County Branch will open to the public on September 4, 2019 at 9:00 a.m. immediately following a ribbon cutting. This is the 18th branch to open since the Library began the construction phase of Your Library Renewed five years ago. (Plan: Maximize Access 2)
+	The Recreational Specialist for the Chesterfield Parks and Recreation Department contacted the Sachs Branch about including the Library in a permanent literacy walk in the Chesterfield recreational area. The City will install a series of fixtures that each display a 2-page spread from a children's storybook. The pages of the book are placed in order along a walk through the recreational area, where the Library is located. The fixtures would be installed in the reading garden at Sachs and would include the last two pages of the book.  Those following the walk will end up at the Library where they can spend time in the garden and visit the branch. We have agreed.  (Plan: Sense of Community)
+Library Foundation
+	PNC Bank will make an Early Childhood Education Announcement at a press conference on August 27.  The Library’s 1000 Books Before Kindergarten program, which was funded by PNC Bank, will be highlighted at the event. (Plan: Promote Literacy)
+	The Foundation recently approved two new Alison Grants. The first is to expand the reach of the MetroMarket. The grocery store on wheels will visit three additional branches, Indian Trails, Natural Bridge and Rock Road, for a total of six visits from October through November. Currently, the MetroMarket only visits Lewis & Clark.  In addition, the Foundation will fund a pilot program at Weber Road.  The branch will offer teen patrons an ACT prep course at the branch.  (Plan: Maximize Access)
+Author Events (Plan: Promote Literacy 1.2)
+Ms. Sorth shared the following upcoming author programs.
+	Lisa Lutz, author of The Swallows, Monday, August 19, 2019, 7:00 p.m., Headquarters.
+	Fiona Davis, author of The Chelsea Girls, Thursday, August 22, 2019, 7:00 p.m., Headquarters.
+	Téa Obreht, author of Inland, Tuesday, August 27, 2019, 7:00 p.m., Headquarters.
+	David Lagercrantz, author of The Girl Who Lived Twice, Thursday, August 29, 2019, 7:00 p.m., Headquarters, Doors open at 6:00 p.m.
+	Ben Westhoff, author of Fentanyl, Inc., Wednesday, September 04, 2019, 7:00 p.m., Headquarters, Doors open at 6:00 p.m.
+	Joseph LeDoux, author of The Deep History of Ourselves, Monday, September 09, 2019, 7:00 p.m., Headquarters, Doors open at 6:00 p.m.
+	Christopher Leonard , author of Kochland, The Secret History of Koch Industries and Corporate Power in America, Wednesday, September 11, 2019, 7:00 p.m., Headquarters, Doors open at 6:00 p.m.
+	Shannon Hale and LeUyen Pham, authors of Best Friends (sequel to Real Friends), Tuesday, September 17, 2019 6:30 p.m., Headquarters, Doors open at 6:00 p.m.
+Dr. Beckwith commented that the ACT is very important, and he’s glad the library is offering this opportunity to students.
+OLD BUSINESS
+None
+NEW BUSINESS
+CONSTRUCTION UPDATE
+Kelli Reeves, Facilities Specialist, presented the construction report. Pictures of Mid-County were shared with the Board.
+Ms. Reeves said that the Library is working through the design for interior spaces at Eureka Hills Branch.
+LIBRARY BOARD ORGANIZATION
+The Library Board’s ByLaws Article 1, Section 5 states as follows: “The officers of the Board of Trustees shall be a President, Vice-President, Secretary and Treasurer who shall be elected annually at the August meeting of the Board and shall hold office for a period of one year.”
+The current officers and members of the Board are as follows:
+President                     Dr. Lynn Beckwith, Jr.
+Vice-President            Michael Mulligan
+Secretary                     Dr. Chingling Tai
+Treasurer                     Elena Garcia Kenyon
+Member                       Edith Cunnane
+Library Director Kristen Sorth called for nominations for Board officers.
+Mike Mulligan nominated Dr. Lynn Beckwith for President; Elena Kenyon seconded.  The motion passed.
+Elena Kenyon nominated Mike Mulligan for Vice President; Chingling Tai seconded. The motion passed.
+Mike Mulligan nominated Chingling Tai for secretary, Elena Kenyon seconded.  The motion passed.
+Treasurer – Chingling Tai nominated Elena Kenyon for treasurer; Mike Mulligan seconded. The motion passed.
+All members were re-elected by acclamation.
+BOARD BYLAWS (CODE OF ETHICS) POLICY
+Kristen Sorth reported that State Statute provides that the Board may approve an ethics policy governing the filing of disclosure reports every two years. The approved policy must be sent to the Missouri Ethics Commission by September 1. The attached resolution outlines the Library Board’s commitment to the proper operation of the Library District through a Code of Ethics, including the filing of financial disclosure reports.
+The Library Board approved the Administration recommendation approval of the resolution as reviewed by the attorneys at Lashly & Baer (Kenyon/Mulligan).
+LIBRARY BOARD MEETING DATES-2020
+Kristen Sorth reported that the Library Board approves meeting dates for the subsequent year each August so that meeting rooms can be reserved. The following dates were presented for the Library Board and Pension Board.
+Library Board                                   Pension Board
+January – No meeting                         January 27
+February 3                                           March 16
+March 16                                             April 20
+April 20                                               July 20
+May 18                                                October 19
+June 15
+July 20
+August 17
+*September 28
+October 19
+November 16
+December 21
+Unless otherwise stated, all meetings will be held at Headquarters per the Library Board ByLaws and will start at 3:30 p.m. The Tax Hearing is held in August each year. The Pension Board is scheduled to meet at 2:45 p.m. unless otherwise noted.
+*This is a change from the 3rd Monday to the 4th Monday.
+The Library Board approved the Administration’s recommendation of the 2020 Board meeting dates and locations as presented (Tai/Mulligan).
+PETITIONS, DEMONSTRATIONS, SURVEYS AND ELECTIONEERING POLICY
+Eric Button presented Administration’s recommendation for the Petitions, Demonstrations, Surveys and Electioneering Policy.
+Mr. Button reported that Library Administration is seeking approval of revisions to the Petitions, Surveys, and Electioneering Policy, and approval to rename the policy “Petitions, Demonstrations, Surveys and Electioneering Policy.”
+This policy revision applies the same procedures for demonstrators as the policy does for petitioners and survey takers. The proposed policy clearly describes activities which are permitted as well as those behaviors or activities that are prohibited. Legal counsel has reviewed the proposed policy.
+The Library Board approved the revisions to the Petitions, Surveys, and Electioneering Policy and approval of the name change to Petitions, Demonstrations, Surveys, and Electioneering Policy (Tai/Kenyon).
+DIVERSITY AND INCLUSION TRAINING
+Mary Arnhart presented Administration’s recommendation for Diversity and Inclusion Training in late 2019 and early 2020.
+Ms. Arnhart reported that the Library will be offering diversity and inclusion training to employees. This training will be required for all Library employees.  The Library Administration requested the submission of qualifications from qualified firms to provide this training. The company selected will provide diversity and inclusion training services for employees of the St. Louis County Library. The Scope of Services was shared with the Board.
+The RFQ was issued on June 12, 2019 and responses were due on July 9, 2019.  Three firms responded to the RFQ.  Kristen Sorth, Mary Arnhart, and Matt Lakin independently reviewed and ranked three proposals.  Fees were reviewed after the ranking per the Library’s policy. The firms are listed below in the order chosen along with their corresponding fees.
+It is determined that Practical Diversity Solutions demonstrates competence, is most qualified, and has fair and reasonable fees. One of the owners of this company provided the diversity and inclusion training previously at the Library in 2016. Employees gave positive reviews and we were pleased with the training presentation.
+The Library budgeted $15,000 for this training. All three bids were over the budgeted amount.  Payments will be disbursed between two budget years (2019-2020). The 2020 Library Budget will include diversity and inclusion training.
+The Library Board approved the Administration’s recommendation to select Practical Diversity Solutions to provide the diversity and inclusion training to the Library District and that it authorize the Director to enter into and execute a contract to that effect. It is determined that Practical Diversity Solutions demonstrates competence, is most qualified, and has fair and reasonable fees of $30,072. This is in accordance with the Library District’s Policy II for Professional Services. The 2019 Library Budget includes $15,000 for diversity and inclusion training. The Library will pay for services for the training in both the 2019 and 2020 budget years (Mulligan/Tai).
+EASEMENT AT MID-COUNTY
+Kristen Sorth presented Administration’s recommendation for Easement at Mid-County.
+Ms. Sorth reported that the new Mid-County Branch in Clayton is scheduled to open to the public on September 4, 2019. The Library is presenting a permanent landscaping and maintenance easement for the City of Clayton.
+The Library Board approved the recommendation of Administration to authorize the Director to negotiate and execute an Easement Agreement with Clayton related to a new landscaping and maintenance easement (Kenyon/Tai).
+EXECUTIVE SESSION
+Motion to adjourn open meeting and to convene Executive Session to discuss legal matters (Section 610.021(1)) (Kenyon/Mulligan).
+Board meeting adjourned at 4:23 p.m.
+Respectfully submitted,
+____________________                                                                    ________________
+Chingling Tai, Secretary                                                                     Date

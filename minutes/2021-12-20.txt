@@ -1,0 +1,211 @@
+{
+  "name": "Regular Meeting",
+  "description": "Library Board",
+  "unique": "BX328S7CAB03",
+  "date": "2021-12-20T00:00:00Z"
+}
+
+---
+
+ST. LOUIS COUNTY LIBRARY DISTRICT
+MEETING OF THE BOARD
+HEADQUARTERS BRANCH
+MONDAY, DECEMBER 20, 2021
+The monthly meeting of the Board of the St. Louis County Library District was held at Headquarters, 1640 S. Lindbergh Blvd., St. Louis, MO 63131 on Monday, December 20, 2021 at 2:00 p.m. The agenda had been posted in all branches of the Library District at least 24 hours before the meeting.
+ATTENDANCE:
+Library Board Members:
+Dr. Lynn Beckwith, President
+Johnny Wang, Vice President
+Ted Sanditz, Treasurer
+Joan Barry, Secretary
+Deborah Patterson, Member
+ADMINISTRATORS AND GUESTS ATTENDING:
+Kristen Sorth, Library Director & CEO; Eric Button, Deputy Director; Barbara Turkington, Assistant Director, Advancement; Laura Taylor, CFO; Gib Van Cleve, Assistant Director, ITS; Steve Hunter, Assistant Director, Operations; Paul Hampel, St. Louis County; and Lisa Stump, Attorney, Lashly Baer.
+Others Attending:
+Jackie Hamilton, Melissa Bauer, Skylar Stanley, Alaina Culbertson, Jennifer McBride, Mary Arnhart, Kim Ford, Lori Boschert, Aaron Seidel, Allison Wisniewski, Kalin Preston, Megan Phifer-Davis, Matt Lakin, Annie Fuller, Stacey Berger, Will LaChance Andrea Carter, Katie Keeven, Sarah Wood, Miriam Whatley, Kat Van Arsdale, Emily Althoff, Conrad Rader, Terra Sleep, Anna Schurk, Heather Neill, Ross Brand, Michelle Hawkins, Laura Kasak, Stephanie Nordmann, Sarah Brown and Sandy Williams.
+MINUTES
+The Library Board approved the November 15, 2021 minutes (Wang/Sanditz).
+PUBLIC COMMENTS
+There were no patrons requesting to appear before the Board.
+TREASURER'S REPORT
+Laura Taylor, CFO, gave the following report.
+Revenue
+	District Taxes – In November, the Library District received tax revenue in the amount
+of $76,644. Year-to-date, total tax revenue for 2021 is at 101% of the budgeted $58.5
+million.
+	E-rate Discounts – In November, the Library District received $90,061 in E-rate
+rebates. The rebates help to cover the cost of the Library’s Internet and WAN services
+from Charter Communications.
+Expense
+	Grant Expense – In November, the Library District paid $17,148 to B&H Photo-Video
+for Chromebooks with funds received from the American Rescue Plan Act. Year-to-date total grant expense is $134,260.
+	Building Repair - HVAC – In November, the Library District incurred $84,100 in Building Repair – HVAC expenses. Notable expenses are as follows:
+	$73,329 to replace a condenser at Cliff Cave – Rock Hill Mechanical Corp
+Capital Projects Fund Financial Statements
+Balance Sheet – 2016 Debt Issuance
+	Construction in Progress – Total Construction in Progress for November 2021 was $1,873,874. The expenses included payments for:
+	Pay Application from Interior Construction Services for the construction performed through October 2021 at the Lynn Beckwith Jr. Administrative Building for $1,206,230.
+	Pay Application from the Lamar Johnson Collaborative for professional services performed through October 2021 at the Ladue Branch for $314,428.
+	Pay Application from ConvergeOne for network switches at the Lynn Beckwith Jr. Administrative Building for $73,795.
+The Library Board approved the December 2021 Treasurer's Report subject to audit (Sanditz/Wang).
+DIRECTOR & CEO’S REPORT
+Library Update
+	Ms. Sorth shared the Dashboard report for November with the Board.  Total circulation in November, 2021 was 55% higher than November, 2020.  Circulation remains below pre-pandemic levels; however, we continue to circulate over a million items each month.  eMedia circulation this year is consistently 30% higher than our monthly pre-pandemic totals.  The Library presented 385 programs, most of which were virtual, with a total of 16,898 attendees.  Twelve of those were author events with 9,830 attendees.  She said we continue to see an increase in new patrons with 4,881 individuals registering for library cards in November.  Information on PC usage, new patron registrations, virtual programming attendance and the most popular titles for the month are also included.  (Plan: Promote Literacy 1.1 and 1.2)
+	The Library moved to "masks recommended" for the public on December 10.  Employees are still required to wear masks. (Plan: Maximize Access 2.4)
+	There will be a gradual launch of in-person programming in January, 2022.  We have set the following parameters for programming for January and February and will reevaluate these for future months based on our experiences.  The Department of Public Health was consulted on these plans:
+		The Library will not offer in-person children's programming during this time.  Only adult and teen programming may be offered.  (Exception:  Book Buddies will be in-person starting in February, but it is a one-on-one program, not a group gathering).
+		All programs will require registration and will have limited capacity.  Capacity will be based on the nature of the program, and will be determined by the branch or department presenting the program.
+		The Library will not utilize outside presenters.
+		The Library will have a soft launch without extensive marketing and promotion.
+		Masks will be required during library programming.  This requirement will be clearly communicated to registrants.
+		Book-a-Trainer, Book-a-Librarian, and Book-a-Genealogist services and Computer Classes may resume in-person.
+All of this information is subject to change as the status of the pandemic evolves. Our decision making will be guided by conversations with the Department of Public Health as well as current data on COVID-19 in the community.  (Plan: Maximize Access 2.4)
+	Ms. Sorth said the Indian Trails Branch will become the sixth Library branch to provide a monthly supply of diapers, as well as period supplies, through our partnership with the St. Louis Area Diaper Bank.  The Branch joins Florissant Valley, Grand Glaize, Lewis & Clark, Natural Bridge and Weber Road branches in providing these resources.  The Diaper Bank expressed a desire to better serve clients in University City and nearby areas included in the Indian Trails service area.  Diapers and period supplies will be available at Indian Trails in early 2022.  This partnership is supported by the St. Louis County Library Foundation. (Plan: Sense of Community 2.1)
+	A generous gift from Commerce Bank provided funding for the Library to expand the Vox Books and Wonderbooks collections for children.  These books feature an integrated read along player so children can listen to the stories while following along in the book. (Plan: Promote Literacy 2.1)
+	A meeting has been scheduled with Scott Anders, the Director of the County Justice Center (CJC), to discuss how the Library can provide access to library materials and programs through the tablets that were recently acquired by the CJC. (Plan: Sense of Community 2.2)
+	Work is progressing with the Polaris ILS migration.  A test database has been created using actual records from our current Sierra database.  This database will be used during the extensive training that will begin in January and continue through early March.  Approximately 500 employees will receive training on various aspects of Polaris.  Most of the training will be offered on site and in-person.  The in-person training will be supplemented by webinars and other virtual training sessions.  Our go-live date is set for March 17.  (Plan: Promote Literacy 3.3)
+	In order to prepare for the migration of records from our Sierra database to the new Polaris integrated library system (ILS), there will need to be a temporary suspension of new inter-library loan (ILL) and MOBIUS requests starting on January 2.  This will pause requests from our patrons as well as requests from other libraries to borrow SLCL materials for their patrons.  This is necessary because the virtual records that are created to track ILL and MOBIUS loans cannot be transferred into Polaris.  We will have to manually track any virtual records that are not cleared at the time of final migration to the Polaris system.  With approximately 5,000 virtual records created each month for borrowing or lending, the volume of manual work would be unmanageable.  A thoughtful, multi-pronged communication plan has been developed for patrons to alert them of this disruption in service. (Plan: Maximize Access 3.2)
+	Library patrons now have access to VetNow from Brainfuse.  This amazing resource for veterans and their families was provided by the Missouri State Library to all public libraries in Missouri.  It has similar offerings to Tutor.com including:
+		Live online coaching by VetNow Navigators, veterans trained to help their peers connect with valuable benefits and resources, answer questions related to beneﬁts eligibility, refer patrons to applicable community resources for housing, healthcare, and education beneﬁts, and assist patrons with locating accredited claims agents.
+		Job tools designed to help with all stages of the job-hunting process, the VetNow Job Tools feature career coaching, expert resume assistance, live interview preparation, and more.
+		Users build academic skills and prepare for college with VetNow's array of tools, including:
+			Interaction with live tutors in a wide range of college level subjects
+			Live skills tutoring and an extensive library of lessons, video tutorials, and practice tests including SAT, ACT, TEAS, HESI, GRE, GMAT, and more
+			Live or asynchronous expert analysis of writing, complete with constructive comments
+			24/7 help with academic questions (Plan: Sense of Community 2.2)
+	She announced that Reference hosted the Virtual Small Business & Nonprofit Expo online, December 6-10 and had a total of 287 attendees.  They offered seventeen classes on a wide variety of business topics, taught by librarians as well as the following outside groups: Small Business Administration (SBA), Small Business Development Center, MO Department of Labor, Urban League, VetBiz, United Way and Grow with Google. Topics included: business plans, marketing, google ads, government contracts, financial empowerment, trademarks, finding grants, business tax, and personal and business credit. They also offered nine sessions where patrons could meet one-on-one with lawyers, SBA representatives, and librarians to get answers. (Plan: Promote Literacy 3.2)
+	The Urban Libraries Council developed a Small Business Value Calculator that measures the dollar amount of small businesses services and resources that a public library has provided to the community.  By multiplying usage statistics by the market value of those services and resources, the calculator determines how much value the Library provided to business owners and entrepreneurs. The ULC Calculator helped us determine that in the past 3 years, St. Louis County Library has provided $122,844,520 in value to our small business community by providing resources and services for training, education, and research as well as physical spaces, technology and equipment. Since COVID began, we have provided over $52,000,000 in value to small businesses and entrepreneurs. The ULC Calculator was inspired by SLCL’s Small Business Value Calculator.  Reference Manager Jennifer Gibson recently co-presented with the ULC about these ROI tools at the Internet Librarian Conference and at the recent soft launch of the calculator at the ULC Director’s meeting. Jennifer is also being interviewed this week by Bloomberg’s CityLab about the value calculator and libraries supporting entrepreneurs. (Plan: Maximize Access 3)
+	Reference Librarian, Hillary Peppers, has sixteen outreach events to senior living facilities in December.  She presents information on eMedia and electronic resources available at the Library. (Plan: Sense of Community 2.3)
+	In February, representatives from the American Association of Retired Persons (AARP) and the County Older Residents Program (CORP) will provide free in-person tax assistance at seven branches.  The AARP will be at Grand Glaize, Indian Trails, Lewis & Clark, Natural Bridge and Rock Road branches. CORP will be at Grant’s View and Daniel Boone. Over 1,000 appointments will be available at the AARP Tax-Aide sites alone. Customer Connect will start making appointments for AARP Tax-Aide on Wednesday, January 12, 2022. (Plan: Sense of Community 2.1)
+	Reference managers Jennifer Gibson and Megan Phifer-Davis trained employees at three other local libraries (St. Louis Public Library, Maplewood Public Library, and Brentwood Public Library) on how to provide reference by mail to correctional facilities after they saw the Reference Departments presentation at the MLA 2021 Conference. (Plan: Sense of Community 1.3)
+	One of the local authors who uses our Biblioboard platform has won the fourth annual Indie Author Project contest.  The 2021 Missouri Author Project Adult winner is Southern Spirits by Angie Fox.  The contest ran in 14 U.S. states and two Canadian provinces and fielded close to a thousand submissions from indie authors of all types. These books are available with unlimited, multi-user access on BiblioBoard Library and OverDrive.  From these regional winners, one overall Indie Author of the Year will be chosen by a panel of industry experts. (Plan: Promote Literacy 3.4)
+	All Bookmobile employees participated in an employee training day in November. They were trained on customer service and teamwork development.  The Library’s insurance company gave a presentation on defensive driving and heavy lifting.  (Plan: Sense of Community 1,3)
+	This round of Virtual Book Buddies ended November 17. The six-week program was held two nights weekly on Zoom.  Pairs were placed in breakout rooms for read aloud practice, and teens earned volunteer hours. 57 kids and 39 teens participated. Here are a few of the comments from Parents/Caregivers:
+		My daughter’s reading level was below grade level a year ago. This is her 3rd round of Virtual Book Buddies. Combined with other strategies, she is now on grade level for reading.
+		My son has loved this program so far. He is actually excited to read, which is such a breakthrough for him! I am actually trying to incorporate this zoom read along method during the week with family to encourage the reading out loud.
+		Our family situation surviving Covid has taken away a lot of freedoms and powers that a normal 6/7 year old should normally start earning around this age. We have loved book buddies because it gives our son 30 minutes to be in charge, to be the leader, to have all eyes on him and uninterrupted attention. (Plan: Promote Literacy 2.1)
+	System Administration will be implementing a new telephone notification system for sending phone messages when patrons have holds ready for pickup. The new system is managed by Unique Management Services. One major advantage of the new system is that it does not require the Library to maintain a server or analog phone lines. Another advantage is that the phone messages will now display the library name and main phone number to a patron’s caller id. The new system will be in place on January 3.  (Plan: Maximize Access 3.2)
+	The Library will continue to provide vital services to the region.  Here is a chart that shows our accomplishments as of December 15, 2021.  Weekly vaccination clinics at four branches – Lewis & Clark, Natural Bridge, Florissant Valley and Rock Road are ongoing.  Those locations are now also offering the COVID vaccine for children.  The current chart below reflects data for 2021 only. (Plan: Sense of Community 2.1)
+	There were many mentions of the St. Louis County Library in the local media in print, radio and television.  Those articles are attached. (Plan: Maximize Access 3)
+	Pictures were shown from various events and programs that have taken place over the last month including:  Author John McManus at HQ, NASA @ My Library, Author Betsy Cohen at HQ, Branch Update – HQ, Virtual Programs- Crafting fun - Turkey Cards and Decorating with Herbs, Grab & Go Meals at Lewis & Clark, and Author Tony Messenger. (Plan: Promote Literacy 3.4 and Sense of Community 2.1)
+Library Administrative Updates
+	Ms. Sorth announced that St. Louis County Library has been ranked as a four-star library in the 2021 Library Journal Index of Public Library Service. The rank of four stars indicates a high per capita use in seven major areas of library service: physical circulation, circulation of electronic materials, library visits, program attendance, public internet computer use, Wi-Fi sessions, and retrieval of electronic information. SLCL is the only library in the St. Louis region to receive a star rating.  In terms of Missouri, there were six other libraries that received a star rating. The next closest in size to us are Kansas City Public Library and Springfield-Green County Library.  The other four libraries receiving a star designation are smaller library districts - North Kansas City, Carrollton, Mountain View City and Lewis Library.
+	The Library celebrated employees each day during the week of December 6th by highlighting the accomplishments of the branches and departments with a daily email to employees.  Each day, the highlighted branches and departments also received bagels from Panera. Managers sent in great information about their branch and department ahead of time. Every employee will also receive a long-sleeve Library logo shirt along with a water bottle that includes the Library’s logo.  The activities of the Employee Engagement week are sponsored by the St. Louis County Library Foundation. (Plan: Sense of Community 1.3)
+	The ongoing training program for all employees continues to be well received. We are finishing the year with Google Sheets as the topic. The 2-hour training has introduced new concepts or skills for employees to use professionally or personally. Employees have been thankful and have expressed their gratitude. The topics for the beginning of 2022 are Time Management, Body Language and Google Docs. (Plan: Sense of Community 1.3)
+	In 2021, the Library’s social media has grown to 26,000+ Facebook fans, 12,880+ Twitter followers and over 6k followers on Instagram. Throughout December, Communications has been sharing photos of employees with their favorite book of the year on Instagram. (Plan: Maximize Access 3.3)
+	Ms. Sorth announced that Communications is designing a new logo for the 2022 Storytelling Festival, along with a marketing plan to include a website, brochure, digital assets, social media promos, emails, paid advertising, stage dressing, and commercially produced bookmarks and/or postcards. (Plan: Maximize Access 3.1)
+	Information from the Hicks Carter Hicks report was shared on the Library’s website–on the homepage under What’s Happening, and also on the Diversity and Inclusion Resources page. A blurb about the report will be included in the January eNews, which is emailed to approximately 150,000 cardholders. (Plan: Sense of Community 1.1)
+	A Request for Qualifications (RFQ) for the Drupal 9 upgrade and web hosting was posted on December 3.  Responses are due in early January.  Recommendations will be presented to the Library Board at the February Board Meeting. The current version of the Library District’s website was launched in 2017 and is running on Drupal 7, which will reach end of life on November 28, 2022. A vendor is being selected to upgrade the current Drupal 7 platform to Drupal 9. (Plan: Maximize Access 3.4)
+Library Construction and Facility Update
+	She said the Zoning and Planning Commission for the City of Ladue unanimously approved the Library’s plans for the new branch that will be located where HQ stands today.  The Library’s architects and engineers, Steve Hunter and I attended the meeting on November 17.  We answered questions from the Commission and a few members of public prior to the vote. (Plan: Maximize Access 2.1)
+	The Library received notice that the Missouri Highways and Transportation Commission (MoDOT) is planning a sidewalk improvement project along Lindbergh Boulevard. This includes bringing all access points to ADA standards. MoDOT will be offering nominal compensation in exchange for access to the Library’s property for the work. We will attempt to coordinate their work with our own property improvements during the demolition and construction of the new Ladue Branch.
+	The Library encourages Minority and Women Business Enterprise participation in all construction projects. Goals of 15% MBE and 5% WBE are included with each Request for Proposal. For construction of the new Lynn Beckwith, Jr. Administrative Building, ICS Construction Services included 15.3% MBE-certified subcontracts in their proposal. We are very happy to report that in addition to that ownership stake, actual minority worker participation, or “boots on the ground”, has been averaging 14% for the project and hit 22% for the month of November. To date, this is the highest percentage on any project during the entire Your Library Renewed campaign.
+Library Foundation
+	The Foundation’s Annual Appeal is on track to meet and potentially exceed the 2020 appeal with $61,445 in donations resulting from a total of 388 gifts.  The appeal has resulted in 42 new Friends of the Library.
+	During the pandemic, the Library has partnered with HEC to present virtual author events. We jointly presented 105 virtual author events this year.  The Library also hosted four in-person author events this year as well.  The Tony Messenger author event was the first in-person author event to be simultaneously live streamed.  This allowed viewers to enjoy the event in real time.  The Library received positive feedback on the event and the quality of the live stream.  The response has been overwhelming to both the virtual and in-person events. There were over 400,000 views to the author event programming.  The events have been viewed nationally and internationally.  The partnership has been touted as a model for other libraries locally, statewide and nationally. (Plan: Maximize Access1.1)
+	The Library was notified of the following grant awards:
+		Show Me Steps Grant, $917.40 – St. Louis County Library will bring in Jason Lindsey, aka “Mr. Science,” an educator, author, meteorologist and STEM Certified Master Trainer on February 25, 2022 for an all-day training at the Daniel Boone Branch.  Library employees serving youth will attend, and we will be able to accommodate employees from nearby library districts as well.  Jason Lindsey, is a nationally-recognized STEM educator, science multimedia journalist, digital meteorologist, and author. (Plan: Promote Literacy 3)
+Author Events (Plan: Promote Literacy 1.2) were shared with the Board.
+The Library will have Livestream author events and recordings with the following authors. They are posted on our website as well as the HEC Facebook link - facebook.com/hectv and then archived at hecmedia.org. We are promoting on our social media and sending eblasts that direct patrons to the HEC sites. HEC has also started simultaneously premiering the virtual author events on their TV channel to expand access to those individuals who do not have reliable internet access. (Plan: Promote Literacy 1.3)
+January, February and March Author Events +
+	James Rollins, author of “The Starless Crown,” Thursday, January 6, 2022, 7:00 p.m., in person at Headquarters, 1640 S. Lindbergh Blvd. MASKS REQUIRED FOR ALL ATTENDEES.
+Doors open at 6:00 p.m. *A virtual component of this event will broadcast through this link: facebook.com/STLCoLibrary on Wednesday, January 12, 7:00 pm. Sophie Burrows, author of “Crushing,” Video premiere: January 13, 2022 7:00 p.m. on www.facebook.com/STLCoLibrary.
+	Alafair Burke, author of “Find Me,” Tuesday, January 18, 2022, 7:00 p.m. Virtual, Video premiere: on www.facebook.com/STLCoLibrary.  Conversation hosted by Alafair’s friends and fellow bestselling suspense authors Michael Connelly and Michael Koryta.
+	Lisa Lutz, author of “The Accomplice,” Monday, January 31, 2022 7:00 p.m., Virtual Video premiere: January 31, 7:00 p.m. on www.facebook.com/STLCoLibrary. In conversation with internationally bestselling suspense author Megan Abbott.
+	Laura Coates, “Just Pursuit: A Black Prosecutor’s Fight for Fairness,” Keynote event - SLCL 2022 Black History Celebration Friday, February 4, 7:00 pm - IN-PERSON
+	Robert Child, “Immortal Valor: The Black Medal of Honor Winners of World War II,”
+Black History Celebration Program Monday, February 8, 7:00 pm – VIRTUAL.
+	Mashama Bailey and John O. Morisano, “Black, White and the Grey: The Story of an Unexpected Friendship and a Beloved Restaurant:  2022 Black History Celebration Program in Partnership with Sauce Magazine Saturday, February 26, 7:00 pm - IN-PERSON.
+	Joel J. Schwartz and Charles Bosworth, Jr. - “Bone Deep: Untangling the Betsy Faria Murder Case.” In Conversation with St. Louis Post Dispatch reporter Robert Patrick
+	C.J. Box, “Shadows Reel: A Joe Pickett Thriller” Wednesday, March 9, 7:00 pm - IN-PERSON
+	 Ridley Pearson, “Kingdom Keepers: Inheritance” Monday, March 14, 6:30 pm - IN-PERSON A Youth Event Presented by the Reading Garden Event Series
+	Brad Meltzer, “The Lightning Rod: A Zig and Nola Novel,” Friday, March 18, 7:00 pm - IN-PERSON.
+Deborah Patterson asked about the HVAC units in the branches. Steve Hunter said he would get back to her with the information. Ted Sanditz was impressed with the small business calculator information. Dr. Beckwith inquired about the in-person Black History Celebration programming. He was also impressed with the article regarding Bobby Bostick.
+OLD BUSINESS
+2022 Library Budget
+Laura Taylor, CFO, presented the report.
+The 2022 Budget document was prepared and approved by the Budget
+Committee consisting of the following individuals:
+Kristen Sorth – Director and CEO
+Eric Button – Deputy Director
+Barbara Turkington – Assistant Director, Advancement
+Gib Van Cleve – Assistant Director, ITS
+Steve Hunter – Assistant Director, Operations
+Laura Taylor – Chief Financial Officer
+The 2022 Budget document is attached.  The Library Budget is a spending guideline for the upcoming year. Projects discussed in the Budget document will be individually presented to the Library Board for review and approval during 2022 as outlined in the Library Board’s By-Laws. The Budget Revision is presented to the Library Board in September.
+The Library Board of Trustees set the 2021 tax rates at $0.2060 for Residential assessments, $0.1860 for Agricultural assessments, $0.2340 for Commercial assessments and $ 0.2600 for
+Personal Property assessments. These rates will provide 98% of the cash income to operate in
+2022. The Executive Summary on page 2 and the Revenue and Expenses on page 4 - 7 are a synopsis of the proposed 2022 Budget. The 2022 Budget has a surplus of $718,500.
+RECOMMENDATION: The 2022 Budget was presented at the November Library Board meeting as an informational item to give the Library Board time to review the Budget document, ask questions and for Administration to respond accordingly. The Administration is recommending approval of the 2022 Library Budget, which will allow the Library to operate in 2022.  The Library Board approved the recommendation (Barry/Patterson).
+NEW BUSINESS
+CONSTRUCTION UPDATE
+Steve Hunter, Assistant Director, Operations, reported that work is ongoing at the Beck. Polished concrete floors, stone, glass and brick have also been added. He is currently waiting on windows to be set in the lower level. He anticipates the builders will have the entire project completed in the spring.
+He announced that there is a Ladue City Council meeting later today to review the construction plans.
+ADDITIONAL CONTINGENCY FOR THE LYNN BECKWITH JR. ADMINISTRATIVE BUILDING
+Steve Hunter, Assistant Director, Operations, presented the report.
+On September 28, 2020, the Board selected ICS Construction Services to build the new Lynn Beckwith, Jr. Administrative Building on Spoede Road. Board approval was also given for a contingency fund of $551,950 (3.5% of the construction cost).
+Spending against the contingency fund is now approaching the 3.5% limit set by the Board 15 months ago. Administration is requesting an expansion of the contingency fund to 5%, which is allowed by the Library’s Purchasing Policy. The value of the fund will be increased to $788,500, or an additional $236,550.
+Per established process, the spending of this contingency fund will be approved by Kristen Sorth, Library Director & CEO and Steve Hunter, Assistant Director as needed during the execution of the project. The accounting of the expenditures against the contingency fund will be reported back to the Library Board.
+RECOMMENDATION: Administration recommends the Board approve expanding the contingency fund for construction of the Lynn Beckwith, Jr. Administrative Building from $551,950 to $788,500.
+The Library Board approved the recommendation (Wang/Patterson).
+SOCIAL WORKERS
+Eric Button, Deputy Director, presented the report.
+Library Administration is seeking approval of an agency to provide professional social work case management in response to the Library’s Community Resource Initiative.   Through the Community Resource Initiative, the Library District intends to engage with a behavioral health case management and social work organization to provide five (5) full-time, professional social workers for a period of two (2) years.
+Library employees are increasingly faced with challenging circumstances and complex patron needs that fall outside the scope of traditional library services.  The issues include, but are not limited to the following: food insecurity, housing insecurity, substance abuse, child abuse and neglect, and mental health conditions.  Social workers will be based at five branch locations, but they may provide services, support, programs, and employee training at any St. Louis County Library location.  The five locations that will act as a base of operations are Florissant Valley, Lewis & Clark, Natural Bridge, Rock Road, and Weber Road branches.
+The Library issued a Request for Qualifications (RFQ) on September 17, 2021, to identify qualified organizations and agencies to provide these services.  Responses were due on October 15, 2021.
+Kristen Sorth, Eric Button, and representatives of CSF reviewed the proposal submitted by Epworth.  The proposal was impressive and all parties agreed the agency should be interviewed to further evaluate Epworth.  The detail and design of the plan submitted by Epworth was exceptional, and the fee proposal was in line with professional services in the social work field.  All salary, benefits, and insurance are included in the cost of the Epworth proposal.  In addition, the proposal accounts for additional costs such as mileage, equipment costs, marketing, and supplies.
+The total cost for five full-time social workers and all supportive costs through Epworth for a period of two years is $629,595.  The Children’s Services Fund has committed to funding for two years.  Both the Library and the Library Foundation are budgeting for this expense in the 2022 budget, and it is anticipated that the expense will be included for both organizations in their 2023 budget.
+			Funding Source:
+			Total Amount:
+			Children’s Services Fund (2022-2023)
+			$429,000
+			St. Louis County Library Foundation (2022-2023)
+			$100,000
+			St. Louis County Library (2022-2023)
+			$100,000
+			TOTAL TWO YEAR COST
+			 $629,595
+RECOMMENDATION:  Library Administration recommends the approval of Epworth to provide professional social work services in response to the Community Resource Initiative at an annual expense of a projected $314,797.50 and a total projected two year cost of $629,595, and that the Board authorizes the Library Director to enter into and execute a contract with Epworth to provide professional social work services for the Library District.
+Deborah Patterson requested that the Epworth organization make a presentation to the Board at a later date. The Library Board approved the recommendation (Barry/Sanditz).
+PATRON CODE OF CONDUCT
+Eric Button, Deputy Director, presented this report.
+Library Administration is seeking approval of revisions to the Library Code of Conduct.  The proposed revision includes several minor changes in wording and descriptions.  One of those changes replaces language pertaining to bans or banning with the term suspensions, which is the language we now use to describe the action taken in response to significant violations of the Library Code of Conduct.  Another change is the addition of a new statement that directly addresses inappropriate behavior of a sexual nature.
+Following the best practices of many other libraries, and at the recommendation of legal counsel, Administration has developed a “suspension matrix.”  The matrix ensures that violators of the Library Code of Conduct receive consistently applied consequences based on the nature of the violation.  The matrix is divided into two categories: Adults (18+) and Minors (under 18).  Warnings and suspensions are applied using the following considerations:  the nature of the violation, the age of the offender, and whether it is a first offense or a repeat offender.
+RECOMMENDATION:  Library Administration recommends the approval of the revisions to the Library Code of Conduct and that the Library Director and CEO be granted the authority to revise the suspension matrix as necessary.
+Deborah Patterson and Johnny Wang asked about previous records, weapons and drug use.  A discussion ensued. The Library Board approved the recommendation (Barry/Sanditz)
+SHARED SERVICES AGREEMENT
+Kristen Sorth, Director and CEO, presented.
+The Shared Services Agreement defines the level of support provided by the Library to the Foundation and is a requirement of the Affiliation Agreement between the Library and the Foundation. In addition, the Foundation Board agrees to reimburse the Library for up to 100% of the salaries for the Manager, Development and the Friends Coordinator who utilize 100% of their time in performing services for the Foundation.
+The attached agreement reflects the level of support and was approved by the Foundation Board at their December 7, 2021 meeting. A copy of the document is attached.
+RECOMMENDATION: The Library Administration recommends approval of the annual Shared Services Agreement. This Shared Services Agreement is intended to replace the 2021 Shared Services Agreement which is effective until December 31, 2021, and the term of this 2022 Shared Services Agreement shall be from January 1, 2022 through December 31, 2022, unless the parties agree in writing to terminate earlier or to extend this 2022 Agreement.  The Library Board approved the recommendation (Patterson/Wang).
+NAMING RIGHTS REQUEST (KNIEP)
+Kristen Sorth, Director and CEO, presented the report.
+Stephany and Richard Kniep donated $53,361 to the St. Louis County Library Foundation for naming rights in support of the Ladue Branch Children's area. The Foundation believes it is fitting and well-deserved that the area at the Ladue Branch be named in honor of Stephany and Richard Kniep. The area will be named:
+Stephany and Richard Kniep Children's Space
+The St. Louis County Library Foundation Board approved the naming recommendation at the December 7, 2021 Foundation Board meeting. The Library Board of Trustees, per its naming policy, makes all final decisions on naming rights for Library buildings, rooms or features. The policy states that spaces may be named in recognition of individuals or groups who have made a significant financial or other contribution that advances the mission of the Library to serve its community. The full policy is attached.
+RECOMMENDATION: The Library Administration and the Library Foundation recommend approval of the naming of the Children's space at the Ladue Branch in honor of Stephany and Richard Kniep. The Library Board approved the recommendation (Sanditz/Barry).
+NAMING RIGHTS REQUEST (EMERSON)
+Kristen Sorth, Director and CEO, presented the report.
+Emerson donated $1 million to the St. Louis County Library Foundation for naming rights in support of the Ladue Branch, History and Genealogy Department. The Foundation believes it is fitting and well-deserved that the area at the Ladue Branch be named in honor of Emerson. The area will be named:
+Emerson Genealogy Center
+The St. Louis County Library Foundation Board approved the naming recommendation at the December 7, 2021 Foundation Board meeting. The Library Board of Trustees, per its naming policy makes all final decisions on naming rights for Library buildings, rooms or features. The policy states that spaces may be named in recognition of individuals or groups who have made a significant financial or other contribution that advances the mission of the Library to serve its community. The full policy is attached.
+RECOMMENDATION: The Library Administration and the Library Foundation recommend approval of the naming of the History and Genealogy Department at the Ladue Branch in honor of Emerson. The Library Board approved the recommendation (Barry/Wang).
+PENSION PLAN ACTUARIAL ASSUMPTION CHANGES
+Laura Taylor, CFO, presented the following.
+Milliman, the Library’s Pension Plan Actuary, reviews the methods and assumptions used in the annual actuarial valuation, which determines the Library’s annual contribution, funding percentage, and unfunded liability. At the October Pension Board meeting, Milliman presented the Pension Board with recommendations for a change in the mortality table and long-term expected returns.
+Milliman is recommending the mortality table assumption be changed as follows:
+	Current assumption: RP-2014 Mortality for Employees and Annuitants
+	Proposed assumption: Pub-2010 General Amount-Weighted Mortality Tables for Employees, Healthy Retirees, Disabled Retirees, and Contingent Survivors
+Milliman is also recommending changing the assumption on the long-term expected returns.
+	Current assumption: 7%, net of investment-related expenses
+	Proposed assumption: 6.75%, net of investment-related expenses
+The Pension Board reviewed Milliman’s recommendation and believes it is in the best interest of the participants in the Pension Plan to accept the recommended changes to the mortality table and long-term expected returns. The Pension Board approved the changes at the October Board Meeting.
+A summary of the changes is included in a report issued by Milliman and is attached for review.
+RECOMMENDATION: The Pension Board recommends the Library Board accept Milliman’s recommendation to change the mortality table and long-term expected returns assumption. The recommendation will also authorize the Director and CEO of the Library to amend the Pension Plan document to incorporate the actuarial changes recommended by Milliman. The amendment is attached.  The Library Board approved the recommendation (Patterson/Wang).
+ADJOURN FOR EXECUTIVE SESSION
+Dr. Beckwith thanked everyone for their work throughout the year.
+Johnny Wang moved to adjourn Open Session meeting and to convene Executive Session to discuss personnel (Section 610.021) (3) and (13). Deborah Patterson seconded.  All gave voice approval.  Meeting adjourned at 3:05 p.m.
+Respectfully submitted,
+_______________                                                                              _______________
+Joan Barry, Secretary                                                                          Date
+.

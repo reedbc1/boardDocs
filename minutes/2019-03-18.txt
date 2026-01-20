@@ -1,0 +1,116 @@
+{
+  "name": "Regular Meeting",
+  "description": "Library Board",
+  "unique": "B8HR49653C6B",
+  "date": "2019-03-18T00:00:00Z"
+}
+
+---
+
+ST. LOUIS COUNTY LIBRARY DISTRICT
+MEETING OF THE BOARD
+HEADQUARTERS
+1640 SOUTH LINDBERGH BLVD.
+MONDAY, MARCH 18, 2019
+The monthly meeting of the Board of the St. Louis County Library District was held at the Headquarters Branch, 1640 South Lindbergh Blvd., St. Louis, MO 63131 on Monday, March 18, 2019 at 3:30 p.m. The agenda was posted in all branches of the Library District at least 24 hours before the meeting.
+ATTENDANCE:
+Members present
+Dr. Lynn Beckwith, President
+Michael Mulligan, Vice President
+Elena Kenyon, Treasurer
+Dr. Chingling Tai, Secretary
+Edith Cunnane, Member via telephone
+ADMINISTRATORS AND GUESTS ATTENDING:
+Kristen Sorth, Library Director; Eric Button, Deputy Director; Barbara Turkington, Assistant Director, Advancement; Steve Hunter, Assistant Director, Operations; Kris Mooney, Assistant Director, Administration; Gib Van Cleve, Assistant Director, ITS; Rick Gratz, Kelly Harrell, KEB; Tom Curran, St. Louis County; Jennifer Gibior, Bill Winningham, Milliman; SLU; and Lisa Stump, Attorney, Lashly & Baer.
+OTHERS ATTENDING:
+Paul Bayless, Allison Wisniewski, Chasidy Allen, Kim Ford, Matt Lakin, Annie Fuller, Andrew Freshwater, Will LaChance, Jennifer McBride, Anne Bradley, Amy Hanaway, Julie Cruise, Barb Reale, Heather Neill, Erin Magner, Erin Pearce, Andrea Carter, Lauren Hoerr, Deanna Davis, Natalia Catlett, Stacey Moeslein, Terra Baca, Crystal Harris, Katie Keeven, Meg Coyle, Andrea Johnson, Jake Eubanks, Naomi Prager, Lisa Haddox, Lauren Striebel, Alaina Culbertson, Stacy Berger, Dawn Ruhbeck, Grace Ruhbeck, Liz Ruhbeck, Jennifer Alexander, Marie Conlin, Anna Schurk, Emma Figueroa, Kelli Reeves, Nicole Clawson, Lindsey Piech, Amy Gibbons, Kat Van Arsdale and Sandra Williams.
+MINUTES
+The Library Board approved of the February 4, 2019 minutes (Mulligan/Cunnane).
+PUBLIC COMMENTS
+There were no public comments.
+TREASURER'S REPORT
+Kristen Sorth gave the Treasurer’s Report in the absence of Kris Mooney.
+January
+In January, the Library District received an $8,294 incentive check from Ameren Missouri’s Biz Savers Program for energy efficient equipment installed at the newly renovated Grand Glaize Branch.  The Library District paid EBSCO $19,900 for the purchase of OpenAthens software. This product will integrate with Sierra, the District’s Integrated Library System software, to provide Library patrons the ability to sign into online resources with one user ID and password. The purchase of OpenAthens was included in the 2019 Library budget. Additionally, the Library District purchased book carts for the Bookmobiles from Today’s Classroom in the amount of $4,977.
+Also in January, Bibliotheca was paid $58,263 for the annual support and maintenance renewal contract for the Library District’s RFID equipment. Additionally, the Library District paid $27,630 to Lyngsoe Systems for the annual service agreement for the material handlers at Daniel Boone and Grant’s View. Both of these maintenance agreements were included in the 2019 Library budget.
+February
+In February, the Library District renewed the annual software maintenance with the Integrated Library System vendor, Innovative Interfaces Incorporated at a cost of $281,190. Also, the District paid BSR Services Inc. a total of $127,700 for ice and snow removal services for several snow events occurring in January and February of 2019.
+Capital Projects Fund Balance Sheet (February)
+Total Construction in Progress for February 2019 was $3,116,664.  The expenses included payments for:
+		Construction costs for Thornhill - $1,379,788
+		Construction costs for Meramec Valley - $1,041,839
+		Construction costs for Mid County - $544,099
+		Facilities Master Plan Administrator - $38,720
+The Library Board approved the January Treasurer’s Report (Kenyon/Tai) subject to audit.
+The Library Board approved the February, 2019 Treasurer’s Report (Mulligan/Kenyon) subject to audit.
+DIRECTOR'S REPORT
+Kristen Sorth gave the following report.
+Library Update
+	Ms. Sorth reported that the dashboard report for March contained a variety of statistical information for the Library. The report was shared with the Board. The report included information about circulation, visits, programming, and PC usage. With three branches closed for construction for most of February, circulation was up 18%. This increase is largely due to the implementation of auto renewals at the end of 2018. Detailed information about the impact is included on the Dashboard this month. Renewals increased 44% in February 2019 compared to the same time last year and 62% of them were processed automatically. In February, visits increased slightly and program attendance was up 7%. The top titles by circulation are also listed on the report.
+	After a successful trial run at Daniel Boone, Administration decided to make all circulating magazines available for check out, including the current issues. Prior to this change, the current issue of each title could only be read in the library. Patron response to the trial at Daniel Boone was overwhelmingly positive. As a result, all locations began circulating the current issues of magazine titles on February 25. (Plan: Maximize Access 1.1)
+	Ms. Sorth announced that the Library will again offer Food for Fines during National Library Week from April 7 – April 13. Patrons may exchange one can of food for $1 in fines up to a maximum of $10. In 2018, the Library collected 13,623 pounds of food for Operation Food Search during National Library Week. (Plan: Maximize Access 1.1)
+	At the end of last year, the Library began exploring options to celebrate the 40th Anniversary of the relationship between St. Louis and Nanjing, our sister city in China.  Administration is working on a celebration between the libraries in the two cities. The library delegation from China will arrive in late April. During that visit, we are planning for a branch tour and a book exchange between the two library systems. (Plan: Sense of Community 1.1)
+	In celebration of National Poetry Month, adults 18 years of age and older are invited to submit their original poems for inclusion in the inaugural St. Louis County Library poetry compilation. The compilation will appear in the SELF-e Indie Missouri, which is an online collection of works. The poems will be available in the Library’s eMedia collection. (Plan: Promote Literacy 1.3)
+	Ms. Sorth reported that the Winter Reading Club was a success. This year the Library offered an online version of the club and added several raffle prizes to increase the appeal.  From December 1 – February 28, there were 26,316 participants in the Winter Reading Club. Completions were up by 8% from last year. (Plan: Promote Literacy 1.2)
+	The Library will host the second Career Online High School graduation on March 23 at 7:00 p.m. at HQ. Eleven students will be graduating. Unfortunately, only seven will be able to attend. Dr. Beckwith is the keynote speaker at the graduation. St. Louis Community College will be presenting a three credit hour scholarship to each graduate.  (Plan: Promote Literacy 3)
+	The Library will be partnering with Arch City Defenders on a folding event for their Pro Se legal guides for the public. The event will take place on May 30 at 6:30 p.m. at the Florissant Valley Branch. We are also in discussions with Arch City to provide one-on-one legal consultations for Library patrons at several of our branches. Arch City Defenders is a non-profit civil rights law firm providing holistic legal advocacy and combating the criminalization of poverty against poor people and people of color. (Plan: Sense of Community 2.1)
+	One of the Library’s new strategic plan goals is to “Represent inclusion and equity in our services, programs and collections.” As part of this effort, we will be planning programs for all ages during LGBTQ Pride month in June. We also plan to create a brochure that will organize all of the program information in one location. (Plan: Sense of Community 2.2)
+	The Library is ready to promote a new summer internship program named in honor of former Lewis & Clark employee Sidney Johnson. The Sidney Johnson Award, which was a scholarship awarded to a teen each year, will be discontinued and the Foundation's financial support for that program will shift over to the internship program. There will be an application process for the fifteen- hour per week internship for teens between the ages of 16 - 18. The Library’s goal is to introduce students to the profession of Library and Information Science. (Plan: Sense of Community 1.2)
+	The Library was one of only ten libraries selected to participate in the Urban Libraries Council’s Middle School STEM cohort.  As part of the application process, we were asked to design a project to complete during the yearlong cohort. Starting in September 2019, we will partner with the Ritenour School District to create after school STEM programming. The Library will present a different focus each semester and present STEM Club once a week at one or two Ritenour Middle Schools. (Plan: Promote Literacy 3.1)
+	As previously mentioned last month, the Black History Celebration Committee and the branches did a fabulous job planning many engaging programs this year. There are many fabulous pictures to show the Board from these programs and events.  (Plan: Sense of Community 1.1)
+	There were many mentions of the St. Louis County Library in the local media in print, radio and television. Those articles were shared with the Board. (Plan: Maximize Access 3)
+	A number of great photos were shown to the Board from several programs and events in January and February including:  Kindergarten Prep at Daniel Boone, Normandy Gift of Reading, Coding 101: Animation at Cliff Cave, Take Your Child to the Library Day at Grant’s View, Beginning Readers Book Club at HQ, Foundation Sip and Swap at HQ, Beetles Rock at Cliff Cave, After School Art at Lewis & Clark, and We are Magic at Natural Bridge.  (Plan: Promote Literacy 3.4 and Sense of Community 2.3)
+Library Administrative Updates
+	Library Advocacy Day took place on February 26. Eric Button and several other managers traveled to Jefferson City to meet with our elected officials. (Plan: Maximize Access 1.2)
+	As mentioned last month, Administration did not have the final investment rate quotes for the 2019 Operating funds. The Board authorized Administration to select the financial institution that submitted the highest yield for the total portfolio. There were three responses and Commerce Bank was selected with the highest rate of 2.465%.
+	Administration is using a vacant full-time position to create an additional management position at Natural Bridge. The volume of patrons as well as an increase in incidents at the branch, has necessitated this addition. We have decided to post this position without the Master’s Degree in Library Science requirement in order to broaden the applicant pool. (Plan: Sense of Community 2)
+	Training for Library employees in 2019 will include mental health awareness training and diversity and inclusion training.  The first part of the year will focus on mental health awareness. The Library has partnered with the National Alliance on Mental Illness (NAMI) to conduct the training. Administration will issue an RFQ later this year to select a vendor to provide diversity and inclusion training. All employees are required to attend both training sessions. (Plan: Sense of Community 1.3)
+	The Library has been waiting for two pieces of information that the auditors needed to complete the audit. The first was from the State Treasurer's office. Last week, the Library finally received confirmation on our financial institution tax distribution. This information completes the financial statements but there was not enough time for this to move through the required review process before the Board Meeting. Secondly, we are required to post the lost revenue due to tax abatement and TIF's per GASB 77. This number is issued by St. Louis County and we are still waiting for the information. Kris Mooney and the audit team have been working to get this information. As a result, we will move the Library Audit report to the April Board Meeting. The Pension Audit was presented to the Pension Board immediately prior to this meeting.
+	Administration has been exploring ideas for quickly sharing information and alerts with public service staff about fraudulent activities by patrons or emergency and threatening situations. Amy Gibbons, IT Coordinator, found a way using our current software. We have tested the alert and plan to use it going forward. The alert will pop up on all designated computers at the top of any and all open windows. (Plan: Sense of Community 1.3)
+Library Construction and Facility Update
+	The Thornhill Branch reopened to the public on February 13 with much celebration by returning patrons. On opening day, 1,811 patrons visited the branch and borrowed 3,047 items. In addition, the Library received two resolutions celebrating the new branch; one from Senator Jill Schupp and the other from Representative LaDonna Applebaum.  Representative Applebaum presented her resolution in person on February 22.  (Plan: Maximize Access 2)
+	Ms. Sorth announced that the Meramec Valley Branch will reopen to the public on May 15, 2019 at 9:00 a.m. immediately following a ribbon cutting. This will be the seventeenth branch to open since we began the construction phase of Your Library Renewed four years ago. (Plan: Maximize Access 2)
+	History and Genealogy's expanding collections occupy a large portion of the space on "Tier 4" of the HQ building. With the exception of one Saturday per month, these collections are not open to the public to browse. Staff have developed a low-cost plan to modify the layout of the space on Tier 4 in order to make the collection accessible to patrons at all times, while still maintaining the security of staff only areas. Once these modifications are made, we plan to establish a service point to allow History and Genealogy staff to assist patrons on Tier 4. At the same time, H&G staff are shifting materials to improve the arrangement and flow of the overall collections on Tier 4, Tier 5, and other areas of the building. These projects will be completed prior to May 1 when we will once again host many visitors from the National Genealogical Society conference. (Plan: Maximize Access 2.1)
+	Ms. Sorth announced that the renovation/addition of the Grand Glaize Branch was selected as a finalist in the Building St. Louis Awards in the Public/Private project less than $10 million category. The Library won’t find out if we won until the award ceremony on March 21. The award is presented by the St. Louis Business Journal. (Plan: Maximize Access 2)
+Library Foundation
+	The Library was recently notified of several grant awards and gifts.  These include:
+		$1,000 from Post Holdings, Inc. for the Summer Lunch Program
+		$13,294 from the State Library (LSTA) for 2-way radios for branch staff use
+	Jim Bogart, Manager of Development, retired last week after fourteen years at the Library. Barbara Turkington and Ms. Sorth have been interviewing for his replacement.  The Executive Committee of the Foundation Board is meeting with a finalist this week.
+Author Events (Plan: Promote Literacy 1.2)
+	Evan Thomas, author of First:  An Intimate Portrait of the First Woman Supreme Court Justice, Monday, March 25, 2019, 7:00 p.m., Headquarters.
+	Tom Clavin, author of Wild Bill:  The True Story of the American Frontier’s First Gunfighter, Thursday, March 28, 2019, 7:00 p.m., Headquarters.
+· James and Deborah Fallows, author of Our Towns:  A 100,000-Mile Journey Into the Heart of America, Thursday, April 4, 2019, 7:00 p.m., Headquarters.
+· Deborah Gaal, author of The Dream Stitcher, Monday, April 08, 2019, 7:00 p.m., Headquarters.
+· Lisa Scottoline, author of Someone Knows, Saturday, April 13, 2019, 7:00 p.m., Headquarters.
+Ms. Cunnane asked some questions regarding the recent magazine issue circulating and said she did not agree with the new policy. Dr. Tai also commented. A discussion ensued. Dr. Beckwith explained that comments will be taken into consideration.
+OLD BUSINESS
+NONE
+NEW BUSINESS
+CONSTRUCTION UPDATE
+Steve Hunter reported on the progress of the Meramec Valley Branch, which will be opening May 15. Pictures of the inside of the branch were shared with the Board. The children’s area features a large built-in playhouse.
+Mid-County is coming along nicely and a skylight is now being installed. Dr. Beckwith asked Mr. Hunter to explain why HQ needs to be torn down. Mr. Hunter spoke about the inefficiency of the HVAC and the pillars that are obstructive throughout the building.  Ms. Sorth also mentioned the lack of space for events.
+INSURANCE RENEWALS
+Kristen Sorth reported that all lines of the Library’s insurance policies renew each year on April 1. The Daniel and Henry Company (D&H), the Library’s broker for these services, marketed the Library District’s account to several carriers.
+A summary of the April 1, 2019 renewal quote from this year compared to prior year cost was shared with the Board. All of the insurance carriers remain the same for all lines of coverage.  Total cost to the Library District for continuing coverage will be $425,156 compared to $398,772 from last year, an increase of 6.6%, which is under the budgeted amount for 2019. The increase is in property insurance and largely due to the increased value of the Library District’s buildings as a result of the Your Library Renewed capital improvement campaign. The Pension Plan pays for the Fiduciary coverage, which will be $8,385 in 2019 compared to $8,325 in 2018.
+The Library Board approved the Administration’s request in consultation with The Daniel and Henry Company, to accept the quotes from the insurance carriers, which include The Hartford Company, Travelers Casualty & Surety Company of America, Ace American Insurance Company, and One Beacon Insurance Group for a total cost of $425,156 (Mulligan/Kenyon).
+2019 PENSION CONTRIBUTION
+Kristen Sorth reported that the pension contribution from the Library to the Pension Plan is due each year on March 31. The Library’s actuary, Milliman, has conducted the annual actuarial valuation.
+Milliman is recommending a contribution of $2,360,562 (see Actuarial Report, page 2). The Library’s 2019 budget for this expense is $2,150,000. The net position as a percentage of total pension liability (also known as the “funded ratio”) is 79.08%, down from 91.63% in 2018. A portion of the contribution each year goes toward the payment of the unfunded liability which will increase our funded ratio and help to offset the large percentage decrease.
+Bill Winningham of Milliman gave an overview of what happened with our funds. He spoke about the Government shutdown and that effect on the market.
+The Library Board approved Administration’s recommendation that the Pension fund receive $2,360,562 as the annual contribution to the Pension Plan for 2019 (Cunnane/Mulligan).
+VOLUNTEER POLICY
+Kristen Sorth reported that the Volunteer Policy was last revised and approved by the Library Board in May of 2012. The current policy includes outdated information and some of the descriptions of the nature of volunteer opportunities may be confusing.  The proposed policy updates the information and presents a clearer picture of the roles and responsibilities of volunteers. The new policy emphasizes and clearly defines and limits the roles, responsibilities, restrictions, and benefits of a volunteer. The changes to this policy will allow the Library to adjust procedures, including the creation of separate volunteer applications for teens and adults among other changes.
+A redlined version of the proposed policy along with a clean version was shared with the Board.
+The Library Board with the review of legal counsel, approved the Administration’s changes to the Library’s Volunteer Policy (Tai/Cunnane).
+MEMORANDUM OF UNDERSTANDING - CAREER ONLINE HIGH SCHOOL
+Kristen Sorth reported that the Library Board approved the Career Online High School Program in April of 2017. That approval included the authorization of a contract with Cengage Learning Inc. for the service as well as a Memorandum of Understanding (MOU) between St. Louis County Library and St. Louis Public Library. Per the MOU, St. Louis County Library holds the contract and is reimbursed by St. Louis Public Library for the subscription fee and the scholarships. The Foundations of both Library Districts fundraise for the scholarships.
+Both Library Districts are pleased with the Career Online High School program and wish for it to continue. As a result, the attached Amendment allows for the Memorandum of Understanding to automatically renew for subsequent one year periods unless either party gives written notice of non-renewal at least thirty days prior to the expiration of the License Agreement. In addition, the Cost Allocation section of the MOU is amended to provide for additional annual reimbursement to St. Louis County Library by St. Louis Public Library for their share of the cost of the fees associated with the program.
+The Library Board approved the Amendment to the Memorandum of Understanding with St. Louis Public Library for the Career Online High School program provided by Cengage Learning Inc. (Kenyon/Cunnane).
+ADJOURNMENT
+Michael Mulligan moved to adjourn the meeting and Dr. Tai seconded. All approved by voice consent.
+Aye:  Beckwith, Cunnane, Tai, Mulligan and Kenyon.
+The meeting adjourned at 4:33 p.m.
+Respectfully submitted by,
+____________________________                                        _______________________
+Dr. Chingling Tai                                                                    Date

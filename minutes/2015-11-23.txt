@@ -1,0 +1,122 @@
+{
+  "name": "Regular Meeting",
+  "description": "Library Board",
+  "unique": "9SGRZ56FE2EE",
+  "date": "2015-11-23T00:00:00Z"
+}
+
+---
+
+ST. LOUIS COUNTY LIBRARY DISTRICT
+	MEETING OF THE BOARD
+	LEWIS AND CLARK BRANCH
+	9909 LEWIS AND CLARK BLVD.
+	MONDAY, NOVEMBER 23, 2015
+	The monthly meeting of the Board of the St. Louis County Library District was held at the Lewis and Clark Branch, 9909 Lewis and Clark Blvd., St. Louis, MO 63136 on Monday, November 23, 2015 at 3:30 p.m. The agenda had been posted in all branches of the Library District at least 24 hours before the meeting.
+	ATTENDANCE:
+	Library Board Members:
+	Dr. Lynn Beckwith, President
+	Edith Cunnane, Vice President
+	Elena Kenyon, Treasurer
+	Dr. Chingling Tai, Secretary present via telephone
+	Steve Sachs, Member
+	ADMINISTRATORS AND GUESTS ATTENDING:
+	Kristen Sorth, Library Director; Gib Van Cleve, Assistant Director, ITS; Eric Button, Assistant Director, Branch Services; Tom Curran, St. Louis County; and  Lisa Stump, Attorney,  Lashly Baer.
+	OTHERS ATTENDING:
+	Kris Mooney, Laura B. Kasak, Scott Holl, Paul Bayless, Edith Isele, Stacey Berger, Michelle Sawicki, Julia Mangner, Anna Huckeby, Alaina Culbertson, Crystal Harris, Sarah Wood, Emily Althoff,  Erin Magner, Natalia Catlett, Donna Spaulding, Matt Lakin, Allison Wisniewski, Susie Bushnell, Michael Cohen, Tiffany Davis, Stacey Lewis, Maureen Willmann, Rachel Nowell and Sandra J. Williams.
+	MINUTES
+	Minutes from October 19, 2015.
+	The Library Board approved the minutes from the October 19, 2015 meeting (Cunnane/Sachs).
+	PUBLIC COMMENT
+	There were no public comments.
+	TREASURER'S REPORT
+	Kris Mooney reported that the State of Missouri issued the first payments of State Aid to Libraries in October. State Aid was significantly reduced by the Governor of Missouri for this fiscal year. The Library District received $56,777, down approximately 80% from prior year.
+	The Library District received $153,983 in E-Rate rebates in October. The rebates help to cover the cost of the Library’s Internet and WAN services from Charter Communications. These are the final rebates to be received this fiscal year.
+	The Library District paid the annual insurance broker fee to Daniel and Henry in October at a cost of $14,500. The broker fee is for Daniel and Henry’s services for the annual renewal of the Library’s employee medical, dental, and life insurance premiums.
+	The Library District incurred $31,100 in expense for the purchase of RFID (Radio Frequency Identification) Tags in October. The tags are placed on Library materials as a theft deterrent. The tags are purchased twice per year. This purchase does not require Board approval per the Library District’s purchasing policy.
+	Capital Projects Fund Balance Sheet
+	Total Construction in Progress for October 2015 was $2,674,652. The expenses included payments for:
+	·         Grants View construction (payable to many sub-contractors) - $603,741
+	·         Lewis and Clark construction (payable to many sub-contractors) – $326,202
+	·         Branch renovation construction expenses (Jamestown Bluffs, Indian Trails,
+	Weber Road, and Rock Road) - $1,006,644
+	·         Professional services of the Construction Manager - $410,951
+	·         Technology for all Phase I buildings - $137,100
+	·         The remaining dollars were largely spent for the services of the Facilities Master
+	Plan Administrator, storage expenses, Architect fees, and environmental professional services.
+	The Library Board approved the Treasurer's Report subject to audit (Kenyon/Cunnane).
+	DIRECTOR'S REPORT
+	Kristen Sorth asked Lewis and Clark Manager Laura Kasak to give a short presentation about her new branch. Ms. Kasak thanked the Board for visiting and said that the community and her staff were very happy with their new building. Ms. Kasak also mentioned some of the new programming being offered at the branch including Slide Dancing, a Star Party, and Healthy Living.
+	Library Update
+	·         Ms. Sorth stated that the dashboard report for November contains a variety of statistical information for the Library including circulation and number of visits.  With five branches closed for much of the month, circulation dropped 7.7% over October 2014.  The report also includes information about the White House ConnectED Library Challenge and visits to the Library.  Tesson Ferry closed permanently on November 14 and the dashboard compares statistics from the year it opened to today.  The most popular items in the collection are also included on the dashboard.  The report was shared with the Board.
+	·         Ms. Sorth reported that St. Louis County Library has been ranked as a four-star library in the Library Journal Index of Public Library Service for the second consecutive year. SLCL is the only library in the St. Louis area to be included in the index this year, and one of seven in the state of Missouri. The rank of four stars indicates a high per capita use in four major areas of library service: library visits, circulation, program attendance, and public Internet computer use. The ranking is based on statistics from 2013, when SLCL set its highest record yet with 15 million items checked out.
+	·         On November 16, the Library sent “We Miss You” emails to 11,000 patrons who have not used their library cards in three months or more.  We will be tracking statistics to see how many come back as a result of the email.  Ms. Sorth said the Communications Department did a great job with the graphic for these emails.  (Strategic Plan: Strengthen Sense of Community 1.1 and 1.2)
+	·         The Library has added Driving-Tests.org to the list of offerings for patrons on our website.  Driving-Test.org provides state specific access to 11 car practice tests, 8 motorcycle practice tests and 3 Commercial Driver’s License practice tests.  It also includes a frequently asked questions section with detailed answers to over a hundred Department of Motor Vehicle related questions. (Strategic Plan: Increase Literacy 3.3 and 3.4)
+	·         Ms. Sorth announced that the Winter Reading Club kicks off December 1 and runs through February 29.  Last year, over 60,000 people participated in the program, which offers fun activities and great prizes for all ages. (Strategic Plan: Increase Literacy 1.3)
+	·          The Library was approached by Reading is Fundamental (RIF) to partner on a national leadership grant from the Institute of Museum and Library Services that would focus on measuring the impact of summer learning for participants in specific communities.  Ms. Sorth and Eric Button spoke with the Ritenour School District about the possibility of implementing the grant for their school district in the summer of 2017, and they were very interested.  Marie Conlin will be working with RIF on the grant which is due in February.  (Strategic Plan: Increase Literacy 2.1)
+	·         Some patrons have suggested curbside pickup as a convenience to Library patrons, particularly older patrons and those with small children.  St. Charles City-County Library offers this type of service.  Patrons could call ahead to request their holds and Library employees would deliver the materials to them at a designated parking spot.  Ms. Sorth said the Library is exploring the idea with input being sought from Branch Managers and Assistant Branch Managers.  We would designate certain times of day that curbside pickup would be available. (Strategic Plan: Sense of Community 3.1)
+	·         Ms. Sorth reported that The White House ConnedtED Library Challenge is going well with the process almost complete for the following school districts:  Parkway, Hancock Place and Jennings.  We have reached out to Riverview Gardens and Ritenour about working with their school districts next. (Strategic Plan: Sense of Community 3.3)
+	·         On November 17th, Ms. Sorth attended a program at the Nine Network entitled Early Childhood:  The Foundation of our Region’s Future.  Mike Scully, St. Louis Regional President of PNC Bank, gave the keynote address followed by a panel discussion.  Attendees also received a screening of The Raising of America, which is a five part series that aims to reframe the way Americans look at early child health and development. Ms Sorth said it was very compelling and fits in with the Library's early literacy efforts. (Strategic Plan: Increase Literacy 2.1)
+	·         The Library will be working with the St. Louis Symphony to offer programs at the Library prior to three family concerts.  After the program, families will board a bus from the library that will take them to the Symphony for the concert.  The programs associated with each concert include the following:
+	Sunday, February 21, 1:00 p.m.--Headquarters
+	Stage Craft (Tales of Shakespeare)
+	From juggling to swordplay we’ll get a glimpse of what it was like to be an actor in Shakespeare’s time. Ages 5-12. Registration required.
+	Sunday, March 13, 1:00 p.m.--Florissant Valley
+	A World of Seuss (The Zany World of Dr. Seuss)
+	Help us celebrate Dr. Seuss’ birthday with lots of Seuss themed activities. Ages 5-12. Registration required.
+	Sunday, April 17, 1:00 p.m.--Headquarters
+	Groove Party (Beethoven’s New Groove)
+	Let’s rock the house as we create our own rhythms and beats. Ages 5-12. Registration required.
+	In addition, the Adult Programming Department is developing adult programs in conjunction with the Symphony’s Shakespeare Festival concerts in February and March. (Strategic Plan: Sense of Community 2.3)
+	·         The Youth Services Department will begin a new program in the spring entitled 1000 Books Before Kindergarten.  This initiative was started by the 1000 Books Foundation to promote reading and encourage parent/child bonding through reading.  The concept is to encourage families to read 1000 books to their child before he/she reaches kindergarten.  Participants will register and receive a welcome folder that will contain instructions, a log sheet and information about the library.  We are working with the Library Foundation to develop incentives for the program through sponsorships.  (Plan: Increase Literacy 2.1)
+	·         There were many mentions of the St. Louis County Library in the local media in print, radio and television.  Those articles were shared with the Board. (Strategic Plan: Strengthen Sense of Community 1.2)
+	·         Ms. Sorth shared a number of photographs with the Board from several programs and events including: Symphony in Your Neighborhood at Daniel Boone, Star Party at Florissant Valley, STArt Discovery Shapes at Florissant Valley, STArt Maze Madness at HQ and author Gary Kasparov at HQ.  (Strategic Plan: Sense of Community 2.3)
+	Library Employee Update
+	·         Ms. Sorth reported that the Library participated in the United Way Campaign again this year.   Library staff pledged $17,557 which is an increase from last year.  In addition, the Library surpassed our goal.  Sandy Williams is the Campaign Coordinator for the Library.
+	·         As part of the Library’s Wellness program, employees may sign up for a program regarding weight management.  The program includes great tips and resources.
+	·         The St. Louis County Library has officially adopted a highway.  The signs were installed in October and Barbara Brain and the Library’s Green Team held their first trash pickup day along the Library’s stretch of Lindbergh.
+	Library Facility Update
+	·         Ms. Sorth said the Lewis & Clark Branch grand opening and ribbon cutting on Wednesday, October 30th was a community celebration that included the wonderful Jennings Senior High School choir. (Strategic Plan: Create Gathering Spaces)
+	·         The Jamestown Bluffs Branch opened to the public on November 12, 2015.  As with Lewis & Clark, there were happy patrons waiting at the door.  The Library distributed lunch bags to the first 100 people.  Ms. Sorth said the grand opening will take place in the next couple of weeks.  Invitations will be sent to the Library Board and elected officials. (Strategic Plan: Create Gathering Spaces)
+	·         Ms. Sorth reported that Indian Trails re-opened Nov. 23 with a ribbon cutting.  Branch and Administrative staff were on hand to greet happy returning patrons.  The first 100 patrons received lunch bags. (Strategic Plan: Create Gathering Spaces)
+	·         As the Library opens new branches or re-opens renovated branches, staff will be documenting lessons learned and suggestions from branch employees in order to refine and improve the design process for the next round of construction.
+	·         Ms. Sorth said there is a massive team effort involved in preparing the branches to open to the public.  As the three remaining branches, Grant’s View, Weber Road (Both in December) and Rock Road (January) prepare to open, staff will be repeating their efforts at each location.
+	·          The Sachs Branch will close to the public on December 12th.
+	·         Library Administrators met with the design team from Christner to begin discussions regarding the Mid-County Branch in Clayton.  Christner will perform a site study to determine if the Library can build a new branch on the same site.  (Strategic Plan: Create Gathering Spaces)
+	·         Ms. Sorth, Steve Hunter and Scott Kolath met with representatives from Brinkmann Constructors to discuss Phase 2 of the construction projects.  (Strategic Plan: Create Gathering Spaces)
+	Library Foundation
+	·         The shade structure for the reading garden at Sachs will be installed the first week of December.  There are several items that the contractor is working to complete at the garden.  Once those punch list items are completed, the Library will take over maintenance of the reading garden from the Foundation. (Strategic Plan: Create Gathering Spaces 2.3)
+	Author Events
+	·         Former Missouri State Senator Jeff Smith, "Mr. Smith Goes to Prison: What My Year Behind Bars Taught Me About the American Prison Crises", Friday, December 4, 7:00 p.m., Library Headquarters – Main Reading Room.
+	·         Mitch Albom, “The Magic Strings of Frankie Presto”, Saturday, December 5, 7:00 p.m., Library Headquarters – Main Reading Room.
+	·         B.A. Shapiro, Author of “The Muralist”, Tuesday, December 8, 7:00 p.m. Library Headquarters – Auditorium.  Co-sponsored by the Saint Louis Art Museum Book Club.
+	·         Joe Johnston, “It Ends Here: The Last Missouri Vigilante”, Thursday, December 10, 7:00 p.m., Library Headquarters – Auditorium.
+	Ms. Sorth shared a letter from Missouri Secretary of State, Jason Kander congratulating the Library on its four-star ranking in the Library Journal Index of Public Library Service.
+	Dr. Beckwith thanked Sandy Williams for her efforts in leading the United Way campaign and also thanked the staff for their generous contributions to the campaign. He requested to hear staff input regarding the potential curb side service.
+	OLD BUSINESS
+	NONE
+	NEW BUSINESS
+	CONSTRUCTION UPDATE
+	Steve Hunter reported on progress on the Grant’s View, Weber Road and Rock Road construction projects. Shelving and final casework is underway at Grant’s View, the Weber Road furniture is on site and will be installed soon and flooring work and painting is ongoing at Rock Road. Mr. Hunter showed photographs of the colorful interiors of the three branches and stated that the Samuel Sachs Branch, the first of the Phase 1B(B) renovation projects, will close on December 12.
+	LIBRARY CONNECTED CHALLENGE
+	Kristen Sorth and Eric Button reported on the White House ConnectED Library Challenge, an initiative coordinated by the Urban Libraries Council (ULC) and the Institute of Museum and Library Services (IMLS) on behalf of the White House. The Library was contacted by the ULC regarding participation in this initiative whose goal is to ensure that 100% of students in participating schools obtain library cards. Parkway, Jennings, and Hancock Place School Districts were invited to partner with us on this project. By using a file of children’s names supplied by the schools and cross-referenced with our own patron database, the Library was able to issue over 14,000 new library cards. To ensure parental permission, parents were presented with an opt-out option prior to the cards being issued. Up to now, at least 584 students have used their cards since they were issued and over 1,500 items have been checked out. Ms. Sorth thanked the Customer Connect staff for helping to register the children and create the library cards. Several other school districts have indicated an interest in this initiative and there are plans to make this a bi-annual project.
+	OVERDUE FINES ON JUVENILE MATERIALS
+	Eric Button presented the Administration’s recommendation to eliminate fines on juvenile materials. Mr. Button stated that the existence of overdue fines is one of the major barriers to library service for children. Patron cards are blocked from further usage once fines and fees reach $15.00 or more and 19% of juvenile cardholders at SLCL are blocked due to reaching this fines threshold. Families often check out children’s materials in large quantities, so overdue fines can add up quickly. Unfortunately, even in some cases where fines are paid off, parents tell their children that they can no longer check out materials for fear of accruing fines once again.
+	By no longer charging overdue fines on juvenile materials, this barrier to service would be removed. However, lost and damaged charges would continue to be assessed on juvenile materials and overdue notices would still be issued to alert borrowers that items need to be returned or renewed. This plan is projected to decrease fine revenue by approximately $88,000 annually. Mr. Button reported that many libraries around the country such as Charlotte Mecklenburg Library (NC) and St. Louis Public Library have already implemented similar fines policies to address this barrier to library usage by children and their parents.
+	The Library Board approved a change in the fines procedures to exclude all juvenile materials from the accrual of overdue fines. Charges will continue to be assessed for juvenile materials that are lost or damaged by library patrons (Cunnane/Kenyon).
+	ZEUTSCHEL ZETA SCANNER
+	Scott Holl, Manager of History and Genealogy (H&G), presented the Administration’s recommendation to purchase a Zeutschel Zeta scanner that will allow patrons and staff to copy or digitize virtually any paper item in the collection safely and easily.
+	Mr. Holl explained that the H&G collection contains many fragile and oversized materials that patrons are prohibited from copying on the department’s traditional photocopier because of possible damage to the items. Department staff also frequently scans items to answer email lookup queries and Interlibrary Loan requests. When researching scanner options, H&G staff had three main priorities in mind: the combination of an overhead scanner and book cradle was crucial to ensure the safe scanning of rare, fragile and oversized materials; the scanner needed to be able to withstand heavy use and be simple to operate; and staff hoped to identify a tool that would allow for the archival grade scanning of items to add to our genealogy resources on the Library’s web site.
+	Five scanners were tested and the Zeutschel Zeta A3 Scanner was considered to be the best option for use in a public environment since it produced high quality images without damage to materials.
+	The Library Board approved the purchase of a Zeutschel Zeta Scanner for the History & Genealogy Department at a cost of $23,125. The Crowley Company is the exclusive authorized distributor, parts supplier and support provider of the Zeutschel Zeta Scanner. As such, they are the sole source provider. Since the Library received $14,175 in grant funds, the cost to the Library is $8,950. $16,000 was included in the 2015 budget for the purchase of a scanner (Sachs/Kenyon).
+	BUDGET
+	Kris Mooney gave an informational presentation on the 2016 Library Budget. Mr. Mooney began by stating that the Budget document was prepared and approved by the Budget Committee consisting of: Kristen Sorth – Director; Barbara Brain - Assistant Director, Adult & Support Services; Barbara Turkington - Assistant Director, Advancement; Gib Van Cleve – Assistant Director, ITS; Eric Button – Assistant Director, Branch Services; Kris Mooney –Manager, Finance; Steve Hunter – Manager, Construction & Facilities; Mary Arnhart – Manager, Human Resources.  Mr. Mooney and Ms. Sorth discussed the revenue and expenditures included in the 2016 Budget.
+	Mr. Mooney explained that the Library Budget is a spending guideline for the upcoming year. Projects discussed in the Budget document will be individually presented to the Library Board for review and approval during 2016 as outlined in the Library Board’s By-Laws. The Budget Revision is presented to the Library Board in September.
+	The Library Board set the 2015 tax rates at $ 0.246 for Residential assessments, $ 0.239 for Agricultural assessments, $ 0.259 for Commercial assessments and $ 0.225 for Personal Property assessments. These rates will provide 96.5% of the cash income to operate in 2016. The Executive Summary on page 2 and the Revenue and Expenses on page 4 - 7 are a synopsis of the proposed 2016 Cash Budget. The 2016 budget has a budgeted surplus of $4.2 million.
+	The 2016 Budget was presented as an informational item in order to give the Library Board time to review the document and ask questions before voting on it at the December Meeting. That vote will allow the Library to operate in 2016.
+	ADJOURN
+	Edith Cunnane made a motion to adjourn the meeting.  Elena Kenyon seconded.  All gave a voice vote for approval.
+	The meeting adjourned at 5:13 p.m.
+	Respectfully submitted by,
+	____________________________                                        _____________
+	Chingling Tai, Secretary                                             Date

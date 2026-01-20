@@ -1,0 +1,343 @@
+{
+  "name": "Regular Meeting",
+  "description": "Library Board",
+  "unique": "AHPPYR621358",
+  "date": "2017-08-28T00:00:00Z"
+}
+
+---
+
+ST. LOUIS COUNTY LIBRARY DISTRICT
+MEETING OF THE BOARD
+HEADQUARTERS
+1640 SOUTH LINDBERGH BLVD.
+MONDAY, August 28, 2017
+The monthly meeting of the Board of the St. Louis County Library District was held at the Headquarters Branch, 1640 South Lindbergh Blvd., St. Louis, MO 63131 on Monday, August 28, 2017 at 3:30 p.m. The agenda had been posted in all branches of the Library District at least 24 hours before the meeting.
+ATTENDANCE:
+Library Board Members:
+Dr. Lynn Beckwith, President
+Edith Cunnane, Vice President
+Elena Kenyon, Treasurer
+Michael Mulligan, Member
+Dr. Beckwith announced that Dr. Chingling Tai had an excused absence.
+ADMINISTRATORS AND GUESTS ATTENDING:
+Kristen Sorth, Library Director; Eric Button, Deputy Director; Barbara Turkington, Assistant Director, Advancement; Kris Mooney, Assistant Director, Administration; Gib Van Cleve, Assistant Director, ITS;  Steve Hunter, Assistant Director, Operations; Lisa Stump, Attorney, Lashly & Baer; Scott Kolath, Landmark; Cameron Steward, Brinkmann; Cassandra Summers, Brinkmann, and Tom Curran, St. Louis County.
+OTHERS ATTENDING:
+Nicole Higginbotham, Conrad Rader, Patricia Peiffer, Tracy Fletcher, Anne Arthur, Katie Keeven, Anna Schurk, Paul Bayless, Tiffany Davis, Donna Spaulding, Meg Coyle, Alaina Culbertson, Lindsey Piech, Nicole Clawson, Gina Sheridan, Carla Maxwell, Jeremiah King, Connie Dee, Laura Kasak, Julie Cruise, Allison Wisniewski, Emily Althoff, Stacy  Berger, Annie Fuller, Sarah Brown, Keir Haug, Mary Meyer, Ross Brand, Cheri Remington, Matt Lakin, Stacey Lewis, Lisa Haddox,  Sarah Wood, Mary Arnhart, Barb Reale, Marsha Ramey, Anne Bradley, Anna Maria Gonzalez, Marie Conlin, Andrea Johnson, Michelle Sawicki, Roz Kohen, Kathy Wiese and Sandy Williams.
+TAX HEARING
+Kristen Sorth reported that the Missouri State Statute requires that a public hearing be held prior to the Library Board setting the 2017 tax rates. The four subclasses of property are residential, agricultural, commercial, and personal property. As in prior years, the required legal notice must be published at least 7 days prior to the date of the hearing. The notice appeared in the St. Louis Post Dispatch on Friday, August 18, 2017. On the same day, the attached notice was posted in all branches and Headquarters.
+Dr. Beckwith asked if anyone from the public wanted to speak at the Hearing.  No one came forward.
+The setting of the 2017 tax rates will take place at the September Library Board meeting. Updated Board of Equalization assessments for 2017 will be used to set the tax rates and will be available in September. Tax rates must be set prior to October 2, 2017.
+THE REGULAR BOARD MEETING RESUMED
+Dr. Beckwith adjusted the Board Meeting to start with Board organization under New Business.
+LIBRARY BOARD ORGANIZATION
+Dr. Beckwith declared all offices vacant.  He asked Kristen Sorth to preside over nominations for president. Ms. Sorth accepted nominations for Board president. Edith Cunnane nominated Dr. Beckwith for President.  Michael Mulligan seconded.  All voted in favor.
+Dr. Beckwith presided over the rest of the nominations.
+Edith Cunnane nominated Michael Mulligan as Vice President.  Elena Kenyon seconded.  All voted in favor.
+Michael Mulligan nominated Elena Kenyon as Treasurer. Edith Cunnane seconded.  All voted in favor.
+Elena Kenyon nominated Chingling Tai as secretary. Michael Mulligan seconded.  All voted in favor.
+THE REGULAR AGENDA WAS RESUMED.  EDITH CUNNANE WAS EXCUSED.
+MINUTES
+The Library Board approved the July 17, 2017 minutes (Kenyon/Mulligan).
+PUBLIC COMMENTS
+There were no patron comments.
+TREASURER'S REPORT
+Kris Mooney reported the following.
+Maintenance and Operating Fund Financial Statements:
+Revenue
+	State Grants– In July, the Library District received a grant payment from the State of Missouri
+in the amount of $8,016. This is the first of three payments for a Racing to Read grant to offset
+the costs of producing the Rhythm & Tunes videos created by the Library’s story time staff to help with early literacy development.
+	Miscellaneous Income– The Library District received $15,000 from the St. Louis Public Library for their portion of the Cengage Career Online High School database per the Memorandum of Understanding approved by the Board at the April 20, 2017 meeting.
+	Equipment – Other – In July, $14,179 was paid to various vendors for supplies to establish three Mobile Maker Space Playgrounds. These portable playgrounds will contain items for programs about coding, audiovisual, and crafting. The playgrounds will be available for branches to check out for use in program activities. This purchase was included in the 2017 budget.
+	Technology –Equipment – In July, the Library District purchased 25 computers from Dell for a total cost of $24,729. These computers will be used to replace older computers and to provide additional computers for staff at all branches. Additionally, the Library District paid Dell $18,654 for a server to set up the Video Insight Software, a suite of applications that is used to manage the District’s security cameras. These purchases were made through a cooperative contract.
+The Library Board approved the Treasurer's Report subject to audit (Mulligan/Kenyon).
+Capital Projects Fund Balance Sheet – 2016 Debt Issuance Land
+ The Library District closed on the new Meramec Valley land for the purchase price of
+$4,000,000.
+	Construction in Progress – Total Construction in Progress for July 2017 was $1,840,146. The expenses included payments for:
+	Construction costs for Phase 2a buildings (Bridgeton Trails, Florissant Valley, Daniel Boone) -$805,897
+	Furniture and Fixtures for Phase 2a buildings - $600,595
+	Design costs for Phase 2 buildings - $161,146
+	Design costs for Mid County - $103,960
+	Construction management services for Phase 2a buildings - $77,019
+	Facilities Master Plan Administrator - $34,210
+The Treasurer’s Report was approved subject to audit (Mulligan/ Kenyon).
+DIRECTOR'S REPORT
+Kristen Sorth reported the following information.
+Library Update
+	The dashboard contains a variety of statistical information for the Library and it was shared with the Board.  The report includes information about circulation, visits, PC usage and monthly trends.  With one branch closed for construction, circulation is up 3.6%. Visits are also up 3.6% and PC usage is up 3%.  The report also includes a peer comparison from 2009 – 2016 with other libraries in Missouri. St. Louis County Library has the highest circulation of our peer libraries in Missouri.
+	Three additional school districts are planning to participate in the ConnectED Library Card program for the 2017 – 2018 school year.  Those include Ritenour, Lindbergh and Pattonville. (Plan: Sense of Community 3.3)
+	ITS will purchase five Chromebooks for the Florissant Valley Branch.  These will be available for patron checkout and use in the library.  While these Chromebooks may be used anywhere in the branch, they are specifically aimed to meet the needs of parents who will remain in the lower level while their children enjoy the children’s area. (Plan: Increase Literacy 3.3)
+	The library will start ordering select Blu-Ray movies when the library is ordering a "Bestseller" movie.  When a title is available in Blu-Ray/DVD combo pack, we will begin to purchase copies of movie titles that grossed at least $50 million at the box office. (Plan: Sense of Community 1)
+	The summer lunch program, in partnership with Operation Food Search, was offered at Indian Trails, Jamestown Bluffs, Lewis & Clark, Natural Bridge, Prairie Commons, Rock Road and Weber Road Branches from June 5 – August 11.  These branches offered a nutritious lunch along with activities for kids Monday - Friday.  On Fridays, those children attending received pizza as a special treat which was sponsored by the Foundation.  This year, the Foundation also sponsored Operation Backpack. On Thursdays, families received a bag of food to take home for the weekend. The numbers for this year are astounding.
+			Total Meals Served (All Branches): M-F
+			15,329
+			Total Attendance (All Branches): M-F
+			21,193
+			Average Daily Participation (All Branches): M-F
+			56
+			Total Weekend Meals given
+			889
+			Pizza Fridays
+			Total Eligible Children:
+			5,387
+			Total Attendance:
+			6,972
+			Average Pizza Friday Participation:
+			100
+Thanks to the staff for their great work on this important program.The Lewis & Clark Branch shared copies of the sweet thank you notes from some of the children that participated in the program. (Plan: Strengthen Sense of Community 2)
+	As mentioned previously, the Library is partnering with the Economic Development Partnership to install 10 outdoor Recycled Reads sites in the Promise Zone area in St. Louis County.  These installations will be based on the Little Free Library model.  A special event took place on August 19th at the Lewis & Clark Branch to paint and decorate the boxes before they are installed in the community.  Eric and I both attended along with 65 others. Also in attendance were the Mayors from Dellwood and Jennings, Board Members of the Spanish Lake Community Association, a Councilwoman for the City of Ferguson, Barbara Fraser from the County Executive’s Office, and the Executive Director of the Ferguson Youth Initiative.  Local artist Cbabi Bayok was there to assist with the painting of the boxes.  The partnership will eventually place 25 Recycled Reads sites in the St. Louis County portion of the Promise Zone. (Plan: Sense of Community 2.2)
+	Staff received a really nice email from a family about their child completing the 1000 Books Before Kindergarten program.  The email was shared (Plan: Increase Literacy 2.1)
+	The solar eclipse was quite an event and was celebrated at the Library.  Over 5,800 eclipse glasses were distributed at the 19 open Library locations on the morning of August 19th with many patrons lining up in the 5:00 a.m. hour to be sure they secured the glasses.  In addition, parties were held at eight branches attracting more than xxx patrons.  Customer Connect answered a record breaking number of calls about the glasses and programs, averaging 147 calls an hour on the day of the eclipse.  The total number of eclipse related calls were 1,648.  All Library employees were creative, enthusiastic and helpful under some overwhelming circumstances.  The Library  had several great comments from patrons including that was shared.   (Plan: Sense of Community 2.3)
+	The Library will begin piloting a new program by offering Wi-Fi Hotspots for patron checkout.  Many libraries around the country offer this service to their patrons.  We will purchase 30 hotspots this year.  If successful, we plan to include the purchase of additional hotspots in the 2018 budget.  In addition, Wi-Fi Hotspots will be available to those individuals participating in the Career Online High School program.  (Plan: Increase Literacy 3.3)
+	Based on patron requests, we will purchase a small number of Bosnian books each year.  The collections will be split between Cliff Cave and Weber Road, and the items will be allowed to float only between those two locations.  They can be requested and held for any location.  A specialized vendor will help the Library with the selections.  Items will be ordered later this year and each year thereafter. (Plan: Sense of Community 2)
+	A celebration of all things “cats” took place at the Grant’s View Branch on August 10th, International Cat Day.  The cat-focused open house featured cat videos, crafts, refreshments, adoptable cats, and more. The interest in this program from both the media and the public far exceeded our expectations with almost 400 people attending the event. (Plan: Sense of Community 2.3)
+	There were many mentions of the St. Louis County Library in the local media in print, radio and television.  Those articles were shared. (Plan: Sense of Community 1.2)
+	We have a number of great photos to show the Board from several programs and events including:  Author Roxane Gay at HQ, Adventures in Magic City at Grand Glaize, New in the Lou: National Blues Museum at HQ, Build it Better with Balloons at Meramec Valley, Kitchen Chemistry: Micro-creamery Science at Grant’s View, Paint Where it Ain't; Cbabi Bayoc at Lewis & Clark, Teen Summer Reading Club Finale at HQ, and Unicorn Party at Weber Road.
+(Plan: Increase Literacy 1 and Sense of Community 2.3)
+Library Administrative Updates
+	She announced that the Library plans to offer an In-Service Day for employees on Columbus Day 2018 which is October 8th.  We are requesting a system-wide closure on that date in 2018.  While the Library Board does not review the already approved holiday schedule each year, the 2018 schedule is attached listing the requested closure.  The last In-Service day was held on Columbus Day in 2014.  The significant amount of branch closures due to construction from 2015 – 2017 prevented the Library from holding this event in the last several years.  All full time employees will be required to attend the event which will be paid for out of funds donated to the Library to be used for employees.
+	The Public Library Association’s Annual Conference will be held in Philadelphia in March of 2018.  She submitted a proposal, which was accepted, for a breakout session presentation entitled, “We Stories: Using Children’s Literature to Discuss Race.”  Ms. Sorth will present this session at the conference along with the founders of the local non-profit We Stories.  (Plan: Strengthen Sense of Community 1.2)
+	Administration has been notified of several awards and recognitions which include:
+		The Community Partnership Award from the Missouri Library Association for our partnership with Operation Food Search for the summer lunch program.  The Community Partnership Award recognizes a Missouri library and one or more community organizations for developing a partnership that benefits members of their shared community.  We will receive this award along with Operation Food Search at the annual conference in October.
+		Neighborhood Branch Administrator, Alaina Culbertson, has been accepted to the FOCUS St. Louis Impact Fellows program.  The FOCUS Impact Fellows program launched in 2016, offering emerging and experienced leaders the opportunity to work together to address a specific issue in the St. Louis region.  This year they will tackle health care.
+		The brick used in the construction of Grant’s View has received a Craftsmanship Honor Award from the St. Louis American Institute of Architects.  An Honor Award is the highest recognition given.  The masons on the project will be invited to attend and receive the award for their work. The award states:
+Brick is a material with significant history of craftsmanship and use in St. Louis. Historic homes and public buildings throughout the city display the fruits of ample clay deposits and skilled craftsmanship available in St. Louis during the latter half of the 19th century & early 20th century. As brick manufacturing died out in St. Louis, so did much of the craftsman knowledge handed down through generations, as speed and cost came to outweigh the time and care displayed in our historic buildings.
+ When the architects began designing a new library for St. Louis County, it was clear that the budget, longevity, and maintenance desires warranted the use of brick. Other instruments influencing the design included site constraints and program size that necessitated a trapezoidal building footprint and program requirements dictating that large expanses of building frontage have no apertures or glazing. The building shape allowed expression of the conflicting rectilinear shape of brick at the corners. The large expanses of windowless exterior wall required a creative use of brick patterning to create visual interest and give life to the façade. Special brick patterns including recessed and protruding Flemish bonds and fading saw tooth running bonds are concentrated near the building entrance and the intersection where vehicles pass by the building.
+These expressive and complex bonding patterns required great skill, patience, and attention to detail of the masons, who rose to the occasion, beautifully carrying out the design intent, and proving that masonry craftsmanship is alive and well in St. Louis.
+Library Construction and Facility Update
+	She mentioned that the Florissant Valley Branch re-opened to the public on August 2nd with three ribbon cuttings - one for the branch, one for The Emerson Children’s Discovery Zone and one for The Dana Brown Early Explorers' Area. Library employees were greeted by patrons that were very happy to be back. Over 4000 people visited the branch on its opening day. (Plan: Create Gathering Spaces)
+	Administration has completed the formal approval process with the City of Clayton for the new Mid-County Branch.  Steve Hunter and I attended three public hearings before the Board of Adjustment, the Architectural Review Board and the Clayton Board of Alderman.  Both the architects and I answered many questions from City officials particularly regarding their Streetscape requirements.
+	The Library has a signed contract with Forum Studio for the design of the new HQ Building. The kickoff meeting took place on August 18th.
+	Accutate Fire Protection has completed the work on the deteriorating fire protection system at HQ.  The Emergency Provision of the Library Board’s procurement policies were used for this project.  We chose to bypass the entire leaking pipe with new pipe that runs above ground, inside the downstairs hallways.
+Library Foundation
+	On July 22, St. Louis native and award winning actor Jon Hamm discussed his local roots and storytelling through film and television during an onstage interview at HQ with bestselling author, Curtis Sittenfeld.  There were 850 people in attendance for the public event.  There was also a private fundraising event immediately following the public event at a home in Clayton.  There were 80 people at the private event.  The two events raised almost $50,000 for the Career Online High School Program.  (Plan: Strengthen Sense of Community 2.3)
+	The Sidney Johnson Learning Award will be presented to teen volunteer Amanda Aiken at the Gala on September 16th.  Amanda has been an active member of the Teen Advisory Group and a volunteer at Tesson Ferry/Grant’s View since 2010.
+She announced the following Author Events
+	Tess Gerritsen, author of "I Know a Secret: A Rizzoli and Isles Mystery", Wednesday, September 6, 7:00 p.m.
+	Salman Rushdie, author of "The Golden House", Saturday, September 9, 7:00 p.m.
+Ticket packages:  Individual Ticket-$32. Admits ONE and includes one pre-signed copy of "The Golden House" OR Package Ticket-$38. Admits TWO and includes one pre-signed copy of "The Golden House."
+	Gabrielle Zevin, author of "Young Jane Young", Monday, September 11, 7:00 p.m.
+	Ms. Sorth also mentioned that Dan Brown and  Kazir Khan would also be coming in the near future.
+Michael Mulligan moved to close the Library for Columbus Day to hold a staff In-Service Day. Elena Kenyon seconded. All voted for approval.
+NEW BUSINESS
+CONSTRUCTION UPDATE
+Steve Hunter, Assistant Director of Operations, gave an update on the new expansion for Daniel Boone. He said there are plans to open the branch near the end of October. We will have four buildings under construction in 2018.
+2015-2018 STRATEGIC PLAN UPDATE
+Library Planner Marie Conlin, gave an update on the Strategic Plan. Ms. Conlin gave a brief yearly overview.  There are 119 ongoing activities. There are three major areas of focus. The Library Strategic Plan was approved by the Board on October 20, 2014. The plan is arranged into three major areas of focus: literacy, sense of community, and gathering spaces. Ms. Conlin shared some of the programs and services the Library has to support the Strategic Plan.
+LIBRARY BOARD MEETING DATES -2018
+The Library Board approves meeting dates for the subsequent year each August so that meeting rooms can be reserved.
+ Library Board                      Pension Board
+January – No meeting             January 22
+February 5                               March 19
+March 19                                 April 16
+April 16                                   July 16
+May 21                                    October 15
+June 18
+July 16
+August 20
+*September 24
+October 15
+November 19
+December 17
+Unless otherwise stated, all meetings will be held at Headquarters per the Library Board ByLaws and will start at 3:30 p.m. The Tax Hearing is held in August each year. The Pension Board is scheduled to meet at 2:45 p.m. unless otherwise noted.
+*This is a change from the 3rd Monday to the 4th Monday
+The Library Board approved the Administration recommendation of the 2018 Board meeting dates and locations as presented (Mulligan/Kenyon).
+ANIMAL POLICY
+Deputy Director Eric Button reported that the Library Administration is seeking approval of the proposed Animal Policy.  The Library does not currently have a separate policy governing animals in the Library except for a brief statement in the Library Code of Conduct which states, “Animals are not permitted on Library property except when needed to aid persons with disabilities or used in conjunction with Library programs.”
+While this simple statement in the Code of Conduct successfully addresses most of the situations encountered in the Library, Administration and Legal Counsel both felt a more descriptive policy was necessary.  The new policy, which is attached, was drafted by Lashly & Baer and reviewed and agreed upon by Administration.  The policy carefully aligns with guidelines on service animals derived from the Americans’ with Disabilities Act.  It states that the Library complies with all federal and state laws regarding the use of service animals.
+Per the proposed policy, pets or animals, other than service animals (defined in the policy), or animals used in conjunction with Library programming, are prohibited from the Library.  The policy also establishes some conditions under which a person with a service animal may be asked to remove the animal.
+ The Library Board approved the Administration’s recommendation of the Animal Policy (Mulligan/Kenyon).
+PETITIONS, SURVEYS, AND ELECTIONEERING POLICY
+Deputy Director Eric Button reported that Library Administration is seeking approval of revisions to the Petitions and Electioneering Policy and a renaming of the policy to “Petition, Surveys, and Electioneering Policy.”  The Library Board last reviewed the Petitions and Electioneering Policy in June 2016.  Since that time Administration determined that the policy should be expanded to address survey-taking on Library property.
+Library Administration and legal counsel recommend formally incorporating the conducting of surveys into the existing Petitions and Electioneering Policy.  No significant changes are recommended in this revised policy other than changing the language to encompass surveying activities.
+The Library Board approved the revisions to the Petitions and Electioneering Policy, and the renaming of the policy to the Petitions, Surveys, and Electioneering Policy (Kenyon/Mulligan).
+LIBRARY CODE OF CONDUCT
+Deputy Director Eric Button reported that the Library Administration is seeking approval of revisions to the Library Code of Conduct pursuant to the approval of the Animal Policy and the approval of the revision and renaming of the Petitions, Surveys, and Electioneering policy.  In addition to the summary below, the entire revised policy is attached.
+Proposed changes
+	The statement in the current Library Code of Conduct which reads “Animals are not permitted on Library property except when needed to aid persons with disabilities or used in conjunction with Library programs” would be replaced with the statement, “No pets or animals other than service animals (See Animal Policy) or animals used in conjunction with Library programming are permitted at any St. Louis County Library facilities.”
+	The statement which reads, “Petitioning inside Library buildings is prohibited.  The circulation of petitions outside Library facilities may not impede the free access of the public to Library buildings and resources.  Petitioners refusing to comply with this policy will be asked to leave Library property.  (See Petitions & Electioneering Policy” will be changed to “Petitioning or conducting of surveys inside of Library buildings is prohibited.  The circulation of petitions or surveys outside Library facilities may not impede the free access of the public to Library buildings and resources.  Petitioners or survey takers refusing to comply with this policy will be asked to leave Library property.  (See Petitions, Surveys, and Electioneering Policy)”
+The Library Board approved the revisions to the Library Code of Conduct (Kenyon/Mulligan).
+FINES POLICY
+Deputy Director Eric Button reported that Library Administration is seeking approval of two different changes to the fines policies and procedures. Currently, a patron’s account is blocked from further activity when fines reach or exceed $15.00. Once this fines threshold is reached, a patron can no longer check out additional library materials. Library Administration recommends increasing the fines threshold to $25.00, which will provide more flexibility and leeway for library patrons. The second proposed change pertains to our current schedule of overdue fines that are levied in several different amounts including $0.15, $0.25, $1.00, and $5.00 per day. With a large number of fine categories, it is difficult for patrons to understand, and for staff to explain, our fines policies. Library staff recommended simplifying the overdue fines schedule to include only $0.15 and $1.00 fines.
+Both of the aforementioned changes to the fines policy aim to reduce barriers to library service, which is better aligned with our general service philosophy and in keeping with the spirit of our Strategic Plan.
+The Library Board approved increasing the fines threshold on patron accounts from $15.00 to $25.00 and Administration recommends decreasing overdue fines on DVDs from $0.25 to $0.15 per day and decreasing fines on telescopes from $5.00 per day to $1.00 per day (Mulligan/Kenyon).
+DIVERSITY GOALS – BRANCH RENOVATION / EXPANSION AT GRAND GLAIZE
+This is an informational item.
+Kristen Sorth reported that the Library Board reviewed the 16 work packages for renovations at the Grand Glaize Branch. The bid process involved a review by the Library, Landmark, and Brinkmann Constructors as to whether the packages meet the diversity goals of 15% for minority-owned businesses (MBE) and 5% for women owned businesses (WBE) outlined in the Library’s Diversity Statement, which is attached. Good faith efforts went beyond those required in the Library’s policy and included advertisements, notifications, conversations, meetings, and outreach that began in early 2017 and continued to the day of the public bid opening.
+ Ms. Sorth provided the Board with a letter from Brinkmann describing these efforts in more detail. The work packages were released on July 26, 2017 with responses due on August 11, 2017. Minority goals were included in the bid documents. Ms. Sorth also shared a Bid Summary of the responses received including the MBE and WBE participation levels for each selected bidder and the Bid Analysis which has information from all responses.
+All bidders were required to submit a Good Faith Effort Statement detailing their attempts to include diversity in their bid proposals. The total percent of construction awarded to minority owned businesses is 5.7% and the total amount for women-owned businesses is 22.2%.
+Although the Administration is disappointed by the MBE percentage, Kristen Sorth shared that a significant Good Faith Effort was made by all involved to encourage minority participation on this project.
+The Library, Landmark, and Brinkmann will continue to emphasize the Library’s Diversity Statement and will monitor and encourage minority workforce participation.
+Dr. Beckwith expressed his displeasure with only a 5.7% minority participation.
+CONTRACTS AND CONTINGENCY FOR PHASE 2B - GRAND GLAIZE BRANCH
+Steve Hunter, Assistant Director of Operations, reported that the final construction documents for the Grand Glaize Branch were delivered by Bond Architects on July 14, 2017. Brinkmann Constructors organized the work into 16 separate work packages and released them for bid on July 26, 2017.
+The bid notice was placed in the St. Louis Post-Dispatch, the St. Louis Daily Record, on the SLCL website, on SmartBidNet, and in various plan rooms around the area. In addition, more than 50 W/MBE firms were contacted on behalf of the Library by direct email from Landmark Contract Management.
+A pre-bid / outreach meeting was held at Grand Glaize on August 1, 2017. Bids were due August 11, 2017 and opened that day in a public meeting at Headquarters. There were 39 bids received. Multiple responses were received in 14 of the 16 work packages.
+The individual work packages and the qualified responses to each are listed below. The total amount being requested is $4,305,423.00. There is a separate recommendation for project contingency. The Board will be asked to approve each individual work package. By approving these, the Board is authorizing the Director to enter into and execute the completed contracts as they are prepared.
+In accordance with the Library’s bid procedure, Administration is recommending the lowest and best bid for each work package:
+Work Package #1 – Demolition / Abatement
+						Midwest Service Group
+						$81,110
+						ALCO Wrecking
+						$124,470
+The Library Board approved the selection of the lowest and best bid from Midwest Service Group at $81,110 (Kenyon/Mulligan).Work Package #2 – Cast-in-Place Concrete & Flatwork
+						Vee Jay Cement
+						$126,910
+						Demien Construction
+						$250,000
+The Library Board approved the selection of the lowest and best bid from Vee-Jay at $126,910 (Kenyon/Mulligan).
+Work Package #3 – Masonry
+						John Smith Masonry
+						$44,948
+						Heitkamp Masonry
+						$66,980
+The Library Board approved the selection of the lowest and best bid from John Smith Masonry at $44,948 (Mulligan/Kenyon).
+ Work Package #4 – Structural Steel
+						Affton Fab. & Weld.
+						$186,398
+						Steward Steel
+						$204,954
+The Library Board approved the selection of the lowest and best bid from Affton Fabricating and Welding at $186,398 (Mulligan/Kenyon).
+Work Package #5 – Roofing & Sheet Metal
+						Midwest Service Group
+						$76,500
+The Library Board approved the selection of the lowest and best bid from Midwest Service Group at $76,500 (Kenyon/Mulligan).
+Work Package #6 – Glass & Glazing
+						Missouri Valley Glass
+						$289,395
+						Budget Glass
+						$309,675
+The Library Board approved the selection of the lowest and best bid from Missouri Valley Glass at $289,395 (Mulligan/Kenyon).
+Work Package #7 – Drywall, Framing, Fireproofing, Insulation, EIFS, Acoustic Ceilings
+						Von Alst Operating
+						$585,371
+						ICS
+						$696,400
+						George Weis
+						$766,000
+The Library Board approved the selection of the lowest and best bid from Von Alst Operating at $585,371 (Kenyon/Mulligan).
+Work Package #8 – Tile & Flooring
+						Flooring Systems Inc.
+						$169,990
+						ICS
+						$176,840
+The Library Board approved the selection of the lowest and best bid from Flooring Systems Inc. at $169,990 (Mulligan/Kenyon).
+Work Package #9 – Painting
+						Dannix Painting
+						$26,361
+The Library Board approved the selection of the lowest and best bid from Dannix Painting at $26,361 (Kenyon/Mulligan).
+Work Package #10 – Fire Suppression
+						Fire Tech
+						$70,400
+						Gateway Fire Protection
+						$75,062
+						Bi-State Fire Protection
+						$75,100
+						Boyer Fire Protection
+						$109,800
+The Library Board approved the selection of the lowest and best bid from Fire Tech at $70,400 (Mulligan/Kenyon).
+Work Package #11 – Plumbing
+						Merlo Plumbing
+						$298,077
+						Pipe Systems
+						$314,683
+						Haggemann
+						$318,055
+						Eagle Plumbing
+						$320,000
+						Deluca Plumbing
+						$371,500
+The Library Board approved the selection of the lowest and best bid from Merlo Plumbing at $298,077(Kenyon/Mulligan).
+Work Package #12 – HVAC
+						MCI
+						$598,230
+						Rock Hill Mechanical
+						$661,900
+						Hayes Mechanical
+						$724,531
+						Wiegmann
+The Library Board approved the selection of the lowest and best bid from MCI at $598,230 (Mulligan/Kenyon).
+Work Package #13 – Electrical
+						Briner Electric
+						$687,485
+						Aschinger Electric
+						$717,500
+						KayBee Electric
+						$895,000
+						Schneider Electric
+						$959,823
+The Library Board approved the selection of the lowest and best bid from Briner Electric at $687,485 (Mulligan/Kenyon).
+Work Package #14 – Technology
+						CI Select
+						$57,228
+						CSS Presentation Sys.
+						$77,778
+The Library Board approved the selection of the lowest and best bid from CI Select at $57,228 (Kenyon/Mulligan).
+Work Package #15 – Sitework
+						Kozeny Wagner
+						$542,040
+						Baxter
+The Library Board approved the selection of the lowest and best bid from Kozeny Wagner at $542,040 (Kenyon/Muligan).
+Work Package #16 – General Works
+						RG Ross
+						$472,470
+						Demien Construction
+						$570,000
+						Waterhout Construction
+						$649,250
+						Interface Construction
+						$663,337
+						Kozeny Wagner
+						$674,500
+The Library Board approved the selection of the lowest and best bid from R G Ross at $472,470 (Mulligan/Kenyon).
+Contingency
+Administration requests approval of a contingency fund for this project with a total value of $500,000 for permitting, unforeseen conditions, and owner requested changes. The spending of this contingency fund will be approved by Kristen Sorth, Library Director or Steve Hunter, Assistant Director as needed during the execution of the project. The accounting of the expenditures against the contingency fund will be regularly reported back to the Library Board.
+The Library Board approved the project contingency fund totaling $500,000 (Kenyon/Mulligan).
+CONSTRUCTION MANAGEMENT SERVICES FOR PHASE 3
+Steven Hunter, Assistant Director of Operations, reported that the Library Administration requested the submission of proposals from qualified firms to provide Construction Management Services for Phase 3 of the Facilities Master Plan. Lashly & Baer and Landmark assisted with the drafting of the Request for Proposal (RFP), which is for work on the new Headquarters building and the temporary office location. The schedule, budget, and contract were included in the RFP.
+The RFP was issued on June 12, 2017 and responses were due on July 14, 2017. Five responses were received. The selection procedures and evaluation factors for Construction Management Services as defined by Missouri State Statute were followed during this process.
+The proposals included the following fees:
+			Brinkmann Constructors
+			$ 2,627,367
+			S.M. Wilson
+			$ 2,782,027
+			Interface Construction
+			$ 3,014,436
+			Holland Construction Services
+			$ 3,198,243
+			Tarlton Corp. + BFW Contractors
+			$ 3,258,102
+A selection committee consisting of Kristen Sorth, Eric Button, Steve Hunter, Kelli Reeves, and Scott Kolath from Landmark reviewed the proposals. Three firms – Brinkmann, Holland, and Tarlton+BFW – were selected for interviews, which occurred on August 1, 2017.
+Following the interviews, the three firms were ranked and the selection committee reached a consensus.
+We have determined that Brinkmann is the firm that demonstrates competence, is most qualified and has fair and reasonable fees based on the consideration of the following evaluation factors as required by Missouri State Statutes:
+	A description of the manner in which the Proposer will address each of the phases described in the Plan and the Scope of Services including the management of systems to estimate, schedule and control costs, and any recommendations for the structure and implementation of each phase.
+	Demonstration of successful management systems which have been employed for the purposes of estimating, scheduling and controlling costs.
+	The manner and rate at which the Proposer expects to be compensated for each of the phases described in the Scope of Services.
+	The financial strength and overall experience of the Proposer in the design, scope and complexity of projects comparable to the Project.
+	Demonstration of Proposer’s ability to perform projects comparable in design, scope and complexity to the Project.
+	The names and qualifications of the individuals who will be assigned to manage this engagement.
+	Other relevant information important in evaluating the Proposer.
+	Demonstration of good faith efforts to achieve compliance with federal, state and local affirmative action requirements.
+	The responses of the references for whom the Proposer has served as construction manager in projects of the nature and scope of the Project.
+The Library Board approved the selection of Brinkmann Constructors to provide Construction Management Services for Phase 3 of the Facilities Master Plan for $2,627,367 and that the Board authorize the Director to enter into and execute a contract to that effect (Mulligan/Kenyon).
+FIRST AMENDMENT TO PHASE 2-1 ARCHITECTURAL AND ENGINEERING SERVICES AGREEMENT WITH BOND ARCHITECTS
+Steve Hunter, Assistant Director of Operations, reported that the original scope of the Phase 2-1 Architectural and Engineering Services Agreement with Bond Architects included work on six branches (Bridgeton Trails, Daniel Boone, Florissant Valley, Grand Glaize, Meramec Valley, and Thornhill). During design, the scope on five of these branches changed to include elements that were not part of the original program – such as Discovery Zones at Daniel Boone, Florissant Valley, and Meramec Valley; a children’s garden at Thornhill; an outdoor reading deck and walking trail at Meramec Valley; and additional HVAC design at Bridgeton Trails. Administration and Landmark agree that compensation for the additional work is appropriate.
+An Amendment to address the additional scope was reviewed by attorneys at Lashly & Baer and is attached.
+This change in scope to the Agreement will result in additional, negotiated compensation of $195,558. The not-to-exceed compensation for Phase 2-1 Architectural and Engineering Services with Bond Architects will be adjusted to $3,092,894, including Reimbursables and Allowances.
+The Library Board approved the First Amendment to the Phase 2-1 Architectural and Engineering Services Agreement with Bond Architects and that the Board authorize the Director to enter into and execute that amendment (Mulligan/Kenyon).
+POLICY II – PROFESSIONAL SERVICES; POLICY III – DISBURSEMENTS
+Director Kristen Sorth, reported that the Library Board’s Policy I - Procurement Procedure was revised and approved by the Library Board on May 15, 2017. The most significant change was the increase from $10,000 to $20,000 as the threshold for Library Board approval.  In addition to Policy I, the Library Board’s Procurement Policy includes Policy II – Professional Services and Policy III – Disbursements.  Both Policy II and Policy III must be amended to reflect the changes approved by the Library Board when Policy I was submitted for review.
+The Library Administration is submitting Policy II and Policy III for review. The proposed changes are summarized below and highlighted in the attached documents.  In addition, a clean copy of each policy is also attached:
+Summary of Proposed Changes for Policy II – Professional Services
+	Under “Section 2. Authority” – The change raises the threshold for Library Board approval to 20,000 from $10,000 to align with Policy I.
+Summary of Proposed Changes for Policy III - Disbursements
+	Under “Section 1. Disbursements” Item C - The change raises the threshold for Library Board approval to $20,000 from $10,000 to align with Policy I.
+	Under “Section 1. Disbursements” Item D – The change allows for certification of the monthly check register by the Board President by electronic signature.  Currently, the policy only allows facsimile signature.
+The Library Board approved of the revisions to the Procurement Policy, currently found in the By-Laws of the Board of Trustees Article VIII, Section I, Policy II and Policy III (Kenyon/Mulligan).
+EXECUTIVE SESSION
+Michael Mulligan motioned to adjourn open meeting and to convene Executive Session to discuss real estate (Section 610.021(2)); and to discuss legal matters (Section 610.021(1)).  Elena Kenyon seconded. All voted affirmative in roll call vote.
+ Meeting adjourned at 4:42 p.m.
+Respectfully submitted,                                                          Date
+Chingling Tai, Secretary

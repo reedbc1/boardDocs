@@ -1,0 +1,147 @@
+{
+  "name": "Regular Meeting",
+  "description": "Library Board",
+  "unique": "9SGRY96FD45C",
+  "date": "2015-03-23T00:00:00Z"
+}
+
+---
+
+ST. LOUIS COUNTY LIBRARY DISTRICT
+	MEETING OF THE BOARD
+	HEADQUARTERS BRANCH
+	MONDAY, MARCH 23, 2015
+	The monthly meeting of the Board of the St. Louis County Library District was held at Headquarters, 1640 S. Lindbergh Blvd., St. Louis, MO 63131 on Monday, March 23, 2015 at 3:30 p.m. The agenda had been posted in all branches of the Library District at least 24 hours before the meeting.
+	ATTENDANCE:
+	Library Board Members:
+	Dr. Lynn Beckwith, President
+	Edith Cunnane, Vice President via telephone
+	Dr. Chingling Tai, Secretary
+	Elena Kenyon, Treasurer
+	Steve Sachs, Member
+	ADMINISTRATORS AND GUESTS ATTENDING:
+	Kristen Sorth, Library Director; Barbara Brain, Assistant Director, Adult & Support Services; Barbara Turkington, Assistant Director, Advancement; Gib Van Cleve, Assistant Director, ITS; Eric Button, Assistant Director, Branch Services; Gina Cochran, KEB auditors; Gwen Knight, Colliers; Dave Gannon, Colliers; Scott Kolath, Landmark; Tom Curran, St. Louis County; Steve Wightman, AJG; and Lisa Stump, Attorney, Lashly Baer.
+	Others Attending:
+	Cindy A. Miller, Stephanie Nordmann, Nicole Clawson, Scott Kolath, Marie Conlin, Susie Bushnell, Jacob Eubanks, Aaron Eller, Anna Strackeljahn, Crystal Harris, Alaina Culbertson, Megan Coyle, Mary Jo Hartmann, Steve Hunter, Allison Wisniewski, Anna Huckeby, Sri Upadhya, Amy Hanaway, Deanna Dedeke, Maureen Willmann, Keir Haug, Colleen Hall, Trudy Williams, Donna Spaulding, Sarah Wood, Barb Reale, Christina Pryor, Hannah Komasinski, Conrad Rader, Anne Arthur, Kathy Wiese, Rebecca Clark, Ellen Lindberg, Stacy Berger, Julie Mangner, Annie Fuller, Kelly White, Gina Cochran, Jennifer Alexander, Mary Arnhart, Rachel Nowell, Marsha Ramey, Anna Schurk, Laura Kasak, Stacey Lewis, Matt Lakin, Lori Boschert, Tracy Fletcher, Colleen Hall, Trudy Williams, Donna Spaulding, Sarah Wood and Sandy Williams.
+	PUBLIC COMMENT
+	There were no public comments.
+	MINUTES
+	The Library Board approved the minutes from the February 9, 2015 meeting (Cunnane/Kenyon).
+	TREASURER'S REPORT
+	Kris Mooney gave the Financial Reports for January and February 2015.
+	In January, the Library District received $41,888,842 in tax revenue for fiscal year 2015 thus far. This distribution of revenue is up $2.1 million from collections during the same period in 2014.
+	The Library District renewed the annual Millennium software maintenance with the Library’s  Integrated Library System vendor, Innovative Interfaces Incorporated (III) at a cost of $151,615.
+	In January, repairs were made by Century Elevator Service to the elevator at the Daniel Boone Branch for a cost of $7,500.
+	Twelve branches received new book carts in January from School Outfitters for a total of $17,024. The additional book carts will be used to assist in moving materials from branches that are closing for renovations. The book carts were purchased under a cooperative purchasing agreement and were included in the 2015 budget.
+	The Library District purchased the annual maintenance for the Library’s RFID equipment for a total cost of $60,747.
+	Capital Projects Fund Balance Sheet
+	Total Construction in Progress for January 2015 was $1,610,446. The expenses included payments for:
+	·         Lewis and Clark construction (payable to many sub-contractors) - $715,919
+	·         Grant’s View construction (payable to many sub-contractors) - $603,352
+	·         Architects fees payable to Bond Architects, Christner, and KAI - $141,886
+	·         The Construction Manager, S.M. Wilson - $108,671
+	·         The remaining dollars were largely spent for the services of the Facilities Master Plan Administrator.
+	In February, the Library District invested operating proceeds with First Bank. The investments consisted of ten certificates of deposit of various amounts for a total of $36,000,000. The investment plan was approved at the Board meeting on February 9, 2015.
+	In February, The Library District received payment of the annual tax levied on Missouri financial institutions in the amount of $297,633.
+	The District received $28,942 from St. Charles City-County Library related to the reciprocal borrowing agreement.  The amount was calculated from lending statistics for the year 2013.
+	Many of the Library’s Database subscriptions renew in February. During this month, the Library  incurred a cost of $379,107 in database subscriptions. The most popular databases purchased this month were for general academic use (student research), newspapers, and genealogy.
+	Hackett Security Inc. upgraded burglar and fire alarms at the Sachs and Jamestown Bluffs branches for a total of $22,404.  The completed upgrades are part of a 13 branch upgrade approved by the Board at the July 21, 2014 meeting.  To date, the Library has spent $64,456 of the $127,551 bid and six branches are awaiting upgrades.
+	Capital Projects Fund Balance Sheet
+	Total Construction in Progress for February 2015 was $878,445. The expenses included payments for:
+	·         Grant’s View construction (payable to many sub-contractors) - $368,997
+	·         Lewis and Clark construction (payable to many sub-contractors) – $282,186
+	·         The Construction Manager, S.M. Wilson - $91,214
+	·         Architects Fees payable to Bond Architects and KAI – $78,213
+	·         The remaining dollars were largely spent for the services of the Facilities Master Plan       Administrator and environmental professional services.
+	The Library Board approved the Treasurer's Reports subject to audit (Sachs/Kenyon).
+	DIRECTOR'S REPORT
+	Kristen Sorth gave the following report.
+	Library Update
+	·         Ms. Sorth shared the dashboard report for March with the Board. This report contains a variety of statistical information for the Library including circulation information by type and Sunday visits.  The report also includes information about programming, PC and WiFi usage as well as information about the Library’s Winter Reading Club, which had 59,904 participants.  The most popular items in the collection are also included.  With the first four branches closed for renovation and the next five closing later this year, Ms. Sorth said she expected circulation numbers to decrease.
+	·         Library staff met with representatives from Parkway School District to discuss efforts to ensure that every Parkway student has a St. Louis County Library card. The Library is looking into a number of options including directly importing the District's student data into Millennium to greatly reduce the amount of staff time required to issue the cards.  Getting a library card would be presented to parents as an "opt-out" option.  Ms Sorth said that, if this pilot program proves successful, the Administration is hopeful that it may be able to replicate it in other school districts.
+	·         Ms Sorth was contacted by the State of Missouri’s Office of Community Engagement regarding their Summer Job League which was recently created to provide summer employment opportunities for young people ages 16-24.  Administration is exploring this opportunity.
+	·         The Library will partner with Operation Food Search again this summer to host the summer lunch program at Florissant Valley, Grand Glaize, Natural Bridge and Prairie Commons.   The meals are funded through the State of Missouri and coordinated by Operation Food search as part of their "No Kid Hungry" initiative.   This program will provide food during summer break to our community's children who rely on school lunches for a consistent meal during the school year.  The Library will also provide activities such as board games, crafts, and programming in addition to the lunches.
+	·         The Library will be presenting a special story time and panel discussion of the new book “Painting for Peace in Ferguson” by St. Louis author Carol Swartout Klein on Monday, March 30 at 6:30 p.m. at HQ.  “Painting for Peace in Ferguson” tells the true story of hundreds of artists and residents of all ages who came together to create colorful images of hope using boarded up businesses as their canvases.  The story time with the author will take place from 6:30 – 7:00 p.m.  At 7:00 p.m., there will be a panel discussion moderated by Rebecca Bennett, Founder of Emerging Wisdom LLC.  Panelists include author Carol Swartout Klein, patient advocacy coordinator at St. Louis Children’s Hospital and I Love Ferguson board member Dwayne Ingram, and art therapist Dana Sebastian-Duncan.   Children will have the opportunity to join St. Louis County Library Youth Services staff members in an adjoining room for a special craft project inspired by “Painting for Peace in Ferguson.”
+	·         Eight new garden beds will be added to the Cliff Cave Branch on Saturday, March 21st.  This is the second growing season for the garden which is located in South County.  There will be 28 total beds at this community garden.
+	·         The new Sweet Reads bookmobile is making stops in and around Spanish Lake.  The new bookmobile features over 2000 books for kids, teens and adults.  While on board the bookmobile, visitors can also search the SLCL catalog, check email or sign up for a library card.  Several news outlets covered the new bookmobile including St. Louis Public Radio which visited a stop while researching the story.  Lewis and Clark staff is promoting Sweet Reads to their patrons.  The bookmobile will present an additional option for service when Lewis and Clark closes at the beginning of April.  The Library will also be offering community bookmobile service at the South County Senior Center in Affton in addition to the community bookmobile in St. John.
+	·         Ms. Sorth reported that the partnership with the St. Louis Astronomical Society has been extremely successful.  Currently, there are 197 patrons on the waiting list for a telescope.  We will be adding five telescopes to the collection bringing the telescope collection to 12 units available for check out.  The Library is applying to the Foundation’s Program Committee for the funding of three additional telescopes and the Astronomical Society is donating two telescopes.  A telescope will be placed at Bridgeton Trails, Cliff Cave, Grand Glaize, Mid-County and Thornhill.
+	·         The Warm-Up America collection day was a tremendous success once again this year with 2137 items collected and donated to 11 different charities.
+	·         Library employees met with representatives from the National Parents as Teachers Center (PAT) and discussed ideas for a partnership.  The Library was invited to a meeting on March 30 with more than 20 PAT program directors from the St. Louis region to share information about resources and programs available at St. Louis County Library.  We will explore additional opportunities.
+	·         Ms. Sorth attended the “For the Sake of All” community forum on March 12th.  This forum’s topic was childhood development and literacy.  Employees from the Library’s Youth Services Department had a table at the resource fair and also attended.  The partnership between the Library and “For the Sake of All” was mentioned in the materials handed out to the 200 plus attendees.
+	·         Plans for the Sachs Reading Garden are progressing.   We are waiting on MSD approval which is forthcoming.  A groundbreaking will be planned for sometime in April.
+	·         Beau Willimon, the creator, head writer and producer of the award winning Netflix series, House of Cards was the featured guest on March 7 at a Library Foundation fundraising reception.  The reception was followed by a public on-stage interview conducted by KMOX Host Debbie Monterrey. The reception sold out and 400 people attended the public program.  More information about the event will be discussed later in the meeting.  Also, Gateway Buick-GMC has selected the St. Louis County Library as their not-for-profit of the month.  For each car sold during the month of April, $50 will be donated to the St. Louis County Library Foundation.
+	·         There were additional mentions of the St. Louis County Library in the media. Ms. Sorth shared those articles with Board members.
+	·         Ms. Sorth showed a number of photographs to the Board from several programs and events including: Take Your Child to the Library Day–Mid-County, Princess Ballet–HQ, Watts Up–Sachs, Warm Up America–Bridgeton Trails, Set the Night to Music (Black History Month) Florissant Valley, Black History Month–Multiple locations, Teen Tech Month animation, Byte Works–Oak Bend.
+	Library Employee Update
+	·         Barbara Brain and the Library’s Green Team are exploring the possibility of participating in the “Adopt A Highway” program along Lindbergh Blvd.
+	·         The Library’s audit which includes the Foundation and the Pension Plan audit are complete.  The auditors will present at the Pension Board Meeting and the Library Board meeting.
+	·         The Library’s actuary, Milliman, will present a recommendation to both the Pension Board and the Library Board regarding the yearly pension contribution.
+	Library Facility Update
+	·         Indian Trails, Jamestown Bluffs, Weber Road and Rock Road are all now closed for construction.  The collections and equipment have been moved to the storage facility and those employees are now working at their assigned branches during construction.  The moves were extremely well planned and resulted in smooth and successful moving days at all four locations.  It was truly a team effort.  February and March included not only these four moves but extensive planning for the interior of the buildings at the four renovations as well as Grant’s View and Lewis and Clark.  The Board will review the bid packages for furniture, fixtures and equipment and shelving at the April Board Meeting.  Additional items to be reviewed in the future include the selection of a vending machine provider, scanning/faxing service and electronic signage for renovated and new buildings.
+	·         The masonry work at Mid-County will begin next week.  The library approved the repair of the inside and outside walls of the staircase at the December Board Meeting.
+	·         Additional shelving will be set up on Tier 5 to accommodate the Rohrbach collection. This work will be done in advance of the National Genealogical Society conference which will be held in May in St. Charles.  We are anticipating a huge influx of genealogists to the History and Genealogy Department.
+	Author events.
+	·         C.J. Box, Author of “Endangered”, Friday, March 20, 7:00 p.m., Library Headquarters – Auditorium.
+	·         Carol Swartout Klein, author of “Painting for Peace in Ferguson”, Monday, March 30, 6:30 p.m., Library Headquarters – Auditorium.
+	·         Jacqueline Winspear, Author of “A Dangerous Place”, Tuesday, March 31, 7:00 p.m. Library Headquarters – Auditorium
+	·         Ridley Pearson, author of “Disney Lands-Kingdom Keepers:  The Return Series #1”, Friday, April 3, 7:00 p.m., Library Headquarters-Auditorium
+	·         Heather Brewer, Author of “The Cemetery Boys”, Saturday, April 4, 7:00 p.m., Daniel Boone Branch.
+	·         Robin Oliveira, author of “I Always Loved You”, Monday, April 6, 7:00 p.m., Library Headquarters-Auditorium.
+	·         T.C. Boyle, author of “The Harder They Come”, Wednesday, April 8, 7:00 p.m., Library Headquarters – Auditorium.
+	·         Congressman and activist Barney Frank, author of “Frank: A Life in Politics”, Friday, April 10, 7:00 p.m., Library Headquarters-Auditorium.
+	·         Philip Kerr, author of “The Lady from Zagreb”, Monday, April 13, 7:00 p.m., Library Headquarters – Auditorium.
+	·         Lisa Stein Haven, Editor of “A Comedian Sees the World” by Charlie Chaplin, Thursday, April 16, 7:00 p.m., Library Headquarters – Auditorium.
+	·         Steve Berry, author of “The Patriot Threat”, Saturday, April 18, 7:00 p.m., Library Headquarters – Auditorium.
+	OLD BUSINESS
+	NONE
+	NEW BUSINESS
+	Circulation Department
+	Lori Boschert, Circulation Manager, with the assistance of Mary Jo Hartmann, Customer Connect Coordinator, gave a PowerPoint presentation on the duties and activities of the Circulation Department.  Ms. Boschert stated that her department consists of Circulation, Interlibrary Loan and Customer Connect and has 44 full and part time employees.  In 2014, Headquarters Circulation was the second highest circulating location in the system with 1,143,158 checkouts.
+	Construction Update
+	Steve Hunter reported that the process of closing, packing and moving the first four branches to be renovated went extremely smoothly. He showed photographs of the move out process, the storage facility and some of the demolition work so far. Planning for the next five remodeling projects has already begun.
+	Mr. Hunter stated that Grant’s View is 24% complete with final completion expected in September. This project is between 4 to 7 weeks behind schedule, partly due to the weather, and a recovery expert is looking at what can be done to get back on track.
+	Lewis & Clark is over one third complete with an anticipated full completion date in September, considerably earlier than initially anticipated due to the decision to expedite the demolition of the existing building. Mr. Hunter indicated the location of the children’s area in the new building and also showed where the stained glass panels from the original building would be hung.
+	Dr. Beckwith requested that a report be given at the April Board meeting regarding the number of minority workers involved in the construction projects.
+	Insurance Renewals
+	Kris Mooney presented a recommendation on the Library’s insurance policy renewals. He reported that all lines of the Library’s insurance policies renew each year on April 1.   Arthur J. Gallagher Risk Management Services (AJG), the Library’s broker for these services, marketed the Library District’s account to several carriers. Mr. Mooney shared a letter with the Board from Steve Wightman of AJG along with a chart of the April 1, 2015 renewal quotes. The total of the insurance renewals and the broker’s fee ($20,000) is $469,928, an increase over 2014 of 2.8%. The Pension Plan pays for the Fiduciary coverage ($8,605).
+	The Library Board approved the Administration’s recommendation in consultation with Arthur J. Gallagher to accept the quotes from the insurance carriers which include Firemen’s Fund (National Surety Corp.), Travelers Casualty & Surety Company of America, Endurance American Specialty Insurance and Ace American Insurance Company plus the broker’s fee for a total cost of $469,928 (Cunnane/Tai).
+	2014 Library Audit
+	Kris Mooney introduced Rick Gratza, the partner at the Library’s Auditor, Kerber, Eck & Braeckel (KEB) who oversees the Library’s audit. Mr. Gratza reported on the 2014 independent Library audit which also includes the operation of the Library Foundation. Mr. Gratza stated that KEB has issued an unmodified opinion and explained that an opinion is said to be “unmodified” when the auditor has no reservations concerning the financial statements. This is also known as a “clean opinion” meaning that the financial statements appear to be presented fairly in conformity with Generally Accepted Accounting Principles.
+	The Library Board approved the Administration’s recommendation for the acceptance of the independent audit (Sachs/Kenyon).
+	Copies of the audit will be sent to the State Auditor and State Library as required by State Statute. The audit will also be available on the Library’s website.
+	2015 Pension Contribution
+	Kris Mooney reported that the Library’s contribution to the Pension Plan is due each year on March 31. The Library’s actuary, Milliman, has conducted the annual actuarial valuation. Milliman is recommending a contribution of $1,497,480. The Library’s 2015 budget for this expense is $1,875,000. The funding ratio of the Pension Plan is 90.3% based on the actuarial value of assets.
+	The Library Board approved the Administration’s recommendation to authorize the budgeted amount of $1,875,000 to the Pension Plan, which is in excess of the amount recommended by the Library District’s actuary (Kenyon/Tai).
+	Vehicle Purchase
+	Kris Mooney requested Library Board approval for the purchase of a vehicle for the Director of the Library District. On March 5, 2015, the Library issued an Invitation for Bid to Ford dealerships in the metro area which included the required specifications for a 2015 Ford Edge. Five bids were received.
+	The Library Board approved the Administration’s recommendation for the selection of the lowest and best bid from McMahon Ford for a 2015 Ford Edge at $32,246. The vehicle purchase was included in the 2015 budget at the amount of $40,000 (Cunnane/Sachs).
+	Demolition and Abatement Contract
+	Steve Hunter presented the last work package for the new Lewis & Clark Branch project for demolition and abatement of the existing building. This includes the removal and preservation of the stained glass images that are to be relocated to the new facility.
+	Bid packages were made available to the public February 26, 2015. The bid was posted in the St. Louis American, on our website, and on SM Wilson’s Smartbid site. The bids were opened on March 12, 2015 in a public meeting at the Lewis & Clark branch. Six responses were received.
+	The Library Board approved the Administration’s recommendation for the selection of Spirtas at $84,000 and authorized the Director to enter into and execute a contract to that effect. In addition to offering the lowest and best bid, Spirtas’ offer includes 15% MBE participation and 5% WBE participation (Sachs/Tai).
+	Landscaping Package
+	Steve Hunter presented the last work package for Landscaping and Irrigation for the new Grant’s View Branch project. This work package includes construction of the bioswales.
+	Bid packages were made available to the public February 26, 2015. The bid was posted in the St. Louis American, on the Library’s website, and on SM Wilson’s Smartbid site. The bids were opened on March 12, 2015 in a public meeting at the Lewis & Clark branch. Six responses were received.
+	The Library Board approved the Administration’s recommendation for the selection of Rhodey at $312,000 and authorized the Director to enter into and execute a contract to that effect. In addition to offering the lowest and best bid, Rhodey’s offer includes 82% MBE participation and 18% WBE participation (Cunnane/Kenyon).
+	Amendment - Moving Company Contract to Include Lewis and Clark
+	Steve Hunter reported that the contract for Transportation of Library Collections is held by Dodge Moving and Storage. They are responsible for moving the Library’s collections to and from the storage facility and the branches closed for renovation. The closing of the Lewis & Clark Branch in April has necessitated additional transportation services. Due to the timing of the closure, the best option for enhancing the construction schedule and opening the new facility as early as possible is to amend Dodge’s contract. Lashly Baer has prepared an amendment to the contract authorizing an additional $12,700 for the Lewis and Clark move, bringing Dodge’s total contract amount to $137,423.40.
+	The Library Board approved the Administration’s recommendation for the approval of the Amendment to the Transportation of Library Collections Contract with Dodge Moving & Storage and authorized the Director to enter into and execute that Amendment (Sachs/Tai).
+	Unique Management Services
+	Barbara Brain presented the Administration’s recommendation to adopt a $25 minimum balance referral threshold on past due accounts submitted to Unique Management Services (UMS).
+	The Library Board approved a contract with UMS on January 27, 2014 to help collect overdue fines and fees and encourage the return of materials at a cost of $8.95 for each account submitted. This service has been a worthwhile extension of the Library’s own efforts to recover overdue materials. During the first year, 4,069 past due accounts of at least $50 were submitted to Unique, $107,235.50 worth of materials were returned and fines totaling $24,855.71 were paid.
+	Ms. Brain explained that UMS recommends a $25 minimum balance referral threshold since this ensures the best return of materials and the best opportunity for patrons to clear their accounts and return as library users in good standing. This would add 2,766 patrons to the collection process, none of whom would incur additional fees over and above what they already owe and only those adults who owe $100 and up run the risk of being credit reported when they don’t clear their accounts. An analysis of recoveries by comparable libraries was shared with the Board.
+	The Library Board approved the Administration’s recommendation to adopt a $25 minimum balance referral threshold on past due accounts submitted to Unique Management Services (Cunnane/Tai).
+	Naming Rights
+	Kristen Sorth presented a recommendation made by the Library Foundation Board of Directors at their March 10, 2015 meeting, to name a room or space in a renovated North County branch in honor of Beau Willimon for his generous support of the Foundation’s ForWord Fund. Ms. Sorth explained that Beau Willimon is the creator, head writer and producer of the award winning Netflix series, House of Cards. Mr. Willimon was the featured guest on March 7 at a fundraising reception at Library Headquarters, followed by a public on-stage interview conducted by KMOX Host Debbie Monterrey. The reception sold out, and 400 people attended the public program. More than $36,000 was raised to benefit the Foundation’s ForWord Fund, designed to enhance Library facilities and literacy programs and projects in underserved areas of the County with the
+	initial focus being on North County.
+	The Library Board of Trustees, per its naming policy, makes all final decisions on naming rights for Library buildings, rooms or features. The policy states that preference shall be given to an individual who has made exceptional contributions to the Library or literary services. The Library Board shall give special consideration to requests placed by the Foundation Board related to contributions made to improve or enrich construction, furnishings or equipment.
+	The Library Board approved the Foundation’s request to name a room or space in a renovated North County branch in honor of Beau Willimon for his generous support of the Foundation’s ForWord Fund (Tai/Kenyon).
+	Summer Reading Club Amnesty
+	Eric Button requested Library Board approval of an amnesty program for children and teens registering for the 2015 Summer Reading Club (SRC).
+	Mr. Button stated that children and teens who registered for the SRC in 2012, 2013, and 2014 were granted limited amnesty for overdue fines on their library cards. The amnesty was extremely well received by the community, and opened the doors for many children and teens to resume reading and using the library. Staff believes an amnesty program should be offered again to remove barriers to library service. In 2014, approximately $51,000 more overdue fines were waived during the ten week period of the SRC compared to the same period in 2011 when amnesty was not offered.
+	The Library Board approved the Administration’s recommendation to approve an amnesty program with a $10.00 maximum per card for each child or teen that registers for the Summer Reading Club in 2015. Fines may be waived on a juvenile, teen, or adult card. Only overdue fines will be waived, replacement charges for items that were never returned will not be waived (Sachs/Tai).
+	Adjourn for Executive Session
+	Mrs. Cunnane made a motion to adjourn open meeting and to convene Executive Session to discuss real estate (Section 610.021(2)); and legal matters (Section 610.021(1)); Dr. Tai seconded.  All approved by voice vote. Aye: Lynn Beckwith, Steve Sachs, Dr. Chingling Tai, Edith Cunnane, and Elena G Kenyon.
+	The meeting adjourned at 5:02 p.m.
+	Respectfully submitted by:                                                     Date:
+	______________________________                                    ___________________

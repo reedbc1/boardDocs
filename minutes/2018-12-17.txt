@@ -1,0 +1,164 @@
+{
+  "name": "Regular Meeting",
+  "description": "Library Board",
+  "unique": "AV3QTZ669AA2",
+  "date": "2018-12-17T00:00:00Z"
+}
+
+---
+
+ST. LOUIS COUNTY LIBRARY DISTRICT
+MEETING OF THE BOARD
+HEADQUARTERS
+1640 SOUTH LINDBERGH BLVD.
+MONDAY, DECEMBER 17, 2018
+The monthly meeting of the Board of the St. Louis County Library District was held at the Headquarters Branch, 1640 South Lindbergh Blvd., St. Louis, MO 63131 on Monday, December 17, 2018 at 3:30 p.m. The agenda was posted in all branches of the Library District at least 24 hours before the meeting.
+ATTENDANCE:
+Library Board Members:
+Lynn Beckwith, President
+Michael Mulligan, Vice President
+Elena Kenyon, Treasurer
+Edith Cunnane, Member
+Dr. Beckwith announced that Dr. Chingling Tai had an excused absence, due to travel.
+ADMINISTRATORS AND GUESTS ATTENDING:
+Kristen Sorth, Library Director; Eric Button, Deputy Director; Barbara Turkington, Assistant Director, Advancement; Steve Hunter, Assistant Director, Operations; Kris Mooney, Assistant Director, Administration; Gib Van Cleve, Assistant Director, ITS; Erick Creach, Gilmore & Bell, P.C.; Tom O’Brien, City of Frontenac; Scott Kolath, Landmark Construction Management; Tom Curran, St. Louis County; and Lisa Stump, Attorney, Lashly & Baer.
+OTHERS ATTENDING:
+Tiffany Davis, Marie Conlin, Kelli Reeves, Jennifer Alexander, Anne Arthur, Natalia Catlett, Erick Creach, Sarah Wood, Lauren Hoerr, Jennifer Gibson, Anna Schurk, Laura Kasak, Scott Holl, Chasidy Allen, Ross Brand, Sri Upadhya, Terra Baca, Erin Magner, Annie Fuller, Conrad Rader, Nicole Clawson, Katie Keeven, Mary Arnhart, Nicole Higginbotham, Lauren Striebel, Julie Cruise, Amy Hanaway, Emily Althoff, Gina Sheridan, Alaina Culbertson, Kat Van Arsdale, Lori Boschert, Christel Maassen, Jennifer McBride, Stacy Berger, Anna Gonzalez, Deanna Davis, Andrew Freshwater, Dawn Ruhbeck, Elizabeth Ruhbeck and Sandy Williams.
+PUBLIC COMMENTS
+There were no public comments.
+APPROVAL OF MINUTES
+The Library Board approved the November 19, 2018 Board minutes (Kenyon/Mulligan).
+TREASURER'S REPORT
+Kris Mooney reported that, in November, Radio-Frequency Identification (RFID) tags were purchased for $29,010 from Bayscan Technologies. These supplies are replenished semi-annually and are placed on library materials for inventory and anti-theft purposes. The District paid Parking Lot Picassos, LLC $39,035 for sealcoating and re-striping five branch parking lots (Bridgeton Trails, Florissant Valley, Jamestown Bluffs, Rock Road, and Weber Road). The seal and stripe was approved by the Board at the August 20, 2018 meeting.
+In November, the Library District closed on the first of four properties purchased for the location of the new Operations Center and the History and Genealogy building. The address of the property is 1412 S. Spoede Road and the purchase price was $2.4M.
+Capital Projects Fund Balance Sheet
+Total Construction in Progress for November 2018 was $164,903.  The expenses included payments for:
+		Construction costs for Meramec Valley - $28,039
+		Construction costs for Thornhill - $22,020
+		Construction costs for Grand Glaze - $12,350
+		Construction costs for Mid-County - $15,408
+		Construction costs for Headquarters -  $5,360
+		Facilities Master Plan Administrator - $39,160
+The Library Board approved of the November Treasurer's Report subject to audit (Cunnane/Mulligan).
+DIRECTOR’S REPORT
+Kristen Sorth gave the following Director’s report.
+Library Update
+	Ms. Sorth stated that the dashboard report for December contains a variety of statistical information about circulation, visits, programming and PC usage. With two branches closed for construction, circulation was up 5%.  In the first several weeks after implementing Automatic Renewal, the Library has renewed 286,826 items, with an average of 10,000 per day. Renewals were 20% higher than the same period in 2017. This month, the report contains a special section on circulation by item type. Children’s books were checked out most and accounted for 34% of the total circulation. (Plan: Increase Literacy 3 and Sense of Community 2.2)
+	As mentioned previously, Book Buddies launched as a new initiative in the fall. The program pairs older teen volunteers with younger children who may be struggling with reading. The program is designed to build confidence in young readers and help develop their reading abilities. The pilot program at Cliff Cave and Prairie Commons was very successful. The Library will offer the program at two additional branches, Oak Bend and Bridgeton Trails, in early 2019. (Plan: Increase Literacy 2)
+	The Library received a grant of $15,000 from Citigroup for special programming for children and teens at Natural Bridge. As part of this grant, we are planning for two chess tournaments. The tournaments will be held on April 20 and July 6 and  will be open to children 10 – 17 years old. There will be spots for 64 players and they must pre-register ahead of time. (Plan: Sense of Community 2.3)
+	Ms. Sorth recently mentioned the Game Changers program that was developed by the staff at Lewis & Clark to positively address behavioral issues with children and teens at the branch. This program was funded by the St. Louis County Library Foundation. Ms. Sorth shared an update about the program:
+We now have 135 kids signed up for the program and have awarded 175 tickets for good behavior. Several kids have already earned enough tickets for prizes. One kid chose a bath bomb because he wanted "to take a fancy bath" and another kid got some lip balm because his lips are always chapped in the winter. Other prizes awarded include shark-themed UNO cards, a bike lock, and a notebook one kid said he would keep all his schoolwork in. Kids have been seen around the library doing homework, helping with programs, vacuuming after meals, and telling other kids about Game Changers. Staff have received comments from adult library users who have noticed a difference in the branch, and the change in the kids' behavior has also surprised staff and officers. I've had some officers brag about giving out tickets and they seem to be learning more kids' names and taking the time to get to know them. (Plan: Sense of Community 2.1)
+	The Library was one of 32 organizations awarded the opportunity to host Becoming American: A Documentary Film and Discussion Series on Our Immigration Experience. This six-week public program features documentary film screenings and moderated discussions to encourage informed discussion of immigration issues while considering immigration history. The Library is partnering with the Missouri Historical Society, which will host 2 of the 6 sessions at the Missouri History Museum. Dr. Adriano Udani, Assistant Professor of Political Science at the University of Missouri-St. Louis, will lead the discussions. The first program, on January 31, features the documentary film screening of “New York” and “The Jewish Americans”. (Plan: Sense of Community 2.1)
+	Library staff recently learned that the Library has been named Community Partner of the Year by Big Brothers Big Sisters of Eastern Missouri. Several employees at Natural Bridge work with the organization on their ABC Today program in the Normandy Schools Collaborative. Ms. Sorth received the following from Big Brothers Big Sisters’ CEO, Becky Hatter:
+As you know, we recently completed a review of our ABCToday program. During the process, program staff was asked about our 175 community partners. Without hesitation, they gave St. Louis County Library the highest marks. There is no doubt that the ABC celebrations and special attention given to Normandy School District has made a difference – for the students, staff and school. Now, we want to show our appreciation.
+The Library will be honored on Wednesday, January 23rd at an event from 5:30-7:30 pm. (Plan: Sense of Community 3.3)
+	On November 30, the Reference Department hosted the Library’s biggest business event of the year. The Small Business Expo included the participation of twenty outstanding area agencies devoted to helping aspiring entrepreneurs, current business owners and nonprofits. The event also included workshops and free legal assistance clinics for participants. This year 350 people attended the expo. (Plan: Increase Literacy 3)
+	There were many mentions of the St. Louis County Library in the local media in print, radio and television. Those articles were shared with the BOard. (Plan: Sense of Community 1.2)
+	Ms. Sorth shared a number of great photos to the Board from several programs and events in November and December including:  Whitaker Jazz Speaks at Grant’s View, Kindergarten Prep at Sachs, Harry Potter Yoga at Grand Glaize, author Louise Penny at HQ, and Babywearing Line Dancing at Daniel Boone. (Plan: Increase Literacy 3.4 and Sense of Community 2.3)
+Library Administrative Updates
+	Ms. Sorth announced that St. Louis County Library has been ranked as a four-star library in the Library Journal Index of Public Library Service for the fifth consecutive year. SLCL is the only library in the St. Louis area to be included in the index this year, and one of only six in the state of Missouri. The rank of four stars indicates a high per capita use in five major areas of library service: library visits, circulation, program attendance, public Internet computer use, and eCirculation. The ranking is based on statistics from 2016. (Plan: Strengthen Sense of Community 1)
+	The Employee Engagement Committee has finalized plans for a new Rewards and Recognition program. Starting in early 2019, employees may nominate co-workers for outstanding work and their name will be placed on a board in the staff area of each branch/department. The names of those nominated will then be entered in a quarterly drawing for prizes. (Plan: Sense of Community 1)
+Library Construction and Facility Update
+	As you know, the Library has been searching for the perfect location for a permanent home for Operations for years and we have found it.  Ms. Sorth was pleased to announce that the Library has purchased land on which to build a permanent Operations Center for HQ. History & Genealogy will be moving to its own building on the same site. The new site is located in Frontenac, just 3/4 of a mile from HQ. The four pieces of residential property that the Library has purchased are located on the east side of Spoede Road between Clayton Road and Highway 40. The site has great access to the highway and is also very close to HQ. This is also a fantastic location for History & Genealogy as it will provide the department with the space and visibility they need to evolve, grow and promote their programs and services. Construction will likely begin in fall 2019 and will take about a year or so. HQ will stay open during the construction of these new buildings. Once construction of the Operations and History & Genealogy buildings is completed, all of the HQ support departments, Administration, and H & G employees will move to their permanent new home. Shortly after, the current HQ Building will come down and construction on a brand new HQ will begin. Those employees at HQ that work directly with the public will be assigned to various branches and departments as we have with all of the previous construction projects. (Plan: Create Gathering Spaces)
+	Communications has been working on selecting photos and art to display at the branches. Framing is underway. Oak Bend, Sachs, and Jamestown Bluffs will be the first three locations to receive artwork. (Plan: Create Gathering Spaces 2.1)
+	Library Administration has been discussing options for controlling access to the Mid-County garage. Tentative plans include rolling gates to control the times for vehicular access, as well as a man door that will be programmed to lock at a designated time to prevent unauthorized pedestrian access to the garage. (Plan: Create Gathering Spaces 1.3)
+	Communications is working on an Emergency Binder for each branch, containing procedures and important information on a variety of scenarios including fire/natural hazards, utility failures and building damage. Each binder will be customized according to that location. (Plan: Create Gathering Spaces 1.3)
+	The Library’s design and renovation of the Daniel Boone Branch was highlighted in Library Journal’s architectural feature this month. The Discovery Zone for children was mentioned and pictured in the journal. (Plan: Sense of Community 1.2 and Gathering Spaces 2.1)
+	In November, the Library issued an RFP for architectural and engineering services for the new Eureka Hills Branch. The Library received eleven responses and have selected four firms to interview. Those interviews will take place this week. (Plan: Create Gathering Spaces)
+	Ms. Sorth reported that the Library’s current phone system is ten years old and the supporting contract for hosted VOIP (voice over IP services) expires in June of 2019. The Librarys plans to issue an RFP for proposals for a new VOIP services solution as the current equipment has reached end of life status. Much has changed in 10 years and the Library will consider cloud based solutions among others. In addition to the recurring monthly expenses of such a service, there will also be the cost of purchasing new phones.
+Library Foundation
+	The Foundation approved their 2019 Budget. Projects include the redesign of the Foundation’s website. An RFQ for this project is in progress and will be posted in 2019. A committee of Foundation Board Members will be working with the Communications Department on this project.
+	The 2019 Foundation Budget also includes new Library projects that will be supported by the Foundation Board. Several of these will be jointly funded by the Library and the Foundation Board. The new projects include the following: Natural Bridge Teen Space expansion, WiFi Hotspot lending expansion, and the creation of an outdoor activity space at Oak Bend.  Ms. Sorth was thrilled to announce that the Foundation will be supporting Library employees with their first gift to the Abby Harris Fund. This fund was established many years ago by a large gift from a former employee. The fund, which will be depleted in the next year, has been used over the years to support library employees through various activities such as In-Service Day and the rewards and recognition program. The annual support from the Foundation will allow us to continue to provide activities and rewards for Library employees.
+	The 2018 accomplishments of the Library Foundation Board were shared with the Joint Review Committee of the Library Board and Foundation Board.
+	This year the Library hosted 106 authors with 21,230 people attending these events. Of those, fifteen were main reading room events, eight were ticketed, and six were sold out events.
+	The Library was recently notified of several grant awards and gifts. These include:
+		$2,500 from the Tegna Foundation for the summer lunch program.
+		$3,000 from the Missouri State Library for Summer Reading Club promotions.
+		$100,000 from Object Computing, Inc. for the teen space in the HQ Building.
+		$5,500 from Object Computing, Inc. for Career Online High School Scholarships.
+Upcoming Author Events
+	David Sheff, and Nic Sheff, authors of High, Saturday, January 12, 2019, 7:00 p.m., Headquarters. Ticketed Event. Presented by the ‘Buzz’ Westfall Favorite Author Series.
+	Mesha Maren, author of Sugar Run, Wednesday, January 23, 2019, 7:00 p.m., Headquarters.
+	Anthony Ray Hinton, author of Oprah’s Book Club’s 2018 selection, The Sun Does Shine:  How I Found Life and Freedom on Death Row, Friday, January 25, 2019, 7:00 p.m., Headquarters.
+	Lynda Cohen Loigman, author of The Wartime Sisters, Monday, January 28, 2019 7:00 p.m., Headquarters.
+	James Rollins, author of Crucible, Wednesday, January 30, 2019, 7:00 p.m., Headquarters.
+Ms. Sorth wished happy holidays to the Board.
+OLD BUSINESS
+2019 BUDGET
+Kris Mooney presented the 2019 Budget. He explained the document was prepared and approved by the Budget Committee consisting of the following individuals:
+	Kristen Sorth – Director
+	Eric Button – Deputy Director
+	Barbara Turkington - Assistant Director, Advancement
+	Gib Van Cleve – Assistant Director, ITS
+	Kris Mooney –Assistant Director, Administration
+	Steve Hunter – Assistant Director, Construction & Operations
+Mr. Mooney explained that the Library Budget is a spending guideline for the upcoming year. Projects discussed in the Budget document will be individually presented to the Library Board for review and approval during 2019 as outlined in the Library Board’s By-Laws. The Budget Revision is presented to the Library Board in September.
+The Library Board of Trustees set the 2018 tax rates at $0.234 for Residential assessments, $0.217 for Agricultural assessments, $0.259 for Commercial assessments and $0.225 for
+Personal Property assessments. These rates will provide 96% of the cash income to operate in
+2019. The Executive Summary on page 2 and the Revenue and Expenses on page 4 - 8 are a synopsis of the proposed 2019 Cash Budget. The 2019 budget has a budgeted surplus of $1.1 million.
+The 2019 Budget was presented at the November Library Board meeting as an informational item to give the Library Board time to review the Budget document, ask questions and for Administration to respond accordingly. The Library Board approved the Administration’s recommendation for the approval of the 2019 Library Budget which will allow the Library to operate in 2019 (Cunnane/Kenyon).
+NEW BUSINESS
+CONSTRUCTION UPDATE
+Steve Hunter gave the Board an update on the construction projects. Mr. Hunter reported that Thornhill, Mid-County, and Meramec Valley will open during the first half of 2019. Thornhill will open first in February. Pictures of the colorful new buildings were shown. The progress on the Musick Road at Grant’s View was also reviewed.
+STRATEGIC PLAN
+Marie Conlin, Library Planner, reviewed the 2015-2018 SLCL Strategic Plan and gave a preview of activities planned in support of the 2019-2022 plan. There were over 300 activities that took place in support of the plan during the past three years.
+Highlights of the 2015 -2018 plan included Born to Read, Kindergarten Prep, Little Readers Festival, Sensory Play Experiences, and STEM activities. The Library opened the first after-hours computer lab, hosted the Hip Hop Architecture Camp, and added We Stories materials to the collection along with telescopes, board games, and other educational experiences.
+Ms. Conlin explained that the plan for 2019-2022 will include adding additional Wi-Fi hotspots, literacy programs and materials, reading coach software, offering after school meals with chess instruction, mental health awareness, and additional two-way radios for safety. There will also be a new community garden at Meramec Valley.
+AMENDMENT TO THE FACILITIES MASTER PLAN ADMINISTRATION SERVICES AGREEMENT
+Steve Hunter presented the Administration’s recommendation for the amendment to the Facilities Master Plan Administration Services Agreement.
+On January 28, 2013, the Library entered into an agreement with Landmark Contract Management for Project Administration for the entire Facilities Master Plan program. The agreement includes a “not to exceed” fee of $2,160,000 and a termination date of December 31, 2022. Several notable events required Landmark to provide increased manpower. This impacted the “not to exceed” value of the contract more quickly than anticipated. Some of the major unplanned events include the rewriting of the entire Master Plan, pursuing unsuccessful land acquisitions, the complete resequencing of projects, the addition of a new building for Eureka Hills, and the continued evaluation of multiple prototypes related to HQ and Operations.
+In order for Landmark to continue their leadership and consultation for the remainder of the Facilities Master Plan program, an amendment to the contract is necessary. The attached amendment cleans up several personnel changes and modifies the “not to exceed” value by $1,790,000, creating a new “not to exceed” value of $3,950,000. The termination date is extended by one year to December 31, 2023.
+The Library Board approved the Administration’s recommendation for the amendment to the Facilities Master Plan Administration Services Agreement, and that it authorize the Director to enter into and execute said amendment (Mulligan/Kenyon).
+RESOLUTION APPROVING THE EXECUTION AND DELIVERY OF CERTAIN SUPPLEMENTAL DOCUMENTS IN CONNECTION WITH THE DISTRICT'S CERTIFICATES OF PARTICIPATION
+Kris Mooney presented the Administration’s recommendation to approve the resolution for the execution and delivery of certain supplemental documents in connection with the District’s Certificates of Participation.
+Several documents related to the Library’s Certificates of Participation have been revised to include the four recently purchased properties on Spoede Road. The revisions will allow the Library to use the cash from the 2016 issuance of Certificates of Participation to pay for the construction of an Operations Center and a new building for History and Genealogy.
+The following four documents drafted by the Library’s Bond Counsel, Gilmore & Bell were shared with the Board:
+1. A Resolution approved the execution and delivery of certain supplemental documents in connection with the District’s Certificates of Participation
+2. Exhibit A – Supplemental Base Lease
+3. Exhibit B – Supplemental Lease Purchase Agreement
+4. Exhibit C – Declaration of Trust
+The Library Board approved the Administration’s recommendation to approve the resolution for the execution and delivery of certain supplemental documents (Exhibit A, B, and C) in connection with the District’s Certificates of Participation (Cunnane/Mulligan). Four properties have to be entered into the collateral.
+RULE OF 80
+Kris Mooney presented the Administration’s recommendation to add the Rule of 80 to the Library District’s Pension Plan.
+In the Library’s current Pension Plan, employees may retire at age 65 once they have 5 years of credited service. Employees may retire early; however, retiring at an age earlier than 65 will result in a reduction in pension benefits because payments begins at a younger age and will be paid for a longer time.
+Library Administration is recommending a change to the Library’s Pension plan that will allow an employee to retire with full benefits (no reduction) when the employee’s years of service and age added together equal 80. The employee must be age 55 or older to take advantage of the Rule of 80.  Most public sector pension plans include a Rule of 80 in their plan. It not only allows for employees to retire early with full benefits but it also helps employees and employers plan for retirements. Additionally, employers often see a reduction in salaries due to retirements. Currently, the Library District has 34 eligible employees that could retire under the Rule of 80.
+An attachment for the analysis regarding the Rule of 80 was shared. This was prepared by the Library’s Actuary, Milliman, and was presented to the Pension Board. According to the analysis, the funding percentage and the annual contribution will see a minimal impact from this addition to the Pension Plan.
+Missouri State Statute 105.665 and 105.675 govern substantial changes in pension plans. Per State Statute, the Library District has to take certain steps for the plan changes to be approved. The Library engaged Milliman to prepare an actuarial cost statement and submit this statement to the Joint Committee on Public Employee Retirement (JCPER). The JCPER is required to notify the public on all Pension Plans who have substantial changes. The JCPER posted the actuarial cost statement on their website on October 30, 2018. The mandatory waiting period of 45 days concluded on December 14, 2018.
+The Library Board approved the Administration’s recommendation to add the Rule of 80 as a permanent change to the Library District’s Pension Plan (Kenyon/Mulligan). The Library Pension Board approved this change at their October meeting.
+NAMING RIGHTS REQUEST-WILLIAM T. KEMPER-MID COUNTY BRANCH
+Kristen Sorth presented the Administration’s recommendation for naming rights request at the Mid-County Branch.
+The William T. Kemper Foundation approved a grant of $30,000, to the St. Louis County Library Foundation for naming rights in support of the Mid-County Branch Children’s area. The Foundation believes it is fitting and well-deserved that the area at the Mid-County Branch be named in honor of William T. Kemper Foundation-Commerce Bank. The area will be named:
+                        William T. Kemper Foundation-Commerce Bank Children’s Area
+The St. Louis County Library Foundation Board approved the naming recommendation at the December 11, 2018 Foundation Board meeting. The Library Board of Trustees, per the Naming Policy makes all final decisions on naming rights for Library buildings, rooms or features.
+The Library Board approved the Administration’s and the Library Foundation’s recommendation for the naming of the Children’s area at the Mid-County Branch in honor of William T. Kemper Foundation-Commerce Bank (Mulligan/Kenyon).
+NAMING RIGHTS REQUEST -MCBRIDE AND SON HOMES-EUREKA HILLS BRANCH
+Kristen Sorth presented the Administration’s recommendation for naming rights request at the Eureka Hills Branch.
+On November 21, 2017, McBride and Son Homes, made a gift of $100,000 to St. Louis County Library Foundation for the purpose of constructing a Library branch in Eureka at 500 Workman Road, Eureka, MO. The Gift Agreement was approved by the St. Louis County Library Foundation Board at their meeting on February 13, 2018 and subsequently approved by the Library Board of Trustees at their February Board meeting.
+The Foundation believes it is fitting and well-deserved that an area at the Eureka Hills Branch be named in honor of McBride and Son Homes. The area will be named:
+                        McBride and Son Homes Children’s Area
+The St. Louis County Library Foundation Board approved the naming recommendation at the December 11, 2018 Foundation Board meeting.  The Library Board of Trustees, per the naming Policy, makes all final decisions on naming rights for Library buildings, rooms or features.
+The Library Board approved the Administration’s recommendation for the naming of the Children’s area at the Eureka Hills Branch in honor of McBride and Son Homes (Mulligan/Kenyon).
+NAMING RIGHTS REQUEST-OCI-NEW HEADQUARTERS BRANCH
+Kristen Sorth presented the Administration’s recommendation for naming rights request at the Headquarters Branch.
+Object Computing, Inc. (OCI) made a gift of $100,000 to St. Louis County Library Foundation for the purpose of naming rights in support of the new Headquarters Branch. The gift and naming rights was approved by the St. Louis County Library Foundation Board at their meeting on February 13, 2018.
+The Library Foundation believes it is fitting and well-deserved that an area of the Headquarters Branch be named in honor of OCI. The area will be named:
+                                                The Object Computing, Inc. (OCI) Teen Area
+The St. Louis County Library Foundation Board approved the naming recommendation at the December 11, 2018 Foundation Board meeting.  The Library Board of Trustees, per its Naming Policy makes all final decisions on naming rights for Library buildings, rooms or features.
+The Library Board approved the Administration’s and the Library Foundation’s recommendation for the naming of the Teen area at the new Headquarters Branch in honor of Object Computing, Inc. (OCI) (Kenyon/Mulligan).
+SHARED SERVICES
+Kristen Sorth presented the Administration’s recommendation for the annual Shared Services Agreement.
+The Shared Services Agreement defines the level of support provided by the Library to the Foundation and is a requirement of the Affiliation Agreement between the Library and the Foundation. In addition, the Foundation Board agrees to reimburse the Library for up to 100% of the salaries for the Manager, Development and the Friends Coordinator who utilize 100% of their time in performing services for the Foundation.
+The attached agreement reflects the level of support and was approved by the Foundation Board at their December 11, 2018 meeting. A copy of the document was shared with the Board.
+The Library Board approved the Administration’s recommendation for the annual Shared Services Agreement. This agreement supersedes and thereby terminates the Shared Services Agreement dated January 1, 2018.  The term of this new agreement will begin on January 1, 2019 and terminate on December 31, 2019 (Mulligan/Kenyon).
+UNIQUE MANAGEMENT SERVICES
+Eric Button presented the Administration’s recommendation to raise the minimum balance threshold for accounts reported to Unique Management Services.
+Library Administration is seeking approval of proposed changes to the handling of delinquent patron accounts. In January 2014, the Board approved the establishment of a third party collection service offered by Unique Management Services (UMS).  This company specializes in the recovery of overdue fines and lost material from delinquent accounts.  The Library is charged a fee of $8.95 for each patron account referred to UMS. Since the inception of this program in 2014, the library has benefited tremendously from the recovery work performed by UMS.
+With the recent addition of the automated renewal service, staff anticipates a significant drop in the accrual and collection of overdue fines. Along with this, we expect less cash recovery through UMS. Accounts that have less than $50 in total charges may not recover enough cash payments to offset the fee of $8.95 per account. Currently about 50% of the patron accounts that are eligible for collections fall in the $25-$49.99 range. Raising the threshold for account referral to $50 is less likely to result in a negative balance for the library.
+The Library Board approved the Administration’s recommendation to raise the minimum balance threshold for accounts reported to Unique Management Services to $50 effective January 1, 2019 (Mulligan/Kenyon).
+ADJOURNMENT
+Dr. Beckwith and Elena Kenyon wished the staff Happy Holidays. Dr. Beckwith said that Edith Cunnane asked for a holiday fellowship time for staff. Mrs. Kenyon made a motion to adjourn.  Mike Mulligan seconded. All approved with voice vote.
+.
+The meeting adjourned at 4:41 p.m.
+Respectfully submitted,
+_________________________________                              ______________________
+Chingling Tai, Secretary                                                         Date

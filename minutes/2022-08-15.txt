@@ -1,0 +1,203 @@
+{
+  "name": "Regular Meeting",
+  "description": "Library Board",
+  "unique": "CATLRY568E13",
+  "date": "2022-08-15T00:00:00Z"
+}
+
+---
+
+ST. LOUIS COUNTY LIBRARY DISTRICT
+MEETING OF THE BOARD
+THORNHILL BRANCH
+MONDAY, AUGUST 15, 2022
+The monthly meeting of the Board of the St. Louis County Library District was held at Thornhill Branch, 12863 Willowyck, Dr., St. Louis, MO 63146 on Monday, August 15, 2022 at 3:30 p.m. The agenda had been posted in all branches of the Library District at least 24 hours before the meeting.
+ATTENDANCE:
+Library Board Members:
+Dr. Lynn Beckwith, President
+Johnny Wang. Vice President
+Ted Sanditz, Treasurer
+Joan Barry, Secretary
+Deborah Patterson, Member
+ADMINISTRATORS AND GUESTS ATTENDING:
+Kristen Sorth, Library Director & CEO); Eric Button, Deputy Director; Laura Taylor, Chief Finance Officer; Steve Hunter, Assistant Director, Operations; Jackie Hamilton, Assistant Director, Advancement; Gib Van Cleve, Assistant Director, ITS; Attorney Lisa Stump, Lashly Baer, and Paul Hampel, St. Louis County.
+OTHERS ATTENDING:
+Chris Goodman, Aaron Seidel, Anne Bradley, Rachel Nowell, Sarah Wood, Heather Neill, Naina Chibitty, Alaina Culbertson, Emma Figueroa, Angela Brooks, Terence McCoy, Yecenia Arango, Anne Arthur, Hannah Axty, Jackie Hamilton, Kim Ford, Connie Dee, Megan Phifer-Davis, Emily Althoff, Skylar Stanley, Nicole Walsh, Katie Keeven, Melissa Bauer, Allison Wisniewski, Ross Brand, Stephanie Nordmann, Miriam Whatley and Sandra Williams.
+MINUTES
+The Library Board approved the June 21, 2022 minutes (Wang/Barry).
+PUBLIC COMMENTS
+There were no patrons who wanted to speak to the Board.
+TREASURER'S REPORT
+ June 2022 Financial Statements
+Laura Taylor, CFO, presented the following.
+Maintenance and Operating Fund Financial Statements:
+Revenue
+	District Taxes – Year-to-date total tax revenue for 2022 is $57 million and is at 100% of the total budgeted amount. The Library District will continue to receive a small amount of tax revenue throughout the year.
+	Other Grants – In June, the Library District received $2,000,000 in American Rescue Plan Act funds from St. Louis County. These funds will be used to continue supporting the GrandPad tablets that are already in use, as well as fund an additional 1,500 tablets.
+Expense
+	Reading Clubs – In June, the Library District incurred $103,530 in reading clubs expense. Of this amount, $31,154 was paid to Scholastic for books used as prizes for the Summer Reading Club. An additional $57,327.70 was paid to various vendors for additional Summer Reading Club prizes.
+	Grant Fulfillment Expense – In June, the Library District incurred $1,921,681 in grant fulfillment expense. Of this amount, $1,913,916 was paid to GrandPad for the purchase of 1,500 new tablets and the renewal of existing tablets.
+	Capital Improvements – In June, the Library District incurred a total of $1,937,303 in capital improvements expense. Of this amount, $1,244,751 was paid to CI Select for furniture at the Lynn Beckwith Jr. Administrative Building. An additional $471,065 was paid to Interior Construction Services for services performed at the Lynn Beckwith Jr. Administrative Building through May 2022.
+The Library Board approved of the June 2022 Financial Statements subject to audit (Sanditz/Patterson).
+July 2022 Financial Statements
+Laura Taylor, CFO, presented the following.
+Maintenance and Operating Fund Financial Statements:
+Revenue
+	District Taxes – Year-to-date total tax revenue for 2022 is $57.3 million and is at 100% of the total budgeted amount. The Library District will continue to receive a small amount of tax revenue throughout the year.
+Expense
+	Reading Clubs – In July, the Library District incurred $39,677 in reading clubs expense. Of this amount, $17,159 was paid to Booksource for books used as prizes for the Summer Reading Club.
+	Grant Fulfillment Expense – In July, the Library District incurred $18,007 in grant fulfillment expense. Of this amount, $13,333 was paid to Interpersonal Frequency for the Drupal upgrade of the website. The District was awarded a $40K LSTA Technology Ladder Grant to help cover some of these expenses. A request for reimbursement of the $13,333 from LSTA was submitted during July.
+	Capital Improvements – In July, the Library District incurred a total of $286,359 in capital improvements expense. Of this amount, $281,726 was paid to Interior Construction Services for services performed at the Lynn Beckwith Jr. Administrative Building through June 2022.
+The Library Board approved of the July 2022 Financial Statements subject to audit (Patterson/Sanditz).
+DIRECTOR AND CEO’S REPORT
+Library Update
+	Ms. Sorth discussed the Dashboard reports for June and July.  In June 2022, the Library’s circulation totaled 1,127,996.  The total circulation is 5% lower than in June 2021. The number of checkouts has increased 30% while renewals are down 48%.  The decrease in total circulation can be attributed to the new 21-day checkout period with a limit of three renewals, which was implemented as part of the merged catalog with St. Louis Public Library.  In July 2022, Library circulation totaled 1,153,303.  This total is 2% lower than the total circulation in July 2021. Checkouts were up 30%, while renewals decreased 43% over July 2021.  As mentioned in the June statistics, the lower numbers can be attributed to the longer checkout period and fewer allowed renewals.  Materials continue to ship between SLCL and SLPL in large numbers. Visits in June reached the highest we've seen since February 2020. There were 311,510 visits to the Library in June and 310,215 visits in July 2022.  Both months saw increases in visits of almost 20% over 2021.  Information on PC usage, new patron registrations, programming attendance and the most popular titles for the month are also included.  (Plan: Promote Literacy 1.1 and 1.2, Sense of Community 1.4 and 2.1, and Maximize Access 1.1)
+	She said the GrandPad pickup for the 1,500 new recipients began on August 11.  To ease the issues of congestion and capacity limits, pickup is taking place at the branches this year.  Every branch has GrandPads to be picked up, but branches in North County, such as Lewis & Clark, Natural Bridge, and Florissant Valley have the most.  With the pickup of new devices underway, work is shifting to the reassignment of GrandPads that were returned by users who no longer needed them.  A waiting list of prospective users has been compiled and ranked based on equity principles to ensure that these GrandPads get assigned to the people who will benefit the most.  (Plan: Promote Literacy 3.3, Sense of Community 1)
+	She reported that Listen Up STL, the Library’s local music digital collection will begin accepting submissions of music on a rolling basis throughout the year.  Since the launch of the service, submissions were only accepted during designated submission windows.  The Library has added 2,138 songs and 240 albums since implementing this program.  The music has been streamed hundreds of times, offering local musicians valuable exposure, while listeners enjoy the local music scene. (Plan: Promote Literacy 3.4, Maximize Access 1.1, 1.4)
+	The Youth Services Department has scheduled three sessions of Coding 101 for Fall 2022 that begin in late September. This free eight-week workshop for ages 10-14 teaches basic programming using Scratch software and Google CS First. Upon graduation, students will receive a Chromebook and a t-shirt.  These workshops will be held at Florissant Valley, Lewis & Clark and Mid-County branches. (Plan: Promote Literacy 3, Sense of Community 2.3)
+	The Summer Reading Club ended on August 6th.  She said it was wonderful to see patrons back in our branches for fun programs. (Plan: Promote Literacy 1.2)
+	Applications for the fall session of Book Buddies will open on August 29. Students in grades K-3 are matched with teen volunteers and spend 30 minutes each week reading aloud during the 6-week series. Book Buddies will be held at several branches, including Bridgeton Trails, Grand Glaize, Grant’s View, Jamestown Bluffs and Natural Bridge. There will also be a virtual session as an option. (Plan: Promote Literacy 1.2, 2,1, Sense of Community 2.2)
+	She said the The Little Readers Festival will be held in person at the Florissant Valley Branch on Saturday, September 24 from 10:00 a.m.-1:00 p.m. The festival will feature activities, shaved ice, free books, and story time with Elephant & Piggie.  The festival is for families with children ages 0-5. (Plan: Promote Literacy 1.2, 3.4, Sense of Community 2.2, Maximize Access 1.4)
+	Ms. Sorth announced that St. Louis County Library is hosting 75th Anniversary programs and events through the end of the year, including the 75 Things to Do at the St. Louis County Library challenge. So far, there are over 1,200 people registered. Participants complete three activities in each of the five categories to be entered in a raffle for a $75 Visa gift card. The five categories are Enjoy Books & Beyond, Explore the Library, Enrich Your Mind, Attend Events & Classes, and Visit Branches. Marketing for the Library’s 75th Anniversary is underway. Communications created a brochure for the 75 Things To Do at SLCL challenge. The brochure includes historical facts, as well as vintage photos and important milestones for the Library. Additional marketing includes special giveaways with the 75th Anniversary logo including beverage insulators, tumblers, key chains, phone wallets and magnets.  The Library will also have roll-up banners and displays at all branches, paid advertising and additional media outreach. Throughout the rest of the year, Communications will be sharing trivia, historical information and vintage photos on the Library’s social media accounts. (Plan: Sense of Community 2.3, Maximize Access 1.4)
+	The Storytelling Festival committee has planned a robust 43rd Annual St. Louis Storytelling Festival, which will take place October 13-22. St. Louis County is the new home for the Festival, featuring eight storytellers traveling to St. Louis from all across the nation for events, such as Thursday Nights at the Museum: The American Experience through Storytelling, Tales After Dark, and Stories on Stage. Additionally, at least four regional storytellers from the St. Louis area will also be showcased. The Festival will be hosted at SLCL branches, the History Museum, the J, and the Kranzberg Art Foundation's High Low. We will also bring the festival to numerous local schools to perform for children. Communications is working on the Storytelling Festival program booklet and other marketing materials. (Plan: Promote Literacy 1.2, 3.4, Sense of Community 2.3, Maximize Access 1.4)
+	Thanks to the promotional efforts of the Communications Department, recent interest in the Library’s Excel Adult High School has grown and there has been a significant increase in applications. The Library has purchased thirty additional scholarships and twelve extensions to help more adults in the region get their diplomas.  Throughout the month of August, Excel will be promoted through various methods.  There are currently 98 graduates from the online high school program at SLCL. Plans are being explored for a long-delayed graduation ceremony in the spring of 2023. (Plan: Promote Literacy 3.1, 3.2, Sense of Community 2.3)
+	Ms. Sorth said with the help of a YouTube downloader, individuals at the St. Louis County Justice Center (CJC) now have on-demand access to the Library’s virtual programs on tablets. Our contact at the CJC recently shared that there are over fifty programs from the Library on tablets distributed to residents of the CJC. These programs have been viewed 60,797 times as of last month. (Plan: Sense of Community 1.1, 2.2, Maximize Access)
+	The Library will have outreach booths at the Festival of Nations and Tower Grove Pride. During the Festival of Nations, SLCL will share a booth with St. Louis Public Library. Our Welcoming Ambassadors will staff the booth to promote library services and resources. During Tower Grove Pride on September 24-25, Adult Services will focus on talking about library programming and the reciprocal borrowing with SLPL, while highlighting some LGBTQIA books and authors.  (Plan: Promote Literacy 3.4, Sense of Community 1.1, 2.2, 2.3, Maximize Access 1.1, 1.3, 1.4, 3.5))
+	From August 1-September 17, the Library is accepting submissions of short pieces that explore the theme of the American experience to be included in a Biblioboard community college that will be a part of our eMedia collection. Teens and adults are invited to submit stories or essays under 500 words and the collected work will be launched during the 43rd Annual St. Louis Storytelling Festival, in an effort to include a community created component into the festival. (Plan: Promote Literacy 3.4, Sense of Community 2.2, Maximize Access 1.4)
+	Almost sixty people are registered for the Virtual Program Medicaid Expansion - Opportunity for Coverage in Missouri presented by Missouri Foundation for Health and Legal Services of Eastern Missouri. Attendees will get an overview of Missouri’s Medicaid program, what has changed with expanded eligibility, and what to know about the application process. Because this is an especially important topic for our patrons, the program will also be presented in-person at four branches in September: Lewis & Clark, Parkview, Rock Road and Cliff Cave. (Plan: Promote Literacy: 2.4, 3.2, Sense of Community 2.3)
+	Rock Road hosted a photography exhibit during Pride Month called Love Makes a Family created by Family Diversity Projects, an organization devoted to educating people about the full range of diversity. The Love Makes a Family exhibit features portraits and first-person accounts of LGBTQ people and their families. We are going to be able to keep the exhibit through the end of 2022 and it will travel to all the regional branches - Florissant Valley in August, Daniel Boone in October, and Grant’s View in December. (Plan: Promote Literacy 1.2, Sense of Community 2.2, 2.3)
+	The attendance totals for in-person and virtual programs planned by Adult Services remain strong:
+		In-person - 65 programs with 349 attendees
+		Virtual - 245 programs with 9,697 attendees (Plan: Maximize Access 1.1)
+	The Visiting Nurse Association of Greater St. Louis (VNA) will offer community flu shots for ages 6 months or older at three branches.  Participants 18 years and younger without insurance are eligible for a flu shot at no cost. Insurance will be accepted.
+		Daniel Boone:  Monday, October 3rd from 1:00-3:00 pm.
+		Grant's View:  Wednesday, October 5th from 11:00 am-2:30 pm.
+		Rock Road: Saturday, October 8th from 10:00 am-12:00 pm. (Plan: Sense of Community 2.1, Maximize Access 1.1)
+	She said the Library continues to provide vital services to the region.  A chart that shows our accomplishments as of August 12, 2022 was shared.   (Plan: Sense of Community 1.4, 2.1 and 2.3, Maximize Access 1.4)
+	In July, Customer Connect answered 9,683 calls, with an average talk time of 2 minutes and 40 seconds. July was the busiest month so far this year. CCON handled 24% more calls compared to July 2021 with a 38% increase in talk time compared to the same period last year. Since the end of July, CCON has answered over 800 calls about GrandPads. (Plan: Maximize Access 1.1)
+	Ms. Sorth said a huge accomplishment was achieved by the History and Genealogy Department with assistance by Building Systems and a plan created by Emily Althoff and department managers, Brent Trout and Jacob Eubanks.  They exceeded expectations and completed the massive move of the H&G collection over a week ahead of schedule.  The amount of coordination and work involved was astounding. (Plan: Maximize Access 2.2)
+	Well before HQ’s closure, Library employees worked on preparing the collection, boxing various items, loading book trucks and unloading book trucks at four different locations. Around 12,949 linear feet of books which amounted to 432 cart loads (25 moving truck trips) found their way to temporary locations. The temporary locations include: Daniel Boone, Grand Glaize and the Beck. (Plan: Maximize Access 2.2)
+	Two representatives from FamilySearch have arrived to commence the scanning of 10,220 reels of microfilm. This work is being performed at Daniel Boone.  While early estimates of when the work would be completed was around 18 months, current projections by FamilySearch now project around 4 years. Family Search is a nonprofit organization dedicated to helping all people discover their family history.  The organization, which is affiliated with the Church of Jesus Christ of Latter-Day Saints, houses one of the largest collections of genealogical resources in the world.  They will be digitizing many of our rolls of microfilm at no cost to SLCL.  Our patrons, and people around the world will have free remote access to these collections through the Family Search database once they are digitized. (Plan: Promote Literacy 1.2, 3.3, Sense of Community 2.1, Maximize Access 1.1)
+	Reference attended the 37th Annual Diversity Job Fair STL last week. They highlighted the amazing resources the Library has for job seekers as well as showcasing our current job opportunities. (Plan: Promote Literacy 1.4, 3.1, 3.2, Maximize Access 1.2, 1.3, 3.5)
+	Reference has started planning the Small Business and Nonprofit Expo for the Fall. The Expo will be a 5-day event from October 3 – October 7 with both in-person and virtual program options. The programs will consist of small business/nonprofit organizations in the community as well as programs by Reference staff highlighting how Library resources can support small businesses and nonprofits.  Bridgeton Trails, Sachs, Natural Bridge, Cliff Cave, and Grant’s View will each be hosting a day of small business programming for the expo.  Partner presentations include: STL Builds Credit & Small Business Empowerment Center, Legal Services of Eastern Missouri, SCORE, Reference Solutions, AllianceSTL, Small Business Administration, VetBiz, Grow with Google, and Statista. (Plan: Promote Literacy 1.4, 3.1, 3.2, Sense of Community 2.2, 2.3, Maximize Access 1.1, 1.4)
+	For July, mail received from prisons is down 34% from last year. This is one service that has steadily seen growth, however, this month's decline could be attributed to recent changes. In May, the Missouri Department of Corrections sent out notice that incarcerated individuals will no longer receive physical mail. Instead, all mail will be sent to a digitizing facility in Florida where mail will be scanned/copied, emailed to the incarcerated individual's JPay tablet, or the scanned copy mailed to them if they do not own a tablet. The Reference Department answers a couple hundred letters each month from people currently incarcerated on a wide variety of topics.  The Reference Department, and the other St. Louis libraries that send mail to incarcerated patrons, have concerns of access and privacy with this new rule and are in conversation with a number of organizations that support the justice involved. (Plan: Promote Literacy 3.4, Sense of Community 1.1, 2.2, Maximize Access 1.1)
+	She said the Bookmobile Department is getting ready for the school year.  They are excited to rebuild connections, introduce new staff and finally get the well cultivated collection back in use.  So far, 64 schools have requested bookmobile visits. This includes schools that initially declined service last year because of the pandemic.  For the 2021-2022 school year, the department served 54 locations.  (Plan: Promote Literacy 1.2, 2.1, 3.4, Maximize Access 1.1, 1.2, 2.4)
+	Library employees have a new way to recommend eMedia titles to patrons. Overdrive has added the ability for employees to add ‘Shelf Talkers’ on titles in the Libby app. Employees comments appear on a title’s details page in Libby. Employees can add content such as a review, favorite quote, or read-alike suggestions. (Plan: Promote Literacy 1.2, 3.4, Maximize Access 3.5)
+	The Processing department added 28,136 items into circulation in July and the Cataloging department added 1,200 new titles in July. These are the highest numbers since our migration to the new Polaris system in March, 2022. (Plan: Promote Literacy 1.1)
+	There were mentions of the St. Louis County Library in the local media in print, radio and television.  Those articles are attached. (Plan: Maximize Access 3)
+	She shared pictures from various events and programs that have taken place over the last month including:  Author Michael Loynd at The J, Read to a Reptile at Grant’s View, Rainbow Crayon Art at Cliff Cave, Summer Lunch at Rock Road, MetroMarket at Lewis & Clark, Video Game Battle Brawl at Lewis & Clark, Author Jason Kander at The J, Author Daniel Silva at The J, Elaine Viets at Grant’s View, Eye Thrive Mobile Clinic at Prairie Commons, and Nasa Drone Challenge at Weber Road. (Plan: Promote Literacy 1.3, Sense of Community 2.1 and 2.3)
+Library Administrative Updates
+	Ms. Sorth said the Library is thrilled to announce that Ricqui Brooks, the Library's Adult Literacy Coordinator, has been selected as an honoree as part of the St. Louis Business Journal’s 2022 class of Champions for Diversity & Inclusion Awards. These awards aim to celebrate individuals, companies and nonprofits who, through their work, are truly championing the cause of making St. Louis a more inclusive and equitable place to live and work.   Here is an excerpt from Ricqui's nomination submitted on behalf of the Library by Becky Maue.
+Adult Literacy Coordinator, Ricqui Brooks, delivers on this mission every day in her work helping adults earn their high school diploma and her commitment to adult learning and literacy. Her passion for helping adults better their lives is shown in her implementation of the online high school program and the additional programs devoted to job readiness and adult literacy. Brooks sees inclusion as a universal human right and strives to include, respect and value all members of the community. She excels at supporting and encouraging students, listening to their questions and issues, and sharing important resources on a daily basis that will help them be successful in their goals.
+In the St. Louis region over 90,000 adults in the area do not have a high school degree. Brooks’s work with the online high school program directly impacts the lives of these adults that enter into the program to earn their high school diploma and career certificate. Since the inception of the online high school program in October 2017, Brooks has helped 97 students from all walks of life successfully earn their high school diploma. The graduation rate for SLCL’s online high school program is over 70%, well above the national average of 58%.
+Brooks demonstrates patience and compassion to all of her students and readily shares her extensive knowledge of resources. It is because of her encouragement and empathy; students have been able to finish the program despite all the challenges they face in their everyday lives which were compounded during the pandemic. Students often reference the support they receive from Brooks as a reason for their success and that strong connection can be seen at every graduation ceremony. One graduate shared, “She made me believe in me.”
+	Ms. Sorth said she was honored to accept the National Medal for Museum and Library Service on July 20th in Washington, D.C. on behalf of the St. Louis County Library and honoring the work of our employees.  I was very lucky to be able to attend with Grant's View patron, Linda Kotthoff, who attended over 20 virtual programs over the last two years. She attended many of these with her dad and told me that the art programs are their favorite.  Linda also has a community garden bed at GV and brought her son and daughter to many library programs over the years.  Each year, IMLS invites a community member who benefited from the services of a library or museum to attend the ceremony.  We submitted names of patrons, after getting their permission, and IMLS conducted interviews and chose Linda.  She mentioned almost all past and present Tesson Ferry/Grant's View employees by name and told me many stories that demonstrated how important our employees are to her family.  (Plan: Maximize Access 3)
+	The State Library has finalized the anticipated payment amounts for fiscal year 2023 State Aid and Arts & Entertainers tax funds.  The State Legislature significantly increased support for all public libraries in the State’s 2023 Budget with fiscal year beginning in July 2022.  SLCL will receive $500,000 in per capita State Aid and $160,000 in Athletes and Entertainers tax.  The first set of payments will arrive this October.
+	The Library contracted with GRS Auctions to sell the surplus equipment, furniture, and supplies from the Headquarters location.  The online auctions were broken into four distinct sales, which netted the Library almost $94,000.  The first of the four sales set a record for GRS for the number of bidders and the number of winners with more than 125 different winners. (Plan: Maximize Access 2)
+	Several managers and administrators met with our representative from Specialty Vehicle Services to begin the design process for new school bookmobiles.  The process includes discussion about desired features and functionality and matching those to the most suitable vehicle.  The deliverable from this process will be a Request for Proposal (RFP) that will be issued to potential manufacturers.  The Library has been forewarned that the delivery time for a vehicle may take as long as two years from the execution of the contract.  Supply chain disruptions paired with a spike in demand for specialized mobile vehicles are to blame for the extended wait times. (Plan: Maximize Access 2)
+	Throughout July, Library employees participated in the Employee Engagement Committee’s district-wide Hydrate While You Work Challenge. The hydration challenge encouraged employees to keep track of ounces of water consumed while at work. A total of 125,376 ounces were consumed by employees. Daniel Boone averaged the most water consumed and received sparkling waters, flavor enhancers, water bottle cleaners and a pitcher to make ice tea or cold brew coffee for their branch. Bookmobiles and Mobile Services and the Lewis & Clark Branch were the next highest groups.
+	Ms. Sorth said that work on the Library’s new Strategic Plan is in progress.  Strategic planning surveys for the public and employees were open from July 8-24, 2022.  Data from these surveys and a meeting with Library managers, in addition to community, stakeholder, and employee feedback gathered by Hicks Carter Hicks in 2021 during the Community Conversations project, will inform the Library’s next strategic plan. (Plan: Sense of Community, Maximize Access 3.3)
+	On August 9th, Ms. Sorth attended and presented at a Statewide Digital Literacy Stakeholder Meeting to discuss the need for broadband in the State of Missouri with significant federal dollars coming to address the need.  The meeting was convened by State Representative Louis Riggs who has been tapped to lead this effort by the Governor.
+	The 2023 Holiday Schedule is attached. The schedule was established and approved many years ago and is included in the Library’s Personnel Manual. We have added the Juneteenth Holiday as a permanent holiday. (Plan: Sense of Community 1)
+Library Construction and Facility Update
+	The Library was fortunate that the record-setting rains the week of July 25 caused only minor damage to a few branches.  Daniel Boone, Rock Road, and Natural Bridge reported roof leaks, which are being addressed.  Parkview and Florissant Valley each had standing water enter the building. In both instances, quick reactions by branch employees, Building Systems and the custodial teams prevented damage to the drywall. (Plan: Maximize Access 2)
+	Mid-County’s parking garage flooded with 4” of water twice during the rain events. The flooding appears to be due to an undersized municipal drain.  I have reached out to the City of Clayton to discuss the situation. (Plan: Maximize Access 2)
+	Ameren is issuing a check for $21,970 for incentives in recognition of the energy-efficient lighting selections made at The Beck. (Plan: Maximize Access 2)
+	US Federal Properties Co LLC has been in contact with the Library regarding a proposed development just north of the Natural Bridge branch. They are in the process of purchasing the land from Sisters of the Good Shepherd and plan on building a USDA Food Safety Laboratory there. Normandy approved a Special Use Permit on August 11, 2022.
+Library Foundation
+	The Foundation received $10,000 from the Pott Foundation to fund MetroMarket stops.
+	The Foundation received $50,000 from Emerson to fund the St. Louis Storytelling Festival and the Fund the Need Week.
+Author Events
+	Ms. Sorth said the Library has had great success transitioning the author events to our branch locations and through our new SLCL @ the J Series. Most of the fall events will be at branches because of the fall Jewish holiday calendar and the November St. Louis Jewish Book Festival.  The J series will pick up again in the latter part of 2022. We will also be hosting upcoming events at the Ethical Society of St. Louis and Chaminade’s Skip Viragh Center for the Arts. (Plan: Promote Literacy 1.3, 3.4, Maximize Access 1.1, 2.4)
+	The Fall Author Event Calendar is currently in production. Here are several highlights from the upcoming events schedule:
+		Sept 6, Daniel Boone Library - Deanna Raybourn “Killers of a Certain Age” - Bestselling author of the Veronica Speedwell mystery series
+		Sept 8, SLCL Authors @ the J - Craig Johnson, “Hell & Back” - popular Longmire Western Suspense Author
+		Sept 28, Ethical Society of St. Louis - C.J. Box, “Treasure State” - Bestselling suspense author
+		TICKETED EVENT - Oct 26 - George Saunders, “Liberation Day” - Renowned fiction author - Chaminade’s Skip Viragh Center for the Arts - Tickets will go on sale mid-September
+	The Library is currently booking authors for the St. Louis Teen Book Festival on December 3.  The Festival will be promoted to teens across the St. Louis area and will take place at Ladue High School. She said the library hopes to host 10-12 nationally renowned young adult authors for panel discussions, author talks, and book signings. Current confirmed authors include Jenna Evans Welch, Jas Hammonds, Randi Pink, and Sarah Farizan. Author events coordinator, Carrie Robb, recently met with the publicity departments at several young adult publishers to discuss additional authors and other details. (Plan: Promote Literacy 1.3, Sense of Community 2.2)
+August and September Author Events
+	Elliot Ackerman, author of “The Fifth Act: America’s End in Afghanistan,” Monday, August 15, 2022, 7:00 p.m., The J., Doors open at 6:30 p.m., Mirowitz Performing Arts Center, 2 Millstone Campus Drive, St. Louis, MO  63146.
+	Lisa Jewell, author of “The Family Remains,” Tuesday, August 16, 2022, 7:00 p.m., Grant's View Branch, Doors open at 6:00 p.m., St. Louis County Library - Grant's View Branch, 9700 Musick Rd., St. Louis, MO 63123.
+	Daniel Stone, author of “Sinkable: Obsession, the Deep Sea, and the Shipwreck of the Titanic,” Tuesday, August 23, 2022, 7:00 p.m., Daniel Boone Branch, 300 Clarkson Rd., Ellisville, MO 63011.
+	Madeline Martin, author of “The Librarian Spy,” Wednesday, August 31, 2022, 7:00 p.m., Daniel Boone Branch, 300 Clarkson Rd. Ellisville, MO 63011.
+	Jennifer Lynn Barnes, author of “The Final Gambit: An Inheritance Games Novel,” Friday, September 2, 2022, 7:00 p.m., St. Louis County Library - Daniel Boone Branch, 300 Clarkson Rd. Ellisville, MO 63011.
+	Deanna Raybourn, author of “Killers of a Certain Age,” Tuesday, September 6, 2022, 7 p.m., Daniel Boone Branch, 300 Clarkson Rd. Ellisville, MO 63011.
+	Craig Johnson, author of “Hell and Back: A Longmire Mystery,” Thursday, September 8, 2022, 7:00 p.m., The J, Mirowitz Performing Arts Center, 2 Millstone Campus Drive, St. Louis, MO 63146.
+	Louisa Treger, author of “Madwoman,” Wednesday, September 14, 2022, 7:00 p.m., Daniel Boone Branch, 300 Clarkson Rd., Ellisville, MO 63011.
+Dr. Beckwith requested that Ricqui Brooks join the September Library Board meeting so that the Board can meet her in respect to the announcement of her recent award.
+The Strategic plan will be presented by Assistant Director of Initiatives, Jennifer Gibson in September.
+Deborah Patterson asked how visitor data is captured. Eric Button responded that data is gathered through the library branch gates. She also requested an update on Social Workers. Ms. Sorth responded that the contract with the Children’s Services Fund was signed and the next step was a contract with Epworth.
+Ted Sanditz congratulated Kristen for accepting the IMLS medal. He asked for a dollar amount on flood damage. She said it was reported to be about $6,000.
+NEW BUSINESS
+CONSTRUCTION UPDATE
+Steve Hunter, Assistant Director of Operations, reported on the progress of the demolition of Headquarters. He said the abatement people were finished. He said the building plaques have been removed and completion is currently scheduled for the first quarter of 2024.
+Mr. Hunter said the Beck has graphics being installed. There will be graphics in the Bookmobile area and the Break room.
+Dr. Beckwith asked how best to relay the message that the Beck Building is not open to the public. Mr. Hunter responded that we have information on the website and if people come in we gently tell patrons that it’s not open for tours.
+BOARD ORGANIZATION
+Kristen Sorth reported that the Library Board’s ByLaws Article 1, Section 5 states as follows:
+ “The officers of the Board of Trustees shall be a President, Vice-President, Secretary and Treasurer who shall be elected annually at the August meeting of the Board and shall hold office for a period of one year.” The current officers and members of the Board are as follows:
+President                     Lynn Beckwith, Jr.
+Vice-President            Johnny Wang
+Secretary                     Joan Barry
+Treasurer                     Ted Sanditz
+ Member                      Deborah Patterson
+Deborah Patterson moved that the current officers retain their current positions.  Ted Sanditz seconded the motion.  The Library Board approved of the motion through voice vote. (Patterson/Sanditz).
+2023 BOARD MEETING DATES
+Kristen Sorth reported that the Library Board approves meeting dates for the subsequent year each August.  The following dates were submitted for 2023.
+Library Board                                        Pension Board
+January – No meeting                           January 23
+February 6                                           April 17
+March 20                                              July 17
+April 17                                               October 16
+May 15
+*June 20- Tuesday
+July 17
+August 21
+**September 26 - Tuesday
+October 16
+November 20
+December 18
+Unless otherwise stated, all meetings will be held at Thornhill Branch due to the closing of Headquarters and will start at 3:30 p.m. Due to the COVID-19 Pandemic, Board meetings may be held virtually. The Tax Hearing is generally held in August each year. The Pension Board is scheduled to meet at 2:45 p.m. unless otherwise noted.
+*This is a change from Monday to Tuesday.
+**This is a change from the 3rd Monday to the 4th Tuesday due to Yom Kippur.
+The Library Board approved of the 2023 Board meeting dates and locations as presented (Patterson/Barry).
+SEAL AND STRIPE (4 LOCATIONS)
+Steve Hunter said that on July 19, 2022, Library Administration issued an IFB for sealcoating and re-striping four branch parking lots (Florissant Valley, Jamestown Bluffs, Meramec Valley, and Parkview). The bid was posted on the SLCL website and direct mailed to ten local companies, including the local W/MBE firms that identified as providing this service. An advertisement was placed in the Post-Dispatch. Responses were due August 5, 2022. Two firms replied:
+			Company
+			Base Bid
+			Asphalt Paving & Concrete, Inc.
+			$39,853
+			Road Goals, Inc.
+			$95,135
+The responses were reviewed by a selection team consisting of Steve Hunter, Matt Manwarring, and Drew Schulze. After checking references, the selection team agreed Asphalt Paving & Concrete, Inc. provided the lowest and best bid response.
+The approved 2022 Library budget included $50,000 for this project.
+The Library Board approved the recommendation to select Asphalt Paving & Concrete to provide Seal & Stripe services to the Library District at four locations for the amount of $39,853 and that the Board authorize the Director and CEO to enter into and execute a contract to that effect (Barry/Wang).
+Deborah Patterson asked if the library had used them before.  Steve Hunter affirmed that we had. There were no WMB responses.
+RFQ FOR DIVERSITY, EQUITY & INCLUSION CONSULTING SERVICES
+Laura Taylor, CFO, presented the following.
+The 2022 Library Budget included a review of the Library’s employment practices, policies, and procedures as they relate to diversity, equity, and inclusion. The Library’s goal is to maintain a workplace where employees can thrive personally and professionally.
+A request for qualifications (RFQ) for Diversity, Equity and Inclusion consulting services was posted on July 19, 2022. The RFQ was placed on the District’s website and fifteen firms were notified directly. Responses were due on August 3, 2022 and five proposals were received.
+In accordance with Library policy, Kristen Sorth, Mary Arnhart, Jennifer Gibson, and Laura Taylor independently reviewed and ranked the proposals based on the responses given to the proposal requirements. Once ranked, fee envelopes were opened. The fees for the work identified in the RFQ for the top three firms are as follows:
+			Firm
+			Cost
+			Critical Social Change Project
+			$70,000
+			Gladiator Consulting
+			$80,000
+			Hicks-Carter-Hicks, LLC
+			$62,000
+In accordance with the Library District’s Policy II for Professional Services, the following evaluation factors were used to select Hicks-Carter-Hicks, LLC.
+	the specialized experience and technical competence of the firm with respect to the type of services required;
+	the capacity and capability of the firm to perform the work in question, including specialized services, within the time required;
+	the past experience and record of performance of the firm; (d) insurance required such as professional liability.
+The Library used Hicks-Carter-Hicks’ consulting services in 2021 for a series of Community Conversations regarding diversity, equity, and inclusion in library programs and services.
+The Library Board approved the selection of Hicks-Carter-Hicks, LLC to provide Diversity, Equity, and Inclusion consulting services for employment practices, policies, and procedures at a cost of $62,000 and that the Board authorize the Director to enter into and execute a contract to that effect (Patterson/Sanditz).
+OLD BUSINESS
+NONE
+ADJOURNMENT FOR EXECUTIVE SESSION
+Johnny Wang motioned to adjourn open meeting and to convene Executive Session to discuss real estate (Section 610.021(2)); and to discuss legal matters (Section 610.021(1)).  Deborah Patterson seconded. Board responded with voice vote.  Aye: Lynn Beckwith, Ted Sanditz, Joan Barry, Johnny Wang, Deborah Patterson
+Regular meeting ended at 4:28 p.m.
+Sincerely,
+_____________________________                                      _________________________
+Joan Barry                                                                               Date
+Secretary

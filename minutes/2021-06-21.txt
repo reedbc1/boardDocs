@@ -1,0 +1,221 @@
+{
+  "name": "Regular Meeting (In Person)",
+  "description": "Library Board",
+  "unique": "BX2W5M7C4DDA",
+  "date": "2021-06-21T00:00:00Z"
+}
+
+---
+
+ST. LOUIS COUNTY LIBRARY
+MEETING OF THE BOARD via ZOOM
+1640 SOUTH LINDBERGH BLVD.
+MONDAY, June 21, 2021
+ 3:30 p.m.
+ATTENDANCE:
+Members present:
+Lynn Beckwith, Ed.D., President
+Johnny Wang, Vice-President
+Ted Sanditz, Treasurer
+Joan Barry, Secretary, via telephone
+Deborah Patterson,
+ADMINISTRATORS AND GUESTS ATTENDING: Kristen Sorth, Director & CEO,  via telephone; Eric Button, Deputy Director; Laura Taylor, CFO; Gib Van Cleve, Assistant Director, ITS; Steve Hunter, Assistant Director, Operations; Jill Newman and Mike Hanson, Daniel and Henry; Paul Hampel, St. Louis County; and Lisa Stump, Lashly and Baer.
+OTHERS ATTENDING: Sandra Williams, Executive Assistant.
+Dr. Beckwith took part in a photo opportunity with the Board highlighting the proclamation naming the new construction in Frontenac the Lynn J. Beckwith, Jr. building.
+Dr. Beckwith welcomed new Board member Deborah Patterson. She was asked to give a brief introduction about herself. Ms. Patterson spoke of her career with Monsanto, the Red Cross and of the various community groups where she serves. Ms. Patterson said she was honored and pleased to be a part of the Library Board.
+APPROVAL OF MINUTES
+The Library Board approved the May 17, 2021 minutes (Wang/Patterson).
+PUBLIC COMMENTS
+There were no public comments to be read.  Dr. Beckwith acknowledged two letters sent to him that will be shared with the Board.  He explained that Administration posted that the June meeting was in person and therefore, letters will not being read.
+TREASURER’S REPORT
+Laura Taylor presented the following report.
+ Maintenance and Operating Fund Financial Statements:
+Revenue
+	District Taxes – In May, the Library District received tax revenue in the amount of $402,636.  This tax revenue includes the last of two payments of the Athletes and Entertainers Tax for St. Louis County’s 2021 fiscal year.  Year-to-date, total tax revenue for 2021 is at 86% of the budgeted $59.7 million.
+	CARES Act Grant – In May, the Library District received a CARES Act Grant payment in the amount of $25,000.  This is the first of two payments towards the $50,000 CARES Act Grant awarded to the Library by the Missouri State Library.  These funds will be used to purchase outdoor Wi-Fi equipment and mobile routers.  This equipment will strengthen wireless signals in the branch parking lots and allow bookmobiles to provide free Wi-Fi in the neighborhoods that they visit.
+Expense
+· Pension Fund – The Library District made the annual contribution to the Employee Pension Plan.  The contributed amount totaled $2,192,782 and was approved by the Board at the April 2021 Meeting.
+Expense
+· Capital Improvements – In May, the Library District incurred $255,393 in Capital Improvements expenses.  Notable expenses are as follows:
+o $126,542 for construction performed through April 2021 at Eureka Hills – Interior Construction Services
+o $89,279 for shelving at Eureka Hills – Color Art Technology
+Capital Projects Fund Financial Statements
+Balance Sheet – 2016 Debt Issuance
+	Construction in Progress – Total Construction in Progress for May 2021 was $1,349,089.  The expenses included payments for:
+		Pay Application from Interior Construction Services for the construction performed through April 2021, at the Lynn Beckwith Jr. Administrative Building for $1,278,777.
+		Architectural professional services performed by the Lamar Johnson Collaborative through April 2021, at the Lynn Beckwith Jr. Administrative Building and Ladue Branch for $42,865.
+		Facilities Master Plan Administrator payment of $27,310.
+The Library Board approved the June 21, 2021 Treasurer's Report subject to audit (Barry/Wang).
+Director & CEO's Report
+Kristen Sorth reported the following.
+Library Update
+	Ms. Sorth said she was so pleased to welcome new Board Member, Deborah Patterson.  She also offered a huge congratulation to Dr. Beckwith on his reappointment to the Library Board.
+	The Dashboard report for May was shared.  Total circulation in May, 2021 was 21% higher than May, 2020.  This is the first month in over a year where we are seeing an increase as we shift back to more regular circulation numbers.  The amount of transactions via curbside delivery of materials continues to decrease.  In May, curbside pickup decreased by 48% as patrons are now able to come inside the building without an appointment.  That change took place on May 10.   In May, 163,203 patrons visited the Library in person.  This is an increase of more than 50% from last month.  A breakdown of these statistics by branch is included on the Dashboard.  Information on meal distribution, new patron registrations, virtual programming attendance and the most popular titles for the month are also included.  (Plan: Promote Literacy 1.1 and 1.2)
+	The Library continues to gradually move toward full restoration of library programs and services.  There are several changes coming in the next several weeks and months.
+		We are currently open to the public for all of our previous hours with the exception of Sundays.  We will resume Sunday hours at the four regional locations only (HQ, Daniel Boone, Florissant Valley, Grant's View) effective July 11.  Public hours will be 1:00-5:00 p.m. as they were prior to the pandemic.  Depending on public demand and other potential factors, we will likely continue to expand Sunday hours to additional locations prior to the end of September with October 1 as the target date for returning to full pre-COVID hours with 9 branches open on Sundays. (Plan: Maximize Access 1.1)
+		The Library will begin to offer a limited number of in-person programs during a "soft launch" phase in August.  The soft launch will be limited to programming that is planned and presented by Library employees (not with partners or outside presenters).  Publicity for the soft launch will be intentionally limited.  This will help us adjust to any concerns that might still remain in August.  Each branch will have some programs, but not nearly as many as they would typically plan for a month.  In September, we will have the full launch of in-person programming that will offer more programming, which could include programs presented by people outside of the Library.  The number of programs would exceed that which was offered in August, but it would still not be equal to the number of programs presented in a typical September.  Publicity will also ramp up for September.  (Plan: Maximize Access 1.4)
+		On July 1, the Discovery Zones at Daniel Boone, Florissant Valley and Meramec Valley will reopen to the public. Also, hands-on activities and toys will be reintroduced in all children’s areas on July 1. Additional touchless sanitizing stations will be in place at that time, along with a sign encouraging adults to utilize wipes to clean toys before and after use. Employees will also contribute to the efforts to clean toys periodically during the week.  (Plan: Maximize Access 2.4)
+		Curbside services will be expanded to cover all of the open hours effective July 1.  Modes of contact for patrons will be streamlined.  It is anticipated that curbside services will remain a permanent part of library services.  In light of that, we will be upgrading to more permanent signage to designate particular areas as curbside parking. (Plan: Maximize Access 1.1)
+		Employees will begin offering direct computer assistance to patrons at all branches by July 1.  During the pandemic, we were unable to offer this assistance because of social distancing requirements.  (Plan: Promote Literacy 3.3)
+She said the Library does not have a specific date in mind for opening up meeting rooms for public bookings, but we anticipate that this could be happening later this summer or in early fall.  We continue to require masks for our employees (Plan: Maximize Access 2.4)
+	Beginning on July 7, fishing equipment will be available for public checkout. The equipment, which includes fishing poles and some tackle boxes, was provided by the Missouri Department of Conservation. The Library ordered a number of additional books on fishing to create displays to promote the equipment. In addition, the Adult Services Department is investigating programming opportunities centered around fishing. (Plan: Maximize Access 1.4)
+	Following the solicitation of responses from several companies for the liquidation of surplus furniture and equipment from the old Eureka Hills Branch, GRS Auctions has been selected to manage this work. GRS will run an online auction and retain a percentage of sales in exchange for the services provided.
+	The Board of Elections has informed us that they plan to potentially use all 20 branch locations as polling places. This change is mostly due to their “vote anywhere” initiative whereby St. Louis County voters can vote at any County polling location. The election planned for August 3 will be the first to utilize all locations. (Plan: Maximize Access 2.2)
+	The Library is partnering with the St. Louis County Board of Elections to offer an “I Voted” sticker design contest. The contest runs from September 27 - October 15. Entries may be created by hand or using computer software. Judging will be broken into age ranges, and the finalists will be selected for sticker production. It is projected that 500,000+ stickers will be printed and made available for elections in 2022. (Plan: Maximize Access 1.4)
+	In partnership with St. Louis County, the Library will be hosting volunteers at five of our branches to assist with applications for the St. Louis County’s Emergency Rental Assistance program. Bridgeton Trails, Florissant Valley, Lewis & Clark, Natural Bridge and Weber Road will each host volunteers from the St. Patrick Center and Salvation Army, one day a week for four hours. No appointments will be necessary to seek assistance with the application at our branches. (Plan: Sense of Community 2.1)
+	She said Nikole Brown and Kellie Willis have both been named American Library Association (ALA) Spectrum Scholars. Nikole is currently the Assistant Manager, Circulation at the Lewis and Clark Branch. She began working for the Library in August of 2019. Kellie is a Youth Specialist at Natural Bridge Branch. She began working for the Library in April 2019.  The Spectrum Scholarship Program actively recruits and provides scholarships to American Indian/Alaska Native, Asian, Black/African American, Hispanic/Latino, Middle Eastern and North African, and/or Native Hawaiian/Other Pacific Islander students to assist them with obtaining a graduate degree and leadership positions within the profession and ALA. (Plan: Sense of Community 1.2 and 1.3)
+	Adult Services surveyed all of the eligible Career Online High School (COHS) graduates to help determine the number that were interested in a graduation ceremony.  Based on this and other feedback collected, we are planning for an in-person graduation ceremony on October 9.  Dr. Beckwith has agreed to be the keynote speaker at the ceremony.  This will be the first graduation ceremony offered since 2019.  In total, 83 students have earned their high school diploma through COHS.  The Adult Services team shared the following report from a conversation with one of our recent graduates.
+		It was a pleasure to speak with our newest graduate, Veronica Cunningham, who graduated from COHS with a 3.75 grade point average despite losing her husband Cedric to COVID on April 13. Cedric was a deacon, a football coach, and loved to help kids. She spent 2.5 months in the hospital with him before he passed. During that time, she continued to push forward with finishing her schoolwork. Veronica said, “Homework helped me through my heart being broken. I was determined to do it.” She was delighted to receive her diploma and transcript in the mail, taking a picture of both and sending it to her kids with a proud exclamation of “I did it!” Veronica tried to get her high school diploma several times before, and this time she did it. “It feels so good,” she said. Congratulations, Veronica!  (Plan: Promote Literacy 3.1)
+	Angela Brooks, the Library’s Small Business & Employment Resources Coordinator, was a presenter at the Women Business Development Center’s Spring Summit. Attendees included entrepreneurs from Missouri and six other states. She also met with BIO STL, Enterprise Bank and scheduled a meeting with Grow with Google about new programs. Angela attended the Urban Libraries Council Meeting and training webinars with Forward Cities, Grow with Google and SBA’s launch of a new Community Navigators Pilot Program. She also joined an Entrepreneur Leadership Program and a sustainable business ventures network. The monthly Small Business Resources email was distributed to over 500 entrepreneurs. (Plan: Sense of Community 2.1 and Promote Literacy 3.2)
+	Ms. Sorth announced that Jennifer Gibson, Manager of Reference at St. Louis County Library and Betsey Suchanic, Program Manager, Urban Libraries Council will be presenting at the 2021 Internet Librarians Conference in Monterey, California. The title of the program is ROI: Measuring & Communicating Community Value. The session previews a new tool – developed by the Urban Libraries Council and 11 library systems across North America – designed to help libraries easily calculate the ROI for their small business and entrepreneurship services. Inspired by St. Louis County Library’s Small Business Calculator, ULC’s new tool not only helps libraries estimate the value of their services in dollar amounts, but also provides a framework for assessing, communicating and continually strengthening those services. (Plan: Maximize Access 3)
+	She said the Library continues to provide vital services to the region.  Here is a chart that shows our accomplishments as of May 14.  We are so thankful to the many community partners who have reached out to us to provide additional items to be distributed through our drive-thru meal sites. (Plan: Sense of Community 2.1)
+	One of the Library’s strategic plan goals is to “Represent inclusion and equity in our services, programs and collections.” As part of this effort, we are offering virtual programs for all ages this month for LGBTQ Pride month. (Plan: Sense of Community 1.1 and 2.2)
+	The Library is hosting virtual programs for all ages this month in celebration of Juneteenth. In March, the Library Administration recommended and the Library Board approved the addition of Juneteenth to the list of observed holidays. This year, the Library will remain open on June 19th. All fulltime employees will receive a comp day.  Next year, Juneteenth will be added to the list of days that the Library is closed. (Plan: Sense of Community 1.1)
+	Ms. Sorth said we have worked with the St. Louis County Department of Public Health to schedule COVID vaccination clinics at several branches in conjunction with Saturday visits from the MetroMarket.  Those clinics started last Saturday at Natural Bridge (15 people were vaccinated) and will continue through August at Natural Bridge, Rock Road, and Indian Trails.  As you know, we held vaccination events at Lewis & Clark and Eureka Hills.  One hundred people were vaccinated at LC and almost 40 were vaccinated at EH.  Those two branches will also host vaccination clinics through the summer.  Also, the Sweet Reads Bookmobile will be making regular visits in partnership with the Health Department this June to vaccination locations to provide access to free books, sign up for library cards and provide free Wi-Fi. These locations include: John C. Murphy Health Center every Monday afternoon from 1-3p.m and North Central Community Health Center every other Tuesday from 1-3p.m.
+(Plan: Sense of Community 1.4)
+	There were many mentions of the St. Louis County Library in the local media in print, radio and television.  Those articles are attached. (Plan: Maximize Access 3)
+	Here are pictures from various events and programs that have taken place over the last month including: Vaccine events, MetroMarket visits, Summer Reading Club kickoff, Eye Thrive visits and the community gardens.  (Plan: Promote Literacy 3.4 and Sense of Community 2.1)
+Library Administrative Updates
+	Interviews with key employees and community stakeholders are being conducted by Hick-Carter-Hicks and Associates. The next phase of the Community Conversations project will be to set up dates and times for the 10 focus group meetings. We envision these meetings to be a hybrid of in-person and virtual meetings with the community.  (Plan: Sense of Community 1.1)
+	As mentioned previously, the St. Louis County Library is working with St. Louis Public Library on a joint RFP for a shared Integrated Library System (ILS).  That RFP was posted on June 3 with responses due on July 1. (Plan: Maximize Access 1.1)
+	Fulltime Library employees will be participating in free wellness screenings in July.   Employees who do not participate will pay $50 each month toward the cost of their health insurance.
+	The Library Board will review recommendations for all lines of employee insurance later in the meeting.  Open enrollment for benefits will take place from June 28 – July 9.  In preparation, we will be hosting several open enrollment meetings for employees.  A representative from our insurance broker, Daniel & Henry, and a representative from each insurance carrier will be on the Zoom meetings.  The meetings will also be recorded for those that cannot attend.
+	I have been asked to participate as a member of the Digital Divide Steering Committee for St. Louis.  The goal of the group is to guide the work of the Center for Civic Research & Innovation within the Community Foundation as it relates to digital inclusion. (Plan: Promote Literacy 3.3)
+	The 2021 Library Budget contains several salary adjustments to be made on July 1 which include the following.
+		The pay grade structure will collapse from 17 grades to 11 grades. Impacted employees in grades 1 - 5 will receive a structure adjustment.
+		The minimum starting salary at the Library will increase to $15 an hour. As with the other structure adjustments, efforts will be made to address compression which is a situation where all employees are clustered at the bottom of the new range regardless of their time in that position.
+		The job descriptions for Circulation Assistants and Library Assistants will be consolidated into one title, likely Library Associate, with one job description. Circulation Assistants were previously paid at a lower rate of pay than Library Assistants. Their pay range will be adjusted upward and impacted employees will receive an adjustment on July 1.
+Library Construction and Facility Updates
+	The Eureka Hills Branch opened to the public on June 2, 2021 at 9:00 a.m. immediately following a ribbon cutting.  Over 2000 people visited the branch that day.  Since opening, 120 new library cards have been created for patrons. (Plan: Maximize Access 2)
+	In April 2020, the Library Board approved a contract with ICS for construction of the new Eureka Hills Branch.  The approved value of the contract plus contingency was $5,859,700. We have now closed the project and can report a final actual spend of $5,260,249 – a savings of $599,451 vs. the amount authorized.
+	We have started discussing the renaming of the Indian Trails Branch to a more culturally appropriate name.  The managers and employees at the branch have come up with several options based on the history and setting of the branch in the City of Vinita Park.  We plan to engage employees and patrons in the renaming of the branch by offering several names to vote on via social media.  (Plan: Sense of Community 1.1)
+	Ms. Sorth said when HQ closes for demolition and construction, the District will be in need of storage space for the branch and Genealogy collections. An RFQ for broker services to help identify and secure the necessary space will be issued in July and brought to the Board in August.
+	On May 15, the underground fire suppression line at HQ ruptured. The not to exceed cost to dig, replace the line, and re-pave the parking lot was $20,000. We are still waiting on a final number.  The Library was closed for one day while repairs were made.  The Board was informed of this during the May 17 Board Meeting.   As stated then, the Emergencies clause of the Library’s purchasing policy was being invoked:
+Section 7. Emergencies. This Policy may be waived by the Director in writing in emergencies involving the health, welfare or safety of individuals or where significant damage or disruption of service would occur if corrective action is not taken quickly. Emergency procurement shall be made with such competition as is practicable under the circumstances. If the emergency does not allow sufficient time for the Procurement Process set forth hereunder, a complete report of actions taken shall be presented to the Board at the next regular or special meeting.
+	On Monday June 14, the HVAC system at the Cliff Cave Branch failed. Building Systems responded and found significant damage: two of the four compressors were inoperable, one of four condenser fans was damaged, a fuse had blown, and both the service disconnect and several feet of wire had melted.  IFS Mechanical was called to investigate the damage and to try to get the unit back online. The unit is now functioning at roughly half capacity and the building is holding temperature, but the fixes are temporary and not expected to last long. The cost to properly repair the compressors, fan, and electronics is anticipated to be more than half the cost of a complete new system. Given that this unit is over 15 years old, we are obtaining quotes for a full replacement as well. A final decision will be made to repair or replace once all pricing is in hand, but it is expected that a new system will be the best use of funds.  Following a normal IFB process, the earliest the equipment could be replaced is late August. Given that this equipment is essential for keeping the branch open, we are invoking the emergency purchasing clause. Expected costs are around $20,000. A full reporting will be presented to the Board at the July meeting.  The Emergencies clause is stated in the above bullet.
+Library Foundation
+	Ms. Sorth said in lieu of a formal gala this year, the Foundation will be hosting an online Fund the Need Week, Monday, August 23 through Friday, August 27. The week will conclude with a casual, outdoor Food Truck Celebration, Friday, August 27.
+The following Author Events were shared. (Plan: Promote Literacy 1.2)
+We have Livestream author events and recordings with the following authors. They are posted on our website as well as the HEC Facebook link - facebook.com/hectv and then archived at hecmedia.org. We are promoting on our social media and sending eblasts that direct patrons to the HEC sites. HEC has also started simultaneously premiering the virtual author events on their TV channel to expand access to those individuals who do not have reliable internet access. (Plan: Promote Literacy 1.3)
+	Jenny Price, author of “Stop Saving the Planet!: An Environmentalist Manifesto,” Monday, June 21, 2021, 7:00 p.m.  Virtual on Facebook.com/STLCoLibrary.
+	Polly Samson, author of “A Theater for Dreamers,” Thursday, June 24, 2021, 7:00 p.m.  Virtual on Facebook.com/STLCoLibrary.
+	Jamie Brenner, author of “Blush,” Monday, June 28, 7:00 p.m.Virtual on Facebook.com/STLCoLibrary.
+	Laura McHugh, author of “What’s Done in Darkness,” Thursday, July 1, 2021, 7:00 p.m.  Virtual onFacebook.com/STLCoLibrary.  In conversation with Jill Orr, author of the popular Riley Ellison mystery series.
+	Dr. Michele Harper, author of "The Beauty in Breaking: A Memoir," Wednesday, July 7, 2021, 7:00 p.m.  Virtual on www.facebook.com/STLCoLibrary
+	Kristin Harmel, author of “The Forest of Vanishing Stars,” Thursday, July 8, 2021 7:00 p.m.  Virtual www.facebook.com/STLCoLibrary.  In conversation with bestselling novelist Fiona Davis
+Deborah Patterson asked about entrepreneurship programs and services offered to the community, the Digital Divide Steering Committee for St. Louis, and goals of the rental assistance program.
+Regarding the rental assistance program, Kristen said an eblast was sent to all library patrons as well as distributing a flyer in food distribution bags to make the information known as widely as possible. It was also shared on social media and the Library’s website.
+Regarding the committee’s actions to date, the committee has yet to meet. Ernst and Young is leading the efforts.
+Eric responded to the request for more information regarding business services and programs, mentioning that we offer robust resources to the community. We offer Book-a-Librarian to provide one-on-one assistance, and have many databases that can assist small business owners and entrepreneurs.  Reference Manager, Jennifer Gibson and her staff developed a value calculator for the business services provided by SLCL. It was determined that we offer around $13,000 a year in savings to business people in the region.is. The new building will house a much-improved business space.
+Dr. Beckwith added that the new facility on Lindbergh will have a space to host large events also.
+OLD BUSINESS
+NEW BUSINESS
+CONSTRUCTION UPDATE
+Steve Hunter reported that the team continues to meet with the architects for the new Headquarters Building.   Among other features, the building will hold 800 people in the new meeting room space.  He said that space would also offer the option to break down into smaller spaces.
+Regarding the Beckwith Building, he said the second floor has been poured. The steel is also in place. He anticipates the construction company turning the building over to the Library in early spring.
+LIBRARY BOARD ORGANIZATION
+The Library Board’s By Laws Article 1, Section 5 states as follows: “The officers of the Board of Trustees shall be a President, Vice-President, Secretary and Treasurer who shall be elected annually at the August meeting of the Board and shall hold office for a period of one year.”
+The office of Board Secretary is currently vacant due to the departure of a Board Member. The office will need to be filled by the Library Board.
+Administration recommends the Library Board nominate and elect a Board Member to serve as Secretary until the August election when all positions will be reconsidered as per the By Laws.
+Dr. Beckwith asked if there was a nomination.  Johnny Wang nominated Joan Barry for secretary. Ted Sanditz seconded.  All voted for approval. Joan Barry accepted the position.
+EMPLOYEE BENEFITS - HEALTH INSURANCE
+CFO Laura Taylor reported.
+Per State statute, the Library is required to go out for bid for the Library’s employee health insurance policy every three years. The Library’s insurance broker, Daniel and Henry, sent proposals to four health insurance companies. The attached spreadsheet from Daniel and Henry compares the three most competitive responses from Anthem, Cigna, and United Healthcare.
+The lowest bid for the renewal is from our current carrier, Anthem. Anthem’s renewal is a 5.03% increase in premiums. With the Library Board’s approval, we will move from a 2-tier plan to a 4-tier plan on August 1, 2021. This will allow our employees to have more options and employees that choose employee + spouse or employee + child(ren) will pay less per month compared to the current rates. The employee is responsible for any dependent coverage. However, with the new 4-tier plan, we propose that the Library contribute toward family-only coverage to keep the employee monthly cost in line with the current year amount.
+Effective August 1, 2021
+			Tier
+			SLCL Monthly Cost Per Employee
+			SLCL Additional Contribution for Family Coverage
+			Employee Monthly Cost
+			Total Monthly Cost
+			Employee
+			$707.36
+			$0
+			$15.00
+			$722.36
+			Employee + Spouse
+			$707.36
+			$0
+			$752.15
+			$1,459.51
+			Employee + Child(ren)
+			$707.36
+			$0
+			$625.52
+			$1,332.88
+			Family
+			$707.36
+			$426.42
+			$812.67
+			$1,946.45
+The rates will also remain the same for the pre-65 insurance plan for retirees. The pre-65 insurance benefit is strictly voluntary and does not result in any cost to the Library.  Paylocity administers the Library’s HRA and Flexible Spending Account plan. There will be no additional administrative costs with the exception of a renewal fee for each plan of $200 each.
+The Library plans to hold six open enrollment meetings via Zoom to inform the employees of all changes related to open enrollment.
+The Library Administration, in consultation with Daniel and Henry, is recommending that we remain with Anthem and contribute an additional $426.42/month to family-only coverage. Daniel and Henry has reported that the average health insurance renewal this year is trending 11-13%. The budgeted amount for the health insurance renewal was 15%. The proposal from Anthem is below trend and under budget even with a contribution to family-only coverage.
+The Library Board approved the motion (Sanditz/Patterson).
+EMPLOYEE BENEFITS - DENTAL INSURANCE
+CFO Laura Taylor reported.
+Per State statute, the Library is required to go out for bid for the Library’s employee dental insurance policy every three years. The Library’s insurance broker, Daniel and Henry, sent proposals to six dental insurance companies. The attached spreadsheet from Daniel and Henry compares the two most competitive responses from Delta Dental and Anthem. All the submitted bids were lower than our current dental plan. However, Delta Dental has a better overall network of dentists, and the administrative costs involved with switching carriers are significant enough that Daniel & Henry recommends staying with our current carrier. Also, Delta Dental did reduce its premium by 10% from the current year and issued a rate guarantee through July 2023.
+With the Library Board’s approval, effective August 1, 2021, we will move to have basic and premium dental plan options for our employees. Previously, only one option was offered. The premium plan will include orthodontia for people up to age 19, as well as increase the calendar year maximum from $1,000 to $1,500. The Library will pay the employee portion of the basic plan of $31.80/month. If the employee elects premium coverage, they will be responsible for the extra cost of $8.45/month. Any extra cost incurred by adding dependents will be paid by the employee.
+Basic Plan - Effective August 1, 2021
+			Tier
+			SLCL Monthly Cost Per Employee
+			Employee Monthly Cost
+			Total Monthly Cost
+			Employee
+			$31.80
+			$0
+			$31.80
+			Family
+			$31.80
+			$56.32
+			$88.12
+Premium Plan – Effective August 1, 2021
+			Tier
+			SLCL Monthly Cost Per Employee
+			Employee Monthly Cost
+			Total Monthly Cost
+			Employee
+			$31.80
+			$8.45
+			$40.25
+			Family
+			$31.80
+			$86.23
+			$118.03
+RECOMMENDATION: The Library Administration, in consultation with Daniel and Henry, is recommending that we remain with Delta Dental. The budgeted amount for the dental insurance renewal was 0%, as we had a rate guarantee through July 2022. The proposal from Delta Dental is below budget.
+ While others were lower, Delta Dental has a wider network.
+The Library Board approved the motion (Barry/Wang).
+Aye: Lynn Beckwith, Ted Sanditz, Joan Barry, Johnny Wang
+Abstain: Deborah Patterson
+EMPLOYEE BENEFITS - VISION INSURANCE
+CFO Laura Taylor reported.
+Per State statute, the Library is required to go out for bid for the Library’s employee vision insurance policy every three years. The Library’s insurance broker, Daniel and Henry, sent proposals to seven vision insurance companies. The attached spreadsheet from Daniel and Henry compares the three most competitive responses from VSP, Mutual of Omaha, and DeltaVision. All the submitted bids were lower than our current vision plan. However, VSP has a better overall network of providers, and the administrative costs involved with switching carriers are significant enough that Daniel & Henry recommends staying with our current carrier.
+Because the Library has a rate hold on the vision insurance, effective August 1, 2021, there will be a 0% increase by the current vendor VSP. This benefit is voluntary and does not result in any cost to the Library. The employee rate will remain at $8.13/month, and dependent coverage will remain at $17.47/month.
+RECOMMENDATION: The Library Administration, in consultation with Daniel and Henry, is recommending that we remain with VSP for the Library’s optional vision insurance.
+The Library Board approved the motion (Wang/Patterson).
+EMPLOYEE BENEFITS - LIFE INSURANCE, AD&D, LONG-TERM DISABILITY & VOL LIFE
+CFO Laura Taylor reported.
+Per State statute, the Library is required to go out for bid for the Library’s employee life insurance, AD&D, long-term disability, and voluntary life insurance policy every three years. The Library’s insurance broker, Daniel and Henry, sent proposals to three insurance companies. The attached spreadsheet from Daniel and Henry compares responses from The Hartford, Cigna, and Mutual of Omaha. The lowest bid for the renewal is from our current carrier, The Hartford. The Hartford’s renewal rate is 0% with a two-year rate guarantee.
+Effective August 1, 2021, the rates for life and AD&D will remain at $.27/$.01 per $1,000. The rates will remain at $.205/$100 for long-term disability, and there were no changes to the voluntary life insurance rates.
+RECOMMENDATION: The Library Administration, in consultation with Daniel and Henry, is recommending that we remain with The Hartford for life, AD&D, LTD, and voluntary life insurance. The proposals are in line with the budgeted amount for these benefits.
+The Library Board approved the motion (Wang/Sanditz).
+EMPLOYEE BENEFITS - SHORT TERM DISABILITY INSURANCE
+CFO Laura Taylor reported.
+Per State statute, the Library is required to go out for bid for the Library’s employee short-term disability insurance policy every three years. The Library’s insurance broker, Daniel and Henry, sent proposals to three insurance companies. The attached spreadsheet from Daniel and Henry compares the responses from The Hartford, Cigna, and Mutual of Omaha. All the submitted bids were lower than our current short-term disability plan. However, Daniel & Henry recommends we stay with The Hartford for consistency as they are our long-term disability carrier. Additionally, the other carriers were not able to duplicate the same classes of coverage we currently have with The Hartford.
+This benefit is voluntary and does not result in any cost to the Library.
+RECOMMENDATION: The Library Administration, in consultation with Daniel and Henry, is recommending that effective August 1, 2021, we remain with The Hartford for the Library’s optional short-term disability insurance.
+The Library Board approved the motion (Barry/Patterson).
+EMPLOYEE BENEFITS - ANCILLARY INSURANCE
+CFO Laura Taylor reported.
+The Library’s broker, Daniel and Henry, obtained quotes for critical illness insurance and accident insurance from The Hartford and pet insurance from Nationwide as we asked them to explore several optional benefits for employees.
+Critical illness insurance offers a lump sum benefit payable for a person when diagnosed with any covered critical illness. Accident insurance offers a cash benefit if a person is injured as the result of a covered accident. Pet insurance offers a choice of a 50% reimbursement, 70% reimbursement, or a 90% reimbursement, depending on the premium the employee chooses.
+These benefits are voluntary and do not result in any cost to the Library.
+RECOMMENDATION: The Library Administration, in consultation with Daniel and Henry, is recommending that effective August 1, 2021, we offer critical illness insurance, accident insurance, and pet insurance.
+The Library Board approved the motion (Wang/Patterson).
+ADJOURNMENT
+Johnny Wang motioned to adjourn.  Ted Sanditz seconded.  All approved with voice vote.
+Aye: Lynn Beckwith, Ted Sanditz, Joan Barry, Johnny Wang, Deborah Patterson
+The meeting adjourned at 4:32 p.m.
+Respectfully submitted by,
+____________________________                                                           _______________
+Joan Barry, Secretary                                                                              Date

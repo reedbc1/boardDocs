@@ -1,0 +1,218 @@
+{
+  "name": "Regular Meeting",
+  "description": "Library Board",
+  "unique": "AHPPZG621832",
+  "date": "2017-10-16T00:00:00Z"
+}
+
+---
+
+ST. LOUIS COUNTY LIBRARY DISTRICT
+MEETING OF THE BOARD
+HEADQUARTERS
+1640 SOUTH LINDBERGH BLVD.
+MONDAY, OCTOBER 16, 2017
+The monthly meeting of the Board of the St. Louis County Library District was held at the Headquarters Branch, 1640 South Lindbergh Blvd., St. Louis, MO 63131 on Monday, October 16, 2017 at 3:30 p.m. The agenda had been posted in all branches of the Library District at least 24 hours before the meeting.
+ATTENDANCE:
+Library Board Members:
+Dr. Lynn Beckwith, President
+Michael Mulligan, Vice President
+Elena Kenyon, Treasurer
+Dr. Chingling Tai, Secretary
+Edith Cunnane, Member
+ADMINISTRATORS AND GUESTS ATTENDING:
+Kristen Sorth, Library Director; Barbara Turkington, Assistant Director, Advancement; Kris Mooney, Assistant Director, Administration; Gib Van Cleve, Assistant Director, ITS;  Steve Hunter, Assistant Director, Operations; Lisa Stump, Attorney, Lashly & Baer; Jeremiah King, Brinkmann and Tom Curran, St. Louis County.
+OTHERS ATTENDING:
+Sarah Wood, Alaina Culbertson, Catherine Hill, Erin Magner, Deanna Davis, Donna Spaulding, Chris Goodman, Conrad Rader, Nicole Clawson, Kathy Wiese, Paul Bayless, Maureen Willmann, Sarah Brown, Laura Kasak, Anne Arthur, Patricia Peiffer, Edith Isele, Lisa Haddox, Anna Maria Gonzalez, Gina Sheridan, Emily Althoff, Rachel Nowell, Tracy Fletcher, Annie Fuller, Lori Boschert, Stacy Berger, Cindy Schultz, Tiffany Davis, Kelli Reeves, Amy Hanaway, Rebecca Clarke, Nicole Higginbotham, Katie Keeven, Jennifer Alexander, Terra Sleep, Marie Conlin, Julie Cruise, Carla Maxwell, Ross Brand, Matt Lakin, Stephanie Nordmann, Stacey Lewis, Barb Reale, Anna Schurk, Keir Haug, Michelle Sawicki, Michael Cohen, Meg Coyle, Connie Dee and Sandy Williams.
+APPROVAL OF MINUTES
+The Library Board approved the September 2017 Board minutes (Cunnane/Mulligan).
+PUBLIC COMMENTS
+There were no public comments.
+TREASURER'S REPORT
+Kris Mooney, Assistant Director of Administration, delivered the following report.
+Maintenance and Operating Fund Financial Statements:
+Revenue
+	Other Grants – In September, The Library District received $60,000 from the Library Foundation.
+	$25,000 for the Emerson After-hours Technology Center at Natural Bridge
+	$20,000 for the Florissant Valley Discovery Zone
+	$10,000 for the Summer Reading Club
+	$5,000 for the children’s play house in the Daniel Boone children’s area
+Expenses
+	Building Repair – Other – In September, the Library District paid Accurate Fire Protection Systems, LLC $22,390 to re-route the sprinkler system’s fire supply line at Headquarters. The new pipe bypasses the original, corroded pipe and runs through the supply and acquisitions department. Due to the original pipe leaking water, the Emergency Provision of the Library Board’s procurement policy was used to approve this project. The Emergency Provision gives the Director the authority to approve payment in extreme cases where Library Board approval isn’t practical.
+Capital Projects Fund Financial Statements
+Balance Sheet – 2016 Debt Issuance
+	Construction in Progress – Total Construction in Progress for September 2017 was $560,476. The expenses included payments for:
+		Construction costs for Phase 2a buildings (Bridgeton Trails, Florissant Valley, Daniel Boone) -$306,609
+		Design costs for Mid County - $65,164
+		Technology for Phase 2 buildings - $45,453
+		Facilities Master Plan Administrator - $38,830
+		Construction costs for Phase 1Bb buildings (Oak Bend, Natural Bridge, Prairie Commons, Cliff  Cave) -$38,755
+		Construction management services for Phase 2a buildings - $36,057
+Library Administration recommends approval of the Treasurer's Report subject to audit (Kenyon/Tai).
+DIRECTOR'S REPORT
+Library Update
+	Ms. Sorth reported that the dashboard contains a variety of statistical information for the Library and this report was shared with the Board.  The report includes information about circulation, visits, PC usage and monthly trends.   The numbers for September are included with one branch, Daniel Boone, still closed for construction.  Visits and Circulation decreased by just 1%. PC usage increased by 3%.  The highest total sessions for computer usage was at Lewis and Clark with a total of 11,608 sessions.  The report also includes information about the most popular items in the collection.
+	The Library’s catalog now has an immediate path to eBook and eAudioBook materials. Patrons have the ability to view samples, place holds, and checkout eMedia without leaving the catalog. Patrons can also place holds on eBooks directly from the catalog. (Plan: Increase Literacy 1.2)
+	She said Administration was pleased to announce that St. Louis County Library has become an official book scanning partner with FamilySearch (formerly the Family History Library of the Church of Jesus Christ of Latter Day Saints.) FamilySearch has a book digitization program in which a number of other libraries with genealogy collections are participating. In this program, select books in the public domain will be digitized by FamilySearch volunteers and then returned to us. The library will receive a copy of the digital file and a link will be placed on the FamilySearch website at no cost to the library. This partnership will make our public genealogy materials more widely available, will preserve wear on the physical copy, and will enable us to cooperate with other genealogical libraries in a program that will bring attention to our outstanding collection.  Ms. Sorth congratulated Scott Holl and the Department of History and Genealogy (Plan: Increase Literacy 3.3)
+	She said the Library is in the process of making bike locks available for checkout at all library locations with bike racks. Procedures will be standardized and signage will be mounted on posts near the bike racks. The expansion of the program comes in response to a recent increase in the number of bike thefts from branches around the system. (Plan:  Create Gathering Spaces 1.3)
+	The Career Online High School Program launched on October 2.  We had a huge response!  At the end of the first week, 755 individuals had filled out the online assessment.  Of those, 457 were St. Louis County residents.  We also tracked where the applicants heard about the program.  Social media was the highest source of information, followed closely by news stories about the program.  (Plan: Increase Literacy 3.3 and Sense of Community 1.2)
+	Eric Button and Ms. Sorth are once again exploring the option of providing an airport media station at Lambert International Airport.  The stations would provide Library eBook access to passengers via a kiosk in the airport. Even passengers who are not library district residents could get a temporary library card to download a limited number of titles to their eReader. They are meeting with the Airport Properties Division Manager in November.  Our last efforts stalled with the written agreement provided by the airport.  If the Library proceeds with this service, funds for the kiosk would be provided by the Library Foundation. (Plan: Increase Literacy 1.2 and Sense of Community 2.2)
+	There is a new way to search many of the Library's resources from one place.  When accessing the Library’s catalog, there is a new search option: Catalog + Research.  By selecting the Catalog + Research tab, patrons can find books, eBooks and journal articles from a single search box. The search results will also include the library's online catalog and databases. (Increase Literacy 3.3)
+	As mentioned in a previous Board Meeting, the Library is participating in a joint media campaign with St. Louis Public Library. The campaign will be called “My Card. My Way” and will feature a series of television commercials focusing on the wide variety of programs and services offered by the two library districts.  A casting call was held and six patrons were selected to appear in the commercials.  Filming for the commercials should take place in the next month. (Plan: Sense of Community 1.2)
+	The next We Are St. Louis program will focus on parks in our region.  The program will take place on October 25 at Florissant Valley. (Plan: Sense of Community 2.1)
+	The Library is planning to conduct regular outreach to the Missouri Career Center in Northwest Plaza.  In addition, we will be hosting the Missouri Career Center at various branches.  They will offer various training sessions for attendees who are exploring employment opportunities. Topics will include career exploration, resume preparation, interviewing, filling out online applications, etc. (Plan: Increase Literacy 3.3 and Sense of Community 3.2)
+	The Urban Libraries Council is working on a project that researches libraries as entrepreneurial hubs.  They want to explore the current state of practice for public libraries in providing modern entrepreneurial education and resources, intentional outreach and support for people of color, immigrants and women, support for creating and sustaining entrepreneurial communities, and partnerships to increase entrepreneurial success in their community.  They selected SLCL as one of the libraries to talk with because of our successful small business series conducted by the Reference Department.  I had an initial conversation with ULC this week and will keep the Board informed of future work on the project. (Plan: Sense of Community 1.2)
+	Earlier this year Ms. Sorth received notice that the Library’s Racing to Read grant application to the Missouri State Library for the production of new Rhythm and Tunes videos for parents and children was accepted. Originally, the Library was awarded $20,000 for the production of these videos and to provide early literacy events for families and caregivers. The Library was subsequently informed that the State Library was willing to fund the entire budget of $22,905 if we agreed to provide the videos to all Missouri libraries to help support the State’s Racing to Read programming. The videos are now available on the Library’s YouTube.  They are fabulous and feature various Youth Services employees from the branches and HQ.  Congrats to Marie Conlin, Nicole Clawson, the Youth Services Department and all of our AMAZING Youth Services Specialists and Librarians on the grant and the videos. Nicole Clawson and Sarah Wood of Youth Services and Stacey Lewis, adult program manager, gave a demonstration of the toys used to teach coding. (Plan: Increase Literacy 1 and Sense of Community 3.3)
+	There were mentions of the St. Louis County Library in the local media in print, radio and television.  Those articles were shared. (Plan: Sense of Community 1.2)
+	A number of great photos were shown to the Board from several programs and events including:  Educator Appreciation Open House at HQ, Coding 101 Finale at Indian Trails, Little Readers Festival at HQ, the Natural Bridge Kinetic Sculpture, Author's Event: Katherine Applegate at HQ, Egyptian Exploration at Thornhill, Author's Event: Dan Brown at HQ, Princess Bride Yoga at Grant’s View, Upcycled Socks; Cat Toys at Oak Bend and You Got Slimed at Jamestown Bluffs.  (Plan: Increase Literacy 1 and Sense of Community 2.3)
+Library Administrative Updates
+	There will be a "Plan for Retirement" meeting for full time employees at Headquarters on October 24, 2017.  Moneta, the Library’s Deferred Comp/457 Plan Administrator will conduct the training.
+	The Library is in the process of updating the employee personnel manual.  The updates will be presented to the Library Board in the next several months.
+	Ms. Sorth is meeting with the library directors from the Municipal Library Consortium as well as the Library Director from St. Charles City-County Library on October 19 to discuss the reciprocal borrowing agreements.  The Director of St. Louis Public Library cannot attend the meeting but will be involved in future conversations.  Lashly Baer has drafted a new agreement for review by the library directors.   Once the agreement is finalized, the Library Boards from each District will review the agreement for consideration before it is implemented. (Plan: Sense of Community 3.1)
+	The Library is receiving an award from East-West Gateway Council of Governments. East-West Gateway Council of Governments provides a forum for cooperative problem-solving and the coordinated development of regional policy. Each year they present Outstanding Local Government Achievement Awards to honor the extraordinary work of individuals, municipal and county governments/departments, special purpose districts and public educational institutions in the city of St. Louis and Franklin, Jefferson, St. Charles and St. Louis counties in Missouri and Madison, Monroe and St. Clair counties in Illinois.  We submitted a nomination for Your Library Renewed and are receiving an award for:
+Leadership in Planning and Design Innovation. This award honors forward-thinking planning and design efforts for public spaces or community development that challenges the way people think about their surroundings.
+            The award will be presented at a luncheon in November (Plan: Sense of Community 3.3)
+	Sunny Schaefer, Executive Director of Operation Food Search, and I accepted the Community Partnership Award from the Missouri Library Association at their Awards Celebration on October 5, 2017.  (Plan: Sense of Community 3.3)
+	Steve Hunter and Ms. Sorth traveled to St. Paul, Minnesota for the annual meeting of the Urban Libraries Council.  Ms. Sorth gave a presentation on the after hours Emerson Technology Center at Natural Bridge Branch and accepted an Innovations Award for the Center. (Plan: Sense of Community 3.3)
+	The Urban Libraries Council has submitted a Race and Social Equity Statement for approval by their member libraries. Here is the Statement that we have accepted.
+As leaders of North America’s public libraries, we are committed to achieving racial and social equity by contributing to a more just society in which all community members can realize their full potential. Our libraries can help achieve true and sustained equity through an intentional, systemic and transformative library-community partnership. Our library systems are working to achieve equity in the communities we serve by:
+	Eliminating racial and social equity barriers in library programs, services, policies and practices
+	Creating and maintaining an environment of diversity, inclusion and respect both in our library systems and in all aspects of our community role
+	Ensuring that we are reaching and engaging disenfranchised people in the community and helping them express their voice
+	Serving as a convener and facilitator of conversations and partnerships to address community challenges
+	Being forthright on tough issues that are important to our communities
+	are trusted, venerable and enduring institutions, central to their communities and an essential participant in the movement for racial and social equity.
+Library Construction and Facility Update
+	The Daniel Boone Branch will re-open to the public on October 25 following a ribbon cutting for the branch.  Grand Glaize will close for renovation four days later on October 28 at 5:00 p.m. (Plan: Create Gathering Spaces)
+	The work on the children's outdoor Discovery Patio at Prairie Commons will begin in the next couple of weeks and should open to the public sometime this fall. It will include a garden bed, two diggers in a gravel pit, a giant checkers board, a tic-tac-toe game, and an outdoor chalkboard. The entire space, which is fenced in will be covered with artificial turf. (Plan: Create Gathering Spaces 2.3)
+	Preliminary work on Musick Road by the Grant’s View Branch has started.  St. Louis County is currently replacing the Musick Bridge over Sappington Creek.  Construction is expected to take about six months.  Following this project, work on Musick Road should begin.  This will impact our patrons and the branch. (Plan: Create Gathering Spaces 1.3)
+	The Missouri Chapter of the U.S. Green Buildings Council will present several presentations for Library patrons this fall on green buildings.  They plan to highlight the work on our newly renovated or replaced branches more sustainable including the use of LED light fixtures, Energy Star computers, occupancy sensors and more natural light.  For example, we recently learned that the renovations at Grand Glaize will result in $8294 in incentives from Ameren.  The presenters will also encourage attendees to visit our collection for resources on green buildings.  (Create Gathering Spaces: 2.1)
+	The recent work to replace the failing fire suppression line in the tunnel was successful. However, we learned that a riser, which was not previously identified, had been supplied by the line in the tunnel. Once the tunnel was taken out of service, the sprinkler heads supplied by the hidden riser became non-functioning. Additional work needs to be performed to reconnect the abandoned zone and keep the HQ building compliant with fire codes. (Plan: Create Gathering Spaces 1.3)
+	The work packages for construction on the Thornhill Branch have been released and are due
+November 17.  They will be presented to the Library Board for consideration at the December Board Meeting. (Plan: Create Gathering Spaces)
+Library Foundation
+	In September, the Boeing Employees Community Fund awarded the Library Foundation $2,742 to assist in the purchase of five (5) 3D printers for use in our mobile makerspace activities. The Library Foundation will also be assisting with the funding of the printers. (Increase Literacy: 3.1)
+	The Foundation is working on their 2018 Budget.
+Author Events:
+	“The Mother:  A Novel”, Brit Bennett, Thursday, October 19, 2017, 7 p.m. Headquarters
+	“All the Crooked Saints”, Maggie Stiefvater, October 25, 7 p.m., Headquarters
+	“Slow Medicine: The Way to Healing”, October 26, 7 p.m., Headquarters
+	 “Hiddensee”, Gregory Maguire, Thursday, Nov. 9, 7 p.m., Headquarters
+	The Odyssey of Echo Company:  The 1968 Tet Offensive and the Epic Battle to Survive the Vietnam War”, Tuesday, Nov. 14, 7 p.m., Headquarters
+	“An American Sickness:  How Healthcare Became Big Business and How You Can Take It Back”, Elisabeth Rosenthal, Thursday, Nov. 16, 7 p.m., Headquarters
+	“The French Chef in America:  Julia Child’s Second Act”, Alex Prud’homme, Friday, Nov. 17, 7 p.m., Headquarters
+Ticketed Events – October through November
+	Gabrielle Union, “We’re Going to Need More Wine”, Saturday, October 28, 7:00 p.m., Headquarters
+	Lee Child, “The Midnight Line”, Friday, November 10, 7:00 p.m., Headquarters
+	Khizr Khan, “An American Family”, Wednesday, November 29, 7:00 p.m., Headquarters
+HQ will close at 5:00 p.m. for this event.
+NEW BUSINESS
+CONSTRUCTION UPDATE
+Steve Hunter, Assistant Director of Operations, reported on the progress of the nearly-completed Daniel Boone Branch.   The branch is scheduled to open to the public on October 25.   He also reported that Grand Glaize will close on October 28 and Mid County will follow in November. The Thornhill construction packet will be brought before the Board at the December Board Meeting.
+DIVERSITY GOALS – BRANCH DEMOLITION/CONSTRUCTION AT MID COUNTY
+Kristen Sorth reported that the Library Board will review the 16 work packages for construction at the Mid-County Branch. The bid process included a review by the Library, Landmark, and Brinkmann Constructors as to whether the responses meet the diversity goals of 15% for minority-owned businesses (MBE) and 5% for women-owned businesses (WBE) as outlined in the Library’s Diversity Statement. Good faith efforts went beyond those required in the Library’s policy and included advertisements, notifications, conversations, meetings and outreach that began in early 2017 and continued to the day of the public bid opening on September 29, 2017.
+The activities included reaching out to the St. Louis Minority Business Council and the MidStates Minority Supplier Development Council; making bid documents available at MOKAN, Cross Rhodes Reprographics, SLMBC, and online; advertising and conducting an outreach meeting; and ongoing discussions with bidders during the process.
+The total percent of construction awarded to minority-owned businesses is 14.1% and the total amount for women-owned businesses is 7.6%. Although the goal for MBE participation was not met, the participation is the largest rate achieved through seven bid cycles to date. Additionally, it is noted that the sum value of contracts to MBE firms for this project exceeds $1,200,000.
+The Library, Landmark, and Brinkmann will continue to emphasize the Library’s Diversity Statement as it relates to W/MBE business ownership goals. Additionally, we will continue to actively encourage minority workforce participation on all Library projects.
+This was an informational item.  Dr. Beckwith said he was pleased with the increase in minority participation.  He commended Brinkmann, Landmark and Steve Hunter for their efforts.
+CONTRACTS AND CONTINGENCY FOR CONSTRUCTION OF MID COUNTY BRANCH
+Steve Hunter, Assistant Director of Operations, reported that final construction documents for the Mid-County Branch were delivered by Christner Architects on September 1, 2017. Brinkmann Constructors organized the work into 16 separate work packages and released them for bid on September 6, 2017. The bid notice was placed in the St. Louis Post-Dispatch, the St. Louis Daily Record, on the SLCL website, on Brinkmann’s SmartBid website, and in various plan rooms around the area. In addition, 236 W/MBE firms were notified directly of the bid posting. A pre-bid / outreach meeting was held at the Mid-County Branch on September 12, 2017.
+Bids were opened in a public meeting on September 29 at Mid-County. There were 51 individual
+bids received. Multiple qualifying responses were received in all work packages.
+The individual work packages and the qualified responses to each are listed below. The total
+amount being requested is $8,593,801.00, plus a separate recommendation for project
+contingency. The Board is asked to approve each individual work package. By approving
+these, the Board is authorizing the Director to enter into and execute the completed contracts as
+they are prepared.
+In accordance with the Library’s bid procedure, Administration is recommending the lowest and
+best bid for each work package:
+Work Package #1 – Demolition / Abatement
+Spirtas Wrecking $98,650
+Aalco Wrecking $156,470
+The Library Board approved the selection of the lowest and best bid from Spirtas Wrecking at $98,650(Kenyon/Cunnane).
+Work Package #2 – Cast-in-Place Concrete & Flatwork
+Concrete Strategies $2,230,000
+Fenix Construction $2,349,000
+Vee Jay Cement $2,742,927
+The Library Board approved the selection of the lowest and best bid from Concrete Strategies at $2,230,000(Mulligan/Tai).
+Work Package #3 – Masonry
+John Smith Masonry $278,989
+Grant Contracting $311,777
+Heitkamp Masonry $464,250
+The Library Board approved the selection of the lowest and best bid from John Smith Masonry at $278,989(Cunnane/Mulligan).
+Work Package #4 – Structural Steel
+Affton Fab. & Weld. $912,613
+Ozark Steel $968,456
+The Library Board approved the selection of the lowest and best bid from Affton Fabricating and Welding at $912,613(Kenyon/Tai).
+Work Package #5 – Roofing & Sheet Metal
+K Meier Roof Systems $351,950
+Jim Taylor Roofing $362,495
+Bi-State Roof Systems $372,966
+The Library Board approved the selection of the lowest and best bid from K Meier Roof Systems at $351,950(Cunnane/Tai).
+Work Package #6 – Glass & Glazing
+Missouri Valley Glass $450,043
+Budget Glass $488,900
+The Library Board approved the selection of the lowest and best bid from Missouri Valley Glass at $450,043(Cunnane/Mulligan).
+Work Package #7 – Framing, Drywall, Acoustic Ceilings
+ICS $594,700
+George Weis $598,570
+Von Alst Operating $617,923
+TJ Wies $697,980
+The Library Board approved the selection of the lowest and best bid from ICS Construction Services at $594,700(Tai/Mulligan).
+Work Package #8 – Tile & Flooring
+ICS $124,500
+Flooring Systems Inc. $125,140
+Corporate Flooring Grp $163,612
+The Library Board approved the selection of the lowest and best bid from ICS Construction Services at $124,500(Cunnane/Kenyon).
+Work Package #9 – Painting
+Dannix Painting $33,969
+Painting Solutions $50,000
+Joseph Ward Painting $67,050
+The Library Board approved the selection of the lowest and best bid from Dannix Painting at $33,969(Tai/Mulligan).
+Work Package #10 – Fire Suppression
+Gateway Fire Protection $139,722
+Bi-State Fire Protection $142,230
+Pipe Systems Fire $170,000
+Boyer Fire Protection $197,750
+The Library Board approved the selection of the lowest and best bid from Gateway Fire Protection at $139,722(Kenyon/Tai).
+Work Package #11 – Plumbing
+Pipe Systems Mech $340,333
+Eagle Plumbing $343,000
+Merlo Plumbing $381,710
+DeLuca Plumbing $401,000
+The Library Board approved the selection of the lowest and best bid from Pipe Systems Mechanical at $340,333(Cunnane/Tai).
+Work Package #12 – HVAC
+Rock Hill Mechanical $498,100
+Albert Arno $560,000
+The Library Board approved the selection of the lowest and best bid from Rock Hill Mechanical at $498,100(Cunnane/Kenyon).
+Work Package #13 – Electrical
+Briner Electric $813,300
+Ecklekamp Electric $895,000
+KayBee Electric $946,588
+The Library Board approved the selection of the lowest and best bid from Briner Electric at $813,300(Tai/Cunnane).
+Work Package #14 – Technology
+Ecklekamp Electric $45,575
+KayBee Electric $58,675
+The Library Board approved the selection of the lowest and best bid from Ecklekamp Electric at $45,575(Tai/Cunnane).
+Work Package #15 – Sitework
+XL Contracting $596,857
+Kozeny Wagner $876,000
+The Library Board approved the selection of the lowest and best bid from XL Contracting at $596,857(Kenyon/Tai).
+Work Package #16 – General Works
+Kozeny Wagner $1,084,500
+R G Ross $1,100,953
+ICS $1,105,000
+Waterhout Construction $1,115,850
+Demien Construction $1,180,000
+The Library Board approved the selection of the lowest and best bid from Kozeny-Wagner at $1,084,500(Cunnane/Mulligan).
+Contingency
+The Library Board approved of a contingency fund for this project with a total value of $500,000 for permitting, unforeseen conditions, and owner requested changes. The spending of
+this contingency fund will be approved by Kristen Sorth, Library Director or Steve Hunter,
+Assistant Director as needed during the execution of the project. The accounting of the
+expenditures against the contingency fund will be regularly reported back to the Library Board (Cunnane/Tai).
+ADJOURNMENT
+Ms. Kenyon made a motion to adjourn open meeting and to convene Executive Session to discuss real estate (Section 610.021(2)); and to discuss legal matters (Section 610.021(1)).   Mr. Mulligan seconded.  All approved with voice vote.
+The meeting adjourned at 4:28 p.m.
+Respectfully submitted,                                                                      Date
+_____________________________                                                  ______________________
+Chingling Tai, Secretary

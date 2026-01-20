@@ -1,0 +1,97 @@
+{
+  "name": "Regular Meeting",
+  "description": "Library Board",
+  "unique": "93LT7575279F",
+  "date": "2013-11-18T00:00:00Z"
+}
+
+---
+
+ST. LOUIS COUNTY LIBRARY DISTRICT
+		MEETING OF THE BOARD
+		HEADQUARTERS BRANCH
+		MONDAY, NOVEMBER 18, 2013
+		The monthly meeting of the Board of the St. Louis County Library District was held at
+		Headquarters, 1640 S. Lindbergh Blvd. St. Louis, MO 63131 on Monday, November 18, 2013
+		at 3:30 p.m. The agenda had been posted in all branches of the Library District at least 24 hours
+		before the meeting.
+		Attendance:
+		Library Board Members:
+		 Dr. Lynn Beckwith, President
+		 Edith Cunnane, Vice President
+		 Elena Kenyon, Treasurer
+		 Dr. Chingling Tai, Secretary
+		 Steve Sachs, Member
+		Administrators and Guests Attending:
+		Kristen Sorth, Interim Library Director; Barbara Brain, Assistant Director, Adult and Support
+		Services; Barbara Turkington, Assistant Director, Advancement; Gib Van Cleve, Assistant
+		Director, ITS; Eric Button, Assistant Director, Branch Services; Lisa Stump, Attorney, Lashly Baer; Becky Bahn, Colliers; Todd Hornburg, Landmark; and Todd Scheibe, KPFF Engineers.
+		Others attending:
+		Kathy Wiese, Alaina Culbertson, Kris Mooney, Connie Dee, Megan Coyle, Aaron Eller, Jennifer Alexander, Donna Spaulding, Cynthia Schultz, Michael Cohen, Sri Upadyhya, Ed Clark, Marsha Ramey, Trudy Williams, Kimberly Clark, Anna Strackeljahn, Colleen Hall, Rachel Nowell, Anne Arthur, Bobby Jones, Stephanie Nordmann, Matt Lakin, Keir Haug, Nicole Clawson, Tracy Fletcher, Lori Boschert, Conrad Rader, Stacy Berger, Sarah Wood, Edith Isele, Emily Althoff, Marie Conlin, Laura B. Kasak, Jennifer McBride, Natalia Catlett, Anna Schurk, Gina Sheridan, Dottie Wobbe, Joyce Loving, Amy Hanaway, Diane Neske and Sandy Williams.
+		Minutes
+		The Library Board approved the minutes dated October 21, 2013 as presented (Cunnane/Kenyon).
+		Public Comment
+		Library customer Louise Belt addressed the Board and asked that the library consider purchasing more books on farming.  She stated that she is now retired and wants to learn more about organic farming.  She left a copy of the Acres USA catalog of books and videos on organic farming and gardening and other farming related resources.  Dr. Beckwith thanked Ms. Belt for her comments and explained that a member of the administration would respond to her in writing.
+		Treasurer's Report
+		Revenue
+		Finance manager Kris Mooney reported that the Library received the fiscal year 2014 1st and 2nd quarter Missouri State Aid payments of $214,787.  All but two E-Rate rebates for the 2013/2014 year were received in October totaling $213,778.  The remaining two rebates totaling approximately $85,000 are expected to be received in November.
+		Expenses
+		The Library held its annual Employee In-Service Day on Oct. 14th, 2013.  Expenses totaling $32,771 will be reimbursed to the Library from the Abigail Harris Memorial Fund at the end of the year.
+		The Library made its second purchase of RFID book tags for the 2013 year at a cost of $42,400.  The Library makes two purchases per year; the first in April and the second in October.
+		The Library paid the down payment of $20,000 for the replacement of the Jamestown Bluff’s HVAC controls which were approved by the Library Board at the January Board meeting.  Total cost for the project will be approximately $91,000.
+		In October, the Library upgraded several staff and customer computers at a cost of $60,637.  Also in October, the Library improved the branch self check stations by purchasing replacement monitors, express lane pads, and other equipment at a cost of $25,388.
+		The Library Board approved the Treasurer's Report subject to audit (Cunnane/Tai).
+		Interim Director's Report
+		Facilities Master Plan Update
+		Meramec Valley
+		Kristen Sorth attended the Fenton Board of Aldermen meeting on October 24.  At the advice of several aldermen, the Library withdrew the text amendment for the zoning change from that agenda.  The Library hosted an Open House in Fenton on November 1, 2013.  The mayor and several aldermen attended along with Fenton residents.   On November 6, 2013, Ms. Sorth attended the public hearing in Fenton before their Planning and Zoning Commission.  The Planning and Zoning Commission was scheduled to review the Special Use Permit petition and supporting documents.  Unfortunately, the Commission decided to continue the Library’s Special Use Permit petition.  They will meet again on December 3, 2013.  Regarding the land purchase, the Library was able to negotiate an extension to the purchase and sale agreement for both properties in Fenton as approved by the Library Board at the October Meeting.  The inspection period for due diligence was extended to December 18, 2013.
+		Tesson Ferry
+		On November 4, 2013, the St. Louis County Planning and Zoning Commission approved the Library’s request to change the zoning on the property for the future site of Tesson Ferry.  The St. Louis County Council will review the request for R-5 Zoning on November 26, 2013.  The traffic study of the intersection at Gravois and Musick Roads, where the new Tesson Ferry may be built, was conducted and submitted to the Missouri Department of Transportation as well as St. Louis County Department of Highways and Traffic.  The Library has received their recommendations and is meeting with various officials to develop a plan.
+		Members of the Administration, Facilities, branches and Landmark continue to meet with the architects on the architectural programming of the facilities for Lewis and Clark, Meramec Valley and Tesson Ferry.  S.M. Wilson has been attending the architectural meetings.  They are reviewing the preliminary plans on all three projects to make sure the design coincides with the budget.
+		Library Update
+		The Budget Committee has been working on the 2014 budget.  The budget will be presented to the Library Board later in the meeting.
+		The Youth Services Department is working to develop literacy kits for all of the branches.  These read and play kits will contain hands on activities that parents can use with children while visiting the Library.
+		The Library will begin celebrating a child’s first library card.  Children will be given a sticker to commemorate the occasion.
+		The two Preschool Outreach Vans will be wrapped with a colorful design in the next couple of months.
+		St. Louis will celebrate its 250th birthday in 2014.  stl250 is a volunteer-led nonprofit organization that is acting as Master of Ceremonies for a year-long, region-wide celebration to mark this milestone.  Organizations and businesses throughout the 15-county bi-state region are invited to participate by offering programs and events next year.   Ms. Sorth is hopeful that St. Louis County Library will be chosen as a stl250 Official Celebration Partner.  Both the branches and the Special Collections Department are planning to offer events which we will detail in the application process.
+		Conrad Rader, Assistant Branch Manager at Lewis and Clark, is working on a Google Chrome Book pilot project with the customers at Lewis and Clark.  His efforts will include a training program to acclimate customers to Google's notebook.  The Chrome Books leverage Google's cloud computing applications and deliver significant computing power for a low cost.  Customers may use them while they are at the branch.
+		St. Louis County Library is hosting a holiday food drive at all 20 locations throughout November and December. Customers are asked to donate non-perishable items.  Last year, St. Louis County Library was the top donor to Operation Food Search thanks to the generosity of our employees and customers.
+		Warm Up America is a national program that distributes warm afghans, caps and other items to tens of thousands of people, thanks to the generosity of knitters and crocheters around the country.  All of the knitting and crocheting clubs at St. Louis County Library participate in the program and make items that are donated to local charities.  In addition, individuals may donate items as well.  Roz Kohen, the Branch Manager at Jamestown Bluffs, is the coordinator for this program.  When it first started in 2009, five branches donated a total of 50 items.  In 2013, the number of donations rose to over 1400.  Roz will be presenting to the Library Board about this program at a future Board meeting.
+		The Winter Reading Club will be offered to people of all ages from November 1-January 31.  Children who read five hours and adults and teens who read four books will be entered into drawings for prizes.  Registrations as of this date have already surpassed the total registrants from last year by 3000 individuals.
+		Library Employee Update
+		Library Managers and Assistant Managers have been working on performance evaluations for their employees.  Mary Arnhart, the Library’s HR Manager, will be reviewing all of the evaluations.  Performance review meetings will take place in December.
+		The Library has quarterly Managers’ Meetings that are typically used for training opportunities.  Riisa Rawlins Easley from Mental Health America of Eastern Missouri, spoke to Library managers in October about "Reaching Resilience.”
+		Ms. Sorth was asked to speak to Master’s Degree students enrolled in the University of Missouri – Columbia’s Library and Information Science program.  The topic of the class was Library Administration.  She spoke to a class on the same topic last year.
+		Library Facility Update
+		The new HVAC controls at Jamestown Bluffs will be completed by the end of November.
+		The new self-check station for Sachs will be delivered this week and installed in the next month.
+		The new AC unit for the Customer Connect department has arrived.  Due to HVAC issues with HQ, that area of the building is extremely warm during the winter months.  Last year, Building Systems placed standing cooling units in the room.
+		The camera installation at Prairie Commons is complete.  Florissant Valley’s camera installation will be next and then the project is complete.
+		The path for the Community Garden at Cliff Cave will be finished by the end of November.
+		Author Events
+		Amy Tan was here November 16, 2013 to present her first novel in 10 years, “The Valley of Amazement.”  Approximately 375 people attended this ticketed event.
+		Martin Cruz Smith, author of “Gorky Park” will be here tonight to present his new novel.
+		Award winning historian James Tobin will be here November 21, 2013 to present his new book, “The Man He Became:  How FDR Defied Polio to Win the Presidency.”
+		Steve Sachs requested a copy of the Traffic Study for Tesson Ferry. Ms. Kenyon expressed her pleasure in seeing the children’s “I have a Library Card” sticker.  Mrs. Sorth wished everyone a Happy Thanksgiving.
+		Outreach Services – Colleen Hall
+		Colleen Hall, manager of Outreach Services, presented a Power Point overview of the services offered by her department.  The Outreach Department offers a number of services to those who cannot easily visit a branch.  Examples include school bookmobiles, visits to retirement facilities, the pre-school outreach program (POP), Nurse Family Partnership program and Sweet Reads.  Ms. Hall also mentioned that Outreach has renewed its book delivery service to the St. Louis County Detention Center and stated that service to the Juvenile Detention Center should begin before the end of the year.
+		Dr. Beckwith and Steve Sachs remarked that they appreciated Ms. Hall’s presentation and the work of the Outreach Department.  Dr. Beckwith suggested that the school bookmobile schedule be periodically reassessed.
+		Construction Update Presented by Landmark
+		Todd Hornburg, Landmark Contract Management, Inc. gave an update on the design plans for the new Tesson Ferry (TF), Meramec Valley (MV), and Lewis and Clark (LC) replacement buildings.  The presentation included renderings of the exteriors as well as floor plans for the interiors of the buildings.  Mr. Hornburg stated that the schematic design phase to define the general scope and functional relationships is now complete.  Next will be the design development phase where detail will be added to the schematic design.  This process is expected to continue throughout 2013 with construction planned for 2014.
+		Mr. Hornburg explained that all projects are subject to the Metropolitan St. Louis Sewer District’s (MSD) rigorous requirements regarding storm water run-off.  The three projects will include bioswales with native plants within the parking areas to absorb storm water.
+		The Board expressed concern that the designs for the buildings include so much glass. They requested information on what other similarly designed libraries are doing to maintain the glass.  Steve Sachs asked if the amount of glass would negatively impact the HVAC system.
+		Star Libraries
+		Marie Conlin informed the Board that St. Louis County Library has been named one of the nation’s Star Libraries in the recent release of the Library Journal Index of Public Library Service.  This is the first time that the Library has received any “stars”.  Library Journal uses four measures to compare public libraries across the country (circulation per capita, visits per capita, program attendance per capita and public Internet use per capita). The Library received three out of a possible five stars.  This rating was based on 2011 statistics and Ms. Conlin stated that the Library should continue to be a Star Library since circulation and other measures have increased since that time.
+		Library Budget
+		 Kristen Sorth reported that the 2014 Budget was being presented as an informational item this month in order to give the Library Board time to review the document and ask questions before voting on it at the December Meeting.  She asked that questions be sent by Friday, Dec. 6.
+		Kris Mooney gave an overview of the Budget document.  The 2013 tax rates set by the Board will provide 95.6% of the cash income to operate next year.  Funds from the voter approved tax increase will be used for debt service on the Certificates of Participation that were issued in April 2013 to fund Phase 1 capital projects and provide additional services to Library customers. The Board would like to explore the possibility of prepaying interest early to reduce the principal.
+		Dr. Beckwith expressed concern that salary increases become a permanent part of the budget.  Concern was also expressed about the cost of security guards although the Board acknowledged the need for security at some branches.
+		AWE Workstations
+		Eric Button recommended the purchase of 23 AWE Early Literacy workstations to be installed with one or two at every SLCL location.  Mr. Button explained that AWE workstations differ from our other PCs in that they do not offer Internet access. Instead, they are equipped with a wide variety of popular children’s software intended to develop early literacy skills in children age 2-8. The games are designed to be fun, safe, and educational which makes them appealing to both children and parents. These workstations have been used successfully at the Eureka Hills and Natural Bridge Branches where the response from parents and children has been very positive.
+		Library staff recommends the purchase of 23 AWE Early Literacy workstations to be installed with one or two at every SLCL location. Staff also recommends the purchase of the extended support for the fourth and fifth years. The total cost for acquiring the 23 units, extended support services, peripherals, and shipping is $82,831. The actual payment for the units is budgeted in the 2014 Technology-Equipment budget and will be paid in 2014 and is included in the 2014 budget. AWE is a single source vendor for this product.
+		The Library Board approved the recommendation (Sachs/Kenyon).
+		Adjournment
+		Edith Cunnane made a motion to adjourn the meeting for executive session. Dr. Tai seconded.  The meeting ended at 5:00 pm.  All others agreed by voice vote.
+		Respectfully submitted,
+		_____________________________                                      _____________________
+		Chingling Tai, Secretary                                                        Date

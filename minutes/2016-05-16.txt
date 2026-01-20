@@ -1,0 +1,135 @@
+{
+  "name": "Regular Meeting",
+  "description": "Library Board",
+  "unique": "A8YM6Y522595",
+  "date": "2016-05-16T00:00:00Z"
+}
+
+---
+
+ST. LOUIS COUNTY LIBRARY DISTRICT
+MEETING OF THE BOARD
+GRANT’S VIEW
+9700 MUSICK ROAD
+MONDAY, MAY 16, 2016
+The monthly meeting of the Board of the St. Louis County Library District was held at the Grant’s View Branch, 9700 Musick Road, St. Louis, MO 63123 on Monday, May 16, 2016 at 3:30 p.m. The agenda had been posted in all branches of the Library District at least 24 hours before the meeting.
+ATTENDANCE:
+Library Board Members:
+Dr. Lynn Beckwith, President
+Edith Cunnane, Vice President
+Elena Kenyon, Treasurer
+Dr. Chingling Tai, Secretary
+Michael Mulligan had an excused absence.
+ADMINISTRATORS AND GUESTS ATTENDING:
+Kristen Sorth, Library Director; Barbara Brain, Assistant Director of Adult and Support Services; Barbara Turkington, Assistant Director of Advancement; Gib Van Cleve, Assistant Director, ITS; Eric Button, Assistant Director, Branch Services; Tom Curran, St. Louis County; Lisa Stump, Attorney, Lashly Baer.
+OTHERS ATTENDING:
+Anne Arthur, Emily Althoff, Gina Sheridan, Paul Bayless, Sarah Brown, Andrea Johnson, Sri Upadhya, Erin Magner, Rebecca Clarke, Rachel Nowell, Trudy Williams, Megan Coyle, Cindy A. Miller, Anna Strackeljahn, Anna Schurk, Donna Spaulding, Aaron Eller, Michael Cohen, Stacy Berger, Stacey Lewis, Marsha Ramey, Julia Mangner, Marie Conlin, Conrad Rader, Steve Hunter, Kris Mooney, Kathy Wiese, Laura Kasak, Anna Gonzalez, Mary Arnhart, Annie Fuller, Edith Isele, Maureen Willmann, Deanna Davis, Kathy Wiese, Allison Wisniewski, Sarah Wood, Susie Bushnell and  Sandy Williams.
+MINUTES
+The Library Board approved the April 18, 2016 minutes (Cunnane/Tai)
+PUBLIC COMMENTS
+There were no public comments.
+TREASURER'S REPORT
+Kris Mooney reported that the Library District received $25,000 in April from St. Louis County’s distribution of the Athletes and Entertainers Tax. This is the first of two payments for the 2016 fiscal year.
+In April, the Library District received a state aid payment in the amount of $56,777.
+The Library District paid Booksource $96,609 for books to be used as prizes for the children’s Summer Reading Clubs. Halo Branded Solutions was paid $22,274 for umbrellas to be used as completion prizes for the adult Summer Reading Club. All items were individually less than $10.00 each; therefore, the entire purchase is exempt from Board approval per the Board’s Policy I for procurement procedures. The Summer Reading Club begins May 23, 2016 and runs through July 30, 2016.
+In April, the Library District purchased 10 RFID scanners and readers for $11,900 to be used at circulation and self checkout stations at various branches. The scanners were purchased from Bibliotheca and are considered single source. Additionally, $6,404 was paid to PCM for new monitors for the Communications Department.
+Capital Projects Fund Balance Sheet
+Total Construction in Progress for April 2016 was $1,484,976. The expenses included payments for:
+	Lewis and Clark construction (payable to many sub-contractors) - $19,877
+	Branch renovation construction expenses (Rock Road, Jamestown Bluffs, Indian  Trails, Weber Road) - $246,010
+	Branch renovation construction expenses (Samuel Sachs, Oak Bend, Natural Bridge, Prairie Commons, Cliff Cave) - $771,125
+		Technology for all Phase I buildings - $13,416
+		Design Costs for Phase II buildings (Daniel Boone, Bridgeton Trails, Florissant Valley) - $130,952
+		The remaining dollars were largely spent for the services of the Facilities Master Plan Administrator, storage expenses, architect fees, and environmental professional services.
+The Library Board approved the April Treasurer's Report subject to audit (Cunnane//Tai).
+DIRECTOR'S REPORT
+Kristen Sorth introduced Anne Arthur, the Manager of Grant’s View and Megan Coyle, the Assistant Manager to the Library Board and asked them to give a brief report on the new branch.
+Ms. Arthur said that 6,000 people visited Grant’s View on the day it opened. Circulation statistics have increased by 40% and program statistics have shown a similar increase. She said that the spacious interior with extra meeting and study rooms as well as additional seating was much appreciated. Ms. Coyle mentioned the installation of the Grant’s View Community Garden that had taken place the previous Saturday.
+In answer to Dr. Beckwith’s question about the challenges faced in the new building, Ms. Arthur mentioned the difficulty of staffing on two floors and keeping books on the shelves particularly in the children’s area. Dr. Beckwith thanked Ms. Arthur and Ms. Coyle for their comments.
+Ms. Sorth then gave the following report:
+	Ms. Sorth shared the May dashboard report with the Board. She stated that the report contains a variety of statistical information for the Library including circulation, visits, PC usage and programming in April.  With five branches closed for construction, April circulation was down 2.4%, visits down 8%, and program attendance up 5%. This month, the report also includes statistics about Food for Fines.  The Library collected 27,402 pounds of food for Operation Food Search during the week of April 11th.  New cardholder information is included for the first four months of 2016.  The Library has 17,705 new patrons which is a 48% increase over the same time last year.
+	The Library will register as a participant in the Public Library Association’s Project Outcome.  Once registered, the library will have access to several survey tools that help determine outcomes from our programs and services.  The service is free to any public library.  We anticipate using this information in grant applications and reports and to evaluate our current programs and services. (Plan: Strengthen Sense of Community 1)
+	Ms. Sorth said that the summer free lunch program, in partnership with Operation Food Search, will be held at the following six branches: Florissant Valley, Indian Trails, Jamestown Bluffs, Lewis & Clark, Rock Road and Weber Road.  From June 6 – August 12, these branches will offer a nutritious free lunch along with activities for kids from 12:00-1:00 p.m. Monday - Friday. On Fridays, kids will get pizza as a special treat. Meals will be available for children ages 2-18.  We have solicited and received several donations for the free lunch program which will allow us to enhance the program by offering pizza on Fridays.  Operation Food Search has an additional program that provides pre-made dinner packs that may be taken home by the children.  The Library is exploring the possibility of adding this program on Fridays at the six branches.  (Plan: Strengthen Sense of Community 2)
+	Black Music Month will be celebrated on June 10 at 7:00 p.m. at Library Headquarters.  Wendy L. Gordon will perform with her band followed by Ptah Williams and his band.  (Plan: Strengthen Sense of Community 2.3)
+	Installation of the third community garden took place on Saturday, May 14 at the Grant’s View Branch.  The Grant’s View Community Garden is sponsored by Aetna and includes twenty-eight garden beds.  Four of the beds are accessible raised beds for individuals with disabilities.  The garden area also has a water line and a sidewalk.  A children’s garden will be installed adjacent to the community garden at a later date.  The Library’s partnership with Gateway Greening began in 2012 with the installation of the Prairie Commons garden and was expanded when the Cliff Cave garden opened in 2013.  The Grant’s View Community Garden will be the largest garden installation ever undertaken by Gateway Greening. (Plan: Create Gathering Spaces 2.3)
+	Ms. Sorth announced that the Library has registered as a member of the NASA Museum Alliance.  This organization shares information, ideas and programs about space and NASA initiatives.  This information will be shared with the Adult Programming and Youth Services departments for potential programming opportunities.  On August 21, 2017, a total solar eclipse will be visible in the United States and particularly in Missouri.  The Library is already planning programs for this event. (Plan: Increase Literacy 3)
+	Ms. Sorth said that Barbara Brain was contacted by Laura Kinsell-Baer, Assistant Vice President of Major Projects with St. Louis Economic Development Partnership about an initiative to develop a web portal to provide ticket lookup, payment options, and information on citizens' rights in court. The project is funded by the MacArthur Foundation and is a partnership between the St. Louis Economic Development Partnership, Rise Community Development, and OpenDataSTL. The Library is exploring the possibility of making the web portal available through the library. (Plan: Increase Literacy 3.3)
+	Branch, Youth Services and Reference staff attended the Home Education Expo from April 7 – April 9 and provided information about library programs and services.  There were over 1000 attendees at the event.
+	Reference Librarians are available for one-on-one appointments to learn how to use the library's electronic resources or to assist with the library's eMedia services.  The Book a Librarian service provided by the Reference Department has seen increased numbers in 2016.  To date, they have conducted 80 sessions.  (Plan: Strengthen Sense of Community 3)
+	The Jamestown Bluffs Branch received the Citizen of the Year Award from the Old Jamestown Association.  The honor and corresponding plaque was presented to staff on May 5, 2016.  The plaque will be proudly displayed in the Branch. (Plan: Strengthen Sense of Community 1)
+	Ms. Sorth said that the Library is anticipating a tremendous amount of interest in Harry Potter and the Cursed Child that will be released on July 31.  The branches and HQ are planning displays and programs to go along with the release of the new book.  (Plan: Increase Literacy 1)
+	Several months ago, Ms Sorth mentioned a new partnership with the Center for Hearing and Speech.  Several programs for patrons have been scheduled for the summer.  These include two sessions on accent modification for new English speakers, two sessions on hearing loss, and two sessions on baby talk for parents and caregivers of children birth to three years old. (Plan: Increase Literacy 3.4)
+	In June 2014, the Library Board voted to remove the transaction fee for renewals from the reciprocal borrowing agreement with The Municipal Library Consortium.  This change took place at the beginning of 2015.  During that year, both the Webster Groves Public Library and the Valley Park Community Library withdrew from the reciprocal borrowing agreement.  Due to these changes, the amount owed to St. Louis County Library by the municipal libraries is on average 48% lower than the previous year.  (Plan: Strengthen Sense of Community 3.1)
+	On May 12th, members of the Library Administration and the Library Board attended the What’s Right with the Region award ceremony presented by Focus St. Louis.  The Library was honored in the Demonstrating Innovative Solutions category.
+	There were mentions of the St. Louis County Library in the local media in print, radio and television.  Those articles were shared with the Board. (Plan: Strengthen Sense of Community 1.2)
+	Ms. Sorth showed a number of photos to the Board from several programs and events including: the Born to Read Reception at Bixby's in the History Museum, author Lauren Tarshis at HQ, author Curtis Sittenfeld at HQ, STArt; Science of Music at Grant’s View, Kids Art Club at Daniel Boone, and Star Wars Fan Fest at Grant’s View.  Also from Children's Book Week: Meet Clifford at HQ, Storytelling Festival at Florissant Valley, and author Dave Barry at HQ. (Plan: Increase Literacy 1 and Sense of Community 2.3)
+Library Employee Update
+	Ms. Sorth announced that Library employees will be participating in wellness screenings beginning in May and continuing through June. Employees who do not participate will pay $50 each month toward the cost of their health insurance.
+	Amigos Library Services asked if our Library would be interested in presenting a webinar on the Your Library Renewed projects to their member libraries.  Amigos is a membership based organization that supports libraries through continuing education and other services.  Eric Button presented to member libraries on May 12, 2016 and received positive feedback on the presentation.
+	Ms. Sorth will be presenting to the Amigos members in June on the use of BoardDocs for Library Board meetings, record keeping, and administration.
+Library Facility Update
+	Grand Glaize, Bridgeton Trails, Rock Road and Lewis & Clark branches all experienced sewer backups in the public or staff restrooms.  In the case of Grand Glaize and Lewis & Clark, Service Master was called to assist with the clean up.
+	As the re-opening of the five branches currently closed for construction approaches, Ms. Sorth also said that plans will be developed to move materials and supplies back in to the branches and to train staff.  Communication plans for the public are also in process.  Sachs will be the first branch to re-open in mid-summer.
+Library Foundation
+	The Foundation participated in Give STL Day on May 3, 2016.  Unfortunately, the website used by the organization sponsoring Give STL Day stopped functioning early in the day preventing the Foundation and all other participating non-profits from accepting donations.  The day was extended to noon on May 4th but the website continued to have major functionality issues.  The financial impact on all participating non-profits was significant.
+	Ms. Sorth said the Foundation’s annual donor breakfast will be held on May 24th in the Auditorium at HQ.  The featured speaker will be Sidney Blumenthal.  Invitations have been sent to all Foundation sponsors.
+	There are several items to be completed for the reading garden at the Sachs Branch.  These items were delayed until spring for warmer weather.  Once these are complete, the garden will be turned back over to the Library.
+Author Events
+            Ms. Sorth announced the following upcoming author events.
+	Sherman Alexie, Author of “Thunder Boy, Jr.”, Sunday, May 15, 6:00 p.m. Library Headquarters – Main Reading Room.
+	Richard Russo, Author of “Everybody’s Fool”, Monday, May 16, 7:00 p.m. Library Headquarters – Auditorium
+	Craig Johnson, Author of “The Highwayman”, Monday, May 23, 7:00 p.m. Library Headquarters – Auditorium.
+	Sidney Blumenthal, Author of “A Self-Made Man: The Political Life of Abraham Lincoln, 1809-1849”, Tuesday, May 24, 7:00 p.m. Library Headquarters – Auditorium
+	Mark Zwonitzer, Author of “The Statesman and the Storyteller: John Hay, Mark Twain, and the Rise of American Imperialism”, Thursday, May 26, 7:00 p.m. Library Headquarters – Auditorium
+	2016 Suspense Night, Thursday, June 2, 7:00 p.m. Library Headquarters – Auditorium
+	One of the library’s most popular annual events, Suspense Night brings together popular mystery writers from across the country for an evening of readings and a panel discussion on the craft of suspense writing.
+		Reed Farrel Coleman, “Robert B. Parker’s The Devil Wins”  “Where it Hurts”
+		Lyndsay Faye “The Gods of Gotham” , “Jane Steele”
+		Brian Panowich, “Bull Mountain”
+		Laura McHugh, “The Weight of Blood”, “Arrowhead”
+		Julia Dahl, “Invisible City”, “Run You Down”
+		Steve Hamilton, “The Lock Artist”, “The Second Life of Nick Mason”
+	Paula McLain, “Circling the Sun”, Monday, June 6, 7:00 p.m. Library Headquarters – Auditorium
+	Ron Jacober and Robert L. Tiemann, “Immortal, Moments in Cardinals History”, Thursday, June 9, 7:00 p.m. Library Headquarters – Auditorium
+	Rinker Buck, “The Oregon Trail: A New American Journey”, Tuesday, June 14, 7:00 p.m. Library Headquarters – Auditorium
+	Walter Mosley, “Charcoal Joe”, Wednesday, June 15, 7:00 p.m. Library Headquarters – Auditorium
+OLD BUSINESS
+None
+NEW BUSINESS
+GRANT UPDATE
+Marie Conlin gave a presentation on recent grant fund awards. Ms. Conlin reported that the Library received notification in January that the St. Louis County Library Foundation was awarded a three-year $40,000 grant from PNC in support of the 1,000 Books Before Kindergarten program. $10,000 will be awarded in 2016 and $15,000 in both 2017 and 2018.
+Other Foundation grants included $5,000 from Aetna in support of the Grant’s View Community Garden; a $1,000 Old Newsboys grant for the 1,000 Books Before Kindergarten program; a Staenberg Family Foundation award of $5,000 in support of the Library’s summer free lunch program; $5,000 from Mercy in support of Born to Read and a $10,000 grant from Aetna also in support of the Born to Read program.
+The Library was notified in January about a $17,600 Library Services and Technology Act (LSTA) Summer Reading Program Grant through the Missouri State Library to fund printed program guides and advertising to promote our Summer Reading Clubs. The State Library also awarded $2,528 in Show Me Steps to Continuing Education Grant funds to bring in an expert to provide teen programming training to library staff. Additional awards included a $9,412 Spotlight on Literacy Grant in support of a new adult program tentatively entitled, We Are St. Louis and a $29,760 Technology Ladder Grant to aid in funding our website redesign efforts.
+Ms. Conlin also mentioned several grant applications that are still pending:
+· A $7,035 request to the Boeing Employees Community Fund to purchase and provide literacy kits for use by Parents as Teachers organizations in the Affton and Riverview Gardens School Districts.
+· A $15,000 request to the Simon Foundation to support the summer free lunch programming.
+· A request for $12,000 to the Pettus Foundation to support afterschool programming at Lewis & Clark and Natural Bridge branches. If awarded, the funds would also pay for new AWE early literacy workstations at each location.
+Dr. Beckwith thanked Ms. Conlin for her report and stated that he appreciated the Library’s increased efforts to seek grant funding.
+CONSTRUCTION UPDATE
+Steve Hunter reported that five branches are still in renovation, five more in the design stage and the Library is also looking for two pieces of property. Mr. Hunter showed photographs of the branches currently being renovated and gave details of some of the features that will be included such as the new skylight at Natural Bridge, the additional window at Prairie Commons and the vibrant color scheme at Oak Bend. Cliff Cave will have the most dramatic changes since the entrance to the branch is being relocated. The intercom and fire alarm systems are being installed at the Sachs Branch which is expected to be the first of the Phase 1B locations to reopen.
+MSD EASEMENT
+Steve Hunter presented a Metropolitan Sewer District (MSD) easement proposal for the Daniel Boone Branch.
+Mr. Hunter explained that plans for the Daniel Boone Branch call for a two-story addition of approximately 10,000 sq. ft. that will put the new east wall of the branch approximately 45 feet closer to Clarkson Road. MSD maintains a 15-foot wide easement that runs diagonally through the property and there is a small conflict between the easement and the northeast corner of the proposed expansion. Although the foundation and walls of the first floor expansion are designed to not encroach into the easement, the second floor design has a porch element that does float over it, encroaching by approximately three feet. The lowest point of the porch is over 10 feet off the ground.
+Mr. Hunter stated that, since the easement claims the space above grade, the Library is required to apply for a $1.00 license (the Agreement) to access the easement. The main point of the Agreement is that the Library would be responsible for reimbursing MSD if the presence of the building expansion causes additional cost to a repair at that location. Administration, its architects, and consultants do not feel there is tangible risk in having the second floor porch float over the MSD easement. A template of the Easement Agreement and a drawing of the proposed expansion and resulting encroachment were shared with the Board.
+The Library Board approved Administration’s recommendation to authorize the Director to negotiate and execute the $1.00 Easement Agreement with MSD (Kenyon/Tai).
+LIBRARY CLOSURE
+Barb Turkington presented the Administration’s request to close the Headquarters Branch at 1:00 p.m. on Saturday, September 17, 2016 in order to prepare for the St. Louis County Library Foundation Gala.
+Ms. Turkington explained that the Foundation hosts a Gala each year from 6:00-10:00 p.m. in the Headquarters Main Reading Room. This year’s event on September 17 will be the 7th Annual Foundation Gala. A 1:00 p.m. closing time has been requested and approved in previous years.
+The Library Board approved the Administration’s request to close the Headquarters Branch at 1:00 p.m. on Saturday, September 17, 2016. (Cunnane/Kenyon).
+GIFT POLICY
+Barbara Brain presented a recommendation to approve revisions to the Library’s Gift Policy that was originally adopted by the Library Board on March 14, 2011.
+Ms. Brain explained that the Gift Policy details the Library’s approach to the acceptance and use of gifts of money, real property, bequests and endowments. The revised policy condenses much of the information included in the existing document but does not differ substantially from it. It emphasizes that gifts are valued for their contribution to enhancing Library services, programs and facilities, states that the Library Board retains the right to reject or return any gifts or donations and makes it clear that all gifts become the property of the Library District. It further states that the Library does not attach a value to gifts for tax purposes nor accept responsibility for any tax consequences to the Donor. Revisions were made with input from legal counsel.
+A red lined copy of the policy indicating the changes was shared with the Board along with clean copies of the existing and revised statements.
+The Library Board approved the revised Gift Policy (Tai/Cunnane).
+NAMING POLICY
+Barbara Brain presented the Administration’s recommendation to approve a revised Naming Policy. The existing Naming Policy was originally reviewed and approved by the Board on March 14, 2011.
+Ms. Brain stated that the Naming Policy defines the circumstances in which the Library may offer naming opportunities for its interior and exterior programming and architectural spaces.
+She explained that the revised policy differs from the existing statement in regard to the naming of Library branches. While both policies emphasize the Library Board’s sole right to name or rename facilities, the revised policy states that the names of Library branches will be chosen to reflect their geographic location and the neighborhoods they serve and will not be named for an individual. However, interior spaces such as children’s rooms and exterior areas such as gardens may be named in recognition of individuals or groups who have made significant contributions that advance the mission of the Library.
+The revised policy emphasizes that naming must be consistent with the Library’s mission and that naming usually lasts for the useful life of the space. It also makes clear that named recognition does not confer any property rights on the donor nor prevent the Board from renovating or disposing of any Library facility, space or program. Ms. Brain said that the revised policy had been reviewed by legal counsel and she shared a red lined copy indicating the changes with the Board along with clean copies of the existing and revised policy statements.
+The Library Board approved the revised Naming Policy (Cunnane/Kenyon).
+ADJOURNMENT
+Ms. Cunnane made a motion to adjourn open meeting and to convene Executive Session to discuss real estate (Section 610.021(2)); Dr. Tai seconded. All voted with voice approval.
+The Library Board adjourned at 4:35 p.m.
+Respectfully submitted,                                                          Date
+__________________________________                            _________________________
+Chingling Tai, Secretary

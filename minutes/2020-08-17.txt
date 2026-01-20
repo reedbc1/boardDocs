@@ -1,0 +1,204 @@
+{
+  "name": "Regular Meeting",
+  "description": "Library Board",
+  "unique": "BL3MJX5AE00A",
+  "date": "2020-08-17T00:00:00Z"
+}
+
+---
+
+ST. LOUIS COUNTY LIBRARY DISTRICT
+MEETING OF THE BOARD via ZOOM
+1640 SOUTH LINDBERGH BLVD.
+MONDAY, AUGUST 17, 2020
+3:30 p.m.
+ATTENDANCE:
+Members present:
+Lynn Beckwith, Ed.D., President
+Johnny Wang, Vice President
+Laura Horwitz, Secretary
+Ted Sanditz, Treasurer
+Joan Barry, Member
+ADMINISTRATORS AND GUESTS ATTENDING: Kristen Sorth, Director and CEO; Eric Button, Deputy Director; Barbara Turkington, Assistant Director, Administration; Gib Van Cleve, Assistant Director, ITS; Steve Hunter, Assistant Director, Operations; Lisa Stump, Lashly and Baer.
+OTHERS ATTENDING: Sandra Williams, Executive Assistant, Marie Conlin, Library Planner.
+MINUTES
+The Library Board approved the July 20, 2020 minutes (Sanditz/Barry).
+Dr. Beckwith paused the regular meeting and asked Director and CEO Kristen Sorth and CFO Laura Taylor to conduct the Tax Hearing.
+TAX HEARING
+Ms. Sorth said Missouri State Statute requires that a public hearing be held prior to the Library Board setting the 2020 tax rates. The four subclasses of property are residential, agricultural, commercial, and personal property. As in prior years, the required legal notice must be published in one newspaper or in a minimum of three branch locations at least 7 days prior to the date of the hearing. The attached notice appeared in the St. Louis Post Dispatch on Sunday, August 9, 2020.
+The tax hearing gives the public the opportunity to present their comments about the Library’s tax rates. The agenda for the meeting is attached.
+The setting of the 2020 tax rates will take place at the September Library Board meeting.  Updated Board of Equalization assessments for 2020 will be used to set the tax rates and will be available in September. Tax rates must be set prior to October 1, 2020.
+There were no patrons with tax hearing comments to present before the Board.
+Ms. Sorth introduced the new CFO, Laura Taylor, who read the new tax rates. The final rates will be set in September. There is a voluntary rollback.
+Assessed Valuation:
+Real Estate:
+            Residential
+            2019 – 14,129,607,770
+            2020 – 14,192,557,550
+            Agricultural
+            2019 – 6,338,360
+            2020 – 6,210,360
+With the explanation of the newly set rates and no comments from the public, Dr. Beckwith ended the hearing and continued with the regular Board meeting.
+REGULAR BOARD MEETING RESUMED
+PUBLIC COMMENTS
+Executive Assistant Sandra Williams was asked to read the comments submitted from patrons. She was courteously assisted by Library Planner Marie Conlin who read the final letters. They read for the 30 minutes allowed by the Board. Letters were read from the following people:  Emma Tiemann, Kim Saunchgrow, Shannon Hook, Jennie Blondley, Megan Welsch, Maddy Feldt, Utaki Bean, Adria Webb, Ulaa Kuziez, Zoe Krause, Julie Davis, Ingrid Conley-Abrams, Missy K., Daniel Kinder, Elyse Vesser, Nisveta, Elle Mealer, Michelle Chicoineau, (Marie Conlin read the remaining letters) Jim Gasch, Geralyn Madigan, Theresa Kelly, Marcia Tewell, Tammisha Spratt, and Jessica Duncan.
+REPORTS
+TREASURER'S REPORT
+CFO Laura Taylor, delivered the Treasurer's report.
+Maintenance and Operating Fund Financial Statements:
+Revenues
+	District Taxes – In July, the Library District received district tax revenue in the amount of $165,018.  Library District tax revenue for 2020 is budgeted at $53.7 million.  The Library has received $54.3 million year-to-date.
+Expenses
+· Reading Clubs – In July, the Library District incurred $58,075 in Reading Clubs expenses.  Notable expenses were as follows:
+o $27,821 for Summer Reading Club books – Scholastic Inc.
+o $24,338.50 for Summer Reading Club books – Booksource
+· Memberships – In July, the Library District incurred $32,964 in Memberships expenses.  The majority of this expense amount was $29,538 paid to Mobius for annual membership & assessment fees.  This membership provides Library patrons with access to materials through a shared catalog with 76 academic and public libraries.
+Expenses
+	Technology – Maintenance Agreements – In July, the Library District incurred $67,907 in Technology – Maintenance Agreements expenses.  $54,352 went toward the new G-Suite Google Apps package that includes e-mail, productivity tools, collaboration tools, and software developed by Google.  This contract was approved by the Library Board in June, 2020.
+	 Technology – Maintenance Agreements – Other notable expenses were as follows:
+		$4,956 for Dozer software renewal – PlanGrid
+		$4,465 for SmartShield software renewal – Centurion Technologies
+Capital Projects Fund Financial Statements
+Balance Sheet – 2016 Debt Issuance
+	Construction in Progress – Total Construction in Progress for July 2020 was $531,400. The expenses included payments for:
+		Construction costs for Mid County - $262,605
+		Pre-Construction & General Conditions costs for Administration Building - $254,581
+		Facilities Master Plan Administrator - $6,938
+The Library Board approved of the August 2020 Treasurer's Report subject to audit (Sanditz/Barry).
+DIRECTOR'S REPORT
+Director and CEO Kristen Sorth presented the following report.
+ Library Update
+	On July 29th, Ms. Sorth said all 20 branches returned to curbside only service.  This contact-free service allows patrons to reserve and pick up materials at all 20 locations.  Curbside hours are: Monday through Thursday from 1:00-6:00 p.m.; Friday and Saturday from 1:00-5:00 p.m.  Pre-Covid, the Library District was open 1,316 hours a week.  Currently, e curbside hours are offered 560 hours a week.  As mentioned previously, we remain in close contact with the County Health Department and are prepared to roll back services in the event that the guidelines become more restrictive.  (Plan: Maximize Access 2.4)
+	With the return to curbside, we no longer have a need for off-duty officers at the six out of twenty locations that had officers.  I hosted four town hall meetings in July to give employees an opportunity to discuss having police officers in our branches.  I also hosted a town hall meeting with managers to give them the opportunity to discuss the same topic.  Those meetings were facilitated by the company that presented the Library’s Diversity, Equity and Inclusion training earlier this year.  The Administrative Team will be meeting with the facilitators to review the feedback.  (Plan: Sense of Community 1.3)
+	We continue to provide vital services to the region.  Here is a chart that shows our accomplishments as of August 14th.  We are so thankful to the many community partners who have reached out to us to provide additional items to be distributed through our drive-thru meal sites.  We are very uncertain about what the future holds for drive-thru meals and diapers.  We are waiting to hear if Congress will grant waivers to Operation Food Search and other similar organizations for this federal program.  In addition, we anticipate the St. Louis Area Diaper Bank will be ending their emergency diaper distribution through the Library’s drive-thru service at the end of August.  (Plan: Sense of Community 2.1)
+	The Dashboard report for July is attached.  Total circulation for July 2020 was 25% lower than July 2019.  eMedia circulation in contrast was 30% higher than eMedia circulation in July 2019.   Last month, 15,001 patrons viewed the Library’s nine virtual author events.  The Dashboard contains a breakdown by author.  (Plan: Promote Literacy 1.1)
+	We have been closely following the reports and results of the REALM Project, which has been doing extensive testing of the virus on library materials. Most libraries in the country have been using a 72-hour quarantine period for returned materials. Since the release of the latest results from REALM, some of those libraries have shifted to a 96-hour quarantine period. We have also taken this more conservative approach and have moved to a 96-hour quarantine. (Plan: Maximize Access 2.4)
+	SLCL partnered with the Jewish Community Relations Council and the National Council of Jewish Women, St. Louis to offer notary services to the public with the primary purpose being the notarization of mail-in ballots. This service was offered during the Library’s open hours, prior to the most recent closure, at Headquarters, Lewis & Clark, Natural Bridge, and Weber Road. The service, which was offered from July 20-29, was staffed entirely by volunteers from the partner organizations. A total of 339 ballots were notarized during this period. Plans are being discussed to offer the same type of notary services in the weeks prior to the November election. The number of mail-in ballots is expected to increase sharply as a result of COVID concerns. (Plan: Sense of Community 2.1)
+	Two of the more significant events produced by the Youth Services department had to be modified due to COVID. The Little Readers Festival, a large annual outdoor event for young readers in September, will now be offered virtually on September 26. During the virtual event, families can enjoy performances from popular children’s entertainers and hear information about the library’s many services for young children. The Teen Book Festival will shift from an in-person, two-day event to a one-week virtual event featuring engagement with popular teen authors. SLCL will partner with HEC TV for the event. Details of the events are still being developed, but the events will be planned to take place throughout the first week of December. (Plan: Promote Literacy 1.2)
+	In spite of COVID and limited library services, a significant number of patrons participated in and completed the Summer Reading Club requirements for earning prizes. As of August 9 more than 12,000 patrons completed the Summer Reading Club. Since the Library closed, all prize distribution has now shifted to curbside pickup. Branches are seeing a steady number of patrons collecting their prizes through curbside. Prizes may be redeemed through August 31. (Plan: Promote Literacy 1.2)
+	She said a partnership with Women’s Voices Raised for Social Justice has led to the distribution of more than 600 gun locks during drive-thru meals at Florissant Valley, Lewis & Clark, Natural Bridge, and Weber Road branches. This is part of the “Lock It for Love” program developed by the organization. Distribution of the gun locks is expected to continue as long as the Library continues to operate the drive-thru meals. (Plan: Sense of Community 2.1)
+	Ms. Sorth said that next year, 2021, is Missouri’s Bicentennial, and the Missouri Bicentennial Commission is holding a competition to select posters for the commemoration. St. Louis County Library will sponsor up to four entries to enter the state-wide contest. Two posters will be selected from elementary grades (3-6) and two from the secondary grades (7-12).  Another contest hosted by the Youth Services department will be the 3-D Design Challenge from September 1-30. This challenge invites children ages 10 and older to use Tinkercad software to design a 3D animal. The file will be submitted by youth and the winners will be printed out on the library’s 3D printer. (Plan: Promote Literacy 3.4)
+	The Library is working with the St. Louis Science Center to distribute a limited number of GSK Science in the Summer kits. These chemistry-themed kits will be distributed at Lewis & Clark, Natural Bridge, and Weber Road branches beginning on August 24 and continue until supplies run out. The kits feature science activities for students grades K-8, and they are funded through a grant obtained by the Science Center from GlaxoSmithKline. (Plan: Promote Literacy 3.4)
+	Ms. Sorth said the Library continued work with its partner Eye Thrive to offer vision screenings and eye exams aboard the Mobile Vision Clinic. Through August 7, Eye Thrive had conducted 235 vision screenings, 178 eye exams, and issued 234 pairs of eyeglasses to children. All of these services are offered at no cost to the families. Eye Thrive will continue with summer visits at Jamestown Bluffs this week. Following those visits, the service will be offered for six weeks at six library locations in September and October. The fall visits will be a replacement for the on-site school visits that Eye Thrive would normally conduct. Due to the fact that schools will not be meeting in person, we are helping to fill that need. (Plan: Sense of Community 2.1)
+	She mentioned that invitations to participate in the ConnectED library card program were extended to schools throughout the St. Louis region in the spring during the COVID closure of schools. In response to this extended invitation, several new school districts and private schools joined the program. Another round of invitations is being issued to schools at the start of this school year since many students will be relying more heavily on electronic access to reading and research materials to support their studies. Mehlville School District, which previously had declined the invitation to participate, recently provided their list to obtain virtual library cards for students in the district for the first time. (Plan: Maximize Access 1.2)
+	Ms. Sorth said the Library is partnering with St. Louis County Courts and a number of other organizations whose mission and work centers around supporting the needs of justice-involved individuals. During the pandemic, court access and court proceedings have been dramatically disrupted. Individuals with court-related business face challenging and ever-changing obstacles to resolving these matters. This partnership allows people to “tap back into the system,” and resolve matters in a conveniently located and trusted place. SLCL will utilize the Florissant Valley Branch to host the tap-in center (TIC) from 6-8 p.m. every Tuesday beginning sometime in September, perhaps as early as September 1. The TIC will be operated by a number of staff from the County Courts, including people from the Public Defender's office and possibly the County Prosecutor’s office. Some services and consultation will be offered in-person, and other services will be offered via Zoom. In addition to seeking assistance and direction for resolving issues pertaining to their pending cases, these individuals will also be provided with access or referrals to social services that help meet needs in their lives.  This portion will be facilitated by the Bail Project. She said Library staff will be present during the TIC hours, and they will be available to assist with library services. (Plan: Sense of Community 2.1)
+	Ms. Sorth announced that the Library has offered to host drive-thru COVID testing sites at various branches.  We will be meeting with the St. Louis County Public Health Department in the next several weeks to explore the possibilities. (Plan: Sense of Community 2.1)
+	Following our practices from the prior COVID closure, the Library will once again extend nonresident card expiration dates through December 31, 2020 to prevent disruption to service for these patrons. Since the Library is closed, these patrons could not renew their memberships without this expiration date adjustment. (Plan: Maximize Access 1.1)
+	St. Louis County Executive Dr. Sam Page announced on July 23 that he would designate $4 million in federal CARES Act funding to the St. Louis County Library to establish a Digital Equity Initiative to help young people continue their education virtually. The funds will be used to provide Chromebooks, Wi-Fi hotspots, and virtual tutoring services to students and school districts in St. Louis County. The Library will work with local schools and school districts to distribute the devices. (Plan: Sense of Community 2.2)
+	As part of the CARES Act Funding from the County, the Library has purchased Tutor.com access for 12 months. Tutor.com provides online live tutoring from 10:00 am - 10:00 pm, seven days a week. Access is available for all SLCL cardholders. Schools and districts that have not already participated in the ConnectED library card program may do so now to obtain virtual library cards. Services and features of Tutor.com include:
+	one-on-one live tutoring in over 100 subjects and test prep areas from 10am-10pm, 7 days a week, as well as job search assistance
+	24/7 drop-off for review of writing assignments and math questions
+	440+ video lessons for math and language and includes AP classes
+	Princeton Review SAT/ACT Essentials with practice tests, drills, video lessons, and full score reports
+	100+ practice quizzes
+	Princeton Review practice tests for GMAT, GRE, LSAT, and MCAT
+(Plan: Sense of Community 2.2)
+Library Administrative and Construction Updates
+	Ms. Sorth said the Library has made a difficult decision to reduce its part-time workforce by half due to the COVID-19 pandemic. The permanent layoff was effective, August 11, 2020. Managers and Assistant Managers spoke individually with those impacted. Part-time employees within the affected job classifications, with hire or rehire dates from 1/1/2017 through present, were subject to the reduction in force. The Library worked with St. Louis County to offer an employment opportunity with the St. Louis County Public Health Department for all of the 122 employees who were affected by this reduction in force. Information about the COVID-19 Response Team positions were distributed to those impacted and the County has set up an employment link just for former Library employees. The pay is higher than what employees were earning at the Library, the hours are flexible, the work can be done from home, and paid training is provided.  Employment with the County is guaranteed at least through December 2020. Libraries in Missouri and across the country have made similar decisions to reduce the workforce, as COVID-19 continues to impact the services we can provide. The Library delayed this decision as long as possible. We continue to be good stewards of taxpayer dollars and are working hard to find ways to continue to serve our patrons during this unprecedented time. We looked at current levels of patron activity, past and current usage statistics, and the desire to keep our employees safe by not having an unnecessary amount of employees in public spaces. This is a challenging time for the Library and the broader community as we navigate through the uncertainty that we face in our personal and work lives.
+	The 2020 Holiday Schedule is attached. The schedule was established and approved many years ago and is included in the Library’s Personnel Manual.
+	Laura Taylor, the Library’s new Chief Financial Officer started on Monday, August 10. Most recently, Laura was the Managing Director of Finance and Controller for the St. Louis Science Center.
+	The Administration continues to work with Lockton, the Library’s HR Consultant, on a complete revision to the performance management process and salary structure for the Library.  We will bring a recommendation to the Library Board in the next few months.
+	HQ has had on-site fueling for the Library fleet for almost fifty years. Two tanks, one gasoline and one diesel, are located beneath the truck yard on the east side of the property. Those tanks have reached end-of-life status and would require expensive repairs to continue in service. Additionally, due to their age, the state insurance fund was going to discontinue coverage of them.  Building Systems contacted and worked with the state insurance fund, who agreed to extend coverage on the tanks if they were permanently removed from service. Quotes for the work were obtained and during the week of July 27th, the tanks were drained and the equipment disabled. All Library vehicles now fuel off-site, using fuel cards that the Board approved during the March 16, 2020 meeting. (Plan: Maximize Access 2.4)
+	The water supply line for the fire suppression system at Cliff Cave failed overnight on Thursday August 6. The 40-year-old pipe ruptured, creating a hole several feet deep in the landscaping and causing water to stream across the parking lot. The domestic water supply was not affected, but Administration closed the branch due to the fire sprinklers being offline.  The Board was notified via email of an intent to enact the emergency purchasing clause due to the nature of the damage and the length of time the branch would be closed if standard purchasing policy was followed. Murphy Company was contacted and confirmed they could mobilize rapidly. They provided an initial quote of $10,853 prior to starting work. Work was performed on Friday August 7. As occasionally happens with this type of pipe, additional damage occurred away from the initial repair. This was not noticed until Saturday morning. Murphy re-mobilized immediately and the work was completed on Tuesday, August 11. We have not yet received the final invoice.  The emergency clause states:
+	7. Emergencies. This Policy may be waived by the Director in writing in emergencies involving the health, welfare or safety of individuals or where significant damage or disruption of service would occur if corrective action is not taken quickly. Emergency procurement shall be made with such competition as is practicable under the circumstances. If the emergency does not allow sufficient time for the Procurement Process set forth hereunder, a complete report of actions taken shall be presented to the Board at the next regular or special meeting. (Plan: Maximize Access 2.4)
+	She said the planning for the new Administrative Building remains on track. On July 23, Frontenac’s Architectural Review Board gave complete approval to the project. On July 28, Planning & Zoning tabled their review of the project over some operational questions that have since been addressed. We will be on the P&Z agenda again at the next meeting Thursday night, August 25.  Final drawing revisions were completed Thursday. The RFP for a general contractor has been drafted and reviewed and will be posted on Monday, August 20 Responses are due September 10 and we anticipate presenting a recommendation to the Board at the September meeting. (Plan: Maximize Access 2)
+	The COVID-19 Regional Response team is restructuring as the region continues to respond to the pandemic.  I was asked to serve on the Steering Team to “help guide the RRT in our next phase of work together in partnership with our region.”  The purpose of the Steering Committee is to ensure that the strategic direction of the RRT aligns with community priorities and trends.
+	For the seventh year in a row, the St. Louis County Library was named a Top Workplace for 2020 by the St. Louis Post-Dispatch. The announcement appeared in the Sunday, June 23rd edition of the paper. The Library was ranked 5th out of 20 "Large" companies. We were thrilled to receive this honor. The designation was made after Library employees were surveyed by an independent research organization. Library employees responded to questions about job satisfaction, benefits, management, training opportunities and leadership. Seventy-three percent of Library employees responded to the survey. (Plan: Sense of Community 1.3)
+Library Foundation
+	Ms. Sorth announced that the Library was recently notified of the following grant award:
+		Blues for Kids, for Born to Read, waiting to learn the amount
+	The Foundation’s annual Gala will take place online this year during a Fund the Need Week taking place from August 29 – September 4.  The Advancement Team is working with the Foundation Board on creatively hosting this major fundraising initiative.  The FTN week is an online campaign that features an eblast/flyer format interspersed with videos featuring the Library Director, the Foundation Executive Director, the Foundation Board President, of Great Southern Bank and other noted personalities and authors. The videos will be embedded in the eblasts.
+		A targeted eblast will be dispatched each day featuring pointed messages about the campaign
+		Featured flyers on the Foundation website and Blog.
+		A testimonial will be provided by bestselling author Curtis Sittenfeld (confirmed, but no tape yet)
+		Potential donor appeals by Jon Hamm (unconfirmed to date) and Beau Willimon.(confirmed, but no tape yet)
+		The presenting sponsors are Emerson and Dowd-Bennett
+		Golden ticket raffle for accommodations at a five star resort in Antigua ($100 per chance)
+		Zoom happy hour with bestselling author Chris Bojahlian (10 people at $300 per ticket, includes a party pack)
+Author Events (Plan: Promote Literacy 1.2)
+She said we have Livestream author events and recordings with the following authors. They are posted on our website as well as the HEC Facebook link - facebook.com/hectv and then archived at hecmedia.org. We are promoting on our social media and sending eblasts that direct patrons to the HEC sites.
+	Aimee Bender, author of "The Butterfly Lampshade" Monday, August 17, 2020 7:00 p.m., Facebook.com/hectv.
+	Susan Eisenhower, author of "How Ike Led: The Principles Behind Eisenhower's Biggest Decisions," Thursday, August 20, 2020 7:00 p.m., Facebook.com/hectv.
+	Jennie Fields, author of "Atomic Love," Monday, August 24, 2020 7:00 p.m., Facebook.com/hectv.
+	Ron Rash, author of "In the Valley."  Interview moderated by novelist Pinckney Benedict, author of "Dogs of God", August 25, 7:00 p.m. on Facebook.com/hectv.
+	Laura Lippman, author of "My Life as a Villainess: Essays," In Conversation with Megan Abbott, Tuesday, September 1, 2020, 7:00 p.m., Facebook.com/hectv.
+	Jill McCorkle, author of "Hieroglyphics, "Tuesday, September 08, 2020 7:00 p.m., Facebook.com/hectv.
+	Nancy Pearl, "The Writer's Library: Authors You Love on the Books That Have Changed Their Lives," Thursday, September 10, 2020 7:00 p.m., Facebook.com/hectv.
+	Peter Cozzens, "Tecumseh and the Prophet: The Shawnee Brothers Who Defied a Nation," Monday, September 14, 2020 7:00 p.m., Facebook.com/hectv.
+Interview moderated by Dr. William S. Belko, Executive Director - Missouri Humanities Council.
+	Yaa Gyasi, author of "Transcendent Kingdom," Saturday, September 19, 2020 7:00 p.m., Facebook.com/hectv. In conversation with Tayari Jones, author of "American Marriage."
+	Ann Cleeves, author of "The Darkest Evening: A Vera Stanhope Novel," Monday, September 21, 2020 7:00 p.m., Facebook.com/hectv.
+	Craig Johnson, "Next to Last Stand: A Longmire Mystery," Thursday, September 24, 2020 7:00 p.m., facebook.com/hectv.
+Dr. Beckwith requested Administration develop a resolution supporting the 100th anniversary of the 19th amendment.
+OLD BUSINESS
+NONE
+NEW BUSINESS
+CONSTRUCTION UPDATE
+Assistant Director of Operations, Steve Hunter, reported that the new Eureka Hills Branch is currently on schedule. The steel and joists are up. He anticipates the branch will open in spring 2021.
+He said the Library went to bid today to ask for proposals for a general contractor for the Frontenac property to house Administration and Operations.
+RESOLUTION ADDRESSING SYSTEMIC RACISM
+Director and CEO Kristen Sorth said in October of 2017, the St. Louis County Library Board of Trustees adopted the Urban Libraries Council’s Race and Social Equity Statement which was recently reaffirmed and restated.   In consultation with the Library Board, the Library is formalizing these ideals in the form of a resolution that incorporates the values of the St. Louis County Library.  Ms. Sorth proceeded to read the resolution.
+RESOLUTION OF THE BOARD OF TRUSTEES OF THE ST. LOUIS COUNTY LIBRARY DISTRICT ADDRESSING SYSTEMIC RACISM AND THE BLACK LIVES MATTER IDEAL
+WHEREAS, systemic racism is deeply embedded in the fabric of our country and our county such that an extended and intense response is required; and
+WHEREAS, the St. Louis County Library Board has historically supported St. Louis County Library efforts to eradicate systemic racism and continues to be committed to that effort; and
+WHEREAS, the St. Louis County Library Board in concert with St. Louis County Library desires to set forth its initial commitments to the Black Lives Matter ideal and the elimination of systemic racism.
+NOW, THEREFORE, the Board of Trustees of the St. Louis County Library District and St. Louis County Library do hereby resolve, determine, authorize and order as follows:
+1.         The Board and Library commit to addressing systemic racism and the Black Lives Matter ideal by the following:
+1.  Eliminating racial and social equity barriers in Library programs, services, policies and practices; and
+2.   Continuing, maintaining and improving an environment of diversity, equity, inclusion and respect both in our Library system and all aspects of our community involvement; and
+3.   Ensuring that the Library is reaching and engaging disenfranchised people in the community and helping them express their voice; and
+4.   Serving as a convener, innovator and facilitator of conversations and partnerships to address community challenges.
+2.         Effective Date.  This Resolution shall be in full force and effect from and after its passage and approval.
+APPROVED this _17___ day of August_________, 2020, by the Board of Trustees of the St. Louis County Library District.
+                                                                        Ms. Laura Horwitz, Secretary
+Dr. Beckwith took a personal privilege to give personal information on his experiences as a Black male in the City of St. Louis. He began with incidents experienced as a six year old and ended with his experiences as an endowed professor at the University Missouri St. Louis. He quoted James Baldwin who said “Not everything faced can be changed but nothing is changed unless it's faced.”
+Joan Barry requested that the resolution should say "continuing, maintaining and improving an environment” to state that the Library has already begun to work toward this ideal.
+The Library Board approved of the Resolution with changes addressing systemic racism and the Black Lives Matter ideal (Horwitz/Wang).
+LIBRARY BOARD ORGANIZATION
+The Library Board’s ByLaws Article 1, Section 5 states as follows: “The officers of the Board of Trustees shall be a President, Vice-President, Secretary and Treasurer who shall be elected annually at the August meeting of the Board and shall hold office for a period of one year.”
+The current officers and members of the Board are as follows:
+President                     Lynn Beckwith, Jr.
+Vice-President            Johnny Wang
+Secretary                     Laura Horwitz
+Treasurer                     Ted Sanditz
+Member                       Joan Barry
+The Library Board approved the current officers be re-elected for the one year term beginning August 2020 and hold office for a period of one year (Wang/Horwitz).
+LIBRARY BOARD MEETING DATES 2021
+DESCRIPTION: The Library Board approves meeting dates for the subsequent year each August.
+Library Board                                   Pension Board
+January – No meeting                         January 25
+February 1                                           March 15
+March 15                                             April 19
+April 19                                               July 19
+May 17                                                October 18
+June 21
+July 19
+August 16
+*September 27
+October 18
+November 15
+December 20
+Unless otherwise stated, all meetings will be held at Headquarters per the Library Board ByLaws and will start at 3:30 p.m. Due to the COVID-19 Pandemic, Board meetings may be held virtually. The Tax Hearing is held in August each year. The Pension Board is scheduled to meet at 2:45 p.m. unless otherwise noted.
+*This is a change from the 3rd Monday to the 4th Monday.
+Laura Horwitz request any high and holy religious days be given preference when scheduling dates in the future for the Board meeting.
+The Library Board approved of the 2021 Board meeting dates and locations as presented (Barry/Sanditz).
+CARES ACT
+Deputy Director Eric Button said the Library Administration is seeking ratification of the Funding Agreement for the St. Louis County COVID-19 Digital Equity Initiative. The Digital Equity Initiative is a multi-faceted project through which St. Louis County Library, as the recipient of $4 million of CARES Act funds received from St. Louis County, will provide resources to school districts and private, parochial, and independent schools in St. Louis County to achieve greater equity and access for students who are engaging in remote learning to begin the 2020-2021 school year.  These resources include access to Tutor.com, an online live, one-on-one, subject specific tutoring program for students ranging from kindergarten through high school.  Another resource provided through the Digital Equity Initiative is hotspots to be distributed to provide a reliable internet connection in homes that lack it currently.  Finally, the project will provide funds for the purchase and distribution of Chromebooks to address needs in schools throughout the County.
+With the start of school rapidly approaching, these resources had to be secured and ordered as quickly as possible.  Before any procurement could be made, the Library had to execute an agreement with St. Louis County for the transfer of the funds ($4 million) to St. Louis County Library.  Library Director and CEO, Kristen Sorth, signed both the original Funding Agreement for St. Louis County COVID-19 Digital Equity Initiative and a subsequent First Amendment to the agreement.  The execution of these two agreements permitted the transfer of funds from St. Louis County to St. Louis County Library.  The $4 million is now held in a designated fund at St. Louis County Library.  Both agreements are attached for your review.
+As a result of the execution of this agreement, the Library has since been able to place an order for 2,500 Chromebooks, a critical step due to the extreme shortage of Chromebooks as schools across the country all try to secure devices for their students.  Since the public announcement, the Library received several unsolicited proposals for the hotspots. To formalize the process in an appropriate manner, yet insure the hotspots are distributed to students quickly since school is starting, the Director authorized the issuance of an abbreviated RFP for hotspots.  Responses are due on Monday, August 17th.
+1. Library Administration recommends the Library Board ratify, authorize and otherwise approve the Funding Agreement for St. Louis County COVID-19 Digital Equity Initiative, as amended, and executed by the Director.  The Library Board approved (Horwitz/Sanditz)
+2. Library Administration recommends the Library Board authorize the Director and CEO to select the lowest and best bid pursuant to the CARES Act School Hotspot Request for Bids and to award and enter into a contract with the selected vendor. The Administration will report back to the Board on the award at its next meeting. The Library Board approved (Sanditz/Horwitz).
+NEW SERVICE DESK AT LEWIS & CLARK
+Steve Hunter, Assistant Director of Operations reported that the Lewis & Clark Branch was opened October 14, 2015 as the first new building in the Your Library Renewed program. In subsequent projects a more efficient design for a main service desk emerged. Administration desires to upgrade the desk at the Lewis & Clark Branch to match other branches in the system. This will improve functionality while also improving ergonomics for the staff. The approved 2020 Library budget includes $50,000 for this work.
+An RFP for a new service desk was posted on July 27, 2020. An ad was placed in the Post-Dispatch and the RFP was placed on our website. Thirteen local contractors, including all W/MBE firms performing such work in the area, were notified directly.
+Responses were due on August 7, 2020. Two firm responded:
+			Firm
+			Cost
+			St. Louis Woodworks
+			$25,937
+			Integra, Inc.
+			$43,826
+The proposal from St. Louis Woodworks does not include the entire scope of work as outlined in the RFP and is incomplete.
+Library Administration recommends that the Library Board select Integra, Inc. to provide a new service desk for the Lewis & Clark Branch for $43,826 and that the Board authorize the Director to enter into and execute a contract to that effect. The Library Board approved (Wang/Barry).
+ADJOURNMENT
+The Board meeting ended at 5:41 p.m. with unanimous voice approval (Sanditz/Horwitz).

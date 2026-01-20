@@ -1,0 +1,182 @@
+{
+  "name": "Regular Meeting",
+  "description": "Library Board",
+  "unique": "BX2TRD7886AE",
+  "date": "2021-02-01T00:00:00Z"
+}
+
+---
+
+ST. LOUIS COUNTY LIBRARY DISTRICT
+MEETING OF THE BOARD via ZOOM
+1640 SOUTH LINDBERGH BLVD.
+MONDAY, FEBRUARY 1, 2021
+ 3:30 p.m.
+ATTENDANCE:
+Members present:
+Lynn Beckwith, Ed.D., President
+Johnny Wang, Vice-President
+Ted Sanditz, Treasurer
+Joan Barry, Member
+Laura Horwitz, Secretary
+ADMINISTRATORS AND GUESTS ATTENDING: Kristen Sorth, Director and CEO; Eric Button, Deputy Director; Barbara Turkington, Assistant Director, Administration; Laura Taylor, CFO; Gib Van Cleve, Assistant Director, ITS; Steve Hunter, Assistant Director, Operations; and Lisa Stump, Lashly and Baer.
+OTHERS ATTENDING: Sandra Williams, Executive Assistant.
+MINUTES
+The Library Board approved the December 21, 2020 minutes (Wang/Sanditz).
+PUBLIC COMMENTS
+There were no public comments to bring before the Board.
+TREASURER’S REPORT
+Laura Taylor reported the following.
+Maintenance and Operating Fund Financial Statements:
+Revenue
+	Miscellaneous Income – In December, the Library District received $98,470 in Miscellaneous Income.  This payment was made by The Hartford insurance company to the Library District for transformer repairs.
+Expense
+	Tuition & Training – In December, the Library District incurred $20,341 in Tuition & Training expenses.  These expenses were primarily paid as tuition reimbursement to employees enrolled in the Library District’s tuition reimbursement program.  To be eligible for this benefit, an employee must be employed full-time for a minimum of two years and achieve a grade of “B” or greater in the class.  All of the employees requesting tuition reimbursement are taking classes toward a Masters of Library and Information Science degree. Tuition reimbursements were included in the 2020 Budget.
+Expense
+	Programming – In December, the Library District paid $16,833 for programming expenses at branches and Headquarters.  The Library District continues to provide creative resources and services to patrons in the current environment.
+· Custodial Services – In December, the Library District incurred $87,710 in Custodial Services expenses.  Notable expenses are as follows:
+o $43,656 for branch cleaning services – Buildingstars Operations Inc.
+o $18,416 for COVID cleaning and specialty services – Woodard Cleaning & Restoration
+o $18,194 for system-wide carpet cleaning – Woodard Cleaning & Restoration
+Capital Projects Fund Financial Statements
+Balance Sheet – 2016 Debt Issuance
+	Construction in Progress – Total Construction in Progress for December 2020 was $419,719.  The expenses included payments for:
+		Pay Application for Interior Construction Services for the construction performed through November 2020, at the Lynn Beckwith Jr. Administrative Building for $190,620
+		Professional services and construction administration to Lamar Johnson Collaborative for the Lynn Beckwith Jr. Administrative Building for $125,864
+Facilities Master Plan Administrator payment of $13,875
+The Library Board approved the February 1, 2021 Treasurer’s Report subject to audit (Horwitz/Barry).
+Director's & CEO’s Report
+Library Update
+	Ms. Sorth reported that this month the dashboard includes information on the Library’s 2020 statistics.  As you know, COVID had a huge impact on the Library’s circulation, programs and services.  Circulation was down 33% for the year.  The Library circulated 10,876,070 items.  In contrast, the Library circulated 16,302,790 items in 2019.  eMedia circulation grew considerably in 2020 making up 25% of all checkouts compared to 13% in 2019.  If renewals are removed from the equation, eMedia makes up nearly half of the checkouts.  In 2020, Library employees completed 332,460 curbside transactions to respond to the needs of patrons during closure.  Daniel Boone was the busiest curbside location.  Library employees in Cataloging added 23,760 new titles to the catalog and the Processing department added 293,755 items including more than 10,000 hotspots.  (Plan: Promote Literacy 1.1)
+	In response to strong patron demand, Ms. Sorth announced that the Library is reinstating Saturday curbside hours from 1:00 – 5:00 p.m. effective February 13.  Out of all the changes to services the Library has made due to COVID, we have received the most adamant objections from patrons about the loss of curbside service on Saturday.  (Plan: Maximize Access 1.1)
+	She said the Library has moved from a 96-hour quarantine period for library materials to a 48-hour quarantine period.  After the initial emphasis and concern about COVID being spread by surface contact, updated information strongly suggests that the virus is most commonly spread between people who are in close contact with one another and may share respiratory droplets or small particles. Spread from touching surfaces is not thought to be the main way the virus spreads.  Of the 30 libraries that responded to an Urban Libraries Council (ULC) survey about quarantine periods, the average number of days of quarantine was 2.5 days.  Locally, St. Charles City-County Library shifted from a 96-hour quarantine to a 48-hour quarantine in October, and they have seen no evidence for concern.  St. Louis Public Library recently reduced their quarantine period from 48 hours to 24 hours.  We surveyed managers about the change. We also discussed our proposal to move to a 48-hour quarantine with the Director of the County Department of Public Health. They indicated that this would be completely fine.  As we have done throughout the pandemic, we will continue to consult with local health officials to ensure that we are following the best practices and guidelines to keep our staff and the community safe and healthy. (Plan: Maximize Access 2.4)
+	The Library continues to expand its partnership with the St. Louis Area Diaper Bank by adding two additional branches as emergency distribution sites for diapers.  Beginning this week, Natural Bridge and Weber Road branches join Florissant Valley and Lewis & Clark as emergency distribution sites.  These same four locations also began offering distribution of “flow kits” composed of period supplies.  These products, which began distribution in January, are offered in partnership with the St. Louis Alliance for Period Supplies, a division of the Diaper Bank. (Plan: Sense of Community 2.1)
+	Ms. Sorth said based on the fantastic work of the managers and employees of Mid-County in 2020, the Board of Elections has requested permission to use the branch as a satellite early voting center for elections during 2021.  We have granted permission to do this.  The first such occurrence in 2021 will be in March for the April election.  Mid-County was the busiest of the four Board of Election satellite sites in November. (Plan: Maximize Access 2.2)
+	Employees in Bookmobiles and Mobile Services noticed that some senior living facilities did not have an adequate amount of facemasks and that preschool teachers were working without facemasks.  She said library employees delivered at least 8000 masks in conjunction with their regular delivery of material.  Activity directors were very thankful and shared that many of the seniors had been wearing the same disposable face mask for months. The department has received several thankful emails and letters. (Plan: Maximize Access 1.2)
+	Bookmobile employees will restart service to four schools in January 2021 as a pilot. Employees will coordinate with schools to ensure the safety of students, teachers, and library staff. The department already tested out a new visit model with appropriate COVID safeguards in the fall, which proved to be an applicable model to serve the schools and students. (Plan: Maximize Access 2.4)
+	Ms. Sorth said the library will continue to provide vital services to the region.  The Board was shown a chart that shows our accomplishments as of January 26.  We are so thankful to the many community partners who have reached out to us to provide additional items to be distributed through our drive-thru meal sites. Due to additional CARES Act money, Operation Food Search will again be able to provide produce for the Library to distribute beginning February 3.  In addition, the provision of weekly shelf stable family meals will now continue through March 31.  Previously it had been planned to end in January. (Plan: Sense of Community 2.1)
+	Ms. Sorth announced that Adult Services is now recording a selection of adult programs and posting them to the Library’s YouTube page with captions. There are currently five presentations available for on-demand viewing that patrons can watch anytime.  This includes a presentation about mental health and coping during COVID-19 and an incredible live performance from the Chamber Project. (Plan: Sense of Community 2.3)
+	Adult Services presented two Holocaust Remembrance Programs on January 26 and 27 in partnership with the Hannah Ida Urman Foundation. Attendees listened to two second-generation survivors speak about their loved ones’ experiences in concentration camps.  Attendees joined the virtual program from all across the United States and the world, including Poland, Brazil, Israel, Italy, and Australia. (Plan: Sense of Community 2.3)
+	Library Assistant Sarah Jones from Meramec Valley planned and hosted a month-long Hooked on SLCL Crochet Challenge during the month of January that encouraged people to learn to crochet and add new stitches to their repertoire with the help of Creativebug’s self-paced tutorials and weekly check-in meetings on Zoom. The crochet challenge had over 120 attendees for the kickoff event, over 177 views of the YouTube recording, and over 120 #hookedonSLCL Instagram posts from people sharing their crochet creations. Participants have also shared comments like “This is one of the coolest challenges and I hope SLCL does something like this again! The community is amazing and so uplifting.” A 31-day drawing challenge is now in the works for later this year. (Plan: Promote Literacy 3.4)
+	Instructors from the St. Louis Chess Club will provide virtual chess classes that teach fundamental chess elements in addition to promoting educational values that can be learned through chess.  Classes will take place on Tuesdays from March 30 - May 4 from 4:30 - 5:30 p.m. (Plan: Promote Literacy 3.4)
+	The Library offered Book Buddies in person at select branches prior to COVID.  This program matches students in grades K-3 with teen volunteers.  The goal of the program is to improve the reading skills of the younger students.  Book Buddies will now be offered virtually.  The students will spend 30 minutes each week reading aloud on Zoom during the 6-week series. A limited number of students and teens may participate and will be chosen by lottery. The series will run Mondays from February 22 - April 5. (Plan: Promote Literacy 2.1)
+	Sandy Anderson, the Library’s Early Literacy Coordinator, has recorded four Kindergarten Prep videos for parents to use during the Library’s closure.  The videos are now posted on the Kindergarten Prep page of the Library’s website.  They are also available on the Library’s YouTube Channel. (Plan: Promote Literacy 3.4)
+	Ms. Sorth announced that Black History Month programming starts Feb. 1.  She thanked the Black History Celebration Committee and the branches and HQ for planning so many engaging and fun virtual programs.  The Black History Celebration Committee includes:  Sandy Williams, Brenda West-Ammons, Cindy Fehmel, Janelle Turner, Carla Maxwell, Robert Hall, Crystal Harris and Nakisha Ford. (Plan: Sense of Community 2.3)
+	In October, the health educators from the St. Louis County Department of Public Health set up tables outside several branches to provide “Care Kits” that included COVID related information and supplies. Additional Care Kits were distributed in January and will extend into the first part of February. Here is the 2021 schedule:
+		January 20 - Florissant Valley
+		January 22 - Indian Trails
+		January 25 - Jamestown Bluffs
+		January 27 - Lewis & Clark
+		January 29 - Natural Bridge
+		February 1 - Prairie Commons
+		February 3 - Rock Road
+		February 5 - Weber Road
+		February 8 - Bridgeton Trails
+(Plan: Sense of Community 2.1)
+	Pictures were shown from various events that have taken place over the last month including Drive Thru Meals, Curbside Service, Virtual Programs and construction on “The Beck”. (Plan: Promote Literacy 3.4 and Sense of Community 2.1)
+Library Administrative Updates
+	Ms. Sorth introduced the Staff Development Cohort.  The objective of the program is to develop non-management employees that show great aptitude and interest and provide individuals with opportunities to develop professionally and to make greater contributions to the Library.  As mentioned last month, the application process took place this fall.  The following employees were selected:
+	Brianna Hanks, Library Assistant III – Florissant Valley
+	George Hollins, Computer Lab Trainer – Training
+	Katie Moreau, Library Clerk – Sachs
+	Matt Ketterer, Library Assistant III – HQ Circulation
+	Fran Connelly, Library Assistant III – Daniel Boone
+	Robin Burnside, Library Assistant III - Thornhill
+	Jim Brusselback, Library Assistant III – Cliff Cave
+	Tess Childress, Library Assistant III – Lewis & Clark
+	Sarah Heend, Library Assistant III – Mid-County
+	Tammy Jones, Circulation Assistant – Indian Trails
+(Plan: Sense of Community 1.3)
+	Ms. Sorth said that St. Louis County recently asked us to submit a proposal to address COVID related concerns with additional CARES Act dollars.  She has been working with the Older Adults Commission on issues related to seniors in St. Louis County who are increasingly isolated during the pandemic.  The proposal that was submitted addressed the technology needs of seniors in St. Louis County.  She also included a proposal for additional tutoring services through the Miriam Learning Center for kids with special needs.  She said the SLCL proposal was approved.  The Library Board will review the amendment and the details of the proposal later in the meeting.
+	Tarza is working with the new members of the Employee Engagement Committee which includes the following employees.
+		Jennifer Alexander, HQ - Collection Development Specialist, Acquisitions
+		Bonnie Buhse, RR - Library Assistant
+		Ariel Doggendorf, OB - Youth Services Specialist
+		Evan Haas, HQ - Library Assistant, Acquisitions
+		Elise Konya, MV - Library Clerk
+		Ruby O’Quinn, FV - Library Assistant
+		Marquitta Parnell, MC - Library Assistant
+		Skylar Stanley, HQ - Accountant, Finance
+The primary responsibilities of the Employee Engagement Committee are to increase employee engagement, boost innovation, gather information from peers, exchange ideas, and recognize the work of employees. Past committee members worked on successful programs such as in-service days, the High Five program and the Employee of the Quarter program. One of their 2021 objectives is to start planning a system-wide wellness program that will have monthly topics and activities. February will be focused on Heart Health Month and March will be Nutrition Month. (Plan: Sense of Community 1.3)
+	Ms. Sorth announced that in February and March, the Library will be offering training for all employees on recognizing trauma, self-care, and well-being. We are working with a local non-profit organization, Alive & Well, on the training.  Alive & Well will be facilitating 15 sessions for employees and one for managers.  Sessions will be virtual and employees will be in sessions with their departments and neighboring branches.  This is required training for all Library employees. (Plan: Sense of Community 1.3)
+	As mentioned previously and in the 2021 Library Budget, administration has been looking at staffing levels and branch/HQ Circulation "busyness" models both prior to and during COVID.  We have also been thinking about what staffing looks like post COVID.  At the same time, several other regional conversations have been happening including the STL 2030 Jobs Plan.  In addition, a conversation about staffing also came up on the Missouri/Kansas Library Directors call as we discussed what public libraries will look like after COVID.  For years, we have staffed our branches and HQ circulation with mostly part time employees.  There were really good reasons to do so in the past and we are certainly not the only library that follows a scheduling model based on part time employees.  However, there are some extremely meaningful benefits that come from switching that percentage around and having a higher percentage of full time employees to staff the branches and HQ Circulation than part time employees.  Those include, first and foremost, that we will be providing full time jobs with benefits for more people in the region.  Other benefits include higher retention rates, better career paths for current employees, a stronger connection with both the mission of the library and the work of the branch, more meaningful work, flexibility with scheduling and an increased interest in Library employment from a diverse candidate pool.   Administration met with the branch/HQ public service managers to discuss this concept and to get feedback, which has been overwhelmingly positive.  This does not mean that we plan to move completely away from hiring part time employees, but we do plan to place a significant emphasis on hiring full time employees.  This will be a gradual shift as we start to fill vacancies in 2021. We have already posted several positions at the branches/HQ.  Each location is in the process of hiring at least one full time position.  Additional postings will follow. We believe this is a transformational shift for St. Louis County Library.  (Plan: Sense of Community 1)
+	Ms. Sorth announced that Crystal Harris, Manager of Bookmobiles and Mobile Services was elected as a Board Member for the Association of Bookmobile and Outreach Services (ABOS), an affiliate of the ALA Office of Diversity, Literacy and Outreach. As a Board Member, Crystal is helping other outreach departments around the country navigate service during the pandemic. Crystal has shared her experiences and advice with other libraries regarding how to successfully provide senior service and homebound mailing service during the pandemic. (Plan: Maximize Access 1.2)
+	The Library and our architects received two awards for building design.  We received a Building St. Louis award from the St. Louis Business Journal for the design and construction of the new Meramec Valley Branch.  In addition, the American Institute of Architects, St. Louis, recognized the interior of the Grand Glaize Branch with a Merit-Interiors Award. (Plan: Maximize Access 2.1)
+	St. Louis County Library has been ranked as a four ­star library in the 2020 Library Journal Index of Public Library Service. SLCL is the only four-star library in the state of Missouri. The rank of four stars indicates a high per capita use in seven major areas of library service: physical circulation, circulation of electronic materials, library visits, program attendance, public internet computer use, Wi-Fi sessions, and retrieval of electronic information. The ranking is based on statistics from 2018, when SLCL circulated over 13.8 million items despite having two branches closed for part of the year.  We are the only library in the St. Louis region to receive a star rating. In terms of Missouri, there were six other libraries that received a star rating. The next closest in size to us is Springfield-Green County Library in Springfield, MO. The other five libraries receiving a star designation are smaller library districts - North Kansas City, Carrollton, Willow Springs, Mound City and Lewis Library.
+Library Construction and Facility Updates
+	Ms. Sorth said that site work has begun for a planned development adjacent to the Sachs Branch that includes 1,000 new residences. To support this added population and traffic, improvements are planned for both Chesterfield Parkway West and Burkhardt Place roadways. The intersection of the two, at the northeast corner of the Sachs Branch, will be signalized. At the March Board meeting, the Board will be asked to approve the granting of a small easement that will enable the installation of the signal and ADA improvements to the sidewalk. (Plan: Maximize Access 2.4)
+	For many years the Florissant Valley Branch has been susceptible to frequent power outages. Ameren has recently announced a new two-year project to upgrade their power system in that area. The branch will be getting a new transformer which will be served from a new substation. Ameren is confident the upgrades will greatly increase their customers' uptime. (Plan: Maximize Access 2.4)
+	ITS is currently in the process of upgrading the Library’s 80 self-check computers. The effort includes replacing all PC hardware with new Windows 10 based units as well as deploying new application software. (Plan: Promote Literacy 3.3)
+	She said ITS will be replacing the Library’s computer configuration restore software. This software helps assure that our computers remain free of malware and viruses. The current software became unstable on Windows 10 and the authoring company is not able to provide a working fix for their software. The configuration restore software is used on both staff and public access computers across the District.  The department was able to find an excellent product that was available through a cooperative purchasing agreement.  (Plan: Maximize Access 2.4)
+	As approved in the 2021 Library Budget, an RFQ was issued in December to select an organization to conduct community conversations regarding diversity, equity and inclusion in library programs and services.  The Library Board will review the recommendations at a future Board Meeting. (Plan: Maximize Access 3.3.)
+Library Foundation
+SLCL was recently notified of the following grant awards:
+	Missouri State Library (LSTA), $7,114 for Summer Reading Club by Mail with Hancock Place and Jennings school districts. This grant will provide for the mailing of library materials throughout the summer for 30 families in Jennings School District and 20 families in Hancock Place School District. (Plan: Promote Literacy 1.2 and Maximize Access 1.1)
+	Missouri State Library (LSTA), $5,325 for portable projectors for circulation. The use of portable projectors became widespread during the pandemic as many people held outdoor movie nights on a big screen. We will have 15 projectors with built-in speakers available for public checkout. (Plan: Maximize Access 1.4)
+Author Events (Plan: Promote Literacy 1.2)
+We have Livestream author events and recordings with the following authors. They are posted on our website as well as the HEC Facebook link - facebook.com/hectv and then archived at hecmedia.org. We are promoting on our social media and sending eblasts that direct patrons to the HEC sites. HEC has also started simultaneously premiering the virtual author events on their TV channel to expand access to those individuals who do not have reliable internet access. (Plan: Promote Literacy 1.3)
+	Vivian Gibson, author of "The Last Children of Mill Creek," Tuesday, February 2, 2021, 7:00 p.m., Virtual, Video premiere: on www.facebook.com/STLCoLibrary 2021 St. Louis County Library Black History Celebration Event
+	Ariel Lawhon, author of “Code Name Hélène,” Wednesday, February 3, 2021, 7:00 p.m., Virtual, Video premiere: on www.facebook.com/STLCoLibrary
+	Ty Seidule, author of "Robert E. Lee and Me: A Southerner’s Reckoning with the Myth of the Lost Cause,” Wednesday, February 10, 2021 7:00 p.m., Virtual, Video premiere: on https://www.facebook.com/STLCoLibrary
+	Walter Mosley, author of "Blood Grove: An Easy Rawlins Mystery," 2021 St. Louis County Library Black History Celebration; Frankie Freeman Inspirational Address, In conversation with suspense author Rachel Howzell Hall, Thursday, February 11, 2021, 7:00 p.m., Virtual, Video premiere: on www.facebook.com/STLCoLibrary
+	Amelia Pang, author of, "Made in China: A Prisoner, an SOS Letter, and the Hidden Cost of America’s Cheap Goods," Tuesday, February 16, 2021, 7:00 p.m., Virtual, Video premiere: on www.facebook.com/STLCoLibrary
+	Masuma Ahuja, author of “Girlhood: Teens Around the World in Their Own Voices,” Thursday, February 18, 2021, 7:00 p.m., on Facebook.com/STLCoLibrary
+	Steve Berry, author of "The Kaiser’s Web: A Cotton Malone Novel," Monday, February 22, 2021, 7:00 p.m., Virtual, Video premiere: on www.facebook.com/STLCoLibrary
+	Joby Warrick, author of "Red Line: The Unraveling of Syria and America’s Race to Destroy the Most Dangerous Arsenal in the World," Wednesday, February 24, 2021, 7:00 p.m., Virtual, Video premiere: on www.facebook.com/STLCoLibrary
+	Charles Finch, author of “An Extravagant Death: A Charles Lenox Mystery,” Tuesday, March 2, 2021, 7:00 p.m., Virtual, Video premiere: Facebook.com/STLCoLibrary
+	Nicole Perlroth, author of "This is How They Tell Me the World Ends: The Cyber Weapons Arms Race," Thursday, March 4, 2021, 7:00 p.m., Facebook.com/STLCoLibrary
+	C.J. Box, author of “Dark Sky,” Friday, March 5, 2021, 7:00 p.m., on www.facebook.com/STLCoLibrary Virtual, Livestream event.
+	Dr. Michele Borba, author of "Thrivers: The Surprising Reasons Why Some Kids Struggle and Others Shine," Wednesday, March 10, 2021, 7:00 p.m. Virtual on www.facebook.com/STLCoLibrary
+	John A. Wright, Sr. and John A. Wright, Jr., authors of "Extraordinary Black Missourians: Pioneers, Leaders, Performers, Athletes, and Other Notables - 2nd Edition," Tuesday, March 16, 2021, 7:00 p.m., Virtual, Facebook.com/STLCoLibrary
+	Ioan Grillo, author of "Blood Gun Money: How America Arms Gangs and Cartel, "Thursday, March 18, 2021, 7:00 p.m., Virtual, Video premiere on Facebook.com/STLCoLibrary
+	Emily St. John Mandel, author of “The Glass Hotel,” Tuesday, March 23, 2021, 7:00 p.m., on Facebook.com/STLCoLibrary
+	Lisa Scottoline, author of Eternal, Friday, March 26, 2021, 7:00 p.m.,   Virtual Livestream event: on www.facebook.com/STLCoLibrary
+Andrew Steele, author of Ageless: The New Science of Getting Older Without Getting Old," Monday,
+Ted Sanditz asked why the Holocaust event was scheduled for January 26 & 27. Laura Horwitz said the dates were selected because of International Holocaust Day. He also asked if part time library employees would be given an opportunity to apply for full time positions. Ms. Sorth said the positions are posted for anyone to apply. Dr. Beckwith inquired about the fiscal impact with going from part time to full time.  Kristen Sorth said the information would be provided at the March meeting.
+OLD BUSINESS
+None
+NEW BUSINESS
+CONSTRUCTION UPDATE
+Steve Hunter, Assistant Director of Operations, began his presentation by showing photos of the Beck Building with the retaining wall in the southeast area. He said much progress has been made in the last six weeks. Part of the building is being formed by assembling wall panels. He showed a mock up.
+The Eureka Branch construction is scheduled to be completed in the spring. It is currently being carpeted and painted. A ribbon cutting ceremony will take place in late spring.
+Mr. Hunter also showed pictures of the HQ malfunctioning HVAC unit that caused the fire alarm to go off at the Headquarters Building on Feb. 1.
+CARPET REPLACEMENT
+Steve Hunter, Assistant Director of Operations, reported the following.
+There are areas within several branches that are in need of carpet replacement. Administration identified the highest priority areas and packaged them into two groups.  The six branches in the first group include Cliff Cave, Indian Trails, Lewis & Clark, Natural Bridge, Rock Road, and Weber Road. $150,000 was allocated for carpet replacement in the approved 2021 Library Budget.
+An Invitation for Bid (IFB) for carpet replacement was posted on January 11, 2021. An ad was placed in the Post-Dispatch and the IFB was placed on our website. Fourteen local contractors, including four W/MBE firms, were notified directly. At least one construction bidding website shared it with their subscribers.
+Responses were due on January 22, 2021. Three firms responded:
+			Firm
+			Cost
+			Flooring Systems, Inc.
+			$44,715
+			Richardet Floor Covering
+			$52,954
+			ICS Construction Services
+			$75,760
+Library Administration recommends that the Library Board select the lowest and best bid from Flooring Systems, Inc. to provide select carpet replacement at six branches for $44,715 and that the Board authorize the Director to enter into and execute a contract to that effect. The Library Board approved the recommendation (Sanditz/Barry).
+FURNITURE AND SHELVING SELECTION – EUREKA HILLS BRANCH
+Steve Hunter, Assistant Director of Operations, reported the following.
+The furniture and shelving bid package for the new Eureka Hills Branch was released to the public as a combined offering on November 3, 2020.
+The bid package was developed around open product lines. Bidders were invited to bid on shelving, furniture, or both. A link to the bid documents was posted in the St. Louis Post-Dispatch and on the SLCL website. In addition, thirty-three firms were notified directly via email. Two qualifying responses were received by the time of the public bid opening (via Zoom) on November 20, 2020.
+All requirements of the Library’s bid procedure were followed. The two companies we are recommending have provided shelving and furniture at all new & renovated branches to date. The budget for these items was $450,000.00.
+Library Administration recommends that the Board select the firms listed below and authorize the Director & CEO to enter into and execute contracts to that effect. The combined cost for shelving and furniture is $362,074.62:
+- Shelving: Color-Art Integrated Interiors for $93,977.86
+- Furniture: CI Select for $268,096.76
+The Library Board approved the recommendation (Sanditz/Wang)
+INVESTMENT OF 2021 OPERATING FUNDS
+Laura Taylor, CFO, reported the following.
+Annually, the Library District receives most of the cash from property taxes early in the year. To maximize the amount of interest received, Library Administration will issue a request for investment rate quotes from several area financial institutions. The financial institution that submits the highest yield for the total portfolio of investments will be awarded the dollars to invest.
+Typically, the Collector of Revenue issues a January distribution of property tax revenue at the end of the month. Knowing the total amount of the distribution is important as it helps to determine the total amount to invest. As such, the request for investment rate quotes was not issued until January 28, 2021, with responses due back by February 5, 2021. It is important for the Library to invest soon after the quotes are received to take advantage of the yield for the total portfolio. The total portfolio to invest in 2021 is $34 million. The amount of each monthly investment and the maturity date is listed below:
+Library Administration recommends the Board authorize the Director to select the financial institution that submits the highest yield of the total portfolio for the investment of the 2021 operating funds. Library Administration will report back to the Board on the selection of the financial institution at the March Library Board meeting. The Library Board approved the recommendation (Sanditz/Wang).
+CARES ACT AMENDMENT
+Kristen Sorth, Director and CEO, reported the following.
+Library Administration is seeking approval of the Third Amendment to the Funding Agreement for the St. Louis County COVID-19 Digital Equity Initiative. The Digital Equity Initiative is a multi-faceted project through which St. Louis County Library, as the recipient of $4 million of CARES Act funds received from St. Louis County, has provided resources to school districts and private, parochial, and independent schools in St. Louis County, to achieve greater equity and access for students who are engaging in remote learning during the 2020-2021 school year. These resources included hotspots, Chromebooks and access to Tutor.com, an online tutoring program for students, and in-person tutoring for students with special needs through the Miriam Learning Center.
+The attached Third Amendment and corresponding exhibits, increases the funds for the Digital Equity Initiative by $1,160,000. The additional funds will be used for new sessions of in-person tutoring for students with special needs through the Miriam Learning Center at a cost of $160,000. The Amendment also includes $1 million for the purchase of tablets for seniors in St. Louis County. Social isolation has disproportionately impacted seniors in our community during the pandemic. Several different technology options for seniors were presented to and considered by St. Louis County. After discussion, a decision was made to purchase GrandPads, as they are tablets specifically designed by and for seniors with limited experience with technology. They are simple, yet powerful tablets that allow seniors to stay connected to loved-ones through phone, email, and video calls. GrandPads also provide access to a wide variety of entertainment such as music and games.
+Library Administration recommends the Library Board authorize and approve the Third Amendment to the Funding Agreement for St. Louis County COVID-19 Digital Equity Initiative. In addition, the Board authorizes the Director and CEO to enter into and execute contracts with Miriam Learning Center and GrandPad to purchase the services and items with the funds provided through the Third Amendment.  The Library Board approved the recommendation (Horwitz/Wang).
+ADJOURNMENT
+Ted Sanditz made a motion to adjourn the meeting.  Joan Barry seconded.  All voted in the affirmative.  Aye: Lynn Beckwith, Ted Sanditz, Laura Horwitz, Joan Barry, Johnny Wang.
+The meeting adjourned at 4:52 p.m.
+Respectfully submitted by,
+_________________________________                                          _______________
+Lauren Horwitz                                                                                   Date
+Secretary

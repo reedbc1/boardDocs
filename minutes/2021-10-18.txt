@@ -1,0 +1,123 @@
+{
+  "name": "Regular Meeting",
+  "description": "Library Board",
+  "unique": "BX326L7C9193",
+  "date": "2021-10-18T00:00:00Z"
+}
+
+---
+
+ST. LOUIS COUNTY LIBRARY DISTRICT
+MEETING OF THE BOARD
+HEADQUARTERS BRANCH
+MONDAY, OCTOBER 18, 2021
+The monthly meeting of the Board of the St. Louis County Library District was held at Headquarters, 1640 S. Lindbergh Blvd., St. Louis, MO 63131 on Monday, October 18, 2021 at 3:30 p.m. The agenda had been posted in all branches of the Library District at least 24 hours before the meeting.
+ATTENDANCE:
+Library Board Members:
+Dr. Lynn Beckwith, President
+Johnny Wang, Vice President
+Ted Sanditz, Treasurer
+Joan Barry, Secretary
+Deborah Patterson, Member, via telephone
+ADMINISTRATORS AND GUESTS ATTENDING:
+Kristen Sorth, Library Director & CEO; Eric Button, Deputy Director; Barbara Turkington, Assistant Director, Advancement; Laura Taylor, CFO; Gib Van Cleve, Assistant Director, ITS; Steve Hunter, Assistant Director, Operations; and Lisa Stump, Attorney, Lashly Baer.
+Others Attending:
+Marie Conlin, Deanna Davis, Alaina Culbertson, Katie Keeven, Lori Boschert, Laura Kasak, Jennifer Gibson, Melissa Bauer, Lindsey Piech, Andrea Carter, Anna Schurk, Aaron Seidel, Cheri Remington, Terra Sleep, Mary Arnhart, Janet Katz, Conrad Rader, Will LaChance, Allison Wisniewski, Annie Fuller, Skylar Stanley, Crystal Harris, Anna Maria Gonzalez, Emily Althoff, Carla Maxwell, Stephanie Nordmann, Terence McCoy, Lisa Haddox and Sandra Williams.
+MINUTES
+The Library Board approved the September 27, 2021 minutes (Sanditz/Wang).
+PUBLIC COMMENTS
+Library patron Janet Katz, spoke to the board about the need for quiet places to read. She has not yet received a response from the Board. Ms. Katz was notified that a letter had been mailed. She requests a quiet place with books but not in a specified room at the Daniel Boone Branch.   Ms. Katz complimented the library for doing other nice things like diapers and free lunches; however, she is looking for change.
+TREASURER'S REPORT
+Laura Taylor gave the following report.
+Maintenance and Operating Fund Financial Statements:
+Revenue
+	District Taxes – In September, the Library District received tax revenue in the amount of $135,930.  Year-to-date, total tax revenue for 2021 is at 100% of the budgeted $58.5 million.
+Expense
+· Building Repair - Other – In September, the Library District incurred $45,408 in Building Repair – Other expenses.  Notable expenses are as follows:
+o $16,023 for underground fire line repair at Headquarters – Accurate Fire Protection Systems LLC
+o $8,470 for concrete work and installation of new accessibility curbs at Prairie Commons – Josh Noll Construction Co
+o $3,439 for basement sliding door repair at Mid-County – Door Service Incorporated
+· 2013/2016 Certificates of Participation – Interest Payment – In September, the Library District made the 2nd annual interest payment on the Certificates of Participation issued in April of 2013 and September of 2016. The payment amount totaled $1,864,234.
+·
+Capital Projects Fund Financial Statements
+Balance Sheet – 2016 Debt Issuance
+	Construction in Progress – Total Construction in Progress for September 2021 was $1,487,121.  The expenses included payments for:
+		Pay Application from Interior Construction Services for the construction performed through August 2021, at the Lynn Beckwith Jr. Administrative Building for $1,483,000.
+		Engineering professional services performed by Geotechnology at the Lynn Beckwith Jr. Administrative Building for $4,121.
+The Library Board approved the October 18, 2021 Treasurer's Report subject to audit (Barry/Wang).
+DIRECTOR  & CEO’s REPORT
+Library Update
+	The Dashboard report for September was shared.  Total circulation in September, 2021 was 38% higher than September, 2020.  Circulation remains below pre-pandemic levels; however, for the last four months we have circulated over a million items each month.  Juvenile books continue to be the Library’s top circulating item.  Information on PC usage, new patron registrations, virtual programming attendance and the most popular titles for the month are also included.  (Plan: Promote Literacy 1.1 and 1.2)
+	Ms. Sorth said the Library has returned to having “Masks Required” signs at all locations following the Public Health Order issued by the St. Louis County Department of Public Health on September 27, 2021. (Plan: Maximize Access 2.4)
+	She said the Library will be honored as the 2021 Champion of Change at the St. Louis Area Diaper Bank’s virtual gala on October 22. For the past several years, the Library has fostered a strong partnership with the St. Louis Area Diaper Bank by providing diapers to the community at our branches both before the pandemic and during our drive-thru service.  Almost 500,000 diapers and 56,000 period supply kits were distributed at four locations from April, 2020 – August, 2020.  As she mentioned previously, the Library now provides a monthly supply of diapers for interested patrons at five branches.  Period supplies are also available at these same locations. This new program began on September 1, 2021.  To date, we have distributed over 100,000 diapers and 666 period supply kits.  The Library also hosted a diaper drive during the month of September and collected over 40,000 diapers from patrons and employees.  These have been delivered to the Diaper Bank.  They were incredibly thankful for the diaper drive. (Plan: Sense of Community 2.1)
+	Ms. Sorth said the History and Genealogy department is researching several possibilities to digitize some of its collections, including school yearbooks and a large portion of the documents and records held on microfilm.  Moving these items to a digital format would provide greatly increased access to the materials and reduce the need for shelving storage. (Plan: Maximize Access 1.1)
+	The I Voted sticker contest closed on October 15.  The judging panel composed of Library employees and representatives from the Board of Elections will be reviewing the entries to determine the finalists.  The general public will be invited to vote for their favorite entries among the finalists.  The winners will have their designs printed as stickers for distribution at elections in 2022. (Plan: Sense of Community 2.3)
+	She said the Little Readers Festival took place on Saturday, September 25. Three virtual programs were held with a total of 159 attendees. The branches and HQ distributed 1700 take home bags to children ages 0-5. Each bag included two books and an early literacy brochure highlighting Library resources. (Plan: Promote Literacy 1.2)
+	In August, the Library was selected as a Partner Library for NASA@ My Library. Programming will take place around three major events: James Webb Space Telescope Launch (November 2021), James Webb Space Telescope First Image (May 2022) and Collaborative Summer Library Program with an Oceanography theme (Summer 2022). For the first event, Ms. Sorth said the Library will be hosting three virtual programs in celebration of the launch, including the James Webb Space Telescope Launch-What Comes After Hubble presented by the St. Louis Astronomical Society and two special story times. The Library will also distribute take-home activity bags to our younger patrons on November 15.  The bags will include a book, foam rocket, information on the telescope lending program and all the supplies to do a balloon rocket launch at home. In December, the Library will join the NASA@ Your Library Challenge through the online platform, Beanstack that includes reading and activities. (Plan: Promote Literacy 3.4)
+	She said Adult Services Specialist, Sarah Steele, is again offering her popular Readers’ Advisory employee training in a virtual format via Zoom. Over 70 employees from all around the system are signed up to attend one of the live sessions of Intro to Readers’ Advisory.  The recording of this training will be available for viewing later so that all employees can learn at a time that’s convenient for them. In a 2021 survey on readers’ advisory services sponsored by Library Journal, 92% of respondents said that readers’ advisory was important or very important to their work, but only 52% had received training from their library. We are on the leading edge by preparing our staff to provide this core library service. (Plan: Sense of Community 1.3)
+	The Library, Ms. Sorth said, continues to provide vital services to the region.  Here is a chart that shows our accomplishments as of October 14, 2021.  Thanks to Emily Althoff, Public Services Administrator, for continuing to compile these important statistics.  Of note this month are the nine attendees for the “Congress in your Neighborhood” office hours presented by Congresswoman Bush’s staff and the 68 flu shots administered to the public at Grant’s View.  The current chart below reflects data for 2021. (Plan: Sense of Community 2.1)
+	She said the Library has started lending DVDs to the St. Louis County Justice Center for the use of those residing at the facility. Periodically, DVDs will be returned and other titles will be provided in order to keep a fresh collection available. (Plan: Sense of Community 2.2)
+	History and Genealogy sent the last portion of the Joy Reisinger Collection to the bindery. It has been six years since the library purchased the collection back in 2015 from Sparta, Wisconsin. The collection consists of about 1,400 items of books and documents collected by the late Joy A. Reisinger, a certified genealogist. The collection includes many books and publications important to those researching French Canadian history and genealogy. Many of these items are rarely found in libraries, and they complement the collection of materials already held at St. Louis County Library. (Plan: Promote Literacy 1.1)
+	Ms. Sorth said there are several notable events coming up related to the Library’s services for small businesses and entrepreneurs.  Jennifer Gibson, Manager of Reference, will be presenting at the Internet Librarian conference with Betsey Suchanic from the Urban Libraries Council about the Library’s Small Business Value Calculator and Return on Investment.  Angela Brooks, Small Business and Employment Resources Coordinator, collaborated with Mid Continent Public Library to create a virtual Veterans Entrepreneurship Celebration which will take place on November 11. Angela is also planning the 2nd Virtual Small Business & Nonprofit Expo December 6-10, 2021. Next year (2022) will mark the 10-year anniversary of offering targeted business services and holding the Small Business and Nonprofit Expo at the Library.  She has also been invited to join the Advisory Board for Harris-Stowe State University's Minority Entrepreneurship Collaborative Center for Advancement. (Plan: Promote Literacy 3.2)
+	The Bookmobiles and Mobile Services Department has resumed all pre-pandemic activities. This includes in-person service to schools, preschools and senior centers, in-home daycares and Justice Center delivery, homebound mailing service and special outreach events. (Plan: Maximize Access 1)
+	Ms. Sorth reported that Cataloging and Processing have started preparing 80 Chromebooks for circulation. When these are added, the library will offer a total of 285 Chromebooks for patron use.  A branch recently passed on the following comment from a patron about the circulating Chromebooks,
+		A patron checked out our last non-holdable Chromebook this morning and shared how these Chromebooks and hotspots have "saved her from destitution." She shared that she lost her job and with it the company provided laptop during the pandemic. Library Chromebooks and hotspots have allowed her to start and run a small business from home without the overhead of internet and computer costs. She was quite emotional as she expressed her appreciation.
+The department employees are also working on children's materials ordered by the Acquisitions department with Citi grant funds. Over 600 books will rotate in and out of the Head Start center, as well as activity kits created by Youth Services. (Plan: Promote Literacy 3.3 and Promote Literacy 2.1)
+	There were many mentions of the St. Louis County Library in the local media in print, radio and television.  Those articles are attached. (Plan: Maximize Access 3)
+	Pictures from various events and programs that have taken place over the last month were shown, including:  Raise a Reader Kit Assembly, Green Team Cleanup at HQ, Grab & Go Meals at Natural Bridge, Neighborhood Service Center Launch at Lewis & Clark and Rock Road, International Institute Donation, and Pop Up Halloween Crafts at Florissant Valley.  (Plan: Promote Literacy 3.4 and Sense of Community 2.1)
+Library Administrative Updates
+	Ms. Sorth said that Hicks-Carter-Hicks has completed the Community Conversations survey of the community as of September 10. They are tabulating all of the data and writing their final report.   This report will be presented at the November Board Meeting. (Plan: Sense of Community 1.1)
+Library Foundation
+	Ms. Sorth said that the Library is preparing for the Adam Schiff author event scheduled for October 29, 2021.  Jason Kander will be the moderator for the event and will be doing an onstage interview with Mr. Schiff. The event has sold out at 325 patrons.  Patrons will be socially distanced and masks will be required. (Plan: Promote Literacy 1.2)
+	Popular author, Mitch Albom, will do an in-person author event presentation on November 6, 2021.  Again, the event will be socially distanced and masks will be required in the HQ main reading room.  This event is nearly sold out at over 270 tickets sold to date. (Plan: Promote Literacy 1.2)
+	The Foundation Fall Annual Appeal will be mailed on October 15, 2021.  This mailing will coincide with the Match Appeal mailing.  The two programs will target different audiences.  The Foundation Fall Friends Appeal, typically brings in the largest amount of the Friends revenue for the year.
+Author Events (Plan: Promote Literacy 1.2)
+The Library has Livestream author events and recordings with the following authors. They are posted on our website as well as the HEC Facebook link - facebook.com/hectv and then archived at hecmedia.org. We are promoting on our social media and sending eblasts that direct patrons to the HEC sites. HEC has also started simultaneously premiering the virtual author events on their TV channel to expand access to those individuals who do not have reliable internet access. (Plan: Promote Literacy 1.3)
+October and November Events
+	David S. Reynolds, author of "Abe: Abraham Lincoln in His Times," Monday, October 18, 2021, 7:00 p.m. Virtual on www.facebook.com/STLCoLibrary.  In conversation with Renowned Historian HW Brands.
+	Cynthia Branigan, author of "The Last Diving Horse in America: Rescuing Gamal and Other Animals--Lessons in Living and Loving," Wednesday, October 20, 2021, 7:00 p.m. Virtual www.facebook.com/STLCoLibrary
+	Todd Doughty, author of "Little Pieces of Hope: Happy-Making Things in a Difficult World," Thursday, October 21, 2021, 7:00 p.m.  Virtual on www.facebook.com/STLCoLibrary
+	Ben Wilson, author of "Metropolis: A History of the City, Humankind’s Greatest Invention," Monday, October 25, 2021, 7:00 p.m.  Virtual on www.facebook.com/STLCoLibrary. In conversation with Robert M. Lewis, Assistant Professor of Urban Planning & Development - Saint Louis University.
+	Rebecca Schwarzlose, author of “Brainscapes: The Warped, Wondrous Maps Written in Your Brain--and How They Guide You," Wednesday, October 27, 2021, 7:00 p.m. Virtual on www.facebook.com/STLCoLibrary
+	SOLD OUT Ticketed Event–An Evening with Congressman Adam Schiff.   Adam Schiff, author of “Midnight in Washington,” Friday, October 29, 2021, 7:00 p.m., Headquarters.  Doors open at 6:00 p.m.  In conversation with Jason Kander, former Missouri Secretary of State and President of Veterans Community Program.
+	Heather Clark, author of "Red Comet: The Short Life and Blazing Art of Sylvia Plath," Tuesday, November 2, 2021, 7:00 p.m. Virtual on www.facebook.com/STLCoLibrary
+	Jorge L. Contreras, author of “The Genome Defense: Inside the Epic Legal Battle to Determine Who Owns Your DNA," Thursday, November 4, 2021, 7:00 p.m. Virtual on www.facebook.com/STLCoLibrary. In conversation with Dr. Jessica Mozersky - Assistant Professor, Washington University Bioethics Research Center
+	Ticketed Event–An Evening with Bestselling Novelist Mitch Albom.  Mitch Albom, author of “The Stranger in the Lifeboat,” Saturday, November 6, 2021, 7:00 p.m., Headquarters.  Doors open at 6:00 p.m.
+	Teen Event: Dustin Thao, author of “You’ve Reached Sam,” Sunday, November 7, 2021, 2:00 p.m. Virtual on www.facebook.com/STLCoLibrary
+	Dan Jones, author of "Power and Thrones: A New History of the Middle Ages," Tuesday, November 9, 2021, 7:00 p.m. Virtual on www.facebook.com/STLCoLibrary
+	Jerad Alexander, author of "Volunteers: Growing Up in the Forever War," Wednesday, November 10, 2021, 7:00 p.m. Virtual on www.facebook.com/STLCoLibrary.  In conversation with acclaimed novelist Elliot Ackerman.
+	IN-PERSON - Acclaimed Military Historian John C. McManus, author of “Island Infernos: The US Army’s Pacific War Odyssey, 1944,” Friday, November 12, 2021 7:00 p.m., Headquarters
+	IN-PERSON - Betsy Cohen, author of “Welcome to the U.S.A. - You’re Hired: A Guide for Foreign-Born Job Seekers,” - Monday, November 14, 7:00 p.m. – Headquarters
+	Linda Greenhouse, author of "Justice on the Brink: The Death of Ruth Bader Ginsburg, the Rise of Amy Coney Barrett, and Twelve Months That Transformed the Supreme Court," Tuesday, November 16, 2021, 7:00 p.m. Virtual on www.facebook.com/STLCoLibrary In conversation with Missouri Supreme Court Justice Mary Russell
+	H.W. Brands, author of "Our First Civil War: Patriots and Loyalists in the American Revolution," Thursday, November 16, 2021, 7:00 p.m. Virtual on www.facebook.com/STLCoLibrary in conversation with historian and podcast host Alexis Coe.
+	Blair Braverman and Quince Mountain - Iditarod Racers, authors of "Dogs on the Trail: A Year in the Life," Monday, November 22, 2021, 7:00 p.m. Virtual on www.facebook.com/STLCoLibrary
+	Judith Mackrell, author of "The Correspondents: Six Women Writers on the Front Lines of World War II," Tuesday, November 30, 2021, 7:00 p.m. Virtual on www.facebook.com/STLCoLibrary
+OLD BUSINESS
+NONE
+NEW BUSINESS
+CONSTRUCTION UPDATE
+Steve Hunter, Assistant Director of Operations, delivered the construction report. Mr. Hunter reported that painting has commenced at the Beck Building.  There is also work being done on drywall, electrical and the exterior granite and asphalt.
+In other news, Steve shared designs for the children’s area and the event space.
+ILS PRESENTATION
+Deputy Director, Eric Button delivered an informational presentation on the plans for merging the ILS with St. Louis Public Library.  After his presentation, Deborah Patterson requested a demonstration of the integrated catalog in a future meeting.
+HUMAN RESOURCES LEGAL SERVICES
+Kristen Sorth delivered the following report.
+A request for qualifications (RFQ) for Human Resources Legal Services was sent to 38 legal firms in the St. Louis area.  The firm that is selected will be responsible for counseling Library staff on employment issues relating to various laws and regulations and to provide counsel on challenging employee relations.  The law firm will also provide pension and benefits services.
+The Library received nine responses. The responses were individually reviewed and ranked by Kristen Sorth, Laura Taylor, and Mary Arnhart.  The team independently reviewed each organization’s qualifications and selected the three highest ranked firms per the Library’s Policy II for Professional Services in the following order – Constangy, Brooks, Smith, Prophete LLP, McMahon Berger and Husch Blackwell.  The fee envelopes were opened after the rankings were reported.  The Policy states that services shall be provided by the firm that demonstrates competence is most qualified and has fair and reasonable fees.  Constangy, Brooks, Smith, Prophete LLP was selected as the top firm.   We conducted an interview and felt they were overall the best qualified firm in offering HR legal services and pension and benefits services.  Geoff Gilbert and Dean Kpere-Daibo have provided legal services to the Library for over 10 years at their previous law firm.
+The principal contacts and the associated fees for the top three ranked firms are below:
+Constangy, Brooks, Smith, Prophete LLP
+Geoff Gilbert and Dean Kpere-Daibo (Partners) $370/hour
+Katie Rhoten (Associate) $275/hour
+Dana Latham Thrasher (Partner, Employee Benefits Practice Chair Group) $450/hour
+McMahon Berger
+James N. Foster, Jr., Michael Powers, and Brian O’Neal (Partners) $265/hour
+Greta Morino and Chelsea Betcher (Associates) $205/hour
+Husch Blackwell
+All Attorneys $400/hour
+Library Administration recommends the selection of Constangy, Brooks, Smith, Prophete LLP for Human Resources Legal services and that the Board authorize the Director to enter into and execute a contract to that effect.  The Library has determined that Constangy is the best qualified firm in accordance with the Library District’s Policy II for Professional Services, which lists the following evaluation factors: (a) the specialized experience and technical competence of the firm with respect to the type of services required; (b) the capacity and capability of the firm to perform the work in question, including specialized services, within the time limitations required; (c) the past experience with references for comparable work; and (d) insurance required such as professional liability.
+The Library Board approved the request. (Barry/Patterson)
+ADJOURNMENT
+A motion was made by Johnny Wang to adjourn and Deborah Patterson seconded.  All gave voice vote for approval.  The meeting ended at 4:18 p.m.
+Respectfully submitted,
+________________________
+Joan Barry, Secretary                                                                                               Date

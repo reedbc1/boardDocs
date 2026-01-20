@@ -1,0 +1,180 @@
+{
+  "name": "Regular Meeting",
+  "description": "Library Board",
+  "unique": "B8HRED65986F",
+  "date": "2019-12-17T00:00:00Z"
+}
+
+---
+
+ST. LOUIS COUNTY LIBRARY DISTRICT
+MEETING OF THE BOARD
+HEADQUARTERS BRANCH
+1640 SOUTH LINDBERGH
+TUESDAY, DECEMBER 17, 2019
+3:00 p.m.
+The regular meeting of the Board of the St. Louis County Library District was held at the Headquarters Branch, 1640 S. Lindbergh, St. Louis, MO 63131, Tuesday, December 17, 2019.   The agenda was posted in all branches of the Library District at least 24 hours before the meeting.
+ATTENDANCE:
+Members present:
+Dr. Lynn Beckwith, President
+Johnny Wang, Vice President, via telephone
+Laura Horwitz, Secretary
+Ted Sanditz, Treasurer
+Joan Barry, Member
+ADMINISTRATORS AND GUESTS ATTENDING:
+Eric Button, Deputy Director, Barbara Turkington, Assistant Director, Development; Kris Mooney, Assistant Director, Administration; Gib Van Cleve, Assistant Director, ITS; Steve Hunter, Assistant Director, Operations; Scott Kolath, Landmark Associates; Lisa Stump, Lashly and Baer; David Hatfield, Frontenac resident and Erin Achenbach, St. Louis Call Newspapers.
+OTHER ATTENDING:
+Ross Brand, Anna Schurk, Laura Kasak, Heather Neill, Tiffany Davis, Nicole Walsh, Deanna Davis, Anne Arthur, Jake Beard, Scott Holl, Sri Upadhya, Steve Hibbler, Jackie Hamilton, Kathy Mueller, Anna Maria Gonzalez, Katie Keeven, Rachel Nowell, Terra Baca, Amy Gibbons, Sarah Brown, Chasidy Allen, Steve Hunter, Darryl Wallace, Amy Hanaway, Jake Eubanks, Crystal Harris, Mary Arnhart, Keir Haug, Lori Boschert, Stephanie Nordmann, Lisa Haddox, Marie Conlin, Dan Lucas and Sandra Williams.
+Dr. Beckwith called the meeting to order at 3:00 p.m.   Attendance was taken. A motion was made by Joan Barry to adjourn open meeting and to convene Executive Session to discuss legal matters (Section 610.021(1); and personnel (Section 610.021 (3) and (13). Ted Sanditz seconded.  All gave voice approval.
+Dr. Beckwith reconvened the meeting at 3:40 p.m. following Executive Session.  Dr. Beckwith asked that the record reflect that Director Sorth was ill and Deputy Director Eric Button was conducting the meeting.
+APPROVAL OF MINUTES
+The Library Board approved of the November 25, 2019 minutes (Barry/Horwitz).
+PUBLIC COMMENTS
+There were no patrons who wished to speak before the Board.
+TREASURER'S REPORT
+Kris Mooney, Assistant Director of Administration presented.
+Maintenance and Operating Fund Financial Statements:
+Revenue
+	Other Grants – In November, the District received $60,000 in support from the Library’s Foundation. The transfer of funds to the Library District included the following:
+		$30,000 for the William T. Kemper children’s library at Mid-County
+		$20,000 for the Assigned for Employee Relations Fund
+		$10,000 for Summer Reading Club
+Expense
+	Collection Maintenance Supplies – In November, Radio-Frequency Identification (RFID) tags were purchased for $21,980 from Bayscan Technologies.  These supplies are replenished semi-annually and are placed on library materials for inventory and anti-theft purposes.
+Expense
+	Building Operations – Rental – In November, the District made a payment of $56,068 to St. Louis County for 2018 and 2019 real estate taxes on the Eureka Hills property, as per the lease agreement.
+Capital Projects Fund Financial Statements
+Balance Sheet – 2016 Debt Issuance
+	Construction in Progress – Total Construction in Progress for November 2019 was $373,765. The expenses included payments for:
+		Demolition, site clearing and grading costs for the Genealogy Library & Administrative Library Building – $326,820
+		Construction costs for Meramec Valley – $12,405
+	Facilities Master Plan Administrator - $32,735
+The Library Board approved the December Treasurer's Report subject to audit (Barry/Wang).
+DIRECTOR'S REPORT
+Eric Button, Deputy Director, presented the Director’s Report in the absence of Kristen Sorth.
+Library Update
+	He said the Dashboard contains a variety of statistical information for the Library and that information was shared with the Board. The report includes information about circulation, visits, programming and pc usage.  Circulation is up 9% from this same time last year.  At the end of November, circulation reached 15 million items for the year.  This is only the second time we have reached this number for circulated items.  The last time was in 2013 before the branches began to close for construction.  He said the Library is on track to reach 16 million circulated items for the year which would be a first for the Library District.  This month the Dashboard shows statistical trends for programming in the month of November from 2017 – 2019.  In addition, there is information on eMedia circulation by type and platform.  eBooks are the most popular format with 1,147,278 checkouts and renewals from January – November of this year.  Overdrive is the most popular format with 178,481 users.  (Plan: Maximize Access 2)
+	The Small Business and Nonprofit Expo took place at HQ on Friday, December 6.  The Library had 20 local organizations that support small business, including the Small Business Administration, Missouri Small Business and Development Centers, Grace Hill, Legal Services of Eastern Missouri, Justine PETERSEN, and more.  The Library offered 11 different breakout sessions on starting a nonprofit, searching for demographics, creating marketing lists, and intellectual property law.  The Library also offered a free legal clinic for entrepreneurs.  Around 175 people attended those breakout sessions and attended the Expo "hall" in the Auditorium.  We distributed an optional survey to learn more about the people using our business services.  The vast majority of our respondents were female, 54% were from underrepresented racial groups, and 83% hold an associate's degree or higher.  The average age of an attendee was 45. (Plan: Promote Literacy 3.2)
+	Many branches serve as polling places on Election Day.  The Board of Elections is conducting a brief site survey of their polling locations in preparation of the new voting equipment that will be available in March 2020.  The survey is taking place from December 9 - December 20.  A team of two Board of Election employees will stop by the branches during that time period to review the meeting room where voting will take place. (Plan: Maximize Access 2.2)
+	Kristen Sorth and I met with Stan Shoun, CEO of Ranken Technical College.  We discussed opportunities to partner and Stan gave us a tour of the very impressive campus.  We plan to continue the dialog with the college. (Plan: Sense of Community 2.1)
+	Fontbonne University is working with the Council of Independent Colleges on The Bosnia Memory Project.  Fontbonne would like to partner with the Library on several programs and on an exhibit that would take place at Cliff Cave in 2020.  The project is dedicated to establishing an enduring record of Bosnian genocide survivors, especially those living in metropolitan St. Louis. The Bosnia Memory Project has been awarded a $100,000 matching grant from the
+National Endowment for the Humanities.  Cliff Cave was selected due to its proximity to the Bosnian immigrant population in St. Louis. (Plan: Sense of Community 2.2)
+	Plans are underway for a story book walk in Chesterfield.  The City will install a series of fixtures that each display a 2-page spread from a children's story book. The pages of the book are placed in order along a walk through a recreational area near the Sachs Branch.  Those following the walk will end up near the Library where they can spend time in the garden and visit the branch.  The Library will provide three copies of six titles per year to be displayed along the walk.   The displays will include the Library’s logo.
+	He announced that the Bookmobile and Mobile Services Department is starting a new program that addresses concerns regarding loneliness for teens and older adults.  Loneliness is getting more and more attention from mental health experts as something that can impact our physical health. Teens and older adults have been identified as two groups that experience loneliness at higher rates.  Receiving mail and doing a good deed for another person are two ways that can help people feel less lonely. To that end, the department is interested in starting a new program that would engage teens to create a piece of art, card, poem, short story, or craft that would be given to a senior citizen through a bookmobile or homebound service. Teens could do this as volunteer hours, a Teen Advisory Group project, or through an independent program. It is possible that the seniors might want to create things to send back to the teens.  Teens won't be matched in a one-on-one program with a senior and steps would be taken to ensure privacy is protected. (Plan: Sense of Community 2.3)
+	As mentioned last month, the Library’s Winter Reading Challenge kicked off December 1 and runs through January 31, 2020.  Last year over 26,000 people participated in the club, which offers fun programs and reading opportunities for the whole family. Participants can track their reading online or by using a paper log, available at all branches and HQ.  The Library is sponsoring a Winter Gear Drive benefitting the Little Bit Foundation during the Winter Reading Challenge.  Employees and patrons may donate new hats, gloves or scarves from December 1 – January 31.  Little Bit has placed bins to collect the donations at every branch and HQ.   (Plan: Promote Literacy 1.2)
+	Later in the meeting, the Library Board will review the final 2020 Library Budget, which was discussed at length at the November Board Meeting.  In an effort to remove obstacles and barriers to library service, Library Administration has proposed moving to a "fines free" approach and if approved will no longer charge overdue fines as of January 1, 2020.  This move follows a trend at the Library that started with the elimination of overdue fines on children's materials and continued with the installation of automatic renewals.  Going to a fines free approach will increase library usage and greatly reduce barriers to library service.  We are not alone in this approach.  Many large library systems across the country have already made that shift.  If approved, we will have a brief soft launch followed by a broader announcement in January.  We will continue to assess charges for lost or damaged items. (Plan: Maximize Access
+1.1)
+	Mr. Button said the Library will offer new financial literacy programming in 2020 in partnership with the non-profit, Foundation for Financial Education. The program will be offered at many branches.  The Foundation for Financial Education is a nonprofit organization dedicated to spreading financial literacy by providing free educational resources directly to the public.  Programs will include topics such as College Planning Strategies, Retirement Planning, Taxes and the IRS, Financial Pitfalls, etc.   (Plan: Sense of Community 2.2)
+	There were mentions of the St. Louis County Library in the local media in print, radio and television.  Those articles were shared. (Plan: Maximize Access 3)
+	A number of great photos were displayed from several programs and events in November and December, including:  We are St. Louis: Native Americans at Grand Glaize, Native American Storytelling at HQ, Baby Art Crawl at Grant’s View, Author Mo Rocca at HQ,
+Teen After Hours: Ugly Christmas Sweaters at Daniel Boone, and Candy Wrapper Creations at Prairie Commons.  (Plan: Promote Literacy 3.4 and Sense of Community 2.3)
+Library Administrative Updates
+	Mr. Button said that the Pension Board Members will complete the required four hours of yearly pension training by participating in an online webinar presented by McCloud Consulting Group.  New Pension Board Members must participate in an additional 2 hours of training, which will be provided in early 2020.
+	The Clark-Fox Foundation presented information to Library Managers and Assistant Managers at the quarterly Managers’ Meeting.  Topics included the programs and initiatives of the Foundation that are relevant to Library programs and services including Blueprint 4Summer, Blueprint 4Summer College Prep and Blueprint for Careers as well as ecosystem mapping and their mass incarceration community education initiative.
+	He announced that Erin Magner, Manager of Adult Services, was selected to participate in Focus St. Louis’ Impact Fellows program.  The Impact Fellows have spent the past four months immersing themselves in the region’s workforce development ecosystem, with a focus on justice-involved individuals.  On December 13, the cohort presented the projects they have selected to work on over the next five months.  Eric Button and Kristen Sorth attended the presentations. (Plan: Sense of Community 1.3)
+	The Library has been notified that two staff proposals have been selected for presentation by two professional library organizations.  Branch Managers, Rachel Nowell (Florissant Valley) and Laura Kasak (Daniel Boone), along with Assistant Branch Manager, Anne Bradley (Daniel Boone) will present a program about employee training at the American Library Association’s annual conference in 2020.  In addition, Waller McGuire, the Director of St. Louis Public Library, and Kristen will present a webinar for the Library Leadership and Management Association regarding PR and marketing for public libraries. (Plan: Maximize Access 1.3)
+Library Construction and Facility Update
+	He reported that the development of the Grant's View Branch included the issuance of a temporary access easement into the Library parking lot from the Grant's View subdivision. This was intended to remain in place until the completion of the Musick Road project, which would create a new branch entrance directly from Musick Road. With the completion of the Musick Road project in the fall, the Grant's View Homeowners Association approached us about terminating the temporary easement.  Lashly Baer has drafted an easement termination document and it is currently being reviewed by the Homeowners Association. (Plan: Maximize Access 2)
+	The main stairs at the Daniel Boone Branch were incorrectly installed during construction and will be replaced in January.  The process will take several weeks.  There is another set of stairs and an elevator in the branch that may be used during construction.  (Plan: Maximize Access 2.4)
+Library Foundation
+	The St. Louis County Library Foundation approved their 2020 budget at the December Board Meeting.   Library programs to be funded by the Foundation include an expansion of partnerships with the St. Louis Area Diaper Bank, Oasis Intergenerational Tutoring, and Eye Thrive as well as support of the Teen Readers’ Festival, the Meramec Valley Community Garden, and WiFi hot spot lending among others.
+	The Foundation will sponsor a shredding event on Saturday, March 28, 2020 at HQ.  Shredding events allow community members to safely and conveniently dispose of their personal files and keep their private information safe.  A mobile shred truck will be stationed at HQ so community members can bring in their documents.  It is a great way to help the community. The program will be free but those attending will be encouraged to make a donation to the St. Louis County Library Foundation.
+	2019 was a very successful year for the Library’s popular author event program.  This year the Library hosted 108 authors and 19,620 people attended the author events.
+	The Foundation supported nine Alison Grants in 2019 for a total of $15,234.  Since 2014, the Foundation has awarded 50 grants totaling $70,385.  Many of the following 2019 grants were pilots and are included in the 2020 Library Budget.
+		Zen Den: a phone free zone to encourage t(w)eens to interact in a calming environment at the Weber Road branch
+		Hip Hop Architecture Camp: one week introducing middle school kids to architecture, urban planning and creative place making through the lens of hip hop culture at Natural Bridge.
+		Interactive arts and crafts programming with sewing machines at Indian Trails
+		Star Wars Fan Festival for all ages at Grant’s View
+		Tween Program Series, Fandom Crafts, at Oak Bend
+		Discovery Zone refresh at Florissant Valley
+		Binocular Lending Program
+		The expansion of MetroMarket visits to Natural Bridge, Rock Road and Indian Trails
+		ACT Prep Course at Weber Road
+Author Events January and February (Plan: Promote Literacy 1.2)
+Mr. Button shared the following upcoming author events.
+	Mackenzi Lee, author of “Loki: Where Mischief Lies,” Thursday, January 9, 2020, 6:30 p.m., Headquarters, Doors open at 5:30 p.m.  Presented by the Reading Garden Event Series.
+	Daniel Levitin, author of “Successful Aging,” Tuesday, January 14, 2020, 7:00 p.m., Headquarters.
+	Brad Taylor, author of “Hunter Killer,” Thursday, January 16, 2020, 7:00 p.m., Headquarters
+	Beatriz Williams, Lauren Willig and Karen White, authors of “All the Ways We Said Goodbye,” Wednesday, January 22, 2020, 7:00 p.m.
+	Ticketed Event – Nicholas Kristof and Sheryl WuDunn, authors of “Tightrope,” Friday, January 24, 2020, 7:00 p.m., Headquarters
+INDIVIDUAL TICKET—$30. Admits ONE and includes one copy of “Tightrope” OR PACKAGE TICKET—$35. Admits TWO and includes one copy of “Tightrope”
+	Andrew Wanko, author of “Great River City,” Monday, January 27, 2020, 7:00 p.m., Headquarters
+	Lisa Gardner, author of “When You See Me,” Friday, January 31, 2020, 7:00 p.m., Headquarters
+	Ticketed Event - Joseph “Rev Run” and Justine Simmons, authors of “Old School Love,”
+Saturday, February 1, 2020, 7:00 p.m., Headquarters
+INDIVIDUAL TICKET $30 (Admits ONE and includes one copy of “Old School Love”) OR
+PACKAGE TICKET $35 (Admits TWO and includes one copy of “Old School Love”)
+	Jennifer Chiaverini, author of “Resistance Women,” Wednesday, February 5, 2020, 7:00 p.m., Headquarters
+	Fred Kaplan, author of “The Bomb,” Thursday, February 6, 2020, 7:00 p.m., Headquarters
+	Valerie Jarrett, author of “Finding My Voice:  My Journey to the West Wing and the Path
+Forward,” Friday, February 07, 2020, 7:00 p.m., Headquarters
+	Jerry Mitchell, author of “Race Against Time,” Monday, February 10, 2020, 7:00 p.m., Headquarters
+	Gabriel Bump, author of “Everywhere You Don’t Belong,” Tuesday, February 11, 2020, 7:00 p.m., Headquarters
+	Kate Winkler Dawson, author of “American Sherlock,” Thursday, February 13, 2020, 7:00 p.m. Headquarters
+	Charles Finch, author of “The Last Passenger,” Wednesday, February 19, 2020, 7:00 p.m., Headquarters
+	Amy Greenberg, author of “Lady First: The World of First Lady Sarah Polk,” Thursday, February 20, 2020, 7:00 p.m., Headquarters
+	Steve Berry, author of “The Warsaw Protocol,” Monday, February 24, 2020, 7:00 p.m., Headquarters
+	Fergus Bordewich, author of “Congress at War,” Wednesday, February 26, 2020, 7:00 p.m., Headquarters
+OLD BUSINESS
+2020 BUDGET
+Kris Mooney, Assistant Director of Administration, presented.
+The 2020 Budget was presented at the November Library Board meeting as an informational item to give the Library Board time to review the Budget document, ask questions and for Administration to respond accordingly.
+The Library Board approved the 2020 Library Budget, which will allow the Library to operate in 2020 (Barry/Horwitz).
+NEW BUSINESS
+STRATEGIC PLAN
+Marie Conlin, Library Planner, presented information on the Strategic Plan. The Board was given the 2019-2022 St. Louis County Library Strategic Plan on October 15, 2018 and it was approved. Following this memo, you will find a copy of the St. Louis County Library 2019-2022 Strategic Plan. Ms. Conlin highlighted some of the 2019 activities and previewed some of the 2020 activities in support of the plan.   She reported that there were 135 activities for 2019 and that 60 additional ones were planned for 2020.
+SHARED SERVICES AGREEMENT
+Jackie Hamilton, Manager, Development presented.
+The Shared Services Agreement defines the level of support provided by the Library to the Foundation and is a requirement of the Affiliation Agreement between the Library and the Foundation. In addition, the Foundation Board agrees to reimburse the Library for up to 100% of the salaries for the Manager, Development and the Friends Coordinator who utilize 100% of their time in performing services for the Foundation. The attached agreement reflects the level of support and was approved by the Foundation Board at their November 19, 2019 meeting.
+The Library Board approved the annual Shared Services Agreement. This agreement supersedes and thereby terminates the Shared Services Agreement dated January 1, 2019. The term of this new agreement will begin on January 1, 2020 and terminate on December 31, 2020 (Barry/Horwitz).
+PHONE LINE CONTRACT RENEWAL
+Gib Van Cleve, Assistant Director of ITS, presented.
+The Library uses AT&T analog phone lines across the District for fire and burglar alarm services and elevator alarm services.  The devices that make up these services require older phone service also known as “Plain Old Telephone Service” or POTS lines. AT&T is a sole source provider of POTS lines.  Our AT&T contract for POTS lines is due for renewal.
+The Library recently reduced the number of POTS lines in use across the District from 72 to 39 lines.  If we renew a two-year contract with AT&T we can lock in a new base rate of $33 per line per month.  If we choose not to renew our contract and go with month-to-month billing the average line rate would increase to $157 per line per month.
+			POTS Lines
+			Line Monthly Cost
+			Monthly Total
+			Old Contract
+			72
+			$27
+			$1,944
+			New Contract
+			39
+			$33
+			$1,287
+			 No Contract
+			39
+			$157
+			$6,123
+The  Library Board approved of a new two year contract with AT&T for the period of December 2019 thru November of 2021 at the base line rate of $33 per POTS line per month and that the Board authorize the Director to enter into and execute a contract to that effect (Sanditz/Barry).
+MANAGED PRINT
+Kris Mooney, Assistant Director of Administration, presented.
+Currently, the Library District owns over 175 printers and over 40 copiers throughout all 19 branches and headquarters. The printers and copiers are maintained through a managed print services agreement. The current provider of these services is GFI Digital. Their 3-year contract ends in late December, 2019.  The managed print service charges a per copy price in return for regular maintenance, emergency maintenance, toner replacement, and replacement of failed devices.
+The Library District issued a RFP on November 13 and RFPs were sent to three service providers including one MBE/WBE firms listed in the directory of Missouri Office of Equal Opportunity. In addition, the RFP was posted on the Library’s website. Responses were due December 11, 2019. The District received two responses. Below are the responders and the monthly and annual cost proposed:
+Marco Technologies submitted the lowest cost proposal, however, they are unable to support the Library’s Ricoh copiers as required in the RFP. If selected, the District would have to contract with another vendor to support those machines. As such, Marco Technologies cannot satisfy the requirements of the Scope of Work in the RFP, and their proposal is disqualified as non-responsive.
+In accordance with the Library’s Purchasing Procedures Policy I, the Library Board approved the lowest and best proposal from GFI Digital as the Library District’s managed print service provider, and that the Board authorizes the Library Director to enter into and execute a contract with GFI Digital. GFI Digital proposed a rate hold for their services (Horwitz/Barry).
+SECURITY SERVICES
+Steve Hunter, Assistant Director of Operations, presented.
+The Library District currently contracts with Hudson Services to provide off-duty police officers at seven branch locations (Florissant Valley, Indian Trails, Lewis & Clark, Natural Bridge, Prairie Commons, Rock Road, and Weber Road). The contract we have with Hudson specifies that branches may only be staffed with St. Louis County police officers.
+To date in 2019, officers have been scheduled to work 10,220 hours across the seven branches. Due primarily to staffing availability issues, 682 hours (6.7%) have not been covered. Administration has discussed this in depth, repeatedly, with Hudson. All parties understand the importance of having all shifts filled.
+Administration believes that the problem of non-coverage would be reduced if officers from select municipal police departments could be utilized to augment the staffing pool. Unfortunately that is not an option given the explicit language in the current contract, which only allows the use of officers from the St. Louis County Police Department.
+As a result, the Library staff determined the best course of action would be to terminate the current contract and award a new contract that allowed select municipal police force participation. Administration issued an RFP on November 4, 2019 for security services in six branches (officer staffing at Prairie Commons has been discontinued) that could be staffed either from St. Louis County or select municipal police forces. The RFP states that municipal forces are required to be fully accredited by the Missouri Police Chiefs Association (MPCA) or The Commission on Accreditation for Law Enforcement Agencies (CALEA). The RFP was posted on our website, an advertisement was placed in the Post-Dispatch, and seven local firms were notified via email.
+Bids were due November 15, 2019. Four firms responded. A selection committee of Eric Button, Dan Lucas, and Steve Hunter reviewed the responses and elected to interview two firms. After the interviews, the firms were ranked and the committee unanimously selected Hudson Services as the lowest cost and best provider.
+			Firm
+			Hourly Rate
+			Hudson Services
+			$59.00
+			Gateway Security Service
+			$63.83
+			GardaWorld
+			$63.85
+			Securitas Security Services USA Inc.
+			$68.25
+Hudson Services has offered to perform the services at an hourly rate of $59.00, a price that is $2.00/hour less than their current contract.
+Library Administration recommends that the Library Board approve the selection of Hudson Services to provide off-duty police officers at six branch locations, and that it authorize the Director to enter into and execute a 3-year contract to that effect (Barry/Wang).
+ADJOURNMENT
+Joan Barry motioned to adjourn open meeting. Laura Horwitz seconded.
+Voice consent followed: Lynn Beckwith, Ted Sanditz, Laura Horwitz, Joan Barry, Johnny Wang
+Respectfully submitted,
+______________________________                                    __________________
+Laura Horwitz, Secretary                                                        Date

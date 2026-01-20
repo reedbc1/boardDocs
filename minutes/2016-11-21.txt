@@ -1,0 +1,107 @@
+{
+  "name": "Regular Meeting",
+  "description": "Library Board",
+  "unique": "AEDLLK56E688",
+  "date": "2016-11-21T00:00:00Z"
+}
+
+---
+
+ST. LOUIS COUNTY LIBRARY DISTRICT
+MEETING OF THE BOARD
+HEADQUARTERS
+1640 SOUTH LINDBERGH BLVD.
+MONDAY, NOVEMBER 21, 2016
+The monthly meeting of the Board of the St. Louis County Library District was held at the Headquarters Branch, 1640 South Lindbergh Blvd., St. Louis, MO 63131 on Monday, November 21, 2016 at 3:30 p.m. The agenda had been posted in all branches of the Library District at least 24 hours before the meeting.
+ATTENDANCE:
+Library Board Members:
+Dr. Lynn Beckwith, President
+Edith Cunnane, Vice President
+Elena Kenyon, Treasurer
+Dr. Chingling Tai, Secretary
+Mr. Michael Mulligan, Member
+ADMINISTRATORS AND GUESTS ATTENDING:
+Kristen Sorth, Library Director; Eric Button, Deputy Director; Kris Mooney, Assistant Director, Administration; Steve Hunter, Assistant Director, Construction and Facilities; Gib Van Cleve, Assistant Director, ITS; Jeremiah King, Brinkmann Constructors;  and Lisa Stump, Attorney, Lashly Baer.
+OTHERS ATTENDING:
+Marie Conlin, Keir Haug, Donna Spaulding, Michelle Sawicki, Gina Sheridan, Catherine Hill, Annie Fuller, Tracy Fletcher, Lori Boschert, Jennifer Alexander, Sarah Wood, Stephanie Nordmann, Laura Kasak, Stacey Lewis, Kathy Wiese, Edith Isele, Tiffany Davis, Barb Reale, Maureen Willmann, Anna Gonzalez, Conrad Rader, Megan Coyle, Rebecca Clarke, Julie Cruise, Nicole Clawson, Julia Mangner, Natalia Catlett, Rachel Nowell, Aaron Eller, Allison Wisniewski, Lauren Benson, Ross Brand, Michael Cohen, Andrea Johnson and Sandy Williams.
+MINUTES
+The Library Board approved the October 17, 2016 minutes (Cunnane/Kenyon).
+PUBLIC COMMENTS
+There were no public comments.
+TREASURER'S REPORT
+Kris Mooney reported that, in October, the State of Missouri issued the first payments of State Aid to Libraries in October. The Library District received $85,915, which is 50% higher than last year. The Library District also received $18,026 in total grants from the State of Missouri including $8,800 for the Summer Reading Club, $5,932 for a Technology mini-grant to purchase MacBooks for Teen Programming, and $3,294 for a Spotlight on Literacy grant for the We Are St. Louis programs.
+Additionally, in 2014 the District was approved for a Waste Reduction Grant from
+St. Louis County to offset the costs of installing water bottle filling stations in all 20 branches. This past October, the District received $11,000 for the stations installed at Sachs, Oak Bend, Natural Bridge, Prairie Commons, and Cliff Cave.
+The Library District paid $29,500 to Ceridian Employer Services for implementation fees for Ceridian Dayforce HCM. This purchase was approved by the Board at the October 10, 2014 meeting.
+The Library District paid MCI Printing $3,100 for printing and $8,734 for postage for a direct mail piece. Postcards were sent to 44,559 households to encourage patrons to visit the newly renovated Jamestown Bluffs branch, which opened in November 2015.
+Capital Projects Fund Balance Sheet
+Total Construction in Progress for October 2016 was $1,089,762. The expenses included payments for:
+	Construction management expenditures for all Phase I buildings - $648,142
+	Branch renovation construction expenses for Phase 1B(a) buildings - $80,845
+	Furniture & Fixtures for all Phase 1B(b)  buildings - $65,661
+	Design Costs for all Phase I buildings - $40,610
+		Design Costs for Phase II buildings (Daniel Boone, Bridgeton Trails, Florissant Valley, Grand Glaize, Meramec Valley) - $30,011
+The Library Board approved the Treasurer's Report subject to audit (Mulligan/Cunnane).
+DIRECTOR'S REPORT
+Kristen Sorth gave the following report.
+Library Update
+· Ms. Sorth stated that the dashboard report for November contained information about circulation, visits, and programming in October. The report was shared with the Board. This month the report also includes information regarding the Library’s outreach efforts and a look at Lewis & Clark’s first year in a new building. Circulation was down less than half a percent from 2015 and visits increased by 3%.
+· Ms. Sorth announced that St. Louis County Library has been ranked as a four-star library in the Library Journal Index of Public Library Service for the third consecutive year. SLCL is the only library in the St. Louis area to be included in the index this year, and one of only six in the state of Missouri. The rank of four stars indicates a high per capita use in five major areas of library service: library visits, circulation, program attendance, public Internet computer use, and eCirculation. The ranking is based on statistics from 2014 when the Library circulated over 14 million items. (Plan: Strengthen Sense of Community 1)
+· University City Public Library is hosting a librarian from China who works at the Shichuan Public Library. The librarian and staff from the University City Public Library came and toured Daniel Boone and the Asian Center before it closed to the public for construction. (Plan: Strengthen Sense of Community 1.2)
+· The Winter Reading Club starts on December 1. SLCL has contacted all of the school districts to encourage participation. There are a number of excellent sponsors for the club including Upper Limits, Chipotle, and Sky Zone. (Plan: Increase Literacy 1.3)
+· Ms. Sorth reported that for the first time, the Library’s circulation of Overdrive digital resources, which includes eBooks and audiobooks, has reached 1 million. (Plan: Increase Literacy 1.1)
+· Ms. Sorth along with Eric Button met with several representatives from St. Louis County Government regarding their interest in partnering with the Library on the Recycled Reads program. The partnership would allow the Library to expand the program to many County Government facilities.
+· Administration is gathering input from managers and employees on simplifying our library card registration policies and procedures. By doing so, we hope to streamline the process and make it less confusing for staff and patrons. (Plan: Strengthen Sense of Community 3)
+· Eric Button, Nicole Clawson, Jennifer McBride and Ms. Sorth met with representatives from St. Louis Public Library to discuss Born to Read. Several months ago, Ms. Sorth met with their director, Waller McGuire. They discussed the possibility of a Born to Read type program at St. Louis Public Library and a possible partnership between the two library systems. St. Louis Public Library plans to get back to the Library this month. (Plan: Increase Literacy 1.3)
+· Ms. Sorth shared that several months ago, the Library was contacted by the St. Louis Economic Development Partnership about assistance in the implementation of a McArthur Foundation Grant they had received. CivTech St. Louis has been working with 84 municipal courts in St. Louis County to develop a common web portal to provide ticket lookup and payment options, community service options, free legal advice, and information on citizens’ rights in court. Civtech is piloting this web portal with St. Louis County Government and are ready to roll out the first stage of the grant. The Library’s role would be to include an icon on all public computers that would allow patrons to quickly access the information. In addition, the Library would include this information on the website. More information will follow on this project. (Plan: Increase Literacy 3.3)
+· Ms. Sorth reported that there were many mentions of the St. Louis County Library in the local media in print, radio and television, and she shared those articles with the Board. (Plan: Strengthen Sense of Community 1.2)
+· Ms. Sorth shared a number of photographs with the Board from several programs and events including: We Are St. Louis: African American Heritage at Lewis & Clark, Halloween Parade at HQ, author H.W. Brands at HQ, Normandy Gift of Reading at Natural Bridge, STArt: Pumpkin Power at Grant’s View, Zombie Lock-In; Teen Read Month at Sachs, New in the Lou; Examining History Through Art at HQ, Space Settlements at HQ, Baby Sensory Playtime at HQ and the Middle Grade Reader Showcase at HQ. (Plan: Increase Literacy 1 and Sense of Community 2.3)
+ Library Employee Update
+· Ms. Sorth shared that the Communications Department has created an infographic that we can use when talking about the Library’s Strategic Plan. This is available on our website and was shared with Library employees. (Plan: Strengthen Sense of Community 1.2)
+· Ms. Sorth reported that work on the Library’s new website is progressing. Feedback from the patron survey was used in the design process. Interpersonal Frequency will also conduct user testing in the next several weeks to get feedback on the initial designs. The Library is planning to launch the new website in March 2017. (Plan: Increase Literacy 3.3)
+Library Construction and Facility Update
+· Phase 2 of Your Library Renewed began with the closure of Bridgeton Trails on October 22, Florissant Valley on October 29, and Daniel Boone on November 5. Employees at those locations have been reassigned to other branches. In addition, the Library provided information to patrons on where to go during these branch closures. (Plan: Create Gathering Spaces)
+· Due to the high usage of Daniel Boone and Florissant Valley on Sundays, the Library has decided to open two nearby branches on Sunday while these two branches are closed. The Library is planning for Grand Glaize and Prairie Commons to be open on Sundays starting on January 8, 2017. This will be temporary until Daniel Boone and Florissant Valley reopen to the public once construction is complete. (Plan: Strengthen Sense of Community 1)
+· Ms. Sorth announced that while Florissant Valley is closed for construction, the Sweet Reads van will be stationed in Bangert Park next to the branch every Monday from 1:00 – 3:30. (Plan: Strengthen Sense of Community 1)
+· Two breaks appeared in the pavement at the Weber Road Branch in mid-2016. Review of testing and on-site inspections prior to re-opening show no evidence these holes are construction related. These areas were consequently marked with tape and barriers in order to prevent vehicle traffic over the voids. It is theorized that at some point a large void developed around a deep sewer pipe (16 feet below the surface). That void then collapsed, filling in with material from above and thereby creating a newer void at the surface. Since first discovered, we have seen no evidence of the area increasing in size. In order to determine the extent of the condition, a ground-penetrating radar survey of the affected area has helped determine a course of action. We are currently soliciting quotes for filling the voids, with hope of completing the work this calendar year. Once the holes are filled, the parking lot should be restored to its original condition. (Plan: Create Gathering Spaces 1.3)
+· The engineers working on the first three branches in Phase 2 have submitted information to Ameren regarding the upgrades at Daniel Boone, Bridgeton Trails and Florissant Valley. As a result, we will receive significant incentives from Ameren in the amount of $22,727.
+· The Library is investigating the possibility of a pollinator garden behind the Natural Bridge Branch that would be visible from the window in the children’s area. Employees from the Butterfly House will be assisting on the project. Donated memorial funds will be used to fund the project at Natural Bridge. (Plan: Create Gathering Spaces 2.3)
+· The Library is exploring the concept of designating all Library properties as smoke-free campuses. We are currently gathering information and plan to bring a proposal to the Library Board at a future Board Meeting. (Plan: Increase Literacy 3.4)
+Library Foundation
+· The Foundation will engage in a planning process to update their Strategic Plan. Library Planner, Marie Conlin, will facilitate their discussions which will result in the development of an action plan.
+· The Foundation will review and approve their 2017 Budget at their December Board Meeting along with the Shared Services Agreement between the Foundation and the Library. The Library Board will review the Shared Services agreement later in the meeting.
+· The Library has been notified that we are receiving a $20,000 grant from the Dana Brown Foundation for the Discovery Zone that will be located in the children’s area at Florissant Valley. The Library Foundation plans to fundraise for additional dollars for the Discovery Zone. (Plan: Create Gathering Spaces 2.1)
+· The Foundation will host an online auction during the month of December. Those interested may bid for various items online.
+Author Events
+· David Oshinsky, “Bellevue: Three Centuries of Medicine and Mayhem at America’s Most Storied Hospital”, Tuesday, November 29, 7:00 p.m., Library Headquarters – Auditorium.
+· David France, “How to Survive a Plague: The Inside Story of How Citizens and Science Tamed AIDS”, Friday, December 2, 7:00 p.m., Library Headquarters – Auditorium.
+· James Rollins, “The Seventh Plague: A Sigma Force Novel”, Thursday, December 15, 7:00 p.m., Library Headquarters – Auditorium.
+In response to Administration gathering input on simplifying the library card registration policies and procedure, Dr. Beckwith asked about the difficulty of renewing library cards and library card registration. Ms. Sorth explained that many people are unaware their library card has expired, and Eric Button explained that there are many different patron types that make registration for a card confusing for both staff and patrons.
+OLD BUSINESS
+NONE
+NEW BUSINESS
+CONSTRUCTION UPDATE
+Steve Hunter reported that there are three branches under construction: Florissant Valley, Daniel Boone, and Bridgeton Trails.  Mid-County and Grand Glaize are currently in the design process, while Meramec Valley and Thornhill are in discussions regarding programming.  Phase 1 is officially complete and consisted of 11 branches. Administration has started to meet regularly about the Headquarters construction and replacement in Phase 3.
+CUSTODIAL SUPPLIES
+In September, the Board approved the selection of Royal Paper to provide and deliver Custodial Supplies to each of our 20 branches. Before the contract with Royal Paper was executed we discovered that our bid analysis included incorrect information. We reviewed the situation with Lashly Baer. Their recommendation for a proper course of action was to return to the Board for approval of the lowest and best bid.
+The Library Board approved the Library Administration’s recommendation that since the Board’s September award was based on incorrect information, the Library Board rescind its September decision selecting Royal Paper and select Industrial Soap Company to provide custodial supplies to the Library District for all 20 branches, delivered twice per week, for the amount of $38,205.74 per year, and that the Board authorize the Director to enter into and execute a 3-year contract with Industrial Soap Company to that effect (Cunnane/Mulligan).
+LEGAL COUNSEL ENGAGEMENT LETTER
+Kristen Sorth presented a recommendation for approval of the new blended hourly rate for legal services for Lashly & Baer, P.C.
+Ms. Sorth reported that the St. Louis County Library’s engagement agreement with legal counsel, Lashly & Baer, P.C., has not been updated since it was executed in May of 2008. While the legal services for the Library remain the same, the blended rate for all Lashly & Baer attorneys will increase from $175 per hour to $190 per hour. This is the first increase proposed by the firm since 2008.
+ The Library Board approved the recommendation of the attached engagement letter from Lashly & Baer which includes a new blended hourly rate for legal services of $190 per hour (Kenyon/Mulligan).
+SHARED SERVICES AGREEMENT
+Kristen Sorth presented a recommendation for approval of the annual Shared Services Agreement between the Library and the Library Foundation.
+Ms. Sorth reported that the Shared Services Agreement defines the level of support provided by the Library to the Foundation and is a requirement of the Affiliation Agreement between the Library and the Foundation. The Foundation Board Executive Committee has reviewed this document. In addition, the Foundation Board agrees to reimburse the Library for up to 100% of the salaries for the Manager, Development and the Friends Coordinator who utilize 100% of their time in performing services for the Foundation. The attached agreement reflects the level of support and will be voted on by the Foundation Board at their December Board meeting.
+There is one change to the agreement from last year. Barbara Turkington’s percentage increases from 50% of her time dedicated to the Foundation to 60% of her time. This increase reflects the change in reporting for the Communications Department from Barbara to the Library Director. A copy of the document is attached.
+The Library Board approved the annual Shared Services Agreement. This agreement supersedes and thereby terminates the Shared Services Agreement dated January 1, 2016. The term of this new agreement will begin on January 1, 2017 and terminate on December 31, 2017 (Cunnane/Kenyon).
+2017 BUDGET
+Kris Mooney gave an informational presentation on the 2017 Library Budget.
+Mr. Mooney began by stating that the Budget document was prepared and approved by the Budget Committee consisting of: Kristen Sorth – Director; Eric Button – Deputy Director; Barbara Turkington – Assistant Director, Advancement; Gib Van Cleve – Assistant Director, ITS; Kris Mooney –Assistant Director, Administration; Steve Hunter – Assistant Director, Construction & Facilities. Mr. Mooney and Ms. Sorth discussed the revenue and expenditures included in the 2017 Budget.
+Mr. Mooney explained that the Library Budget is a spending guideline for the upcoming year. Projects discussed in the Budget document will be individually presented to the Library Board for review and approval during 2017 as outlined in the Library Board’s By-Laws. The Budget Revision is presented to the Library Board in September.
+The Executive Summary on page 2 and the Revenue and Expenses on page 4 - 7 are a synopsis of the proposed 2017 Cash Budget. The 2017 budget has a budgeted surplus of $2.2 million.
+The 2017 Budget was presented as an informational item for this month in order to give the Library Board of Trustees time to review the document and ask questions. The Library Board of Trustees will vote on the 2017 Library Budget at the December Meeting. That vote will allow the Library to operate in 2017.
+ADJOURNMENT
+ Edith Cunnane made a motion to adjourn, Elena Kenyon seconded.  Each member gave approval by voice vote. Aye:  Cunnane, Mulligan, Tai, Kenyon and Beckwith.  The meeting adjourned at 4:52 p.m.
+Respectfully submitted,
+__________________________________                            _________________________
+Chingling Tai, Secretary                                                         Date

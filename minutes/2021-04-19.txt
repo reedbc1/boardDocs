@@ -1,0 +1,176 @@
+{
+  "name": "Regular Meeting",
+  "description": "Library Board",
+  "unique": "BX2W397C35F6",
+  "date": "2021-04-19T00:00:00Z"
+}
+
+---
+
+ST. LOUIS COUNTY LIBRARY DISTRICT
+MEETING OF THE BOARD via ZOOM
+1640 SOUTH LINDBERGH BLVD.
+MONDAY, APRIL 19, 2021
+ 3:30 p.m.
+ATTENDANCE:
+Members present:
+Lynn Beckwith, Ed.D., President
+Johnny Wang, Vice-President
+Ted Sanditz, Treasurer
+Joan Barry, Member
+Laura Horwitz, Secretary
+ADMINISTRATORS AND GUESTS ATTENDING: Kristen Sorth, Director and CEO; Eric Button, Deputy Director; Barbara Turkington, Assistant Director, Administration; Laura Taylor, CFO; Gib Van Cleve, Assistant Director, ITS; Steve Hunter, Assistant Director, Operations; and Lisa Stump, Lashly and Baer.
+OTHERS ATTENDING: Sandra Williams, Executive Assistant.
+APPROVAL OF MINUTES
+The Library Board approved the March 15, 2021 minutes (Wang/Horwitz).
+PUBLIC COMMENTS
+Sandy Williams read a letter from patron Asim Thakore. Dr. Beckwith requested a copy.
+TREASURER'S REPORT
+Library CFO, Laura Taylor, presented the following report.
+Maintenance and Operating Fund Financial Statements:
+Revenue
+	District Taxes – In March, the Library District received tax revenue in the amount of $560,524.  Combined with January and February, these payments account for 84% of the 2021 budgeted $59.7 million in tax revenue.
+Expense
+	CARES Act Grant – In March, the Library District incurred $1,004,430 in CARES Act Grant expenses as part of its continued investment in the Digital Equity Initiative.  $998,280 was spent towards the purchase of GrandPads to help underserved, older adults access technology and stay connected to loved ones during the COVID-19 pandemic. $6,150 was also spent to provide additional virtual and in-person tutoring services as the Library District continues its partnership with the Miriam Learning Center.
+Expense
+	Building Operations – Snow Removal – In March, BSR Services Inc. was paid a total of $54,743 for ice and snow removal services for snow events occurring in January and February 2021.
+· Capital Improvements – In March, the Library District incurred $403,041 in Capital Improvements expenses.  Notable expenses are as follows:
+o $467,891 for construction performed through March 2021 at Eureka Hills – Interior Construction Services
+o $19,069 for architectural professional services at Eureka Hills – Arcturis
+Capital Projects Fund Financial Statements
+Balance Sheet – 2016 Debt Issuance
+	Construction in Progress – Total Construction in Progress for March 2021 was $718,799.  The expenses included payments for:
+		Pay Application from Interior Construction Services for the construction performed through March 2021, at the Lynn Beckwith Jr. Administrative Building for $527,010.
+		Architectural professional services performed by the Lamar Johnson Collaborative through March 2021, at the Lynn Beckwith Jr. Administrative Building and Ladue Branch for $35,190.
+Facilities Master Plan Administrator payment of $19,005.
+The Library Board approved the April 2021 Treasurer's Report subject to audit (Sanditz/Horwitz).
+DIRECTOR'S REPORT
+Library Director and CEO, Kristen Sorth, reported.
+Library Update
+	Ms. Sorth reported that the Dashboard report contained total circulation for March, 2021and that it was 47% lower than March, 2020 but was the highest circulation we have seen since September, 2020.  The Library reopened to the public by appointment on March 23rd.  For the first two weeks of appointments, there were 4336 scheduled appointments with 60% of available appointment slots filled.  Cliff Cave and Grant’s View had the highest percentage of available appointments filled at 80%.  Virtual programming attendance continues to remain very strong.  March was the highest month for attendance at virtual programs presented by the Adult Services Department with 6304 attendees.  The next highest month was in November with 4257 attendees. Webinars were presented live to an average of 150 attendees, with several webinars reaching attendance from 300 – 400 people. There are several great virtual programs scheduled for April including a popular weekly Mat Pilates class presented by the Fit & Food Connection, the Virtual Program: Disability Etiquette & Awareness, presented by Paraquad, and multiple programs about native landscaping and gardening.  (Plan: Promote Literacy 1.1 and 2.4)
+	She said that managers were asked for their thoughts on what the next phase of reopening might include.  That information was used to develop Phase 2 for reopening.  On April 14th, we moved to this phase by offering evening appointments for patrons.  Appointment hours are 9:00 a.m. - 12:00 p.m., Monday - Saturday and 6:00 p.m. - 9:00 p.m. Monday - Thursday.  In addition to offering evening hours, we are also accommodating walk-up patrons that did not pre-schedule, at all locations, and expanding the number of appointments available each hour, at many locations.  In addition, Customer Connect will now expand hours for phone assistance.  Phones will be answered from
+9:00 a.m. - 9:00 p.m., Monday – Thursday and from 9:00 a.m. - 5:00 p.m. on Friday and Saturday.  Patrons will have a 45-minute window to access the Library for browsing collections and using computers, scanning, faxing, copying and printing.  Appointments may be scheduled online through our appointment system or by calling the Library.  An appointment is for a household and up to two adults plus children will be admitted.  We continue to consult with the St. Louis County Public Health Department on our reopening plans and our COVID Safety Procedures to protect the safety of employees and patrons.  Masks are required for entry.  We will continue to provide curbside delivery of materials for patrons who are not yet comfortable coming inside.  We will also continue to provide drive-thru meals and other items for those in need.  Evaluation of our services and hours will continue as we make plans for a future phase.  (Plan: Maximize Access 2.4)
+	Ms. Sorth reported that GrandPad recipients were scheduled to pick up their device at Headquarters on Sunday, March 28.  More than 700 tablets were distributed in a drive-thru fashion.  The event was flowing smoothly for the first 90 minutes, but by mid-afternoon, traffic back-ups on Lindbergh created an unsafe environment for drivers approaching the library.  As a result, the Library, in consultation with the local police departments, ended the distribution event to allow traffic to return to normal.  Those who were turned away were sent a survey allowing them to indicate a branch pickup location.  Those tablets have been directed to the branches marking our second phase of distribution.  Most of the GrandPads have been picked up.  Recipients of the GrandPads have expressed tremendous appreciation for the opportunity to receive the device and stay connected to loved-ones and the world in general.  Thanks to the many employees who worked on this project including the Processing Department who worked alongside the Youth Services Department to unpack, label and prepare 1,485 GrandPads over the course of three days. (Plan: Promote Literacy 3.3)
+	She announced that the Library will be working with the Missouri Department of Corrections (DOC) to provide library cards to individuals prior to their release.  Each card will be accompanied by a welcome brochure specifically designed to meet the needs of justice-involved individuals.  The program will start at one institution as a pilot with hopes to expand to every Missouri Correctional facility.  The DOC will work with the Library on the presentation of information to DOC staff who can in turn promote services to those residing in the facilities.  Additionally, we will explore making our virtual adult programming available to those residing in a correctional facility.  We will also consider new programming for justice-involved individuals. (Plan: Sense of Community 2.2)
+	Meramec Valley Branch now has its own community garden.  The garden was installed on Saturday, March 27 with assistance by employees from the Library and Gateway Greening, plus over 30 volunteer garden members. We now have four community gardens.  Locations include:  Prairie Commons, Grant’s View, Cliff Cave and Meramec Valley. (Plan: Maximize Access 2.3)
+	Adult Services has organized 1,000 vegetable garden kits to be distributed at the ten branches with drive-thru meals on Friday, April 23. Each kit will include two tomato plants, a cucumber plant, a squash plant, and a growing guide for patrons to start their own vegetable garden. This program is funded by the Foundation and is the result of an employee suggestion. (Plan: Promote Literacy 3.4)
+Ms. Sorth said in March, Adult Literacy Coordinator, Ricqui Brooks, started HiSET Academy Learning Circles to help patrons prepare for the high school equivalency test. The HiSET Academy serves as an option for patrons that are ineligible for the Career Online High School program. Patrons can opt to take the HiSET test one subject at a time.  Our learning circles are subject-specific to allow participants to focus on one subject for several weeks to increase their odds of passing.  As for Career Online High School, we now have 81 graduates.  We are tentatively planning for an in- person graduation in the fall. (Plan: Promote Literacy 3.2)
+	In celebration of National Poetry Month, adults are invited to submit their original poems for inclusion in the Library’s poetry compilation called Celebrating Poetry.  Poems are accepted until the end of April. The compilation will appear in the Library’s eMedia collection along with the anthology of past compilations since 2018. (Plan: Promote Literacy 1.2)
+	Ms. Sorth said the Library will again host Eye Thrive’s Mobile Vision Clinic that offers free eye exams and glasses for children ages 4 – 18.  We will host the clinic at five branches from 9:00 a.m. – 2:00 p.m. on the following dates and locations. (Plan: Sense of Community 2.1)
+	June 8 – 10 at Florissant Valley
+	June 15 – 17 at Lewis and Clark
+	June 22 – 24 at Natural Bridge
+	June 29 – July 1 at Bridgeton Trails
+	July 6 – 8 at Weber Road
+	The St. Louis MetroMarket offers fresh, affordable produce, along with recipe ideas and meal planning assistance. Lewis & Clark will soon be hosting regularly scheduled weekly stops.  In addition, the Foundation will be supporting six additional stops on Saturdays this summer.  Here is the schedule: (Plan: Sense of Community 2.1)
+		11:00 a.m.– 1:00 p.m. - Saturday, June 12 Natural Bridge
+		11:00 a.m. – 1:00 p.m. - Saturday, June 26 Rock Road
+		11:00 a.m. – 1:00 p.m. - Saturday, July 10 Indian Trails
+		11:00 a.m. – 1:00 p.m. - Saturday, July 24 Natural Bridge
+		11:00 a.m. – 1:00 p.m. - Saturday, August 7 Rock Road
+		11:00 a.m. – 1:00 p.m. - Saturday, August 21 Indian Trails
+		Virtual Book Buddies, which is a program that pairs teen tutors with younger kids to assist with reading skills, ended on April 5, with a total of 44 kids and 22 teens participating in the six-week program, held on Zoom. Pairs were placed in breakout rooms for read aloud practice, and teens earned volunteer hours. We received great feedback from parents:
+			I have loved our opportunity to use this program. Winston's reading has EXPLODED due to Book Buddies. I could not get him to read with me and now he does it all the time. In fact, just yesterday I caught him reading out loud to his little brother on the couch. Ah-mazing!
+			My kids enjoyed the program a lot. They were more confident when they read to their teens. Each week they were looking forward to Monday so they could read to their book buddies.
+			Awesome program! I hope there are more of these programs in the future. It’s a great way to feel socially connected with others during this time of social distancing and virtual everything. Thank you so much!
+			The program was very helpful for our son, he liked reading to a peer than to us. Thank you so much, hope to see more programs like this.
+(Plan: Promote Literacy 2.1)
+	She said families and caregivers can now participate in 1000 Books Before Kindergarten online.  This program encourages families and caregivers to read 1000 books with their young children before they enter kindergarten. Starting May 3, patrons can participate online by registering in the Beanstack platform that we also use for Summer Reading Club.  Patrons can also continue to track progress manually on a log sheet. (Plan: Promote Literacy 2.1)
+	This year, we had 236 entries for the Write Stuff, a writing contest held for grades 3-12.  The writing prompt for this year’s contest was to write a story that imagines what life would be like on a different planet. Winners in three age categories will be notified this week. (Plan: Promote Literacy 1.2)
+	We continue to provide vital services to the region.  Here is a chart that shows our accomplishments as of April 15.  We are so thankful to the many community partners who have reached out to us to provide additional items to be distributed through our drive-thru meal sites. (Plan: Sense of Community 2.1)
+	Ms. Sorth announced that this summer we are piloting Summer Reading Club by Mail in partnership with the Jennings and Hancock Place School Districts. Jennings has identified 30 families to participate in the program and Hancock Place has identified 20 families. Library employees will gather information from the families about participants’ reading preferences.  We will mail reading materials to the families and they can participate in the Library’s summer reading club without leaving their home. Log sheets and prizes will also be mailed to the families. This program is funded by a grant through the Missouri State Library. (Plan: Promote Literacy 1.2)
+	School bookmobiles provided visits to eight schools, served 248 students and circulated 1098 books during the month of March. School bookmobile service has gone smoothly and safely thus far. We plan to move forward with providing service to more schools as they continue to reopen.  (Plan: Maximize Access 1.1)
+	We will begin circulating fifteen portable projectors with built-in speakers to the public on April 26th.  We received a grant from the Missouri State Library for this project. The use of portable projectors became widespread during the pandemic as many people held outdoor movie nights on a big screen. (Plan: Maximize Access 1.4)
+	Here are pictures from various events that have taken place over the last month including Meal Distribution, Branch Re-Openings, GrandPad Distribution and National Library Workers Day. (Plan: Promote Literacy 3.4 and Sense of Community 2.1)
+Library Administrative Updates
+	In celebration of National Library Workers Day, every employee received a SLCL branded mug and a treat from Dad’s Cookie Company. (Plan: Sense of Community 1.3)
+	The Employee Engagement Committee started the Step into Spring Challenge. As a system, the challenge is to take 200,000,000 steps from April 1st to May 31st. (Plan: Sense of Community 1.3)
+	The Pension Actuarial Report, Audit and recommended contribution were presented in the Pension Board Meeting which took place immediately before this meeting.  The funded ratio for the Library’s Pension Plan is 92.2% which is up from 87% in 2020.
+	The Library’s audit will be presented to the Library Board at the May Board meeting this year.
+	The contract with Hicks Carter-Hicks for the Community Conversations program was signed last week.  We have a planning meeting coming up soon.
+	Ms. Sorth said that she was approached by the University of Missouri Extension and several other community leaders about the St. Louis Storytelling Festival.  The Extension is looking for a new home for the festival and believe that the Library would be the perfect location.  We agree.  For more than 40 years the St. Louis Storytelling Festival, under the guidance of the University of Missouri, has reached diverse audiences across the region with storytelling programs designed to interpret and explore the human experience. The Festival has achieved national and international recognition and serves as a model for outreach and engagement in the arts and humanities.  The Library has participated in the Festival for many years as it aligns with our Strategic Plan. The 2022 Festival will be included in the Library’s 2022 Budget, but planning will begin later this year. (Plan: Promote Literacy 1.2)
+	The library has been in discussions with the St. Louis Public Library about merging our two catalogs.  We feel this would be very beneficial for the St. Louis region and our patrons.  We plan to issue a joint RFP in the next few months to select one vendor for both library districts.  We also plan to present both Library Boards with an agreement, drafted by Lashly & Baer, outlining the project and the relationship between the two library districts. (Plan: Maximize Access 1.1)
+	Ms. Sorth has been meeting with state and local officials regarding the dollars that may be coming to public libraries through the American Rescue Plan of 2021.  I will continue to update the Library Board as more information is available.
+Library Construction and Facility Updates
+	Ms. Sorth announced that the Eureka Hills Branch will open to the public on June 2, 2021 at 9:00 a.m. immediately following a ribbon cutting. St. Louis County COVID guidelines will be observed at the ribbon cutting.  This is the 19th branch to open since we began the construction phase of Your Library Renewed in 2014.  The new Eureka Hills Branch was not included in the debt issuance for construction under Your Library Renewed.  The Unassigned for Capital Improvements line of the Library’s budget was used to finance the new branch.  After “The Beck” is completed in early 2022, construction on the new
+Ladue Branch will begin. (Plan: Maximize Access 2)
+	She reported that a residential neighbor of the Weber Road Branch filed a noise complaint with the County concerning the external HVAC equipment at the branch. Over the course of several months, Building Systems made modifications to the unit that gradually lowered the noise to acceptable levels. After each modification, the County took decibel readings. These mitigation efforts include sound baffles, directional output diverters, and a screening fence with acoustic fabric. On April 5, 2021, the County issued a letter certifying the branch was in complete compliance with the noise ordinance. (Plan: Maximize Access 2.4)
+	The Library has been invited to participate in a Demand Response program managed by Ameren. The program pays facility owners to voluntarily reduce electric consumption in periods of extreme system-wide demand. This typically involves reducing the load on air conditioning. Five Library branches were identified as feasible for the program: Daniel Boone, Grant’s View, Florissant Valley, Rock Road, and Headquarters. While the total potential income is only $8,000/year, we believe the intangible benefit of maintaining a focus on the environment is worthwhile.  The program is voluntary even during periods of extreme high demand. For example, if Headquarters were hosting an author event and was requested by Ameren to shed demand, the District could decline without penalty. This program was reviewed by Lashly & Baer. There is no cost or risk to the Library to participate.
+	Spectrum Communications has completed the installation of the fiber optic wide area network circuit at Eureka Hills.  This establishes network communications between the new branch and the rest of the district.  Network connections are being made throughout the branch, which allows key network devices like security cameras, alarms and phones to be configured. (Plan: Promote Literacy 3.3)
+	New outdoor Wi-Fi equipment was purchased using funds from a $50,000 CARES Act grant.  This equipment will strengthen our wireless signals in the branch parking lots.  The Library also purchased mobile WiFi routers for four bookmobiles in order to provide free Wi-Fi in the neighborhoods that they visit. (Plan: Sense of Community 2.2)
+Library Foundation
+	Ms. Sorth said that Give STL Day started early this year with April 5th as the beginning of “early giving.” The actual Give STL day is May 6, 2021.  Last year the Foundation raised over $20,000 in donations in support of COVID-19 related programs and services.
+	The Library Foundation and the St. Louis Chamber Music Society are partnering to host a book event/signing and musical performance featuring noted conductor Leonard Slatkin.  The event will be a fundraiser for the Society and the Library.  The event is slated for September 23.  The public portion of the event will be a virtual event which includes a book.  There will be a private fundraising event as well at the home of a Chamber Music Society donor.
+	The Foundation has started working on the 2021 virtual event that will replace the annual Gala. This event will be held in July.
+	The Foundation’s Spring Appeal will be mailed out on April 15th.  The Spring Appeal focuses on donors who have previously given to the campaign and the Fall Appeal focuses on upgrading current donors.
+	The Donor Appreciation Lunch was a virtual event this year featuring a live interview with author and polo player, Kareem Rosser.  His book, “Crossing the Line” details Kareem’s triumphant story about defying the odds to become captain of the first all-black squad to win the Interscholastic Polo Championship and the sport that changed their lives forever.
+	She said the Library was recently notified of the following grant award:
+Norman J. Stupp Foundation, $18,056 for Chromebook/hotspot bundles to circulate at branches. (Plan: Promote Literacy 3.3)
+Author Events (Plan: Promote Literacy 1.2)
+We have Livestream author events and recordings with the following authors. They are posted on our website as well as the HEC Facebook link - facebook.com/hectv and then archived at hecmedia.org. We are promoting on our social media and sending eblasts that direct patrons to the HEC sites. HEC has also started simultaneously premiering the virtual author events on their TV channel to expand access to those individuals who do not have reliable internet access. (Plan: Promote Literacy 1.3)
+	Judy Batalion, author of “The Light of Days: The Untold Story of Women Resistance Fighters in Hitler’s Ghettos,” Monday, April 19, 2021, 7:00 p.m. Video premiere: on www.facebook.com/STLCoLibrary.  Interview moderated by Lory Cooper, Manager-Volunteers and Tours for the St. Louis Kaplan Feldman Holocaust Museum. Presented in partnership with the St. Louis Jewish Book Festival
+	Paula McLain, author of “When the Stars Go Dark,” Thursday, April 22, 2021, 7:00 p.m.,
+Interview moderated by novelist Lily King, author of “Writers & Lovers,”Video premiere: on www.facebook.com/STLCoLibrary
+	John Sandford, author of “Ocean Prey,” Monday, April 26, 2021, 7:00 p.m.Virtual Video premiere: on www.facebook.com/STLCoLibrary
+	Sally Hepworth, author of “The Good Sister,” Wednesday, April 28, 2021, 7:00 p.m., Virtual
+Video premiere: on www.facebook.com/STLCoLibrary
+	Elliot Ackerman, author of “2034: A Novel of the Next World War,” Friday, April 30, 2021, 7:00 p.m., Video premiere  www.facebook.com/STLCoLibrary
+	Kaitlyn Greenidge, author of Libertie, Monday, May 3, 2021, 7:00 p.m. Video premiere: on Facebook.com/STLCoLibrary In conversation with Ryan Krull, Interviews Editor - Boulevard Magazine
+	 David Allen Sibley, author of "What It’s Like to Be a Bird: From Flying to Nesting, Eating to Singing--What Birds Are Doing and Why," Thursday, May 6, 2021, 7:00 p.m. Virtual Video premiere: on Facebook.com/STLCoLibrary. In conversation with Dr. Jonathan Losos, Washington University-Professor of Evolutionary Biology and director of the Living Earth Collaborative.
+	Stephanie Dray, author of “The Women of Chateau Lafayette,” Monday, May 10, 2021, 7:00 p.m.,
+Virtual Video premiere: on www.facebook.com/STLCoLibrary. Interview moderated by Ashley Hasty, creator of the book review website HastyBookList.com
+	Brian Alexander, author of "The Hospital: Life, Death, and Dollars in a Small American Town," Thursday, May 13, 2021, 7:00 p.m. Virtual Video premiere on www.facebook.com/STLCoLibrary
+	David O. Stewart, author of "George Washington: The Political Rise of America’s Founding Father," Monday, May 17, 2021, 7:00 p.m. Virtual In conversation with Amanda Clark, Missouri
+Historical Society - Community Tours Manager Video premiere: on www.facebook.com/STLCoLibrary
+Laura Horwitz asked if the merging of St. Louis Public included e media. Kristen Sorth said that we were exploring that concept.
+Ted Sanditz asked when the Library would resume live author events. Kristen Sorth responded that the publishers told author events coordinator, Carrie Robb, that it would not likely resume this year. He also asked if there were thoughts about funding the Grandpads again next year. Kristen said that we are working on it.
+Dr. Beckwith said he is overjoyed that the Library has delivered on renovating the Library Renewed since 2012.
+NEW BUSINESS
+CONSTRUCTION UPDATE
+Steve Hunter, Assistant Director of Operations, reported that Eureka Hills is now landscaped and shelving has been installed.  Most of the furniture has been delivered.  He also showed pictures of “The Beck.” The walls are being erected. Steel support is being put up and the building is visible from Highway 40.  The projected completion date is spring of 2022.
+PARKING LOT SEAL & STRIPE
+Steve Hunter, Assistant Director of Operations, reported the following.
+On March 26, 2021, Library Administration issued an IFB for sealcoating and re-striping five branch parking lots (Cliff Cave, Daniel Boone, Grand Glaize, Oak Bend, and Rock Road). The bid was posted on the SLCL website and directly mailed to twelve local companies, including the local W/MBE firms that identified as providing this service. An advertisement was placed in the Post-Dispatch. Responses were due April 9, 2021. Four firms replied:
+			Company
+			Base Bid
+			E. Meier Contracting
+			$38,796.51
+			Asphalt Paving & Concrete, Inc.
+			$40,626.00
+			Parking Lot Picassos, LLC
+			$42,205.00
+			McConnell & Associates
+			$48,039.00
+The responses were reviewed by a selection team consisting of Steve Hunter, Matt Manwarring, and Drew Schulze. After checking references, the selection team agreed E. Meier Contracting provided the lowest and best bid response.
+The approved 2021 Library budget included $60,000 for this project. The work is to be completed by early summer.
+Library Administration recommends that the Library Board select E. Meier Contracting to provide Seal & Stripe services to the Library District at five locations for the amount of $38,796.51 and that the Board authorize the Director to enter into and execute a contract to that effect.   The Library Board approved the recommendation (Horwitz/Sanditz).
+2021 PENSION CONTRIBUTION
+CFO Laura Taylor presented the following report.
+The Library’s Actuary, Milliman, has conducted the annual actuarial valuation
+and has calculated the Library’s annual pension contribution amount for 2021.
+Milliman is recommending a contribution of $2,192,782 (see SLCL Actuarial Valuation January
+1, 2021, page 2). The annual contribution is down from the recommended contribution of
+$2,390,389 in 2020 largely due to the gain on assets. The Library’s 2021 budget
+for this expense is $2,524,000. The net position as a percentage of total pension liability (also
+known as the “funded ratio”) is 92.2%, up from 87.0% in 2020 largely due to a market gain of
+15.8%.
+Library Administration recommends the Library Board authorize the recommended amount of
+$2,192,782 as the annual contribution to the Pension Plan for 2021.
+The Library Board approved the recommendation (Barry/Wang).
+RECRUITING EFFORTS
+Library Director and CEO Kristen Sorth presented the following report.
+The Library Board has requested yearly information regarding the staff complement at the St. Louis County Library.  We have enclosed reports for 2020 and 2021 which include the following.
+	A report entitled “Summary Comparison Percentage Chart.”  This report combines the data from the “Summary” report and reflects five years of data.  It also includes FTE information for the same time frame.
+	A report entitled “List of Job Titles by Dept/Branch.  This is a report that is generated from our HR/Payroll software.  The “ethnicity” column contains descriptions designated in our software.  The report is divided by department and branch.  The departments are listed in alphabetical order beginning after Administration.  The branches are next and they are also listed in alphabetical order.  Within each branch or department employees are listed by their title only.  Employees were sorted in descending order from the employee with the highest pay grade within the branch or department to the lowest pay grade.  Individuals with the same title, have the same pay grade.
+	A one-page summary of the above mentioned report entitled “Summary” that is also generated from our HR/Payroll system.  This report lists the total number of employees as well as percentages.  Several of the departments are grouped together on this report by organizational unit.
+	A report entitled “Staff Complement by Title Listing Race.”  This document lists each title, the total number of employees with that title and then breaks down the percentage of that title by race.  The titles are sorted in descending order from the title with the highest pay grade to the title with the lowest pay grade.
+	A report entitled “Staff Complement by Title Listing Race and Gender.”  This report is identical to the report mentioned above in number three with the exception that gender has been added to this report.
+	A report entitled “St. Louis County Library – List of New Hires by Location.”  This report includes information about the candidates selected for all positions that were posted in this time frame. The report lists the hires by department or branch. I have indicated if a branch or department had no vacancies during that time frame.
+Ms. Sorth also mentioned that in July, the Library will move to $15 per hour as the minimum starting salary.
+Dr. Beckwith said he was pleased with the recruitment of minorities which is closer to reflecting county numbers.  He asked if managers have autonomy who they will hire. Kristen Sorth confirmed this.  Discussion ensued. Dr. Beckwith commended the Reference Department for their diversity.
+Laura Horwitz said based on these reports, our qualitative data matches our quantitative data.
+ADJOURNMENT
+Board member Joan Barry motioned to adjourn the meeting and Ted Sanditz seconded.  All approved with voice vote.   Meeting adjourned at 4:50 p.m.
+Aye: Lynn Beckwith, Ted Sanditz, Laura Horwitz, Joan Barry, Johnny Wang
+Respectfully submitted,
+___________________________                                                      ________________________ Laura Horwitz                                                                                                  Date                            Board Secretary

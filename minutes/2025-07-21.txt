@@ -1,0 +1,173 @@
+{
+  "name": "Regular Meeting",
+  "description": "",
+  "unique": "DBSTJ8776CCF",
+  "date": "2025-07-21T00:00:00Z"
+}
+
+---
+
+ST. LOUIS COUNTY LIBRARY DISTRICT
+MEETING OF THE BOARD
+CLARK FAMILY BRANCH
+MONDAY, JULY 21, 2025
+The monthly meeting of the Board of the St. Louis County Library District was held at Clark Family Branch, 1640 S. Lindbergh Blvd., St. Louis, MO 63131 on Monday, July 21, 2025 at 3:30 p.m. The agenda had been posted in all branches of the Library District at least 24 hours before the meeting.
+ATTENDANCE:
+Library Board Members:
+Johnny Wang, President
+Deborah Patterson, Vice President
+Ted Sanditz, Treasurer
+Dr. Lynn Beckwith, Member
+Mr. Wang announced the resignation of Board Member, Joan Barry, due to medical reasons, effective immediately. He and the other Board members spoke of Mrs. Barry’s dedication and service to St. Louis County Library and her calming presence and unwavering commitment over the years as a member of the Board of Trustees.
+ADMINISTRATORS AND GUESTS ATTENDING:
+Kristen Sorth, Library Director & CEO; Laura Taylor, CFO; Gib Van Cleve, Assistant Director, ITS; Jennifer McBride, Assistant Director, Communications; and Attorney Lisa Stump, Lashly Baer.
+OTHERS ATTENDING:
+Katie Keeven, Carla Maxwell, Jess Huffman, Andrea Johnson, Clark Thurman, Carrie Robb, Chasidy Allen, Melissa Hupp, Anne Arthur, Sarah Wood, Cheri Remington, Laura Kasak, Nicole Walsh, Will LaChance, Cameron, Riesenberger, Kita Parnell, Rachel Dippel, Matt Lakin, Elise Wantling, Andrew Freshwater, Brent Trout, Deanna Davis, Chelsea Sharp, Sarah Kuntz Jones, Ashley Sexton, Spring Galey, Emily McIlvoy, Interns: Ivy, Hadley, Mynirah, Patrick; Megan Pfifer-Davis, Keir Haug, Mary Arnhart, Nikole Brown, Kelli Reeves, Stephanie Nordmann, Amy Hanaway, Emily Althoff, and Becky Maue.
+MINUTES
+The Library Board approved the June 16, 2025 Library Board minutes.
+Motion by Deborah Patterson, second by Lynn Beckwith.
+Final Resolution: Motion Carries
+Aye: Johnny Wang, Deborah Patterson, Lynn Beckwith, Ted Sanditz
+PUBLIC COMMENTS
+There was no one to speak before the board.
+TREASURER'S REPORT
+Laura Taylor, CFO, presented the report for June 2025.
+Administration recommended approval of the June Treasurer's Report subject to audit.
+Motion by Deborah Patterson, second by Ted Sanditz.
+Final Resolution: Motion Carries
+Aye: Johnny Wang, Deborah Patterson, Lynn Beckwith, Ted Sanditz
+DIRECTOR AND CEO'S REPORT
+Ms. Sorth delivered the attached Dashboard report for June.
+	The service statistics that were previously included separately within the Director’s report are now part of the Dashboard each month. The Library saw strong growth and continued engagement across all areas of service. Visits, circulation, and technology use all increased compared to June of 2024.  Public computer and Wi-Fi usage rose significantly and more than 3,900 new patrons registered for library cards. The Library hosted over 3,100 programs for nearly 36,000 attendees.  Circulation in June totaled 953,091 which is a 2% increase. With 295,334 people visiting, Library visits in June increased 11% compared to June of 2024.  Several locations had an increase in visits over 2024 including Lewis & Clark with a 15% increase and Florissant Valley with a 9% increase.  The ePopUp Library QR codes opened at Ranken Jordan Pediatric Bridge Hospital, Ronald McDonald House, Shriners Children’s St. Louis, SSMHealth Cardinal Glennon Children’s Hospital, and St. Louis Children’s Hospital starting on June 20th. Circulation jumped from 269 in May 2025 to 555 in June 2025 which is an increase of 169%.
+	In May, the Library launched an online technology training platform called Coursera.  This training platform is a joint venture between Coursera and Grow With Google that is available to the Library through a partnership with TechSTL. Coursera offers more than 200 courses where students can earn a variety of certifications in areas such as UX Design, Data Analytics, Digital Marketing, IT Security and Cybersecurity, and Project Management. After going through its initial allocation of 500 Coursera scholarships, the Library applied to be a Grow With Google Partner on our own, which enabled us to request an additional 500 scholarships to meet the high demand for these classes and certifications.  More than 600 people have applied for a scholarship to Coursera.  The average monthly learning hours currently is 640 hours.  Applicants must have a valid St. Louis County Library Card to receive a Coursera scholarship.  Over 70 new people have acquired an SLCL library card.  (Plan: Promote Literacy 2d, 3a, 3b, Sense of Community 3a)
+	OrangeBoy Savannah, the Library’s new statistical analysis and marketing tool, offers a messaging feature that the Library will begin using soon. Ms. Sorth reported that Communications is working on creating email messaging campaigns using Savannah. The first series of emails will be sent to new cardholders and will include an initial welcome email, followed by three additional messages focusing on different services, programs and resources. The next series will focus on different categories of lapsed patrons. The messages are sent automatically based on queries, i.e. patrons who have signed up for a library card in the past two weeks.  It is expected that this will increase usage and engagement with new cardholders.  Messaging campaigns in Savannah can be highly customized based on how a patron interacts with the Library, allowing for very targeted campaigns. (Plan: Increase Access 2b, 2c)
+	Ms. Sorth announced the fourth school bookmobile, which is being built by CAD Industries, has experienced production delays.  Delivery of the vehicle was contractually required by May 31, 2025.  At the present time, it is expected to be delivered no earlier than the middle of August.  Library Administration, in consultation with Lashly Baer, notified CAD of this breach of contract.  According to the terms of the contract, the Library will be entitled to payment of 1% of the total contract price for each week the delivery of the vehicle is delayed.  She said we are hopeful the vehicle will be delivered in time for the start of the school year. (Plan: Promote Literacy 1a, 2a, Sense of Community 2a)
+	The Library will be partnering with ASPEN Network Inc. to bring activities, resources and opportunity for consultation for families attending the summer lunches at Florissant Valley, Lewis & Clark, Prairie Commons and Natural Bridge Branches.  ASPEN focuses on connecting children of any age with resources concerning mental health awareness and intervention as well as stress coping skills.  ASPEN will be onsite at one of the four branches on Mondays and Tuesdays until the end of July. (Plan: Sense of Community 3a, 3b, 3c)
+	Ms. Sorth shared with support from an ALA Building Library Capacity Grant, the Library will be partnering with Monarch Immigrant Services to bring resources to families attending the Summer Lunches at Rock Road and Weber Road through mid-August.  Program description follows:
+Drop-in Support for Immigrant Families
+Monarch Immigrant Services staff will be available to meet privately to help with a variety of issues immigrant families encounter. Services are available in your language or with an interpreter provided at no cost.
+Monarch provides a connection to many resources including:
+	Help understanding and working with U.S. institutions, like schools, banks, doctors offices, etc.
+	Help finding resources for housing, food, bills, transportation, utilities, etc.
+	Help understanding or filling out letters and forms
+Monarch also provides emotional support through:
+	Teaching tips to cope with stress
+	Talking through obstacles with someone who understands and cares
+	Getting strategies for tough conversations and building healthy relationships
+	Discussing relaxing activities for the whole family
+	Presenting new parenting strategies and coping techniques
+	(Plan: Sense of Community 3a, 3b, 3c)
+	Through a partnership with St. Louis County Department of Public Health and the Alliance for Healthy Communities, the Library is offering locking medicine bags and caps to the public at all 20 branches and through Sweet Reads. (Plan: Sense of Community 3a)
+	FEMA has opted to continue offering assistance through their Disaster Recovery Sites at Mid-County and Prairie Commons Branches through July 26th.  The Small Business Administration’s Disaster Recovery site also remains at Florissant Valley Branch. Over 400 patrons have been connected with resources through one of those three sites.
+		SBA at Florissant Valley - 169
+		FEMA at Prairie Commons - 96
+		FEMA at Mid-County - 140
+		(Plan: Sense of Community 3a, 3c)
+	Ms. Sorth reported the Library is at the halfway point of our very first Explorer Summer Camps. We have hosted three sessions, served 32 participants to date, and the feedback from both campers and their parents has been exceptionally positive. Participant surveys show an average experience rating of 5 out of 5 stars, with campers specifically noting that they made new friends and gained significant knowledge about their chosen topics and the Library's broader services. Our efforts to improve accessibility have also yielded positive results. Eight campers have utilized the roundtrip shuttle service from the Natural Bridge and Weber Road Branches, a service that was critical for their ability to attend. The full-day camps run Monday through Friday from 9:00 a.m. to 4:00 p.m., with lunch provided for all participants. This summer's specialized, hands-on camps offer unique learning opportunities in three distinct areas: Makerspace Exploration, Entrepreneurship & Product Design, and History Detective. Designed to be both educational and engaging, the camps provide immersive experiences for youths aged 12-17, who were selected for camp through a lottery process. Hosted at the Clark Family Branch, the camps are a collaborative effort by several of the Library’s public service departments, including the OCI Creative Lab, the Emerson History & Genealogy Center, and the Small Business Center. Their collaborative effort and dedication have been instrumental in creating a hands-on, educational, and meaningful experience for these young people.  The last sessions of camp begin the week of July 21st and August 4th. Thirteen campers are scheduled to take the shuttle the week of July 21 and 11 are from Weber Road Branch.  There have been several cancellations thus far allowing the Library to invite teens who were on the waiting list to attend. (Plan: Promote Literacy 2d, 3a, 3b, 3c, 3d, Sense of Community 3b, 3c, Increase Access 1a)
+	On Saturday June 28th, Adult Services hosted a Library Skate Party at the Florissant Valley Branch.  Roller skates and lessons were provided by Skate Culture, a local organization that specializes in pop-up skate events. More than 55 people attended the event, held in the staff parking lot. Many adult participants shared their excitement about skating for the first time since childhood and appreciated the opportunity to take lessons at the Library. Younger skaters at this all-ages event were glad to have a safe outdoor space to show off their skills and have fun with others. (Plan: Promote Literacy 3d, Sense of Community 1a, Increase Access 1c)
+	The Library continues to provide library cards for residents leaving the Missouri Eastern Correctional Center and the Transition Center of St. Louis. Since launching these partnerships with MECC (June 2024) and the TCSTL (December 2024), we have created 127 cards for residents. In addition to sending a ready-to-use library card, residents receive a folder of information about various justice-involved services and community resources. (Plan: Promote Literacy 1a, 2b, 3d, Sense of Community 1a, 1b, 2a, 3a, 3b, 3c)
+	Ms. Sorth announced the Tap In Center continues to expand! Manchester Municipal Court has agreed to partner with the Tap In Center. Starting this month, we are now able to serve people who have a bench warrant issued in Manchester. The TIC continues to assist with bench warrants issued in St. Louis County Circuit Court (felony and misdemeanor cases only) and the municipalities of Florissant, University City, and Webster Groves. She reported we are also able to assist people who have bench warrants in the St. Louis City Circuit Court and Municipal Court through our second Tap In Center location. Since the program launched in September 2020, the St. Louis County Tap In Center has recalled over 3,400 warrants. Over half of these warrant recalls have occurred in 2025 alone. Since May 27th, 2025, the TIC has consistently been serving over 50 people each week (with a record breaking week of 81 participants on 6/10), and recalling an average of 137 warrants each week. (Plan: Sense of Community 1a, 1b, 3a, 3b, 3c, Increase Access 1c)
+	There were over 240 people in attendance for Ask the Parkinson’s Doctor with Joel S. Perlmutter, MD presented in partnership with the American Parkinson Disease Association.  Almost 90% of those attending were visiting the Clark Family Branch for the first time. Attendees enjoyed a unique opportunity to have their questions answered from one of America’s leading Parkinson’s specialists and to connect with ten other supporting organizations and businesses who tabled at the event. Dr. Perlmutter then stayed an extra 45 minutes to answer the individual questions from attendees afterward. Following the success of this program, Adult Services will be planning more “ask the doctor” events in the future. (Plan: Promote Literacy 2d, 3d)
+	The Library hosted a booth at PrideFest on June 28 and 29. Library employees promoted Library programs and resources and had a button making station for attendees to create their own Pride button. Over 1,500 people visited the SLCL booth over the 2 days expressing love for the Library and gratitude for us being there. (Plan: Sense of Community 1a, 2b, 2c, 2d, 3b)
+	The LEGO Event took place at the Post Event Center on Friday, July 11th in the evening. Over 600 enthusiastic kids, teens and adults showed up to partake in various activities, see the displays by Gateway LEGO Users Group and create their very own minifigures. (Plan: Promote Literacy 3d, Sense of Community 3a, Increase Access 1a)
+	St. Louis County Library is bringing back Battle of the Bands for teens this summer. Fifteen bands submitted an original song for a chance to compete in the final live battle. The three bands with the most votes, plus two critics’ choices, will be the five finalists to compete at the Battle of the Bands on Friday, August 1 at Clark Family Branch. There were over 5,000 votes submitted for the contest. (Plan: Promote Literacy 3d, Sense of Community 3b, Increase Access 2d)
+	The Library will host a gaming tournament for teens run by BGG for the second year in a row in the Post Event Center. The tournament will take place on Saturday, July 26th from 12:00-5:00 p.m. (Plan: Promote Literacy 2d, 3a, 3d, Sense of Community 1a, 1b, 3b)
+	Ms. Sorth reported the Clark Family Branch will close at 4:00 pm on Wednesday, July 23 for the Backstage Pass Season Preview event with the Repertory Theater of St Louis. Last year we hosted 530 attendees at the event and are expecting even more this year.  Registration is recommended but not required and there are already well over 700 registrations. (Plan: Promote Literacy 3d, Sense of Community 3a, 3c, Increase Access 1a)
+	There were mentions of the St. Louis County Library in the local media in print, radio and television. Those articles are attached. (Plan: Increase Access 2)
+	Here are pictures from various events and programs that have taken place over the last month including: Juneteenth Celebration at Lewis & Clark, Perler Bead Pride at Grand Glaize, Story: Fire and Rescue Heroes at Lewis & Clark, Babaloo at Grand Glaize, Kranzberg Jazz Jam at Lewis & Clark, and Eye Thrive at Lewis & Clark.  (Plan: Promote Literacy 1b, 1c, 3d; Sense of Community 1b, 3b, 3c)
+Impact Stories
+	Regarding ePopUp.  “I saw the QR at the water fountain. My son read three Dogman books during our long layover. Thank you!” (Plan: Promote Literacy 1a, 2a)
+	I am a local singer/songwriter.  I have been using your recording studio to record my songs and I just want to tell you how much I appreciate being able to make use of this amazing opportunity.  Your staff is extremely helpful.  That's it - just letting you know what a cool offering this is. (Plan: Promote Literacy 3b, 3d, Increase Access 1a)
+	Ms. Sorth shared after a book a trainer session at Natural Bridge, a patron called to tell the Digital Navigator that he was awarded the contract after completing a bid for a six-month cleaning job using the Law Depot database with Jonathon’s help. (Plan: Promote Literacy 2d, 3b)
+	Thank you so much for the Chair Yoga class. My husband passed away recently and this really helped my mind. (Plan: Promote Literacy 2d)
+	A patron who attended our Gateway to Reading workshop at Daniel Boone today expressed their sincerest gratitude for the program and the resources the library has provided with the Gateway to Reading kits. They had no idea these resources existed as well as some other resources that were shared during the workshop. They said the program was amazing and seeing their child engage with literacy activities in a play-based, developmentally appropriate way (play), made them so happy. (Plan: Promote Literacy 1a, 2a, 2b, 3d)
+Library Administrative Updates
+	Ms. Sorth reported the Library has surpassed 15,000 followers on Instagram. As of July 14, our follower count was 15,400. This brings our total social media followers to over 67,000. The Library is currently on Instagram, Facebook, X, BlueSky and TikTok. (Plan: Increase Access 2d)
+	Communications is working on a number of materials for the upcoming Branch Out Challenge taking place September 2-October 31. Designer Tay Tuteur made drawings of each branch, which will be converted into stickers and coloring sheets. They also made a Branch Out passport, which features the branch drawing, fun facts and an explanation of the program. Bella Marcallini is making video tours of each branch to share on social media. (Plan: Increase Access 2a, 2c, 2d)
+	Ms. Sorth shared the Library hosted a press conference on June 20th to announce the expansion of the ePopUp Library program to five local medical facilities that support children and their families and caregivers.  The partnership is with Children's, Cardinal Glennon, Ranken Jordan Pediatric Bridge Hospital, Shrines and Ronald McDonald House.  Since that announcement, Mercy Kids reached out and is joining the program.  The original program continues at Lambert airport, Schnucks, St. Louis County Government offices and on Metro/BiState vehicles. (Plan: Promote Literacy 1a, Sense of Community 2a, 2c, Increase Access 2c)
+	This summer, employees were encouraged to submit original art with the theme “Where Do You Read?” for the Design a Bookmark Contest for employees.  Winners were chosen by a committee.  Communications is professionally printing the bookmarks in time to distribute to patrons for Book Lovers Day on August 9.  (Plan: Sense of Community 1c, 1d)
+	The Beck has had two beautiful visitors in the last several weeks. (Plan: Increase Access 1b)
+	The job posting for the three Library practicum social worker positions for students has been posted all of the Missouri universities who have schools of social work. (Plan: Sense of Community 3a, 3b, 3c)
+	Ms. Sorth announced the St. Louis County Library has been named a Top Workplace for 2025 by the St. Louis Post Dispatch.  This is the 13th year we have received this honor.  The St. Louis County Library is filled with smart, creative, kind, fun, good and dedicated people who value the work and see the impact.  Our employee's dedication and devotion to the patrons both in public service and behind the scenes in the support and administrative departments is amazing.  This year, SLCL is in the Top 10 for all large organizations at #6!  The team at the Post Dispatch wanted to tell our story so they talked with several employees and visited the Beck, our drive-thru tornado relief event, and Clark Family Branch.  Thanks to Tarza Tawfiq - Employee Relations Coordinator, Earl Green - Library Associate on the Preschool Outreach Bookmobile, and Miranda Gibson - Justice Services Specialist for talking with the reporter.  The St. Louis County Library was nominated for this honor.  All employees received an employee survey earlier this year. This survey was given to multiple organizations in St. Louis.  The St. Louis Post Dispatch uses a third party administrator to collect and analyze the survey data.  The results are used to determine which organizations receive the honor of being named a Top Workplace based on a high favorable rating by employees in the survey questions.  Almost 71% of Library employees completed the survey.  This is one of the highest participation rates that they see from organizations.  Over 400 organizations participated and almost 200 were selected.  We are classified as a large sized organization with 19 being selected as Top Workplace. (Plan: Increase Access 1c, 2c)
+Library Construction, Facility, IT and Transportation Update
+	Ms. Sorth reported the new Chesterfield Branch was presented to the Chesterfield Architectural Review Board at their June 18th meeting and submitted two minor suggestions.  The next step is to submit the project to the Chesterfield Planning Commission.  The design of the new Chesterfield Branch is progressing.  We have most recently been studying the layout of the shelving and furniture to make sure that this branch will have sufficient room for all of the books as well as comfortable areas for patrons. (Plan: Increase Access 1a)
+	The high temperatures during the months of June and July have placed a strain on some of our HVAC systems.  Many of the issues are quick repairs which our Building Systems staff have been able to resolve, but some buildings are having larger issues which have required the work of an HVAC contractor.  Some of the branches affected are Florissant Valley, Parkview, Rock Road, Daniel Boone, and Samuel C. Sachs Branches.  Weber Road Branch required one of the larger repairs.  A new condensing unit was required for this system and the contractor is still working through the repairs.  The unexpected cost was purchased through a negotiated contract. (Plan: Increase Access 1c)
+	Ms. Sorth announced the Library will be hosting Library Journal’s Design Institute on September 25th at Clark Family.  From Library Journal about the event.  (Plan: Increase Access 1a)
+Hosted by Library Journal in partnership with the St. Louis County Library, this installment of our library building and design event will bring you the latest trends in library design. And what a location! This Jerry Kline Community Impact Prize–winning library recently completed its multi-year “Your Library Renewed” capital improvement campaign. Learn more about that work while you dig deep with architects, librarians, and vendors to explore building/renovating/retrofitting spaces both large and small that will redefine the relationship with your users and engage your community. This full-day think tank provides expert panel discussions with architects and librarians, as well as hands-on, architect-led breakout sessions dealing with real-life design challenges submitted in advance by you and your fellow attendees.
+	Cliff Cave Branch received a new booth and table for their teen area, which is expected to provide better definition for this space within the branch. (Plan: Increase Access 1a)
+	The IT department has completed the deployment of Arctic Wolf’s managed detection and response system.  The Library’s annual cyber security audit saw significant improvement over the previous year's audit.  We now have a single dashboard that provides daily security alerts and weekly enterprise security reports.  We also have quarterly security reviews with our Arctic Wolf's security team. Arctic Wolf’s thorough unified portal covers all aspects of the Library’s cyber security from a single interface.  This includes monitoring, alerting, logging, tracking, staff education, incident response and key IT documentation.  Arctic Wolf uses AI to watch for suspicious network traffic patterns.  This includes both our cloud-based Google Workspace environment as well as our in-house servers and PCs.  The Library has seen a significant improvement in the security posture since implementing the managed detection and response system. (Plan: Increase Access 1)
+Library Foundation and Grants
+	Ms. Sorth shared the St. Louis County Library Foundation is hosting their annual fundraising event, “Popped from the Page” on August 9th at the Clark Family Branch. This year the Foundation is hosting an outdoor movie night.  Tickets are on sale now through August 6th.  (Plan: Increase Access 1b, 2b, 2c)
+	The Foundation’s spring appeal raised $50,343 from 171 donors. This surpassed the goal of $35,000 by 44%. These are all unrestricted funds. (Plan: Increase Access 2c)
+	Foundation and Library Grants:
+		The Library Foundation received a $700 grant from the Zonta Club of St. Louis to support Gateway to Reading.
+		The Library Foundation received a $10,000 grant from the Regional Arts Commission to support the 2025 St. Louis Storytelling Festival.
+		The Library Foundation received a $10,000 grant from the Josh Seidel Memorial Foundation to support Coding 101 in 2026.
+		The Library Foundation received a $5,000 grant from the E. Reuben and Gladys Flora Grant Charitable Trust to support social workers.  (Plan: Sense of Community 2a, 3a, 3c)
+Author Events (Plan: Promote Literacy 1c)
+Author Series Update - Year to date:
+# of authors: 95
+Attendance: 23,372
+2024 totals: 144 authors/33,000 attendees
+August 2025 Author Events
+Upcoming event highlights:
+On Friday, August 8, 6:00 pm - SLCL will host a special event with Grammy Award-winning musician and children’s book author Lucky Diaz. The special event will be a finale program for the summer reading program and will include a musical performance by Lucky Diaz and the Family Jam Band. Free family program.
+Tickets are on sale now for fall events with:
+#1 bestselling fantasy author Holly Black - Sunday, September 28 - CF
+Bestselling horror novelist Joe Hill - Wednesday, October 22 - CF
+	Karen White, author of “That Last Carolina Summer,” Monday, August 4, 2025, 7:00 p.m.-9:00 p.m., Clark Family Branch
+	Jason Mott, author of “People Like Us,” Tuesday, August 5, 2025, 7:00 p.m.-9:00 p.m., Clark Family Branch
+	Ally Carter, author of “The Blonde Who Came In From the Cold,” Thursday, August 7, 2025, 7:00 p.m.-9:00 p.m., Clark Family Branch
+	Lucky Diaz, author of “Fix-It Familia,” Friday, August 8, 2025, 6:00 p.m.-8:00 p.m., Clark Family Branch
+	Frances Levine, author of “Crossroads: Women on the Santa Fe Trail,” Wednesday, August 13, 2025, 7:00 p.m.-9:00 p.m., Clark Family Branch
+	TICKETED EVENT - Karin Slaughter, author of “We Are All Guilty Here,’ Friday, August 15, 2025, 7:00 p.m.-9:00 p.m., Clark Family Branch
+	Peter Cozzens, author of “Deadwood: Gold, Guns, and Greed in the American West,” Wednesday, August 20, 2025, 7:00 p.m.-9:00 p.m., Clark Family Branch
+	Sam Goodwin, author of “Saving Sam: The True Story of an American's Disappearance in Syria and His Family's Extraordinary Fight to Bring Him Home,” Monday, August 25, 2025, 7:00 p.m.-9:00 p.m., Clark Family Branch
+Materials Reconsideration Actions
+Date Submitted                        Item                                        Decision of Committee
+6/2/2025                      Use of Force and the Fight Against Police Brutality             Retained in Collection
+6/2/2025                      A Kids Book About Racism                                                     Retained in Collection
+6/2/2025                      The Meaning of Pride                                                             Retained in Collection
+6/26/2025                    Pretty Ugly                                                                              Retained in Collection
+OLD BUSINESS
+None
+NEW BUSINESS
+2025 Summer Interns
+Emily McIlvoy, Teen Services Coordinator, introduced this year's summer interns.
+Da'Mireion Ivy (he/him)
+Hadley Keirsey (she/her)
+Munirah Ahmad (she/her)
+Patrick Hoffner (he/him)
+Ms. McIlvoy spoke about the interns visiting branches, helping with programs throughout the system and meeting with the different departments. Each intern spoke about what they liked about the internship.
+2024 Tap In Center Annual Report
+Miranda Gibson, Justice Services Specialist, gave the 2024 annual report for Tap In Center. Mr. Wang asked what would be needed to handle an expansion. Ms. Gibson responded. Ms. Patterson said this may be a reason for the Library to make a case for an attorney, just as we did with social workers.
+Parking lot Seal and Stripe
+Kelli Reeves, Manager of Facilities, presented the recommendation.
+Library Administration recommends that the Library Board select Asphalt Services to provide Seal & Stripe services to the Library District at four locations for the amount of $42,200 and that the Board authorize the Director and CEO to enter into and execute a contract to that effect.
+Motion by Lynn Beckwith, second by Deborah Patterson.
+Final Resolution: Motion Carries
+Aye: Johnny Wang, Deborah Patterson, Lynn Beckwith, Ted Sanditz
+Naming Rights Request
+Kristen Sorth, Director & CEO, presented the recommendation. Ms. Patterson recommended we revisit the Naming Policy and define the Naming Policy for rooms.
+Library Administration and the Library Foundation recommend approval of naming the Green Room at the Clark Family Branch, the Maurice and Catherine Quiroga Family Trust Green Room.
+Motion by Ted Sanditz, second by Lynn Beckwith.
+Final Resolution: Motion Carries
+Aye: Johnny Wang, Deborah Patterson, Lynn Beckwith, Ted Sanditz
+Insurance Renewals
+Laura Taylor, CFO, presented the recommendation.
+The Library Administration, in consultation with The Daniel and Henry Company, recommends that the Library Board accept the quotes from the insurance carriers, which include The Hanover Insurance Group, Hartford, Travelers Casualty & Surety Company of America, and Chubb for a total cost of $658,691. Administration also recommends that the Library Board accept the quotes from The Hartford for additional flood insurance for a total cost
+of $46,844.
+Motion by Lynn Beckwith, second by Deborah Patterson.
+Final Resolution: Motion Carries
+Aye: Johnny Wang, Deborah Patterson, Lynn Beckwith, Ted Sanditz
+ADJOURNMENT
+Motion to Adjourn Meeting.
+Motion by Lynn Beckwith, second by Deborah Patterson.
+All approved by voice vote.
+Final Resolution: Motion Carries
+Aye: Johnny Wang, Deborah Patterson, Lynn Beckwith, Ted Sanditz
+Meeting adjourned at 4:32 p.m.
+Respectfully submitted by,
+­­­­­­­­­­­­­­­­_______________________________                                                          __________________
+Johnny Wang                                                                                                  Date
+President

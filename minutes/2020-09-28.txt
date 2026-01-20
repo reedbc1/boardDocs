@@ -1,0 +1,264 @@
+{
+  "name": "Regular Meeting",
+  "description": "Library Board",
+  "unique": "BL3MHW5ACB9E",
+  "date": "2020-09-28T00:00:00Z"
+}
+
+---
+
+ST. LOUIS COUNTY LIBRARY DISTRICT MEETING OF THE BOARD via ZOOM 1640 SOUTH LINDBERGH BLVD.
+MONDAY, SEPTEMBER 28, 2020
+3:30 p.m.
+ATTENDANCE:
+Members present:
+Lynn Beckwith, Ed.D., President
+Johnny Wang, Vice President
+Ted Sanditz, Treasurer
+Joan Barry, Member
+Laura Horwitz, Secretary, had an excused absence.
+ADMINISTRATORS AND GUESTS ATTENDING: Kristen Sorth, Director and
+CEO; Eric Button, Deputy Director; Barbara Turkington, Assistant Director, Administration; Laura Taylor, CFO; Gib Van Cleve, Assistant Director, ITS; Steve Hunter, Assistant Director, Operations; and Lisa Stump, Lashly and Baer.
+OTHERS ATTENDING: Sandra Williams, Executive Assistant
+MINUTES
+The Library Board approved the August 17, 2020 minutes (Wang/Barry)
+PUBLIC COMMENTS
+Sandra Williams, Executive Assistant, read six letters from the following patrons:  Jennifer Hollander, Geneva Lee, Mary Wahlmeier Bracciano, Maureen Asino, Montague Simmons and Dawn Ruhbeck.
+TREASURER'S REPORT
+Chief Financial Officer Laura Taylor presented the Treasurer's report.
+Maintenance and Operating Fund Financial Statements:
+Revenues
+	District Taxes – In August, the Library District received tax revenue in the amount of $228,204. The Library has received $54.6 million in tax revenue year-to-date, which is 102% of the 2020 budgeted amount of $53.7 million.
+	CARES Act Grant – In August, the Library District received an unbudgeted $4 million in CARES Act funding from St. Louis County to establish a Digital Equity Initiative to help young people continue their education virtually. The funds will be used to provide Chromebooks, Wi-Fi Hotspots, and virtual and in-person tutoring services to students and school districts in St. Louis County.
+Expenses
+ Custodial Services – In August, the Library District incurred $54,041 in Custodial Services expenses. Notable expenses are as follows: o $37,620 for July and August branch cleaning services – Buildingstars Operations Inc.
+o $8,085 for COVID cleaning at Sachs, Natural Bridge, Weber Road, MidCounty – Woodard Cleaning & Restoration
+Expenses
+ Technology – Software & Licenses – In August, the Library District incurred $67,907 in Technology – Software & Licenses expenses. Notable expenses were as follows:
+	$14,095 for Smart Money Manager license renewal – Comprise Technologies
+Inc.
+	$7,000 for BoardDocs Pro license renewal – Amigos Library Services
+Capital Projects Fund Financial Statements
+Balance Sheet – 2016 Debt Issuance
+ Construction in Progress – Total Construction in Progress for August 2020 was $43,701. The expenses included payments for:
+	Facilities Master Plan Administrator payment of $18,813
+	Builder’s Risk Insurance for Administration Building & Eureka Hills construction payment of $12,500
+The Library Board approved the September 2020 Treasurer's Report subject to audit. (Wang/Sanditz).
+DIRECTOR'S REPORT
+Library Update
+	Ms. Sorth said the Dashboard report for August is attached.  Total circulation for August 2020 was 39% lower than August 2019.  eMedia circulation in contrast was 29% higher than eMedia circulation in August 2019.   Last month, 17,779 patrons viewed the Library’s eight virtual author events.  The Dashboard contains a breakdown by author.  (Plan: Promote Literacy 1.1)
+	She reported that St. Louis County Executive Dr. Sam Page announced on July 23 that he would designate $4 million in federal CARES Act funding to the St. Louis County
+Library to establish a Digital Equity Initiative to help young people continue their education virtually.  All of the participating schools have picked up their hotspots that were procured with CARES Act funds.  Nearly 10,000 hotspots are now in use in students’ homes throughout the County.  In less four days, the Youth Services,
+Cataloging and Processing Departments prepared 10,000 hotspots for distribution to local schools and school districts. As part of the CARES Act Funding, the Library has purchased Tutor.com access for 12 months which provides online live tutoring from 10:00 a.m. - 10:00 p.m., seven days a week.  Access is available for all SLCL cardholders.  There have already been 240 live tutoring sessions, mostly about elementary school math. (Plan: Sense of Community 2.1)
+	The Library is still waiting on delivery of the 2,500 Chromebooks for schools and school districts.  Funds that remain from the original $4 million of CARES Act funds are expected to provide for the purchase of another 4,000 Chromebooks.  The Library is also hopeful that we can support in-person tutoring offered to “unique learners” by the Miriam Learning Center with some of the remaining CARES Act funds.  We are waiting for a decision from the County on the additional tutoring support. (Plan: Sense of Community 2.1)
+	The Library was awarded a $75,000 grant from PNC to fund the purchase of 115 hotspot and Chromebook kits that will be checked out for public use at Bridgeton Trails, Florissant Valley, Indian Trails, Jamestown Bluffs, Prairie Commons, Lewis & Clark,
+Natural Bridge, Rock Road and Weber Road.  We were able to find a supplier for
+Chromebooks that could provide the units in the next week or two.  The St. Louis County Library Foundation is also supporting this effort.  These kits should be available to patrons for checkout before the end of October.  The kits will help meet the need for public computing access particularly while the library remains closed. (Plan: Sense of Community 2.1)
+	She said patrons are once again able to borrow materials outside of our collection through Interlibrary Loan, MOBIUS, and Prospector. The Interlibrary Loan Department began lending to other libraries on Monday, August 31. (Plan: Promote Literacy 1.1)
+	On September 30, Forward Through Ferguson is launching their latest report, Still Separate, Still Unequal: A Call to Level the Uneven Educational Playing Field in St. Louis.  The Library will have copies of the report available for checkout at every branch and HQ.  We are also making plans for a virtual program about the Report.  (Plan: Sense of Community 1.1)
+	She said as of today, we are giving patrons who have registered online for a library card the option to receive a physical card mailed to their address. This option is available to patrons who live in our district or in a reciprocal district. System Administration will be creating a weekly list of patrons who have opted for a physical card. Bookmobile employees will process and mail cards to new patrons or to patrons who need a replacement card.  As part of the Library ConnectED program, we have created virtual library cards for 20 school districts since August. Thirteen of those are public schools and seven are private schools. A total of 29,816 students have access to library resources using these cards. (Plan: Maximize Access 1.1)
+	As mentioned last month during the planning stage, the Library is partnering with the St. Louis County Public Health Department to provide free drive-thru COVID-19 testing at several branches this fall.  Testing takes place in the branch parking lots from 8:00 a.m. – noon on Tuesdays and Thursdays.  To date, 230 tests have been administered.  Locations include Bridgeton Trails, Florissant Valley, Grant’s View, HQ, Jamestown Bluffs, Lewis & Clark, Meramec Valley, Natural Bridge, Oak Bend, Prairie Commons, Rock Road, Sachs and Weber Road. (Plan: Sense of Community 2.1)
+	After a month-long hiatus, the Library is now able to offer drive-thru meals again.  A decision at the federal level to waive certain requirements regarding the federal summer lunch program was passed on August 31 and meals resumed on September 14.  In partnership with Operation Food Search, drive-thru meals are offered Mondays, Wednesdays, and Fridays from 10:00 - noon at ten branches. (Plan: Sense of Community
+2.1)
+	Prior to the Library's closure in March, Florissant Valley and Lewis & Clark were offering a one-time supply of 50 "Emergency Diapers" along with a referral to another agency for ongoing support.  Our partnership with the St. Louis Area Diaper Bank continued through the Library's closure but in a different form whereby patrons were able to get a regular supply of diapers during drive thru meals on Fridays at four branches.  The Diaper Bank is no longer able to support that model of distribution. However, they are able to support our patrons by reverting to the emergency diaper distribution model.  Patrons are again able to pick up a one-time supply of diapers as well as a referral through curbside service at Florissant Valley and Lewis & Clark. The two branches distributed diapers to 296 individuals (50 diapers per pack, so 14,800 individual diapers) on September 23, the first day of the program. (Plan: Sense of Community 2.1)
+	The Library continues to provide vital services to the region.  Here is a chart that shows our accomplishments as of September 24.  We are so thankful to the many community partners who have reached out to us to provide additional items to be distributed through our drive-thru meal sites.    (Plan: Sense of Community 2.1)
+	She said the Library is partnering again this year with the League of Women Voters to provide voter registration at all 20 locations.  On Saturday, September 26, volunteers from the League of Women Voters were stationed outside each location from 1:00 to
+4:00 p.m. to provide assistance to individuals who wish to register to vote. Mail-in voter registration forms are always available at the branches. (Plan: Sense of Community 2.1)
+	Ms. Sorth said the Library will be offering notary services at HQ, Natural Bridge, Prairie Commons and Weber Road during curbside hours from October 17 – October 31. The notaries are volunteers coordinated through the Jewish Community Relations Council of St. Louis and the National Council of Jewish Women, St. Louis.  In addition, the MidCounty Branch will serve as an absentee voting site for the St. Louis County Board of
+Elections from October 22 – November 1: 8:00 a.m. – 4:30 p.m., October 24 and October 31: 9:00 a.m. – 1:00 p.m. and November 2: 8:00 a.m. – 5:00 p.m.  Fifteen branches will serve as polling sites on November 3.  Branches serving as polling sites will not offer curbside service on November 3 per Library Board approval.  Based on a patron suggestion, a webpage with links and helpful information about the upcoming election will be added to the website. This resource will also include the Library’s polling locations and notary events. (Plan: Sense of Community 2.1 and Promote Literacy 2.4)
+	The Library now offers curbside bundles for patrons.  By submitting a short form, patrons can request a bundle of material, selected by library employees, to be checked out and delivered via curbside.  The service has proven very popular.  From September 1 - 24, Library employees have received and fulfilled nearly 500 bundle requests.  Requests can be made for children, teens and adults and may include requests for CDs and DVDs.  Some popular bundle requests include books about dinosaurs, cookbooks and horror movies.  The branches also offer pre-selected bundles with very creative titles including: Good Books that Became Bad Movies, There's a Cat on the Cover, Dog's Point of View
+Stories, Titles Your English Teacher Ruined and Ugly Cry Reads.  Also, Adult Services Specialist Sarah Steele is now offering her popular Readers’ Advisory employee training in a virtual format.  Readers’ Advisory skills are more important than ever during this time when patrons can’t browse the shelves and are relying more on employees to help them choose books. (Plan: Promote Literacy 1.1 and 1.2)
+	She reported that work has begun on building up the Eureka Hills collection for the new branch which will have a collection three times the size of its current collection. Material in various genres at other branches will be sent to a designated storage area at Headquarters. The Reference Department will be managing the incoming material and will organize the material on shelving at HQ. (Plan: Promote Literacy 1.1)
+	Starting October 1, adults and teens can pick up a log and participate in the Fall into Fitness: Walking Challenge. Walkers track their miles on the log.  The top ten finishers at each branch will receive a copy of the book “Best Hikes Near St. Louis.” (Plan: Promote Literacy 1.2)
+	She said the Adult Services Department has been successfully ramping up the Library’s virtual services. They have been able to continue offering the programs that our patrons rely on, like aging programs, wellness programs, book discussions, and arts programs, as Zoom webinars. They have also expanded the virtual selection to provide the important mental health and other virtual support programs which patrons are in need of at this moment. Patrons adapted to the virtual format quickly, with an average attendance of 56 patrons for programs. (Plan: Promote Literacy 1.2 and 3.4)
+	Ms. Sorth said with high unemployment rates and adult education classrooms closed, Career Online High School has been a great opportunity and learning alternative for our patrons looking to advance their education and get career training from the safety of their home. There are currently 43 students participating in the program.  The Library has 70 graduates and a graduation rate of 73%. The national COHS graduation rate is 58%. (Plan: Promote Literacy 3)
+	The Adult Services Department is working with ProLiteracy to offer courses that prepare adults for the workplace. The nine-week course will be offered twice each week by Adult Literacy Coordinator, Ricqui Brooks. Registration is now at capacity with 60 people on the waiting list. The course will be offered again to ensure all interested patrons gain the critical skills needed to pursue a career. (Plan: Promote Literacy 3.1)
+	She announced that Youth Services created an online reading challenge for the Missouri Building Block Picture Book Award voting for kids ages 0-6. Once a participant has read at least 5 of the 10 nominated titles, they can vote for their favorite book. Everyone who completes the challenge will be entered into a raffle for a chance to win one of the nominated titles. The challenge runs October 1 - January 8. (Plan: Promote Literacy 1.2)
+	Designers aged 10 and up are encouraged to use their favorite software to create a 3-D model of an animal for a chance to win and receive a 3-D print of their design. (Plan: Promote Literacy 3.4)
+	She reported that the Library is partnering with St. Louis County Courts and a number of other organizations whose mission and work centers around supporting the needs of justice-involved individuals.  During the pandemic, court access and court proceedings have been dramatically disrupted.  Individuals with court-related business face challenging and ever-changing obstacles to resolving these matters.  This partnership allows people to “tap back into the system,” and resolve matters in a conveniently located and trusted place.  The Florissant Valley Branch began hosting the tap-in center (TIC) on September 22.  The soft launch was very successful.  The TIC is operated by a number of staff from the County Courts, including people from the Public Defender's office and the County Prosecutor’s office.  Some services and consultation will be offered in-person, and other services will be offered via Zoom.  In addition to seeking assistance and direction for resolving issues pertaining to their pending cases, these individuals will also be provided with access or referrals to social services that help meet needs in their lives.  This portion will be facilitated by the Bail Project.  Library staff will be present during the TIC hours, and they will be available to assist with library services. (Plan: Sense of Community 2.2)
+	Playaway Launchpads are tablets that come pre-loaded with content for children. Previously, the Library has only made these available to patrons for in-library use.  As the result of an employee suggestion, we are now making these available for patrons to check out curbside.  Examples of titles include A Day at the Zoo. This particular launchpad has games and activities centering on ways for children to explore animals, animal sounds and habitats. Another is titled Big Minds. This launchpad is STEAM based and will help children strengthen math skills, develop fine motor skills and strengthen problem-solving skills. (Plan: Promote Literacy 3.4)
+	Ms. Sorth said that members of the St. Louis Symphony Orchestra performed a free outdoor concert on Friday, September 18 at Lewis & Clark.  The performance was part of the St. Louis Symphony Orchestra On the Go series.  The concert coincided with the return to drive-thru meal service at the branch. (Plan: Promote Literacy 3.4)
+	To celebrate the 100th anniversary of women’s suffrage, the Library presented a virtual program on September 17 and 25.  More than the Vote: Stories of Suffrage was presented
+by Elizabeth Eikmann, Ph.D. candidate in American Studies at St. Louis University. The program challenged misconceptions and myths and explored some lesser-known facts about women’s suffrage and the 19th Amendment. (Plan: Promote Literacy 3.4)
+	Ms. Sorth said the Library is assisting in efforts to promote the Census as we approach the September 30 deadline, which was extended due to COVID-19.  All virtual adult programs contain information about the importance of completing the Census.  In addition, we are distributing Census Information during curbside delivery of materials. (Plan: Sense of Community 2.1)
+	The Library placed the following ad in the St. Louis American as part of their annual Diversity, Equity and Inclusion insert. (Plan: Sense of Community 1)
+	On August 16, the Library received a petition from Libraries for All through the Action Network. Ms. Sorth and the Board took the time to address the following items which were submitted.
+	Publicly State that Black Lives Matter
+(response)
+ Ms. Sorth said the Board passed a resolution last month at the August Board meeting addressing systemic racism and the Black Lives Matter ideal.  Dr. Beckwith added the following comments.  “I am a black male who has been around a long time. He believes all lives matter and there is only one race and that‘s the human race. But that’s in a perfect world.  Concerning black lives matter, since 1619 when Africans were forcefully brought to America’s shores as an enslaved people, history has shown that black lives tend to be held in less regard than others, to the extent that in the US constitution until after the civil war, blacks were only counted as three-fifths of a person.  Also, in Plessy vs Ferguson in 1896, the Supreme Court ruled that segregation was legal in America, particularly against minorities as long as they were equal; which they never were.  This wasn’t reversed until 1954 in the Brown vs Topeka situation.  Personally, as a black male, from the time I was in segregated elementary and secondary school by law, I’ve known that there has been a difference and there is a need for this movement of black lives matter.  Not that other lives are not important.”
+ Mr. Wang said he echoed his comments and it is important.  That’s why we passed the resolution.  Black lives matter, he concluded.
+	Remove all St. Louis County police officers from the St. Louis County Libraries and the SLCL payroll.  (response)
+  Ms. Sorth said the contract is with Hudson security.  It’s not with the St. Louis County Police. We have not had officers in the branches since we closed in July.  We will discuss this later on in the budget revision. September is the only time when we can do a budget revision. Our plan is not to have officers in the branches for the near future.  They are not on our payroll.  They have a contract and it is only for time worked. So when they are not working they are not being payed.  Mr. Wang gave the following remarks.  “I appreciate the time and effort the organizers of the petition took to put this together.  And the thought and effort behind their points. These issues are complex.  It takes time and discussion to have a meaningful and transparent response.  Which is what we are trying to do today. We want you to know we hear you. We are not inflexible. We are not static. We want to respond to the needs of the community. At the same time, we have a duty to reassure we have a safe environment for not just our employees but all our patrons.  We will continuously review this.  Options are on the table. We have full faith in Director Sorth in reviewing and executing and making sure that we respond to our community and our employees.”
+ Dr. Beckwith said he sincerely believes that employees who work at the six branches where there are off duty policemen should have a major say in whether they want security at their branches.  He said “librarians are trained in library science and not in areas of security. I believe it’s easy for people who are not serviced by the branch to say no police. But these are people who work at the branch and citizens who live there.”
+	Reallocate funds to holistic public safety options that affirm black lives by using a participatory budgeting process involving black and youth library users and non-managerial library staff from the six policed branches in the decision making process.
+(response)
+Ms. Sorth said we do plan to issue an RFQ to select a consultant to conduct community conversations regarding diversity, equity and inclusion in library programs and services.  This will be included in the 2021 library budget. We had this conversation as part of the library’s strategic planning process and they were discussed in employee and public forums conducted by Vector Communications as we were preparing for our strategic plan..  We firmly believe it’s timely and important to have those discussions now. We have already conducted five town hall meetings with employees to discuss the issue of having officers in the branches.  That communication will continue. Those conversations are certainly ongoing including a survey that is forthcoming with the branches that have officers.  Dr. Beckwith added that we must consider the safety and welfare of our employees and patrons in being a major factor in whether we have police presence at the six branches that have them.
+	Hire staff that represent the communities they serve and particularly hiring more black people in all roles especially at branch managerial and administrative levels.
+(Response)
+This has been a focus at the library for years.  It’s also addressed in our current strategic plan. It says ‘will represent inclusion and equity in our services, staff, programs and selections.  Those of you who have been at board meetings for many years do know that this is something that is very important to the Board, particularly for Dr. Beckwith.  He has been a board member for years and has been asking questions for many years about our efforts in this area.
+Mr. Wang said the board did not intend to come across as slapping themselves on the back but Dr. Beckwith has been a champion of this issue.  Under his leadership tremendous strides have been made in diversifying our workforce.  Every year those numbers are reported and you can review the minutes to see this. As a minority, he said this is near and dear to his heart. We will continue to do great work Dr. Beckwith has instilled in all of us. Dr. Beckwith added that “since my appointment in 2007, I have diligently worked to improve the hiring of minorities in all areas not just custodians, etc.
+In 2016, the minority population in St. Louis County was the following: Black/African Americans,
+24.4%; Asians 4.2%; and Hispanic 2.8%. This gives you a total minority population in St. Louis County of 31.40%. Our March 2018 diversity report indicated 23.54 percent of our employees were minorities.  We are not where we want to be until we get to that countywide average I still will be pushing.  I want to know numbers and percentages and where they rank.  I brought to Director Sorth’s attention that having a procedure of mostly selecting managers and assistant managers from in-house, does not lead to advancing minorities in those positions. Sometimes you have to go outside to create a balance.”
+5. End the culture of policing internally by allowing staff to give input in policy and have authentic representation in decisions that impact our lives on the front line of service.
+(Response)
+Ms. Sorth said she would introduce Tarzah Tawfig in a few minutes.  Administration has promoted one of the employee trainers.  She is an Employee Relations Coordinator.  Tarza has worked for the library for a number of years. This is part of her work responsibility.  Next week, she is hosting town hall meetings with all employees. There are five of them set up.  She also plans to do employee surveys to engage employees at the library. Dr. Beckwith added that “the library district welcomes input from employees with the understanding that policymaking governance is the responsibility of the Board of Trustees. While we will accept input, the final decisions and policymaking is left to the Board of trustees.” Mr. Wang said we do hear you and are implementing measures that make sure there are plenty of avenues to be given and received when necessary. (Maximize Access: 2.4) Ms. Sorth said that concluded the five suggestions by the petitioners.
+	Ms. Sorth and Admin decided to bring back the slideshow of Library programs.  Next month she will show pictures from various events that have taken place over the last few months including: Wifi Hotspot Distribution, Drive Thru COVID-19 Testing, Drive Thru Meals, Eye Thrive Mobile Vision Clinic, Curbside Service, Diaper Distribution, Face Mask Distribution, Free Book & Activity Kit Distribution. (Plan: Promote Literacy 3.4 and Sense of Community 2.1)
+Library Administrative Updates
+	Ms. Sorth said she was pleased to introduce Tarza Tawfiq, the Library’s new Employee Relations Coordinator.  Tarza began her career with the Library in 2015 when she was hired as a Computer Lab Trainer and became a Staff Trainer in 2018.  In this new role, Tarza will perform various activities that support positive employee relations and engagement within the Library.   This includes employee engagement, recruitment, wellness, and appreciation.  Tarza will report directly to her and will serve as a liaison and important resource for employees.  She will recommend organizational strategies and initiatives to the Administration.  Tarza will be hosting a series of town hall meetings with employees in the next week. (Plan: Sense of Community 1.3)
+Tarza Tawfig addressed the board and said she was impressed with the level of work that the staff perform at the library. She is looking forward to working with the administration and representing the staff to make it a better work place down the line. Ms. Sorth said Tarza will report directly to her and recommend strategy and host town hall meetings while working with recruitment, suggestions, wellness and lots of projects. She will recommend organizational strategies and initiatives.
+	She said the Library held the annual Flu Shot Clinic at the regional branches for employees on September 24 and 25.  The cost was free for employees who have medical insurance.  For employees who do not have medical insurance, the cost is $5.00 and the Library pays for the remainder of the fee.
+	She said the Administration continues to work with Lockton, the Library’s HR Consultant, on a complete revision to the performance management process and salary structure for the Library.  We will bring a recommendation to the Library Board next month.
+	The Library was recognized by the City of Hazelwood for our efforts during COVID-19 and to “bring some joy to the lives of your many communities.” (Plan: Maximize Access 1.3)
+	Ms. Sorth attached a letter that she received from the State of Hawaii thanking staff for returning a book that was checked out from them in 1973!   Library Construction and Facility Updates
+	As mentioned previously, the Library plans to issue an RFQ to select a consultant to conduct community conversations regarding diversity, equity and inclusion in library programs and services.  This will be included in the 2021 Library Budget.  These conversations were part of the Library's strategic planning process and were discussed in employee and public forums conducted by Vector Communications in the second half of 2018.  However, we strongly believe that it is both timely and important to discuss this topic in more detail now. (Plan: Sense of Community 1.1)
+	Assuring that free Wi-Fi service is available in our Branch parking lots was a priority upon closure of the Library due to COVID-19.  Employees at each branch conducted WiFi signal strength surveys outside of their buildings.  Those branches with little or no signal in their parking lots were selected to receive an external wireless access point.  All eleven branches identified as needing an external access point have received these devices as of late August.  Through this collaborative effort between Building Systems and ITS, the public now has access to Wi-Fi from the parking lot of any branch. (Plan: Promote Literacy 3.3)
+	She said planning for the new Administrative Building continues. On July 23,
+Frontenac’s Architectural Review Board gave complete approval to the project. On July 28, Planning & Zoning tabled their review of the project over some operational questions that have since been addressed. The Library presented to Planning and Zoning again at their meeting on August 25.  The Commission did not approve our plans but instead passed them out to the Frontenac Board of Aldermen for review and final approval.  That final review will take place on September 29.  A recommendation for a general contractor for construction will be reviewed later by the Library Board later in this meeting. (Plan: Maximize Access 2)
+Library Foundation
+	Ms. Sorth said the Foundation’s annual Gala took place online this year as a Fund the Need Week from August 29 – September 4.  The campaign featured celebrity support from former St. Louisans Jon Hamm, Beau Willimon and Curtis Sittenfeld.  Also, donors had the option to purchase seats to an exclusive Zoom call with bestselling author, Chris Bohjalian.  The Advancement Team did an amazing job during an incredibly challenging time and raised more than $175,000.  Their goal was $100,000.   A huge thanks also goes to the Communications Department for their efforts to promote the Fund the Need Week through social media, the website and eBlasts.
+	The Library was recently notified of the following grant award:
+o In June, SLCL received an LSTA grant for $50,000 to purchase equipment to allow us to extend internet access beyond the library and into communities. The award will finance the acquisition of mobile routers and antennas for bookmobiles/trucks and for placement on eight library branches in North County.  o PNC Foundation, for COVID Response--Chromebook/hotspot bundles, $75,000
+Author Events (Plan: Promote Literacy 1.2)
+The Library has Livestream author events and recordings with the following authors. They are posted on our website as well as the HEC Facebook link - facebook.com/hectv and then archived at hecmedia.org. We are promoting on our social media and sending eblasts that direct patrons to the HEC sites.
+	Rachel Howzell Hall, author of “And Now She’s Gone,” Tuesday, September 29, 2020, 7:00 p.m., Virtual Video premiere: September 29, 7:00 p.m. on Facebook.com/hectv.
+	Clare McHugh author of “A Most English Princess,” Thursday, October 1, 2020, 7:00 p.m. Virtual Video premiere: October 1, 7:00 p.m. on Facebook.com/hectv.
+	Matt Haig, Author of “The Midnight Library,” Tuesday, October 6, 2020, 7:00 p.m., Virtual, Video premiere: October 6, 7:00 p.m. on Facebook.com/hectv.
+	Jasper Fforde, author of “The Constant Rabbit,” Thursday, October 08, 2020, 7:00 p.m., Virtual Video premiere: October 8, 7:00 p.m. on Facebook.com/hectv
+	Peace Adzo Medie, author of “His Only Wife,” Tuesday, October 13, 2020, 7:00 p.m., Virtual Video premiere: October 13, 7:00 p.m. on Facebook.com/hectv.
+	H.W. Brands, author of "The Zealot and the Emancipator: John Brown, Abraham Lincoln, and the Struggle for American Freedom", Thursday, October 15, 2020, 7:00 p.m., Virtual Video premiere: October 15, 7:00 p.m. on Facebook.com/hectv.  In conversation with historian Talmage Boston.
+	Laila Lalami, author of "Conditional Citizens: On Belonging in America," Monday, October 19, 2020 7:00 p.m., Virtual Video premiere: October 19, 7:00 p.m. on Facebook.com/hectv.
+	Reid Forgrave, author of "Love, Zac: Small-Town Football and the Life and Death of an
+American Boy," Wednesday, October 21, 2020, 7:00 p.m., Virtual Video premiere:
+                October 21, 7:00 p.m. on Facebook.com/hectv.
+	Connor Towne O’Neill, Author of "Down Along With That Devil’s Bones: A Reckoning with Memory, Monuments, and the Legacy of White Supremacy," Thursday, October 29, 2020, 7:00 p.m., Virtual Video premiere: October 29, 7:00 p.m. on Facebook.com/hectv.
+Ms. Sorth thanked the Advancement Team for their hard work in producing the successful nongala event.
+OLD BUSINESS
+NONE
+NEW BUSINESS
+CONSTRUCTION UPDATE
+Steve Hunter, assistant director of Operations, said Eureka Hills is approximately one third complete. The project is also within budget even with three changes. He showed an aerial view of construction. Much of the framing is complete while hanging dry wall and plumbing is continuing.
+TAX RATES
+The Library Administration has reviewed the 2020 post Board of Equalization (BOE) property value assessments.  Property values have increased over prior year in total by .8%. A breakdown of the assessments by category is as follows:
+			2019 As Billed
+			2020 Post - BOE
+			$ Variance from
+			%
+			Type of Property
+			Assessments
+			Assessments
+			Prior Year
+			Increase
+			Real Property
+			Residential
+			   14,128,001,060
+			  14,194,473,790
+			      66,472,730
+			0.5%
+			Agricultural
+			            6,235,880
+			           6,369,320
+			           133,440
+			2.14%
+			Commercial
+			     6,341,888,353
+			    6,360,262,240
+			      18,373,887
+			0.3%
+			Personal Property
+			     3,339,972,214
+			    3,452,632,970
+			    112,660,756
+			3.4%
+			   23,816,097,507
+			  24,013,738,320
+			    197,640,813
+			0.8%
+The Board is reminded that the 2020 tax revenue, along with the surtax on commercial property, will provide approximately 97% of the cash income needed to operate in 2020. According to State Statute, the Board must set the 2020 tax rates by October 1, 2020.  Proposed tax rates, preliminary tax rates presented at the tax hearing in August 2020, and prior year tax rates are as follows:
+			Proposed Tax Rates for 2020
+			Presented at Tax Hearing
+			2019 Tax Rates
+			Residential
+			$                 0.212
+			$                0.212
+			$             0.212
+			Agricultural
+			$                 0.219
+			$                0.224
+			$             0.219
+			Commercial
+			$                 0.243
+			$                0.243
+			$             0.243
+			Personal Property
+			$                 0.250
+			$                0.250
+			$             0.225
+The above proposed tax rates are set at the ceiling and would provide approximately $54,670,000 in tax revenue for 2021.
+The Library Board approved the Administration recommendation for approval of the Resolution of the St. Louis County Library District eliminating the voluntary reduction of the tax rate ceiling (Sanditz/Barry).
+The Library Board approved the Administrations recommendation for the Resolution which states the above proposed tax rates listed for all subclasses of real estate and personal property are assessed as the 2020 tax rates. If, after validation by the Missouri State Auditor, the tax rate ceiling allowed for any or all subclasses is less than or greater than the approved rate(s) the Director is hereby authorized to set the final rate (s) for the Library as validated by the State of Missouri Auditor. The revenue generated by these rates will allow the District to continue providing excellent service to our patrons and will provide for the repayment of debt from our issuance of Certificates of Participation in April, 2013 and September, 2016 (Barry/Sanditz).
+*Attached is a signed letter from CFO Laura Taylor to Mark Devore, Collector of Revenue, regarding the elimination of the voluntary tax roll back.
+	BUDGET REVISION
+CFO Laura Taylor presented the Budget Revision document prepared by the Budget Committee members who are listed as follows:
+			Kristen Sorth
+			Director & CEO
+			Eric Button
+			Deputy Director
+			Barbara Turkington
+			Assistant Director, Advancement
+			Gib Van Cleve
+			Assistant Director, ITS
+			Steve Hunter
+			Assistant Director, Operations
+			Laura Taylor
+			Chief Financial Officer
+The committee has reviewed the 2020 budget revision. Account changes are explained within the Budget Revision narrative and summary Statement of Revenues and Expenditures.
+The Library Board approved the Budget Committee recommendation for approval of the 2020 revised budget.
+The Budget Committee recommends approval of the 2020 revised budget (Wang/Sanditz).
+CONSTRUCTION CONTRACT FOR ADMINISTRATIVE LIBRARY BUILDING
+Steve Hunter, Assistant Director of Operations, presented the following information.
+An RFP for General Contracting Services for the new Administrative Library Building was posted on August 17, 2020. The RFP included construction documents and specifications delivered by Lamar Johnson Collaborative (formerly batesforum) architects.
+The bid notice was placed in the St. Louis Post-Dispatch, on the SLCL website, and in various local and national plan rooms. The bid notice was also posted on social media and emailed directly to 44 potential General Contractors and 116 potential sub-contractors. A pre-bid / outreach meeting was held online via Zoom on August 24, 2020. Representatives from fifteen firms attended.
+Proposals were due on September 12, 2000. Six qualifying responses were received:
+			Contractor
+			Base Value
+			MBE%
+			WBE %
+			Tri-Co Inc. Commercial
+			$15,431,000
+			16.1
+			3.7
+			ICS Construction Services
+			$15,770,000
+			15.3
+			7.4
+			SM Wilson
+			$16,699,000
+			17.0
+			5.3
+			Kozeny-Wagner Inc.
+			$17,217,000
+			13.0
+			6.3
+			Wright Construction
+			$17,315,000
+			12.2
+			7.2
+			Hankins
+			$17,396,000
+			12.9
+			11.2
+The construction budget for this project was $18,000,000.
+The Library’s Procurement Policy I, Section 5, states in part:
+“In determining the best bid or proposal, the Library District may consider all factors in bids and/or proposals, including but not limited to, location of bidder, M/WBE participation interest in the business and prior performance.”
+The selection committee, with input from Lamar Johnson Collaborative, identified three firms to interview. Those interviews took place via teleconference on September 17, 2020.
+At the conclusion of the interviews the selection committee met to discuss the results. The committee unanimously chose ICS Construction Services, Inc. as providing the best general contractor solution for this project.
+Administration additionally requests approval of a contingency fund for this project with a total value of 3.5% ($551,950) for unforeseen conditions and owner requested changes. The spending of this contingency fund will be approved by Kristen Sorth, Library Director & CEO or Steve Hunter, Assistant Director as needed during the execution of the project. The accounting of the expenditures against the contingency fund will be reported back to the Library Board.
+There are two recommendations.
+The Library Board approved the Administration recommendation for the selection of ICS Construction Services, Inc. at $15,770,000 for General Contracting services for construction of the new Administrative Library Building and that the Board authorize the Director to enter into and execute a contract to that effect (Wang/Barry).
+The Library Board approved the Administration recommendation for a project contingency fund for this construction contract totaling $551,950 (Sanditz/Wang).
+ADJOURNMENT
+Ted Sanditz motioned to adjourn the meeting.  Johnny Wang seconded, and all voted for approval. The meeting ended at 4:55 pm.
+Respectfully submitted by,
+__________________________                                                        ______________
+Lynn Beckwith                                                                                                Date
+Board President

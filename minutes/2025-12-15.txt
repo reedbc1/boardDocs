@@ -1,0 +1,170 @@
+{
+  "name": "Regular Meeting",
+  "description": "",
+  "unique": "DBSTR4788F94",
+  "date": "2025-12-15T00:00:00Z"
+}
+
+---
+
+ST. LOUIS COUNTY LIBRARY DISTRICT
+MEETING OF THE BOARD
+CLARK FAMILY BRANCH
+MONDAY, DECEMBER 15, 2025
+The monthly meeting of the Board of the St. Louis County Library District was held at Clark Family Branch, 1640 S. Lindbergh Blvd., St. Louis, MO 63131 on Monday, December 15, 2025, at 3:30 p.m. The agenda had been posted in all branches of the Library District at least 24 hours before the meeting.
+ATTENDANCE:
+Library Board Members:
+Johnny Wang, President
+Deborah Patterson, Vice President
+Ted Sanditz, Treasurer
+Dr. Lynn Beckwith, Member
+May Scheve Reardon, Secretary, had an excused absence.
+ADMINISTRATORS AND GUESTS ATTENDING:
+Kristen Sorth, Library Director & CEO; Eric Button, Deputy Director; Roberto Münster, CAO; Laura Taylor, CFO; Gib Van Cleve, Assistant Director, ITS; Jennifer Gibson, Assistant Director, Strategic Initiatives; Jennifer McBride, Assistant Director, Communications; Attorney Lisa Stump, Lashly Baer; and Courtney Harris, St. Louis County.
+OTHERS ATTENDING:
+Zoe Maffitt, Lauren Budde, Michael Schawacker, DeNyne Carter, Andrew Freshwater, Beth Watts, Miriam Whatley, Chris Goodman, Alyssa Diekman, Melissa Hupp, Matthew Kries, Bethany Cutkomp, KB Benson, Gregory Minnis, Will LaChance, Anna Schurk, Alysia Leonard, Nora Marino, Hanna Axt, Wendy Daniels, Dany Nenninger, Keir Haug, Nik Brown, Anne Arthur, Melissa Bauer, Carla Maxwell, Katie Lappe, Cameron Riesenberger, Lisa Haddox, Ja’Mel McCaine, Sarah Wood, Brent Trout, Sarah Jones, Miranda Gibson, Meredith Hopping, Amy Gibbons, Ashley Sexton, Spring Galey, Kelli Reeves, Deanna Davis, Megan Pfifer-Davis, Alaina Culbertson, Rachel Dippel, Nina Johnston, Mary Arnhart, Stephanie Nordmann, Emily Althoff, Tarza Tawfiq and Becky Maue.
+MINUTES
+The Library Board approved the November 17, 2025, Minutes.
+Motion by Deborah Patterson, second by Lynn Beckwith.
+Final Resolution: Motion Carries
+Aye: Johnny Wang, Deborah Patterson, Ted Sanditz, Lynn Beckwith
+PUBLIC COMMENTS
+No one spoke before the board.
+TREASURER'S REPORT
+Laura Taylor, CFO, presented the November Treasurer’s Report.
+Administration recommends approval of the November Treasurer's Report subject to audit.
+Motion by Lynn Beckwith, second by Ted Sanditz.
+Final Resolution: Motion Carries
+Aye: Johnny Wang, Deborah Patterson, Ted Sanditz, Lynn Beckwith
+DIRECTOR AND CEO'S REPORT
+	Ms. Sorth delivered the Dashboard for November.  Overall, November reflected steady Library engagement across circulation, digital usage, services, and programming. Total circulation exceeded 857,000 checkouts, keeping pace with previous years, while eMedia usage continued with an upward trend, reaching 302,911 checkouts.  Although in-person visits dipped due to the extraordinary election traffic in 2024, several Clark Family departments, such as History & Genealogy and the Creative Lab saw notable growth.  Since August, Library employees have assisted 5,375 community members with RECA and certified 5,367 documents. Employees have also distributed 3,474 RECA flyers and forms and completed 3,394 look-ups for patrons.  In November 2025, SLCL hosted 2,782 programs attended by 37,416 patrons. In November 2025, employees notarized 1,765 documents and distributed the following: (Plan: Promote Literacy 1a, 3b, Sense of Community 3a, Increase Access 1c)
+		1,112 COVID tests
+		11 comfort kits
+		11 Narcan kits
+		30 gunlocks
+	The fourth school bookmobile launched on December 1st at Armstrong Elementary School in the Hazelwood School District.  The Books are Magical bookmobile is sponsored by the James S. McDonnell Family Foundation.  The Bookmobile and Mobile Services managers and others familiar with the project carefully reviewed the vehicle upon receipt.  The Library shared documentation of several issues with the manufacturer.  None of the issues affected drivability or safety of the vehicle, but there were several items that did not meet the specifications of the RFP.  The manufacturer is working on gathering the materials and creating a plan to make the necessary modifications and repairs.  The vehicle will be taken out of service for approximately one week while the repairs are made. (Plan: Increase Access 1a)
+	The 46th annual St. Louis Storytelling Festival took place from November 10 - November 16. Throughout the 7-day festival, the Library brought storytellers to over 50 schools and senior centers and hosted 25 public events at a variety of venues through the St. Louis region, including St. Louis County Library branch locations, the Missouri History Museum, Saint Louis Art Museum, Mirowitz Center and Work & Leisure. The Festival featured nine national storytellers and four regional storytellers with programs for all-ages.  Over 12,000 people experienced the power of storytelling during the 7-day festival. (Plan: Promote Literacy 3d, Sense of Community 2a, 3a, 3b)
+	Ms. Sorth reported the MetroMarket will now make visits year-round.  During inclement weather, branch employees will make space available inside the branch for the MetroMarket to set up during their usually scheduled times.  Previously, MetroMarket only operated April – November.  Additionally, Operation Food Search approached us about adding an additional year-round MetroMarket stop at the Natural Bridge Branch and we enthusiastically agreed. The MetroMarket will visit Natural Bridge from 3:00 -5:00 p.m. each Tuesday and Lewis & Clark from 3:00 – 5:00 p.m. Every Wednesday. (Plan: Sense of Community 3a, 3c)
+	Operation Food Search has engaged our assistance to distribute boxes of food to the community with the intention of ensuring children's access to food over the Winter Break when they will not have access to school lunches.  OFS will allocate 250 boxes of food for the 6 SLCL branches that host Summer Lunches (Florissant Valley, Lewis and Clark, Natural Bridge, Rock Road, Prairie Commons, and Weber Road) to distribute to any child under the age of 18 within their communities. The shelf stable boxes will generally contain soups, canned pasta, applesauce pouches and some other snacks.  The fresh produce boxes will generally contain apples, oranges, carrots and grapes.  Each box will contain approximately 15-20 lbs. of food.  (Plan: Sense of Community 3a, 3c)
+	Over the last several years, the Library has offered free gunlocks to those who ask at seven locations through the Lock It for Love program of Women’s Voices Raised for Social Justice. Due to the partner’s capacity, we have not been able to expand the offering to all branches.  Through our partnership with St. Louis County Health and the Alliance for Healthy Communities, we will soon be able to offer gunlocks at all Library locations and on the Sweet Reads bookmobile. (Plan: Sense of Community 3a, 3c)
+	This fall, 48 new tabletop game titles were added to the collection. The Library began circulating tabletop games in August 2018. Since then, the 286 games in the collection have circulated 41,215 times. (Plan: Promote Literacy 3d)
+	Ms. Sorth reported the System Administration department has created a new tool that branches can use to rebalance materials. The rebalancing sheet lists each branch’s capacity by section and displays a color-coded graphic indicating whether a collection is overfull requiring items to be sent to other branches or whether a section needs to receive materials from another branch’s surplus.  This process is important for maintaining an up-to-date and well-maintained collection at the branches. (Plan: Promote Literacy 1a)
+	Throughout November, 430 adults participated in the Write It Out Challenge, which is a 50,000-word writing challenge facilitated by the Adult Services Department. For every 10,000 words written and logged, participants earned a raffle entry for a chance to win a $100 gift card to The Novel Neighbor. In total, writers produced more than 3 million words. To support writers throughout the month, Adult Services hosted two virtual programs on self-publishing, along with a Writing Marathon Lock-In, during which more than 40 participants collectively wrote over 100,000 words in a single evening at the Mid-County Branch. Feedback for the challenge was overwhelmingly positive. (Plan: Promote Literacy 3d)
+	Ms. Sorth shared the 2025 Sunday Concert Series ended with a very popular event, Celtic Strings, featuring Irish harpist Eileen Gannon and fiddler Robert Ryan. The concert drew 308 attendees on Sunday, November 23rd, at the Clark Family Branch.  Adult Services had originally planned just three Sunday concerts – Pride, Classical Guitar, and Latin Music as part of the Adult Summer Reading Challenge. But after the strong response to those initial programs, the Department extended the series from September through November, adding three more events: the Sheldon Season Preview with Anita Jackson; French Pop and Jazz with Elsie Parker; and the Poor People of Paris and Celtic Strings.  A total of 1,093 attendees enjoyed performances from some of St. Louis’ most talented musicians. (Plan: Promote Literacy 3d)
+	Throughout 2026, the Library will present programs focusing on the American Revolution and American history in celebration of America’s 250th anniversary. Offerings will include author events with Jack Kelly and other popular history writers.  Adult Services will partner with St. Louis County Parks to present programs such as Life on the Frontier in Missouri and Illinois and The War of 1812 in Missouri and Illinois. History & Genealogy will offer district-wide programs as well.  Youth Services will provide opportunities for kids to join in the fun, including a Hero Quest display at select branches. (Plan: Promote Literacy 1c, Sense of Community 3a)
+	Ms. Sorth announced St. Louis County Library is once again partnering with the St. Louis Symphony Orchestra again to provide free ticket vouchers for patrons. Each bookmark voucher can be used for two tickets to a classical concert or four tickets to a family concert. Starting today, patrons can pick up a bookmark at the circulation desk and visit the website or call the number on it to reserve their tickets. (Plan: Promote Literacy 3d, Sense of Community 3a)
+	The Library will host the BGG Foundation’s third annual Ultimate Gaming and Toy Drive event. The event will take place at Clark Family on Saturday, December 20 from 1:00 - 4:00 p.m. Attendees can donate new, unwrapped toys for children of all ages and enjoy a variety of gaming experiences from classic video games to immersive virtual reality. (Plan: Promote Literacy 3b, 3d, Sense of Community 3a, 3b)
+	The Winter Reading Challenge will kick off on January 2 and run through the end of February. All ages can participate. Participants will track activities online or may pick up a print log sheet at a branch. Upon completion of five activities, participants will be entered in an electronic prize raffle. (Plan: Promote Literacy 1b, 2b)
+	Ms. Sorth reported that, in partnership with The Magic House, eight Library branches (Clark Family, Daniel Boone, Florissant Valley, Grand Glaize, Grant’s View, Lewis & Clark, Oak Bend, Rock Road) will host Hero Quest interactive displays created by The Magic House. The displays are based on the “Ordinary People Change the World” book series by Brad Meltzer that tells stories of historical figures to show kids that anyone can be a hero. The books focus on character traits and life lessons from these “ordinary” people who achieved extraordinary things. Each of the eight locations will feature a different book character such as Amelia Earhart, George Washington Carver and Abraham Lincoln. The displays will be installed the week of May 26th. This project is made possible through a Lilly Grant.  The Library will receive a $20,000 stipend for expenses related to hosting the displays. Other Hero Quest displays will be featured throughout the St. Louis region as part of the grant received by The Magic House. (Plan: Promote Literacy 3d, Sense of Community 3a)
+	Ms. Sorth reported Brent Trout, the Manager of the History & Genealogy Department (H&G), held a virtual training in November for branch employees to learn more about the RECA form, how to assist patrons, and when to pass a RECA project onto H&G. Supplementing this effort, an in-person training session was conducted at the Prairie Commons Branch, providing employees with focused instruction and addressing specific questions about the RECA process.  Additional trainings will be offered.  In a key public engagement effort, Brent and I presented a RECA Information Session to St. Louis City residents at the request of the President of the St. Louis Board of Alderman, Megan Green.  Brent and Ms. Sorth have been asked to speak at a meeting designed to assist City departments as well as St. Louis Public Library, with responding to requests from City residents.  So far, the Department of Justice has awarded over $16 million to St. Louis County residents as part of the RECA application process. (Plan: Sense of Community 3a, 3c)
+	The 4th annual St. Louis Teen Book Festival took place on Saturday, December 6 at the Clark Family Branch. The festival featured book talks, author signings, and meet-and-greet opportunities with 19 amazing young adult authors. This year, 550 people attended the Festival. (Plan: Promote Literacy 1b, Sense of Community 3b)
+	There were mentions of the St. Louis County Library in the local media in print, radio and television. Those articles are attached. (Plan: Increase Access 2)
+	Here are pictures from various events and programs that have taken place over the last month including: Pilkey Party at Meramec Valley; YogiSmart at Clark Family; Dino Donuts at Park View; Dino Playtime at Cliff Cave; and Community Hike at Clark Family. (Plan: Promote Literacy 1b, 1c, 3d; Sense of Community 1b, 3b, 3c)
+Ms. Sorth shared the following impact stories:
+	On November 17th, Bookmobile Services (BMS) Library Assistant Earl Green participated in the Real Men Read event at Parker Road Elementary, located within the Ferguson-Florissant School District. This school is a current recipient of the SLCL School Bookmobile Service. Earl presented information about library services to approximately 50 Kindergarten and first-grade students. Drawing upon his outgoing personality and friendly demeanor—qualities honed through coaching high school baseball—he effectively explained the importance of reading while also encouraging the children to embrace teamwork and empathy. His presentation was well-received and enjoyed by the students. (Plan: Promote Literacy 1b, Sense of Community 2a, 2d, Increase Access 2c)
+	Regarding the Write it Out Challenge, one participant said, “The challenges have encouraged me to write more, visit new (to me) library branches, try new activities, etc. The challenges themselves are my ‘prizes.’” (Plan: Promote Literacy 3d, Increase Access 1c)
+	From a Library social worker, “I was able to find shelter for 2 unhoused patrons who spent most of their days at the library and had previously been sleeping outdoors. They are able to stay at the shelter through the entire winter. Update 12/3: One of the patrons came to the library to thank me. He said that they are both still at the shelter and doing well. He said "I'm a person with a future now" and "it's a blessing to be safe." (Plan: Sense of Community 3a, 3b)
+	From a Library social worker, “A patron that I served over a year ago came by my office today. She was unhoused and pregnant last year and I was able to get her into Our Lady’s Inn. Today she came by with her healthy 7-month-old baby to introduce her to me. The patron looked much happier and well rested than when she was struggling with housing. She is about to move into a transitional living program and she said that Our Lady's Inn wasn't an easy time but she learned a lot, and it gave her a safe and stable place to be and grow, and she stayed there throughout her pregnancy and the beginning of her post-partum. I asked her if she needed anything now and she asked if I had any extra small blankets. I was able to provide her with a knit hat and blanket for her baby that was sent over by the Sachs Branch thanks to a partnership with Warm Up America. I let her know if she needs anything else to just reach out.” (Plan: Sense of Community 3a, 3b)
+Library Administrative Updates
+	Ms. Sorth announced that this was Mary Arnhart's last Library Board meeting. She said, we are going to miss Mary and we are so happy for her. She has been with the Library for 45 years and is one of our longest tenured employees. Mary has been leading our HR department since 2012 and has had an incredible impact on Library managers and employees. Ms. Sorth shared that we will be celebrating Mary on December 18th at the Beck and that we also wanted to celebrate her here. Congratulations Mary and we will miss you!
+	In October 2024, the Library issued a Request for Proposals (RFP) for a Mobile Wi-Fi Hotspot provider.  Four responses were received and presented to the Board at the December 16, 2024 meeting with a recommendation to select T-Mobile to provide these services. In December, the Administration anticipated additional savings on these services because it was expected by the Federal government that Wi-Fi Hotspots would be added to the list of services that were eligible for E-Rate reimbursement.  In the months since that time, the Federal government was indecisive on the formal addition of this service to the E-Rate reimbursement program.  The contract that was executed with T-Mobile included clauses that stated the contract would not be valid if the E-Rate reimbursement for Wi-Fi Hotspots was not officially approved.  Several months of this uncertainty followed until the final announcement came in September 2025 that the Wi-Fi Hotspots would not be included in the E-Rate reimbursement program.  Administration consulted with Lashly Baer during this time to investigate the options available.  Legal counsel and Administration proposed an agreement with T-Mobile to provide the services at the price outlined in their response to the October 2024 RFP.  After initial rejection of this pricing, T-Mobile agreed to structure a new contract that was not contingent upon E-Rate reimbursement.  Following the application of some discounts and credits offered by T-Mobile, this contract offered 400 lines of service at the same monthly price as the original RFP response and subsequent contract.  The savings for this new rate will be approximately $7,200 per month compared to the existing rate. (Plan: Promote Literacy 3b)
+	Ms. Sorth shared that she has been asked to participate in a panel discussion hosted by Washington University and Focus St. Louis on Advancing Collaborative Leadership Across the Region.  The program will be moderated by Peter Boumgarden, from Washington University and will also include Gabe Angieri (Arch Grants), Vanessa Foster Cooksey (Regional Arts Commission), Ron Kitchens (Greater St. Louis, Inc.), Dr. Yusef Scoggin (Delmar DivINe). (Plan: Increase Access 2c)
+	Eric Button and Ms. Sorth participated in interviews for the 7th social worker as part of the Library’s partnership with Epworth.  An offer has been made by Epworth and accepted by the candidate.  The new social worker will start in January at Epworth and then move to the Natural Bridge Branch after her training is complete.  This will allow Katie Lappe, the Lead Library Social Worker, more time to manage the Community Resource Initiative and the team. (Plan: Sense of Community 3a, 3b)
+	Ms. Sorth shared she was pleased to moderate an event hosted by Great Rivers Greenway, Focus St. Louis and the Library on November 13th at Clark Family.  The topic was the Civic Power of Greenways.  She was able to interview local and national experts on how greenways (both here in our region and across the world) build civic trust through public participation, transform communities through collaboration and boost community pride.  Over 100 people attended the program. (Plan: Sense of Community 3a, Increase Access 2c)
+	Communications has had a successful year of telling the Library’s story to the community.  They have:
+		Had over 187 media mentions
+		Sent over 66 million emails with an average open rate of 40% (up 6% from last year)
+		Fulfilled over 2,284 work requests, creating thousands of print materials to market Library programs, services and events. Including over 183,000 monthly program guides.
+		Taken over 13,000 photos at Library programs and added to Flickr, with over 883,000 views.
+		Reached 17,000 followers on Instagram
+		Established new ad campaigns with Telemundo to promote STL Summer Adventure and Nine PBS to promote Emerson History & Genealogy Center and STL Summer Adventure.
+		Placed 52 GO! ads in the Friday edition of the St. Louis Post Dispatch, promoting a wide variety of Library programs, events and services.
+		Placed 12 A&E ads promoting the author series, book festivals and reading challenges.
+		Ran 288 (approximately) spots on St. Louis Public Radio promoting the authors series, STL Summer Adventure, Winter Reading Challenge, Black History Month, Storytelling Festival, Teen Book Festival.
+		Weekly Heidi Glaus Book Club on KTRS 550AM featuring interviews with authors appearing at SLCL, as well as segments about Library news and programs, and weekly commercials.
+		Implemented two transit campaigns promoting ePop Up Library and the Storytelling Festival with placements on area bus and Metrolink shelters. (Plan: Increase Access 2a, 2b, 2c, 2d)
+Library Construction, Facility, IT and Transportation Update
+	Ms. Sorth reported the Request for Proposals for the Construction of the New Chesterfield Branch Library Building was posted on December 8, 2025.  A pre-proposal meeting will be held at the Samuel C. Sachs Branch on December 16th.  Proposals are due on January 27, 2026.  The Sachs Branch will close to the public on January 31, 2026 so we can begin to prepare for demolition and construction.  We have tentatively scheduled the groundbreaking for February 24, 2026. (Plan: Increase Access 1a, 1b, 1c)
+	The updates to the Rock Road Branch have been completed.  This includes new carpet in the study rooms, quiet room, and under the adult collections.  The project successfully replaced all of the aging furniture and updated the aesthetics with a brighter, more contemporary color palette.  These updates have brightened the entire space. (Plan: Increase Access 1a)
+	The first extreme cold spell of the season brought along issues to the main HVAC unit at the Lewis & Clark Branch.  The air intake became stuck open in the early hours of December 5th, which allowed air as cold as 12 degrees to flow into the system.  This caused the coils on the system to freeze and crack in twelve places.  The replacement coils have been ordered and the building has been maintaining a stable temperature.  The new coils will include freeze plugs which will keep the coils from cracking if there should be a similar incident in the future. (Plan: Increase Access 1c)
+Library Foundation and Grants
+	Ms. Sorth announced that the Foundation has surpassed its fundraising goal of $42,000 for the 2025 Fall Appeal, raising over $50,000 through 184 donations. The appeal was themed “Your Impact Travels” and highlighted how gifts make an impact across the region. (Plan: Increase Access 2c)
+	The Foundation has selected a date for its 2026 fundraising event. This event will take place on Friday, October 2, at the Clark Family Branch and will be a return to a traditional gala format. Sponsorship information will be available in early January. (Plan: Increase Access 2c)
+	As of January 1, 2026 the Foundation Board of Directors will have a new slate of officers. The new slate is as follows:
+	President, Brad McLaury
+	Vice President, Chris Chorlins
+	Treasurer, Jim Wood
+	Asst. Treasurer, Makita Hill
+	Secretary, Amanda Schmitt
+Library and Foundation Grants:
+		The Library Foundation received a $25,600 grant from the Dana Brown Charitable Trust to collaborate with the St. Louis Area Diaper Bank to offer Potty Training 101 workshops in 2026. (Plan: Promote Literacy 2d, Sense of Community 3c)
+		The Library Foundation received a $10,000 grant from the Herbert A. and Adrian W. Woods Foundation to support monthly diaper distributions in 2026. (Plan: Sense of Community 3a, 3c)
+		The Library Foundation received a $10,000 grant from Enterprise/Taylor Charitable Entities to support social workers in 2026. (Plan: Sense of Community 3a, 3b, 3c)
+		In 2025, Jennifer Gibson has written 20 grants for the Library and the Library Foundation, totaling $548,830 from federal and state agencies, foundations and corporations.  Jennifer works closely with the Director and CEO, Deputy Director, the Manager of Development and other department managers during the grant process. (Plan: Increase Access 2c)
+Author Events (Plan: Promote Literacy 1c)
+Author Event Series - 2026 Totals:
+Events: 141
+Authors: 163
+Attendance: 37,250
+2025 Teen Book Festival:
+St. Louis County Library’s 2025 Teen Book Festival welcomed 550 young adult readers from across the St. Louis metro area and as far away as Ohio for a full day of panel discussions, activities, and signings with 19 popular authors. (Plan: Promote Literacy 1c, Sense of Community 3b)
+December/January Author Events:
+	Jack Fairweather, author of “The Prosecutor: One Man’s Battle to Bring Nazis to Justice,” Thursday, December 11, 7:00 p.m.-9:00 p.m., Clark Family Branch - Free
+	Ben Westhoff, author and documentary filmmaker of “The Antagonist” - Documentary film screening, Saturday, December 13, 6:30 p.m.-9:00 p.m., Clark Family Branch - Free
+	Rachel Hawkins, author of “The Storm,” Monday, January 12, 7:00 p.m.-9:00 p.m., Clark Family Branch - Free
+	Jack Kelly, author of “Tom Paine’s War: The Words That Rallied a Nation and the Founder for Our Time,” Tuesday, January 13, 7:00 p.m.-9:00 p.m., Clark Family Branch - Free
+	Brad Meltzer, author of “The Viper: A Zig and Nola Novel,” Wednesday, January 14, 7:00 p.m.-9:00 p.m., Clark Family Branch - Free
+	Jacob Soboroff, author of “Firestorm: The Great Los Angeles Fire and America’s New Age of Disaster,” Friday, January 16, 7:00 p.m.-9:00 p.m., Clark Family Branch - Free
+	John McMahon, author of “Inside Man: A Head Cases Novel,” Tuesday, January 20, 7:00 p.m.-9:00 p.m., Clark Family Branch - Free
+	Elizabeth Vartkessian, author of “The Deserving: What the Lives of the Condemned Reveal About American Justice,” Tuesday, January 27, 7:00 p.m.-9:00 p.m., Clark Family Branch - Free
+	Lori Rader-Day, author of “Wreck Your Heart,” Thursday, January 29, 7:00 p.m.-9:00 p.m., Clark Family Branch - Free
+OLD BUSINESS
+2026 Library Budget
+Laura Taylor, CFO, presented the recommendation.
+The 2026 Budget was presented at the November Library Board meeting as an informational item to give the Library Board time to review the Budget document, ask questions and for Administration to respond accordingly. The Administration is recommending approval of the 2026 Library Budget, which will allow the Library to operate in 2026.
+Motion by Lynn Beckwith, second by Ted Sanditz.
+Final Resolution: Motion Carries
+Aye: Johnny Wang, Deborah Patterson, Ted Sanditz, Lynn Beckwith
+NEW BUSINESS
+Social Worker Practicum Students
+Katie Lappe, Lead Library Social Worker, discussed the expansion of the program, including the addition of the 7th social worker and three master-level social work practicum students. She reported the students are here for the fall and spring semesters and will help with follow-ups for patrons. Two of our social workers, Elizabeth McDermott and DeNyne Carter, have become certified field instructors to help supervise the students in the field.
+Staff Development Cohort
+Tarza Tawfiq, Employee Relations Coordinator, presented the 2025 Staff Development Cohort Graduates: Alysia Collins, Bethany Cutkomp, Cheryl Hager, Gregory Minnis, KB Benson, Lauren Budde, Matthew Krieg, Michael Schawacker, Rhiannon Oakes, Zoe Maffitt.
+The cohort presented highlights from their year.
+St. Louis Storytelling Festival Presentation
+Becky Maue, Executive Projects Coordinator, presented on the 46th annual St. Louis Storytelling Festival, highlighting new and returning programs and the festival's impact on attendees.
+Affiliation Agreement
+Kristen Sorth, Director and CEO, presented the recommendation.
+Library Administration recommends approval of the updated Affiliation Agreement for a three-year term, through 2028.
+Motion by Deborah Patterson, second by Ted Sanditz.
+Final Resolution: Motion Carries
+Aye: Johnny Wang, Deborah Patterson, Ted Sanditz, Lynn Beckwith
+Shared Services Agreement
+Kristen Sorth, Director and CEO, presented the recommendation.
+Library Administration recommends approval of the annual Shared Services Agreement. This Shared Services Agreement is intended to replace the 2025 Shared Services Agreement, which is effective until December 31, 2025. The term of this 2026 Shared Services Agreement shall be from January 1, 2026, through December 31, 2026, unless the parties agree in writing to terminate earlier or to extend the 2025 Agreement.
+Motion by Deborah Patterson, second by Lynn Beckwith.
+Final Resolution: Motion Carries
+Aye: Johnny Wang, Deborah Patterson, Ted Sanditz, Lynn Beckwith
+Strategic Planning RFQ
+Jennifer Gibson, Assistant Director, Strategic Initiatives, presented the recommendation.
+Library Administration recommends that the Library Board select OrangeBoy/LibraryIQ to provide Strategic Planning Services for St. Louis County Library in 2026 for $74,500 and that the Board authorize the Director & CEO to enter into and execute a contract to that effect.
+Motion by Ted Sanditz, second by Deborah Patterson.
+Final Resolution: Motion Carries
+Aye: Johnny Wang, Deborah Patterson, Ted Sanditz, Lynn Beckwith
+Third Amendment to the Facilities Master Plan Administrator Agreement
+Roberto Münster, CAO, presented the recommendation.
+Library Administration recommends that the Library Board approve a third amendment to the Facilities Master Plan project administration agreement with Avison Young, and that it authorize the Director and CEO to enter into and execute said amendment.
+Motion by Lynn Beckwith, second by Deborah Patterson.
+Final Resolution: Motion Carries
+Aye: Johnny Wang, Deborah Patterson, Ted Sanditz, Lynn Beckwith
+ADJOURNMENT
+Motion to adjourn open.
+Motion by Lynn Beckwith, second by Deborah Patterson.
+All approved by voice vote.
+Final Resolution: Motion Carries
+Aye: Johnny Wang, Deborah Patterson, Ted Sanditz, Lynn Beckwith
+Meeting adjourned 4:37 p.m.
+Respectfully submitted by,
+__________________________________                              _____________
+Johnny Wang                                                                          Date
+President

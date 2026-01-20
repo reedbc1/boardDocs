@@ -1,0 +1,233 @@
+{
+  "name": "Regular Meeting",
+  "description": "Library Board",
+  "unique": "AV3QWS66AEA2",
+  "date": "2018-09-24T00:00:00Z"
+}
+
+---
+
+ST. LOUIS COUNTY LIBRARY DISTRICT
+MEETING OF THE BOARD
+HEADQUARTERS
+1640 SOUTH LINDBERGH BLVD.
+MONDAY, SEPTEMBER 24, 2018
+The monthly meeting of the Board of the St. Louis County Library District was held at the Headquarters Branch, 1640 South Lindbergh Blvd., St. Louis, MO 63131 on Monday, September 24, 2018 at 3:30 p.m. The agenda was posted in all branches of the Library District at least 24 hours before the meeting.
+ATTENDANCE:
+Library Board Members:
+Dr. Lynn Beckwith, President
+Michael Mulligan, Vice President
+Dr. Chingling Tai, Secretary
+Elena Kenyon, Treasurer
+Edith Cunnane was present via telephone
+ADMINISTRATORS AND GUESTS ATTENDING:
+Kristen Sorth, Library Director; Eric Button, Deputy Director; Barbara Turkington, Assistant Director, Advancement; Steve Hunter, Assistant Director, Operations; Kris Mooney, Assistant Director, Administration; Gib Van Cleve, Assistant Director, ITS; Tom Curran, St. Louis County; and Lisa Stump, Attorney, Lashly & Baer.
+OTHERS ATTENDING:
+Allison Wisniewski, Nicole Higginbotham, Rachel Nowell, Marie Conlin, Chasidy Allen, Jennifer Alexander, Sarah Brown, Mary Arnhart, Michael Cohen, Lauren Striebel, Conrad Rader, Will LaChance, Amy Hanaway, Steve Hunter, Emily Althoff, Katie Keeven, Lisa Haddox, Julie Cruise, Matt Lakin, Paul Bayless, Laura Kasak, Lauren Hoerr, Tracy Fletcher, Anna Maria Gonzalez, Scott Holl, Andrew Freshwater, Cindy Schultz, Kathy Mueller, Alaina Culbertson, Kat Van Arsdale, Stacy Berger, Andrea Johnson, Gina Sheridan, Sarah Wood, Barb Reale, Jacob Eubanks, Erin Magner, Stephanie Nordmann, Stacey Moeslein, and Deanna Davis.
+Dr. Lynn Beckwith called the meeting to order.
+Elena Kenyon expressed her gratitude to staff for thoughts, prayers and cards for her son who is in the hospital continuing treatment for a serious illness.
+APPROVAL OF MINUTES
+The Library Board approved the August 20, 2018 minutes (Cunnane/Mulligan).
+PUBLIC COMMENTS
+There were no comments from the public.
+TREASURER'S REPORT
+Kris Mooney reported that, in August, the Library District received $70,584 in E-Rate rebates. The rebates help cover the cost of the Library’s Internet and WAN services from Charter Communications.
+The Library District paid H&H Health Associates $45,280 for the Wellness Program. The payment was for health screenings available to full-time employees. These costs were included in the 2018 budget. Additionally, the Library District incurred $11,591 in HVAC repairs. Most notable was the replacement of a faulty compressor at the Cliff Cave branch at a cost of $7,840.
+The Library District also incurred $10,287 in vehicle repairs and maintenance expense. The largest expense was the installation of shelving to hold books in both of the new senior vans at a total cost of $3,688.
+Capital Projects Fund Balance Sheet
+Total Construction in Progress for August 2018 was $2,431,070. The expenses included
+payments for:
+		Construction costs for Meramec Valley - $930,654
+		Construction costs for Mid County - $625,531
+		Construction costs for Thornhill - $624,029
+		Construction Management services for Phase 2 buildings - $242,361
+		Facilities Master Plan Administrator - $30,800
+The Library Board approved of the September 24, 2018 Treasurer's Report subject to audit (Mulligan/Kenyon).
+DIRECTOR'S REPORT
+Kristen Sorth gave the following report.
+Library Update
+	Ms. Sorth stated that the Dashboard Report for September contains a variety of statistical information about circulation, visits, programming and PC usage. The report was shared with the Board. With three branches closed for construction, circulation was down 1%; however, several branches saw huge increases including Bridgeton Trails, Oak Bend and HQ.  As for visits and programming, visits were down 8.7%. This decrease has a direct correlation to the number of people visiting our branches for summer lunch. Participation in that program was up 15% this year. Program attendance increased 20% and several branches saw double digit increases including Natural Bridge and Bridgeton Trails. This month, the report also includes information on items that were added to the collection in the month of August. In August, Library staff processed 36,445 items for circulation.
+	The Summer Lunch Program ended in August with the start of the school year.  Below are the final statistics for the summer of 2018. The Library had nine branches participating this year and the attendance was up 15% from last year. (Plan: Increase Literacy 3.4)
+			Total Meals Served (All Branches): M-F
+			Pizza Friday - Total Eligible Children
+			17,725
+			6,363
+			Total Attendance (All Branches): M-F
+			Pizza Friday - Total Attendance
+			24,334
+			8,184
+			Average Daily Participation (All Branches): M-F
+			Pizza Friday - Average Participation
+			54
+			94
+	As previously reported, Book Buddies will launch as a new initiative in the fall. The program pairs older teen volunteers with younger children who may be struggling with reading. The program is designed to build confidence in young readers and help develop their reading abilities. The pilot program will launch at Cliff Cave and Prairie Commons. The Library had 9 teens volunteer and 15 children sign up for the program at Prairie Commons and 11 teens volunteer and 15 children sign up at Cliff Cave. Reading sessions will be offered in the evening and on Saturdays during the six-week period. (Plan: Increase Literacy 2.3)
+	This summer, in conjunction with the Summer Reading Club, the Library hosted an underwear and sock drive for The Little Bit Foundation. The Foundation advocates for children in St. Louis by removing barriers to learning. Little Bit does this through partnerships with area schools where they serve as the convener of programs that provide for students’ essential needs. Underwear and socks are the items most in need by youth and teens in our community. The Library’s drive brought in 5,247 pairs of socks and underwear. That will help almost 50% of the 11,000 students served by Little Bit during the school year. Also, Lewis & Clark helped distribute 1,355 hygiene kits to students over the summer.  (Plan: Sense of Community 2.2)
+	The strategy for the ConnectED Library Card Challenge has shifted to issuing virtual cards to every student in each school district. This shift was made to reduce barriers to school participation in the program, but it also greatly streamlines the workflow for library staff. The changes allow for very quick turnaround times on the creation of library accounts for students. Additionally, it opens up the opportunity for incoming students to be added to the program throughout the year. Schools will only submit students' first and last names, and the student ID numbers, which will be combined with an assigned 3-digit district code to become the library card number. Virtual cards will offer students access to all of the databases, e-books, and e-media at the library. An added benefit of the virtual library cards is that there are no fines or fees incurred. School districts that agree to the memorandum of understanding will automatically renew their participation for each subsequent school year. A final benefit that results from the streamlined workflow is that we are now able to issue ConnectED cards to private schools regardless of their size. (Plan: Sense of Community 3.1)
+	Ms. Sorth announced that the Library will be participating in the League of Women Voters, Library Voter Registration Day on September 29th. Volunteers, coordinated through the League of Women Voters, will be stationed at each Library location and will be registering patrons to vote from 10:00 a.m. – 2:00 p.m. St. Louis Public Library, the Consortium Libraries and some St. Charles City-County Library locations will also be participating in this initiative. (Plan: Sense of Community 1.2)
+	The Library will send lapsed patron emails to those individuals that have not used their library card in the last year. The Library has sent lapsed patron emails for the last couple of years with much success. In 2017, almost 1,000 patrons started using their Library cards after receiving the email. (Plan: Sense of Community 1.2)
+	Last week, the Library upgraded the event scheduling and room reservation software that is used to reserve meeting rooms for patron and Library events and programs. Library employees were trained prior to the upgrade and have done a great job working through the changes to the software and the challenges that come with a migration. Jen Messmer in Communications was the main point of contact for the migration and did a great job handling the process. (Plan: Sense of Community 1.1)
+	Several staff members recently met with two organizations in St. Louis that focus on coding skills. GlobalHack focuses on teaching coding skills to children and LaunchCode focuses on teaching coding skills to adults. The Library is working on partnerships with both organizations and is excited to bring these resources to our patrons. Our conversations will continue over the next month or so and I’ll share more as our plans develop. We do plan to have GlobalHack assist with our Coding 101 classes in 2019. (Plan: Increase Literacy 3.1)
+	Ms. Sorth reported that last month, Dr. Tai mentioned that this was the 40th Anniversary of the relationship between St. Louis and Nanjing, our sister city in China.  She forwarded contact information and we have begun to explore plans for a celebration between the libraries in the two cities. (Plan: Sense of Community 1.2)
+	The Library’s Adult Literacy Coordinator, Ricqui Brooks, has identified several key resources for the Library to serve those patrons who are lower literacy adults, ESL/ELL patrons, and patrons seeking citizenship information. An order of these materials is being prepared and a launch date is expected before the end of the year. Seven locations will host all of these collections, including Daniel Boone, Florissant Valley, Grant’s View, Rock Road, Sachs, Thornhill, and Weber Road. Natural Bridge and Lewis & Clark will only have the low literacy materials for adults. Displays will be established at each location. (Plan: Increase Literacy 2.2 and 2.3)
+	The History and Genealogy Department hosted a Local History Fair on August 25. Almost 150 people attended the event.  The staff shared resources and information about the department and other organizations were also on hand to provide information to attendees. (Plan: Sense of Community 3.3)
+	As mentioned previously, the Library offered Hip Hop Architecture Camp for thirty-one middle school kids at the Natural Bridge Branch from July 30 – August 3. The camp was designed to introduce underrepresented youth to architecture, urban planning, creative placemaking and economic development through the lens of hip-hop. The Library is having a screening of their video at the Florissant Valley Branch on September 28 at 7:00 p.m. The kids, their families and the volunteers were all invited to the event.  In addition, Bi-State plans to unveil the designs created by the kids on October 9 at the North County Transit Center. All will be invited to that ceremony as well. (Plan: Sense of Community 2.2)
+	Last week, Eric Button and Ms. Sorth attended the Blueprint4Summer Camp Summit.  Blueprint4Summer is an easy-to-use mobile app that connects local kids to summer learning opportunities.  The Library places a link to Blueprint4Summer on all public computers and displays information about the app in all of our locations.  Over 8000 summer opportunities for kids are listed through the app.  We also include information about our Summer Reading Club programs and for this year Hip Hop Architecture Camp in the app. At the summit, the Library received an award for being one of the Top 20 most searched camps this summer. (Plan: Sense of Community 2.2)
+	There were many mentions of the St. Louis County Library in the local media in print, radio and television. Those articles were shared with the Board. (Plan: Sense of Community 1.2)
+	The Library has a number of great photos that were shown to the Board from several programs and events in August and September including: Teen Cooking at Rock Road, Budding Artists at Daniel Boone, Purr-Palooza at Grant’s View, Google Expedition at Bridgeton Trails, Author Sylvia Acevedo at HQ and Family Craft Night at Oak Bend.  (Plan: Increase Literacy 3.4 and Sense of Community 2.3)
+Library Administrative Updates
+	The Library recently began a discussion with managers about the utilization of volunteers at the library. Several recommendations came out of these discussions which will be developed over the next several months. These include changes to the volunteer application, revised job descriptions for volunteers, minimum hour requirements for some volunteer roles, and a coordinated effort to advertise the need for summer teen volunteers in the spring to increase our pool of volunteers.
+	The Library’s In-Service Day will be held on October 8, 2018, which is Columbus Day.  Last year, the Library Board approved closing for this event. The last In-Service day was held on Columbus Day in 2014. The significant amount of branch closures due to construction from 2015 – 2017 prevented the Library from holding this event in the last several years. All full time employees will be required to attend the event, which will be paid for out of funds donated to the Library to be used for employees.
+	Public Services Administrator, Emily Althoff, was recently asked to present at a Library Journal webinar on library analytics. Emily will present in October on the Branch Busyness Statistical Model that she developed and we use to evaluate our staffing levels.  Ms. Sorth has shared these models with the Board in the past. (Plan: Sense of Community 1.2)
+	Ms. Sorth announced that three Assistant Managers were selected to participate in a 4-week “Intro to Library Management” course starting in October.
+	Ms. Sorth congratulated Julie Phoenix, who has received the Outstanding New Librarian Award from the Missouri Library Association. Julie is the Youth Librarian at Prairie Commons. The award recognizes a library employee who has made a significant contribution to the improvement and advancement of library and information services.  (Plan: Sense of Community 1.2)
+	This past week has been some of the busiest we have ever had at HQ. Between the Gala, author Dav Pilkey, the Little Readers’ Festival and author Deborah Harkness, the Library has had over 5000 people at HQ for special events just this week. Ms. Sorth thanked the staff for their enthusiasm, patience and hard work to make these events possible.
+Library Construction and Facility Update
+	The Grand Glaize Branch re-opened to the public on September 13. Library employees were greeted by patrons that were very happy to be back. Over 2,700 people visited the branch on its opening day. (Plan: Create Gathering Spaces)
+	One of the newly wrapped Mobile Vans arrived this week. Ms. Sorth commended Art Director Joe Wisniewski on a great job on the design. This van will visit senior living facilities in St. Louis County. (Plan: Sense of Community 1.2)
+	Dan Lucas, Manager of Safety and Security, is scheduling fire drills to be held at every library location in the next several months. (Plan: Create Gathering Spaces 1.3)
+Library Foundation
+	Ms. Sorth reported that the Library Foundation’s Gala took place on Saturday, September 15 at HQ with over 350 people attending. It was the largest and most successful Gala to date, raising over $285,000. This compares to $266,000 last year. Fund the Need was dedicated to the Career Online High School Program and $38,400 was raised for the program resulting in 35 additional scholarships. Ms. Sorth congratulated Barbara Turkington, Jim Bogart, Courtney Wood and Nicole Higginbotham on a fabulous event.
+	Jim Bogart and Ms. Sorth recently met with the new Executive Director of Civic Progress, Tom Santel.  They discussed the programs and services offered by the Library, Career Online High School and the Foundation.
+	Several months ago, Administration learned that Maryville University, the presenting sponsor for the Author Series, was revisiting their priorities and as part of that process decided to no longer sponsor the series. Barbara Turkington recently met with Webster University to discuss the Library’s author series. The Business School at Webster will now be the presenting sponsor at $15,000.
+	The Library has received several grants including:
+		Blues for Kids, $5,000 for Born to Read
+		Missouri Arts Council Express Touring Grant, $2,280 for Paul Mesner Puppets
+		Tech Mini Grant, $5,242 for Simple Scan equipment
+		Citigroup, $15,000 for Natural Bridge Branch program support
+		Arthur & Helen Baer Charitable Trust, $9,500 for Gift of Reading
+		Mercy Health Foundation, $5,000 for the Reading Garden Event Series for Young People.
+Author Events
+	Esi Edugyan, “Washington Black,” Tuesday, September 25, 2018, 7:00 p.m., Headquarters.
+	Sandeep Jauhar, “Heart:  A History,” Wednesday, September 26, 2018, 7:00 p.m., Headquarters.
+	Nick Bunker, “Young Benjamin Franklin: The Birth of Ingenuity,” Thursday, September 27, 2018, 7:00 p.m., Headquarters.
+	Laini Taylor, “Muse of Nightmares,” Thursday, October 04, 2018, 7:00 p.m.
+Headquarters.
+	Ryan T. Higgins, “We Don’t Eat Our Classmates,” Sunday, October 07, 2018, 4:00 p.m., Headquarters.
+	Justin Driver, “The Schoolhouse Gate: Public Education, the Supreme Court and the Battle for the American Mind,” Tuesday, October 09, 2018, 7:00 p.m., Headquarters.
+	Hampton Sides, “On Desperate Ground,” Thursday, October 11, 2018, 7:00 p.m., Headquarters.
+	Ellie Kemper - SOLD OUT Ticketed Event, “My Squirrel Days,” Saturday, October 13, 2018, 7:00 p.m., Headquarters.
+	Cressida Cowell, “The Wizards of Once Twice Magic,” Monday, October 15, 2018 6:30 p.m., Daniel Boone Branch.
+Ms. Kenyon expressed appreciation to staff for the Born to Read program from the Kenyon family. She said her new grandchild was a recent recipient of a Library card through the program.
+Dr. Beckwith expressed his inspiration at the excitement of patrons at the opening of Grand Glaize.
+Edith Cunnane requested information on the contents of the hygiene kits being distributed at the Lewis & Clark Branch.  Ms. Sorth shared the kits contain soap, toothpaste and toothbrush, wash cloth and more. These items are provided by the Little Bit Foundation. Ms. Cunnane also questioned how many school districts are in the library card challenge. There have been 12 school districts since ConnectEd began. This year there are nine participating. The Library will also reach out to private schools.
+OLD BUSINESS
+NONE
+NEW BUSINESS
+CONSTRUCTION REVIEW
+Steve Hunter reported that there are currently three buildings under construction -Thornhill, Mid-County, and Meramec Valley. Thornhill is now enclosed and the parking lot is completed. It is targeted to open in early 2019. Meramec Valley has completed its exterior framing, the roofing is currently taking place, and masonry is expected to start soon. At Mid-County, the parking garage is nearly completed and steel will go up soon.
+2018 TAX RATES
+Kris Mooney reported that the Library Administration has reviewed the 2018 post Board of Equalization (BOE) property value assessments. Property values have increased over prior year in total by .4%. A breakdown of the assessments by category is as follows:
+The Board was reminded that the 2018 tax revenue along with the surtax on commercial property will provide approximately 97% of the cash income needed to operate in 2019. According to State Statute, the Board must set the 2018 tax rates by October 1, 2018. Proposed tax rates, preliminary tax rates presented at the tax hearing in August, 2018, and prior year tax rates are as follows:
+			Proposed Tax Rates for 2018
+			Presented at Tax Hearing
+			2017 Tax Rates
+			Residential
+			 $                    0.234
+			 $                0.234
+			 $                  0.234
+			Agricultural
+			 $                    0.217
+			 $                0.210
+			 $                  0.215
+			Commercial
+			 $                    0.259
+			 $                0.255
+			 $                  0.253
+			Personal Property
+			 $                    0.225
+			 $                0.225
+			 $                  0.225
+The above proposed tax rates are set at the ceiling and would provide approximately $51,400,000 in tax revenue for 2019.
+The Library Board approved the attached Resolution which states the above proposed tax rates listed for all subclasses of real estate and personal property are assessed as the 2018 tax rates. If, after validation by the Missouri State Auditor, the tax rate ceiling allowed for any or all subclasses is less than or greater than the approved rate(s) the Director is hereby authorized to set the final rate (s) for the Library as validated by the State of Missouri Auditor. The revenue generated by these rates will allow the District to continue providing excellent service to our customers and will provide for the repayment of debt from our issuance of Certificates of Participation in April, 2013 and September, 2016 (Cunnane/Tai).
+BUDGET REVISION
+Kris Mooney presented the Administration’s recommendation for revisions to the 2018 Library Budget.
+The Budget Committee members are as follows:
+Kristen Sorth               Director
+Barbara Turkington     Assistant Director, Advancement
+Gib Van Cleve                        Assistant Director, ITS
+Eric Button                 Assistant Director, Branch Services
+Steve Hunter               Assistant Director, Construction & Facilities
+Kris Mooney               Assistant Director, Administration
+The committee has reviewed the 2018 budget revision. Revenue will increase by approximately $263,500. Expenditures will decrease by approximately $417,000. Account changes are explained within the Budget Revision narrative and summary Statement of Revenues and Expenditures attached.
+The Library Board approved the Budget Committee recommendation of the 2018 revised budget (Kenyon/Mulligan).
+RESOLUTION APPROVING THE EXECUTION AND DELIVERY OF CERTAIN SUPPLEMENTAL DOCUMENTS IN CONNECTION WITH THE DISTRICT’S CERTIFICATES OF PARTICIPATION
+Kris Mooney presented the Administration’s recommendation to approve the resolution approving the execution and delivery of certain supplemental documents in connection with the District’s Certificates of Participation.
+Several documents related to the Library’s Certificates of Participation have been revised to include the construction of Headquarters. The revisions will allow the Library to use the cash from the 2016 issuance of Certificates of Participation to pay for the project.
+The following four documents drafted by the Library’s Bond Counsel, Gilmore & Bell were shared with the Board:
+	A Resolution approved the execution and delivery of certain supplemental documents in connection with the District’s Certificates of Participation
+	Exhibit A – Supplemental Base Lease
+	Exhibit B – Supplemental Lease Purchase Agreement
+	Exhibit C – Declaration of Trust
+The Library Board approved the Administration’s recommendation that the Library Board approve the Resolution approving the execution and delivery of certain supplemental documents (Exhibit A, B, and C) in connection with the District’s Certificates of Participation (Mulligan/Tai).
+SACHS BRANCH RE-ROOF
+Steve Hunter presented the Administration’s recommendation for roofing services for the Sachs Branch.
+On July 16, 2018, Library Administration issued an IFB for replacing the roof at the Samuel Sachs Branch. The bid was posted on the SLCL website and direct mailed to eighteen local companies, including the six local W/MBE firms that identified as providing this service. In addition, three on-line plan rooms (Blue Book, ePlan, and ConstructConnect) picked up the bid and re-posted it on their respective sites. Responses were due August 9, 2018. Seven firms replied, but since two firms included complete alternate bids, there were nine responses:
+			Firm (Bid)
+			Base Bid
+			KMeier
+			$132,300
+			Lakeside (Base)
+			$160,515
+			Sielfleisch
+			$165,440
+			Bade
+			$185,787
+			Jim Taylor
+			$185,822
+			Lakeside (Alternate)
+			$205,355
+			Weathercraft (Alternate)
+			$212,875
+			Wildwood
+			$257,350
+			Weathercraft (Base)
+			$259,500
+It was clear upon reviewing the bid responses that different solutions were being presented. In order to clarify results and ensure consistency across the bidders, a follow-up questionnaire was sent to all respondents on August 13, 2018. Replies were received by August 15, 2018.
+The most significant difference in the bids concerned the removal and replacement of the top layer of roofing insulation. The Bid Amendment #1, posted July 31, 2018, clearly stated that the bid “should include the price to replace the entire top layer” of insulation. The follow-up questionnaire of August 13 explicitly asked “does your bid include the cost for removal and replacement of the entire top layer of insulation?” Only three of the nine responses were affirmative. The other bids are therefore considered nonresponsive.
+This work is included in the approved 2018 Library budget for $150,000. The responses and entire bid process were reviewed by a selection team consisting of Steve Hunter, Steve Hibbler, Matt Manwarring and Kelli Reeves. The team unanimously chose Lakeside Roofing as having provided the lowest and best bid.
+The Library Board approved the Administration’s recommendation that the Library Board select Lakeside Roofing to provide the service of re-roofing the Samuel Sachs Branch to the Library District for the amount of $205,355 and that the Board authorize the Director to enter into and execute a contract to that effect (Cunnane/Kenyon).
+AMEREN EASEMENT AT MID-COUNTY
+Steve Hunter, Assistant Director of Operations, presented the following.
+The Mid-County branch in Clayton is currently under construction. The project requires a new power transformer and switchgear to be installed on the northwestern corner of the property.
+In order to facilitate future maintenance on their power feeds and equipment, Ameren is requesting a permanent easement at that location. The size of the easement is roughly 25’ x 15’ and is unusable for any other Library purpose. Administration agrees this is a necessary and standard part of construction.
+The Library Board approved the Administration’s recommendation to authorize the Director to negotiate and execute an Easement Agreement with Ameren related to the new switchgear and transformer (Mulligan/Tai).
+PAYMENT TERMINALS
+Gib Van Cleve presented the Administration’s recommendation for payment terminals.
+The Library Administration is seeking approval for the purchase of Comprise Technologies’ Smart Terminals as an upgrade to the current credit card payment system.  The current self-checkout based system lacks the latest security technologies and convenience features.  New Smart Terminals will allow patrons to utilize new credit card chip technology and Near Field Communication (NFC) based payments like Apple Pay.  The Smart Terminals are designed to work specifically with the Library’s existing Smart Money Manager “point of sale” cashier system from Comprise Technologies.  The Board approved Smart Money Manager purchases in March of 2008 and September of 2013.
+Comprise Technologies is a sole source provider of the Smart Terminals and SmartPay Internet gateway.  Simply put, customers’ credit card information will no longer flow through any of the Library’s computers.
+Two Smart Terminals have been in use at Headquarters for over a month with positive results.
+The total cost to place a Smart Terminal at each of these is $63,595 which includes the SmartPay Internet gateway.  The 2018 technology budget included $98,600 for credit card payment terminals.
+The Library Board approves Administration’s recommendation for the purchase of 48 Smart Terminals and the supporting SmartPay Internet gateway services for the one-time price of $63,595 and annual ongoing support renewals of $14,095 starting in September of 2019 and that the Board authorize the Director to enter into and execute a contract to that effect. This expense will be paid for with funds from the technology budget (Cunnane/Kenyon).
+GRIEVANCE COMMITTEE
+Mary Arnhart presented the Administration’s recommendation to reappoint Lorraine Budke for the Grievance Committee.
+According to the Personnel Manual, the Library Board appoints two employees to the Grievance Committee for four-year terms. One employee is appointed in even numbered years and the other in odd numbered years. Terms of the Grievance Committee shall commence on October 1.
+The current Board appointed employee serving on the Grievance Committee is Lorraine Budke.  Her term will expire on September 30, 2018.
+The Library Board approved the Administration’s recommendation to reappoint Lorraine Budke from Cataloging to serve a new four-year term (Mulligan/Tai).
+MERIT INCREASES
+Kristen Sorth presented the Administration’s recommendation for approval of a salary adjustment and merit raises for Library employees.
+The 2019 Library Budget will include a structure adjustment and merit raises for Library employees. The Library has been working with Lockton Companies, the Library’s Human Resources Consultant, on this recommendation. The implementation of the following two salary adjustments will result in a salary increase for Library employees. Each type of salary adjustment and a description of the recipients are defined below.
+Structure Adjustment
+There is a salary structure in place for the Library’s seventeen pay grades. Each pay grade contains a minimum, midpoint and maximum salary. Each title is assigned to a pay grade.  Lockton is recommending an updated structure for 2019. The comparison between the 2018 and 2019 structure is illustrated on the attachment. The recommended increase to the structure adjustment averages out to be 2.2%.  The structure adjustment only affects employees that are new to the Library or new to their position. These individuals are not eligible for a merit raise.  Lockton conducted an analysis and identified 56 employees that will receive a structure adjustment. The structure adjustment costs $19,404.
+Merit Raises
+The Library uses a performance management system where individual raises are tied directly to the level of performance for each employee.  Through this process, managers can make real distinctions between levels of performance and reward employees accordingly.  For 2019, we are recommending the following:
+0 - 4% merit raise range
+Merit at these ranges cost $573,463.
+Only employees that have worked for the Library for one year or more are eligible for merit raises.
+The Administration is recommending that the Library Board approve the 2019 salary adjustments based on the analysis conducted by Lockton.  These adjustments will cost $592,868 for a 0 – 4% merit raise range with a 2.83% average. Salary adjustments approved last year cost $617,410.
+Mrs. Cunnane made the motion for approval. Dr. Tai seconded.
+Discussion ensued.
+Dr. Beckwith expressed his concern with this year’s raises costing more than half a million dollars. He felt his fiduciary responsibility was to inform staff that he believed the raises were not sustainable in the future. For next year, he suggested that Ms. Sorth consider bringing the merit suggestions to a board committee for consideration, one month prior to the recommendation meeting.
+He is also concerned that the merit increases are for all employees including the Administrators.
+He would like the committee to consider offering a different range for the Administrators because they
+earn more.
+He would like at least three options to select from for offering merit increases to the staff. Dr. Beckwith also discussed his desire to move toward funding the Pension Plan at 100%. It is currently 92%.
+The Library Board approved the 2019 salary adjustments based on the analysis conducted by Lockton. These adjustments will cost $592,868 for a 0 – 4% merit raise range with a 2.83% average (Cunnane/Tai).
+Aye: Edith Cunnane, Chingling Tai, Elena G Kenyon, Michael Mulligan
+Nay: Lynn Beckwith
+Motion passes.
+MOTION TO ADJOURN
+Motion to adjourn open meeting and to convene Executive Session to discuss real estate (Section 610.021(2)); All agreed by voice consent.
+Aye: Edith Cunnane, Dr. Chingling Tai, Elena G Kenyon, Michael Mulligan, Dr. Lynn Beckwith.
+Meeting adjourned at 4:39 p.m.
+Respectfully submitted,
+___________________________                                          ________________                                                                                                                  Dr. Chingling Tai, Secretary                                                          Date

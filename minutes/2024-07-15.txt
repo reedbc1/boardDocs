@@ -1,0 +1,255 @@
+{
+  "name": "Regular Meeting",
+  "description": "",
+  "unique": "CYRU8D7AC129",
+  "date": "2024-07-15T00:00:00Z"
+}
+
+---
+
+ST. LOUIS COUNTY LIBRARY DISTRICT
+MEETING OF THE BOARD
+CLARK FAMILY BRANCH
+MONDAY, JULY 15, 2024
+The monthly meeting of the Board of the St. Louis County Library District was held at Clark Family Branch, 1640 S. Lindbergh Blvd., St. Louis, MO 63146 on Monday, July 15, 2024 at 3:30 p.m. The agenda had been posted in all branches of the Library District at least 24 hours before the meeting.
+ATTENDANCE:
+Library Board Members:
+Dr. Lynn Beckwith, President
+Joan Barry, Secretary
+Ted Sanditz, Treasurer
+Deborah Patterson, Member
+Per Dr. Beckwith Johnny Wang, Vice President had an excused absence.
+ADMINISTRATORS AND GUESTS ATTENDING:
+Kristen Sorth, Library Director & CEO; Eric Button, Deputy Director; Laura Taylor, CFO; Steve Hunter, Assistant Director, Operations; Gib Van Cleve, Assistant Director, ITS; Jennifer Gibson, Assistant Director, Strategic Initiatives; Jennifer McBride, Assistant Director, Communications; and Attorney Lisa Stump, Lashly Baer; and Desiree Whitlock, St. Louis County.
+OTHERS ATTENDING:
+Andrew Freshwater, Melissa Albers Hupp, Heather Neill, Terrence McCoy, Nik Brown, Natalia Catlett, Marquitta Parnell, Cheri Remington, Mary Arnhart, Nicole Clawson, Nora Marino,
+Emily Althoff, Melissa Bauer, Nicole Walsh, Stephanie Nordmann, Deanna Davis, Ja’Mel McCaine, Emily McIlvoy, Bennie Schumacher, Lisa Haddox, Keir Haug, Matt Lakin, Carla Maxwell, Lindsey Piech, Rachel Dippel, Nina Johnston, Kelli Reeves, Michael Pina, Thaddeus Pierson, Emma Figueroa, Donna Spaulding, Beth Watts, Andrea Johnson, Becky Maue and Sandy Williams.
+MINUTES
+The Library Board approved of the June 17, 2024 Library Board minutes (Barry/Sanditz).
+PUBLIC COMMENTS
+There was no one to speak before the board.
+TREASURER'S REPORT
+Laura Taylor presented the report.
+Maintenance and Operating Fund Financial Statements: Revenue
+	District Taxes - The total tax revenue for 2024 is $63.0 million which is 99% of the total budget of $63.9 million. The District will continue to receive tax revenue throughout the year.
+	Other Grants - In June, the Library District received $2,000 in Other Grants from the Missouri Association of Community Arts Agencies (MACAA). The funding supports art programs at four branches: Cliff Cave, Eureka Hills, Jamestown Bluffs, and Weber Road.
+Expense
+	Insurance - In June, the Library District incurred a total of $233,674 in Insurance. Of this amount, $227,755 was paid to Chubb for property insurance through May 2025.
+	Technology - Maintenance Agreements - In June, the Library District incurred a total of $117,921 in Technology - Maintenance Agreements. Of this amount, $102,195 was paid to Carahsoft Technology Corporation for Secureworks through May 2025 and Google Workspace through June 2025.
+	Capital Improvements - In June, the Library District incurred a total of
+$1,422,856 in Capital Improvements. Of this amount, $1,242,689 was paid to Interior Construction Services for May services, $48,495 to CI Select for furniture, and $38,497 to Engraphix for signage at the Clark Family Branch. The Clark Family Branch opened to the public on July 9.
+The Library Board approved of the July 2024 Treasurer's Report subject to audit (Sanditz/Patterson).
+DIRECTOR AND CEO'S REPORT
+Kristen introduced Rebecca Maue and explained that she is learning to operate BoardDocs at Board meetings. Dr. Beckwith gave high accommodations for a job well done with the Clark Family Branch, the new crown jewel.
+Ms. Sorth delivered the Dashboard report for June is attached. The circulation for the month of June was 4% lower than the same time last year. Next month, we plan to highlight the Clark Family Branch and the impact it will likely have on our statistics. In June, 48,810 patrons attended 1,829 programs... This number includes 13 author visits with 5,204 attendees in just the month of June.  In 2023, 15,000 people attended author events for the entire year.  We are well on our way to surpass that number. (Plan: Promote Literacy 1a, 3b, Sense of Community 1b, 2a, 3a, Increase Access 1c)
+	She said the statistics for the first year of social workers at the Library are impressive. Through May 31, 2024, the social workers have worked with 1,533 people and received 695 Book a Social Worker forms. Attached is the information on all key social worker data points along with the zip codes for those assisted by the social workers. The zip code data is broken out by various regions throughout the area. The largest number of individuals reside in the 63121 zip code, which encompasses Normandy and Jennings.
+			Total No. of Zip Codes Served
+			Total No. of STL County Zip Codes
+			Total No. of STL City Zip Codes
+			Total "Other" Zip Codes
+			Notable Far Zip Codes
+			73
+			44
+			20
+			9
+			65109 (Cole County, MO), 65251
+			(Fulton, MO)
+	There was a press conference at Lambert International Airport on June 20th to announce the ePopUp Library partnership. We are thrilled to offer a collection of eBooks and Audiobooks launched in partnership with Bi-State, St. Louis County Government, St. Louis Lambert International Airport, and Schnucks. The program offers easy access to patrons, even if they do not have a library card. A user merely scans the QR code, provides their email address and chooses a password. After that, they can select materials and borrow them immediately without any waiting. As of July 9, 9,570 users have accessed the collections. There have been 284 ePopUp checkouts.  Of those, 60% of users are not current library cardholders. This eMedia collection is funded by the Clark Family’s gift to support Library programs and services. (Plan: Promote Literacy 1a, 2d, Sense of Community 2a, 3a, Increase Access 2c)
+	The Lewis and Clark Branch hosted an after-hours Juneteenth event that included food trucks and musical performances for the residents of Moline Acres, Bellefontaine Neighbors and other neighboring communities. This program was sponsored by the St. Louis County Library Foundation and was the highest attended event in the branch’s history. The program helped foster stronger relationships with community members and leaders, while highlighting a significant piece of history for a predominantly black community. The goal of the event was to attract 100 attendees and LC surpassed that amount with 251 attendees. The branch also wanted to engage two black-owned businesses for food and did so. They also highlighted local black musicians and partnered with Riverview Gardens School District to present the Gentlemen of Vision - an after school program to provide positive peer and adult support for boys in the district, which
+includes a step team. The branch also showcased DJ Makeda Kravitz - a local black, female DJ, who also partnered with SLCL for Spinning in the Stacks for Hip Hop Celebration Month. (Plan: Promote Literacy 3d, Sense of Community 1a, 1b, 3a, 3b, Increase Access 1b, 1c)
+	The Library partnered with the Sheldon for a Musical Instrument Donation Drive. Donated musical instruments were accepted at any branch from June 24 - July 9. The Sheldon reports that they have been called out to branches multiple times for special pickups of larger instruments and patrons have brought some instruments directly to the Sheldon, citing our instrument Drive. Although we await an official final number from the Sheldon of how many instruments have been donated, the branches have reported that over 180 instruments were donated. All donated instruments were delivered to the Sheldon, assessed for condition and will be repaired before being donated to local schools or community music programs. (Plan: Sense of Community 3a, 3c)
+	Ms. Sorth reported that in the new Creative Lab at the new Clark Family Branch, users who wish to have more assistance with their project can schedule a Book a Maker (BAM). The form to request a BAM will be added to the suite of one-on-one Assistance and linked on the Creative Lab public landing page. Book a Maker assistance joins other one-on-one assistance that includes Book a Genealogist, Book a Librarian, Book a Social Worker, and Book a Trainer. (Plan: Promote Literacy 3a, 3b, 3d, Sense of Community 3c)
+	Here are several highlights from SLCL databases midway through 2024:
+		Over 31,000 files have been downloaded from Ancestry.
+		Spanish, French, and Italian are the top languages being learned in Mango Languages.
+		Serbian, Arabic, and Spanish are the top story books read in our Languages Other Than English storybook resource.
+		The most viewed LinkedIn Learning course was, “The Good Life: Lessons from the Longest Study on Happiness” (84 views).
+		The top course viewed in Udemy was, “The Complete 2024 Web Development Bootcamp” with over 811 activities completed.
+		“Managing Anxiety” is the top used course in Headspace and patrons have engaged with 48,592 different courses and resources and have spent 86,937 minutes meditating.
+		Qikan, a collection of Chinese language journals, has had 26,359 articles read. (Plan: Promote Literacy 2d, 3b, 3c, 3d)
+	There are several unique spaces at Clark Family that will need to be managed in ways
+that are not consistent with the workings of Vega Program, which is the Library’s event and room management software. Waitwhile is an appointment scheduling platform that will be used to manage the various needs within the Clark Family Branch. This includes booking the Virtual Meeting Space in the Small Business Resource Center, reserving time to work on a project in the History & Genealogy Memory Lab, and reserving specific equipment or reserving the Recording Studio in the Creative Lab. Patrons will be able to self-book time in the various rooms. Waitwhile also allows the Library to require
+acknowledgement of certain policies and procedures prior to booking. Waitwhile is also able to maintain an in-person queue and integrate it with the prior bookings and reservations. (Plan: Promote Literacy 3b, Sense of Community 3c, Increase Access 1a, 1c)
+	She said Adult Services and the Samuel Sachs Branch have hosted two installments of the Summer Concert series in June and July, with over 135 in attendance so far. This month, The Usual Suspects uplifted spirits despite the clouds and slight drizzle. Attendees relaxed in lawn chairs in the Reading Garden, enjoying picnics and singing along. Families have expressed their gratitude for the events, so their children can experience live music without cost or needing to sit still. One young library user was amazed that musical instruments can be borrowed from the Library's collection, too. The final Summer Concert features Harvey Lockhart and The Collective on Wednesday, August 7. (Plan: Promote Literacy 3d, Sense of Community 3a, 3c, Increase Access 1b, 1c)
+	Over the last several years, Reference has outgrown what is typically considered “Reference” work. With the move to the Clark Family Branch, Reference will undergo a Department name change and will be known as Information Services. Information Services employees, led by Megan Phifer-Davis and Renny Canaday, will continue to maintain a collection of Reference style material, assist staff and patrons with database inquiries, research guidance, and connect seekers to information as well as working with small businesses and entrepreneurs. The Small Business Resource Center located on the upper level of the Clark Family Branch, will allow for expansion of business planning and development services which continues to fulfill a need in the community. The Information Services Department will also be able to prioritize and grow workforce development and justice-involved opportunities. (Plan: Promote Literacy 2d, 3a, 3b, 3c, Sense of Community 3b, Increase Access 1a)
+	As part of the continuing partnership with the Kranzberg Arts Foundation, Ken and Nancy Kranzberg committed to donating a collection of their personal art collection for viewing at the Clark Family Branch. The art was installed the week prior to the opening and includes 50 pieces of art that are hung throughout the branch and two sculptures. The art is such an amazing addition to the branch. The collection will change every six months. (Plan: Promote Literacy 3d, Sense of Community 3a, Increase Access 1a)
+	In April, Ms. Sorth met with the organizers of the St. Louis Fashion Fund to ask about partnering on an event at Clark Family in July to celebrate the new building. They talked about various options and chose to pursue a premiere of the Diane Von Furstenberg documentary.  Disney had to approve the showing.  With the help of Communications, we sent a proposal to Disney and they said yes. There are only six U.S. screenings, all at Film Festivals, and three international screenings in Brussels, London and Paris and now at the St. Louis County Library. The Library was definitely not on their radar for a premiere. The event will be on July 23rd at 5:30 p.m. and will include a red carpet and reception. There are over 200 people signed up for the event. (Plan: Promote Literacy 3d, Sense of Community 3a, 3c, Increase Access 1a, 1c, 2a)
+	Over 330 people attended the free St. Louis Symphony Community Concert with the St. Louis Symphony Orchestra on June 24th. The event featured Cally Banham on oboe and English horn, accompanied by a woodwind quintet. The new Post Event Space provided a lovely atmosphere for the event, and the musicians sounded great. We look forward to
+many more successful collaborations in the future with the Symphony. (Plan: Promote Literacy 3d, Sense of Community 3a, 3c, Increase Access 1a, 1c)
+	A new series, in partnership with the Kranzberg Arts Foundation, began in July at the
+Florissant Valley Branch. "Music Mondays Unplugged” are held on the second Monday of each month at 6:00 p.m. and feature some of the region's best musicians performing a variety of styles. The program is already very popular, with 45 attendees in July. The next Music Mondays Unplugged will feature a jazz performance by Kinfolk on August 12. (Plan: Promote Literacy 3d, Sense of Community 1b, 3a, 3c)
+	On Monday, July 8, the Missouri Botanical Garden hosted a sustainable STEM night for families as part of STL Summer Adventure. Families from St. Louis County and the City of St. Louis gathered for STEM activities and to explore the garden. Over 100 people attended. (Plan: Promote Literacy 1b, 3a, 3d, Sense of Community 3a, Increase Access 1b, 2c)
+	The Library hosted a booth at PrideFest on June 29 and 30. Library employees promoted programs and resources and had a button making station for attendees to create their own pride button. Over 1,700 people visited the booth over the 2 days. (Plan: Sense of Community 1a, 1b, 1d, 2a, 2b, 2d, 3a, 3b, Increase Access 2b, 2c)
+	The Library continues to provide vital services to the region shown on the chart below. (Plan: Sense of Community 3a, 3b, 3c, Increase Access 1, 1c)
+Service Stats 2021 to Current:
+Service Stats 2024 only:
+	There were mentions of the St. Louis County Library in the local media in print, radio and television. Those articles were shared. (Plan: Increase Access 2)
+	Ms. Sorth shared pictures from various events and programs that have taken place over the last two months: Author Amy Tan at Clark Family, Design a Bookmobile at Grant’s View, Gaming @ the Library at Florissant Valley, Celia’s Sing Along at Grand Glaize, author Riley Sager at Clark Family, St. Louis Symphony Concert at Clark Family, Rock and Roll Adventures at Oak Bend, author Mo Rocca at Clark Family, author Gabrielle Zevin at Clark Family, author Podcast Team at Clark Family, and Coco at Weber Road. (Plan: Promote Literacy 1b, 1c, 3d; Sense of Community 1b, 3b, 3c)
+Impact Stories
+	There were 70 people in attendance for the Virtual Program: Energy Assistance. Some of the comments from attendees include “This has been so helpful, as I have been unsuccessful in the past with obtaining assistance. I will be trying again!” Additionally,
+the presenter was able to provide helpful next steps for those folks who expressed "I’m in threat of disconnection right now! How do I get assistance ASAP?" and "I have a disconnection notice." (Plan: Sense of Community 3c)
+	From a patron: "As a result of Creative Wisdom: Watercolor, I plan to continue with watercolor. I have set up a studio in my house. More more more!! I am 81 years old and this is the first time I even picked up a brush. This was a wonderful experience!" (Plan: Promote Literacy 3d)
+	At a school outreach last night, the Library received lots of positive feedback on the new format for Summer Reading. Several parents mentioned liking the activity-based program a lot, especially when they have multiple kids in different age groups. Some of the comments received included:
+		"This is great! Now we'll have ideas for things to do all summer!"
+		"This is an AMAZING idea"
+		"I'm so glad you're doing this! And partnering with SLPL is awesome!" (Plan: Promote Literacy 1a, 1b, 2a, 2b, 3d, Sense of Community 3a)
+	The following letter was received: (Plan: Sense of Community 1a, b, 3c)
+Library Administrative Updates
+	The St. Louis County Library was named a Top Workplace in St. Louis for the 11th year. 70% of Library employees took the anonymous survey. The St. Louis County Library is filled with smart, creative, kind, fun and dedicated people who value the work and see the impact. This year, SLCL is in the Top 10 for all large organizations at # 9.  Ms. Sorth was honored and surprised to be recognized this year as the standout leader among the Top Workplace organizations for all large organizations. The Library was also notified that we were awarded a national Top Workplace award in two categories:
+		Purpose and Values
+		Compensation and Benefits (Plan: Sense of Community 1c, 1d, Increase Access 2c)
+	GRS Auction and Liquidation held an online auction for the disposal of surplus property. Most of the surplus materials were the result of old shelving retained for the storage of collections that moved out of Headquarters and are now in place at Clark Family Branch. Other property included furniture for Headquarters employees that temporarily worked out of the Beckwith Administrative Building. (Plan: Increase Access 1)
+	Multiple DEIB (diversity, equity, inclusion, and belonging) initiatives for employees are in progress after Hicks-Carter-Hicks shared recommendations from their assessment of DEIB at the Library. The Library issued an RFQ for DEIB Training Services to provide training to all of our employees and managers. After selecting a qualified firm, training sessions will begin later in 2024 and will continue into 2025. In addition, the Library is currently accepting applications from employees to join the Library’s first DEIB Council. This 11 to 13-person Council will be led by Co-Chairs Jennifer Gibson and Tarza Tawfiq with Kristen Sorth as the Executive Sponsor. After brief interviews in August, the
+selected Council members will begin meeting monthly in September. After establishing a charter and other foundational work, the DEIB Council's first task will be to help launch Employee Resource Groups, also known as affinity groups, to provide community and support around shared identities. (Plan: Promote Literacy 3a, Sense of Community 1c, 1d, Increase Access 1c)
+	Michelle Hawkins, the Branch Manager at Rock Road, submitted a proposal to present a poster session at the American Library Association’s annual conference, and it was chosen. The topic was TeenSpeak for Public Libraries. Michelle has developed a training for public service managers around this topic. The poster session was well- received. Viewers were very interested in the topic and made it clear that working with teens post-pandemic is a challenge for all public libraries. Many academic college/university librarians commented that the tips provided also apply to college students. (Plan: Sense of Community 2d, 3b, Increase Access 2c)
+	The grand opening of the new Clark Family Branch took place on July 9th with much celebration beginning with a reception and program at 8:00 a.m. followed by an official ribbon cutting ceremony for the Clark Family Branch at 9:00 a.m.  Students from the local band, The Bird Seeds, played during the first few hours and were amazing. The entire branch opened to the public immediately following. This is the final project of Your Library Renewed. The Library has completed 21 buildings in 10 years. That is a unique and significant accomplishment. Thanks to the Library Board and the Library employees for their work on Your Library Renewed. The first three days of statistics are very impressive. The visits and circulation numbers are unprecedented for St. Louis County Library. The children's area continues to be a delightfully crowded sea of children. When Ms. Sorth was there this week, separate groups of families were enjoying lunch on the Post Plaza. The storytimes are taking place in the event space and the author events in the evening continue to remain packed with people.  The History and Genealogy Department has never seen usage numbers like this and the Teen space is filled with all ages of people. When Ms. Sorth was there this week, there was a multigenerational jam session of strangers in the recording studio.  As for the art, the seats near it are the most constantly occupied spots in the building and is a constant source of discussion by patrons with our employees. (Plan: Promote Literacy 1c, 2b, 3a, 3b, 3c, 3d, Sense of Community 3b, 3c, Increase Access 1a, 1b, 1c)
+Visits
+Estimated Visits Tuesday: over 3,000 Wednesday: 2,307
+Thursday: 2,373
+Total: 7,680
+Circulation
+Tuesday: 3,953
+Wednesday: 2,402
+Thursday: 2,095
+Total: 8,450
+New Library Cards Registered
+Tuesday: 102
+Wednesday: 79
+Thursday: 68
+Total: 249
+History and Genealogy
+Over 28 people used the digitization center and 9 people use the personal history recording studio inside of our department.
+Book-A-Genealogist requests are currently clocking in at 15 - whereas we typically would have around 7-15 per month.
+The past few days staff have re-shelved between 600 - 900 items per day that patrons are using.
+Staff have also generated somewhere between 125-150 codes for the FamilySearch interactive experience (though many are getting it themselves).
+Staff clocked in at 699 visitors just in the department on Wednesday and expect our Thursday number to be greater.
+Clark Family Programming:
+4 programs were presented through Thursday afternoon. 489 patrons attended the 4 programs.
+The study rooms have been used 93 times as of 3:05pm on Thursday.
+Creative Lab
+Over 125 tours of groups/singles people throughout the lab. 20 jam sessions in the studio with different groups.
+100 kids that used and enjoyed the 3D pens.
+The Game lounge and Retro Pi saw about 200 people. 15 3D prints
+Library Construction and Facility Update
+	The recent heavy rains have resulted in small roof leaks at Eureka Hills, Rock Road and Thornhill. Crews have responded quickly and the issues are all currently resolved. (Plan: Increase Access 1c)
+	The Library recently surpassed 11,000 followers on Instagram. The Clark Family Branch media tours and other promotional content are largely responsible for the increase in followers. Communications has been very busy working on signage, displays and other materials for the new branch as well as promoting many of the upcoming events in the Post Event Space such as the BGG Gaming Tournament, the performance by the Repertory Theater on July 22nd and the screening of the Diane Von Furstenberg documentary in partnership with the Fashion Fund on July 23rd. (Plan: Increase Access 2d)
+	The Communications Department is reordering the new City SC Library card. The original order was for 5,000 cards and there are very few remaining. (Plan: Sense of Community 3a, Increase Access 2a)
+Library Foundation
+	KSDK has agreed to be the exclusive media partner for the St. Louis County Library Foundation Gala. (Plan: Sense of Community 3a)
+	The Library and Foundation received the following grants.
+		$7,500 from the Optimist Club of St. Louis to support Coding 101 in 2024
+		$10,656 from the Josh Seidel Memorial Foundation to provide 48 Chromebooks to kids who complete Coding 101 in 2025
+		$10,000 from the Regional Arts Commission to support the 2024 St. Louis Storytelling Festival
+		$5,000 from the E. Reuben & Gladys Flora Foundation to support the floating social worker (Plan: Promote Literacy 2d, 3a, 3b, 3d, Sense of Community 3a, 3b, 3c)
+Author Events (Plan: Promote Literacy 1c)
+	Kathleen Sheppard, author of “Women in the Valley of the Kings,” Tuesday, July 16, 2024, 7:00 p.m.-9:00 p.m., Clark Family Branch.
+	Ticketed Event: Daniel Silva, author of “A Death in Cornwall,” Friday, July 19, 2024, 7:00 p.m.-9:00 p.m., Clark Family Branch.
+	Lev Grossman, author of “The Bright Sword,” Sunday, July 21, 4:00 p.m.-6:00 p.m., Clark Family Branch.
+	Victor Luckerson, author of “Built from the Fire,” Thursday, July 25, 2024, 7:00 p.m.- 9:00 p.m., Clark Family Branch.
+	Amy Stewart, author of “The Tree Collectors,” Monday, July 29, 2024, 7:00 p.m.-9:00 p.m., Clark Family Branch.
+	Shari Lapena, author of “What Have You Done,” Thursday, August 1, 2024, 7:00 p.m.- 9:00 p.m., Clark Family Branch.
+	Ticketed Event: Rainbow Rowell, author of “Slow Dance,” Friday, August 2, 2024, 7:00 p.m.-9:00 p.m., Clark Family Branch.
+	Bret Anthony Johnston, author of “We Burn Daylight,” Monday, August 5, 2024, 7:00 p.m.-9:00 p.m., Clark Family Branch.
+	Maureen Johnson, author of “Death at Morning House,” Tuesday, August 6, 2024, 7:00 p.m.-9:00 p.m., Clark Family Branch.
+	James Rollins, author of “Arkangel,” Wednesday, August 7, 2024, 7:00 p.m.-9:00 p.m., Clark Family Branch.
+	Jasmin Graham, author of “Sharks Don’t Sink,” Thursday, August 15, 2024, 7:00 p.m.- 9:00 p.m., Clark Family Branch.
+	Thomas Fuller, author of “The Boys of Riverside,” Monday, August 19, 2024, 7:00 p.m.- 9:00 p.m., Clark Family Branch.
+OLD BUSINESS DIVERSITY REPORT
+Previous questions were sent to the Director to follow up on last month’s Diversity Report. Dr. Beckwith reviewed his questions at the meeting and gave a brief history of St. Louis County Library since it was founded in 1946. He said it was 60 years before the first African American was selected to serve on the Library Board. He was the person appointed. He discussed minority statistics for the staff members by branch. Discussion ensued.
+NEW BUSINESS RECRUITING EFFORTS
+Tarza Tawfiq, Employee Relations Coordinator, presented. Ms. Tawfiq reported that her role in recruitment started in Jan 2023. Some of the changes in the recruitment process have included adding our mission, listing benefits and the branch names to job postings. Ms. Tawfiq has been attending job fairs. Her future plans include improving SLCL’s pages on Indeed and Glassdoor. Ms. Tawfiq reported 40% of our applicants come from
+Indeed.
+FLOOD INSURANCE
+Laura Taylor, CFO, presented the following.
+All lines of the Library’s insurance policies renew each year on May 1 and were approved by the Board in April, 2024 with the exception of flood insurance that renews on August 1, 2024.
+Last year after talking to several carriers, the Library’s insurance broker, Daniel & Henry, recommended that the Library purchase additional flood insurance from The Harford to decrease
+the flood deductibles. They recommend that we renew these same policies approved by the Board in 2023 for the year 2024. The cost of the policies remain the same except for coverage of the Meramec Valley Branch. That policy increased from $6,786 to $14,929 as the District needs to increase the limit at this location to match the deductible change on the Chubb property policy. Chubb increased the flood deductible from $100,000 to $500,000 at this location based on an updated risk assessment.
+Please see the table below:
+			Branch
+			Yearly Premium with Hartford
+			St. Charles Rock Road
+			$23,975
+			Florissant Valley
+			$3,089
+			Oak Bend
+			$4,708
+			Meramec Valley
+			$14,929
+The Library Administration, in consultation with The Daniel and Henry Company, recommends that the Library Board accept the quotes from The Harford for flood insurance for a total cost of
+$46,701. The Library Board approved (Patterson/Barry).
+ACCOUNTING SOFTWARE
+Laura Taylor, CFO, presented the following.
+In 2001, the Library starting using MIP Accounting Software and still uses the server-based version today. The 2024 Library Budget included an upgrade to a cloud based system to benefit from platform modernizations with no in-house maintenance or updates to manage. On May 17, 2024 a Request for Proposal (RFP) was posted on the Library’s website, an ad was placed in the Post-Dispatch and it was emailed to six different software vendors. All responses were due back by June 14, 2024.
+The Library received six responses. A committee consisting of representatives from the Finance and Information Technology Departments reviewed the responses. Three companies were selected to present a software demonstration. After the three demonstrations, Blackbaud
+was selected for a more in-depth demonstration to allow the committee to have all final questions answered. The Library budgeted $210,000 for Year 1, which includes implementation, in the 2024 budget.
+A summary of the three companies that were selected for a demo is listed below:
+			Vendor
+			Software
+			Total Cost-Year 1
+			(includes implementation)
+			Year 2
+			Year 3
+			Blackbaud
+			Financial Edge
+			NXT
+			$67,877
+			$28,127
+			$28,127
+			BS&A Software
+			BS&A Software
+			$74,490
+			$20,895
+			$20,895
+			Oracle
+			NetSuite
+			$111,299
+			$55,299
+			$37,299
+The Library will also purchase a third party product made by PaperSave that integrates with Financial Edge NXT for optical character recognition (OCR) to streamline the accounts payable process. The cost for the first year is $17,070 and the cost for the second year is $17,920. This cost is under the threshold that requires Library Board approval.
+The Library Administration recommends that the Library Board accept the lowest and best proposal from Blackbaud with a total cost of $67,877 for Year 1 and $28,127 per year for Year 2 & Year 3 and that the Board authorize the Director & CEO to enter into and execute a contract to that effect. The Library Board approved (Patterson/Barry).
+EMERGENCY RESPONSE SYSTEM
+Steve Hunter, Assistant Director, Operations, reported the following.
+On January 23, 2024, Library Administration published a Request for Proposal (RFP) for a Panic/Crisis Alert System and Support/Monitoring services for 3 years. The Panic/Crisis Alert System will empower employees to call for help in an emergency. Employees can discreetly alert a call center monitoring station with a push of a button, which will immediately contact local emergency services. The call center will then contact the designated library emergency contact.
+A button will be placed at every circulation desk at each branch. The RFP was emailed to three local security equipment companies and posted on the Library’s website. An online bid service reposted the RFP for their members. Responses were due February 3, 2024. Six security companies responded:
+			Company
+			Equipment Cost
+			Annual Monitoring Cost
+			3 Year Cost
+			Becklar
+			$ 4,650.00
+			$7,064.28
+			$ 25,842.84
+			Everbridge
+			$ 12,696.00
+			$7,071.92
+			$ 33,911.76
+			Tech
+			$ 37,895.00
+			Included
+			$ 37,895.00
+			Freedom
+			$ 11,051.00
+			$10,077.48
+			$ 41,283.44
+			Pin Point
+			$ 93,972.00
+			Included
+			$ 93,972.00
+			Centegix
+			$411,141.00
+			Included
+			$411,141.00
+Administration and the Manager of Safety and Security thoroughly reviewed the proposals and agree that Becklar has provided the lowest and best response to the RFP. This work is included in the approved 2024 Library budget for the amount of $36,750.
+The Library Administration recommends that the Library Board select Becklar to provide a Panic/Crisis alert system for all Library buildings for an initial equipment cost of $4,650 and annual monitoring cost of $7,064.28 for a total 3-year cost of $25,842.84, and that it authorize the Director and CEO to execute a 3-year contract to that effect. The Library Board approved (Barry/Patterson).
+Because this is Steve Hunter’s last meeting before retiring, Dr. Beckwith said he commended him for getting so much done. Well done. Dr. Beckwith remarked that those we has worked with over the years, he was considered in the top 10%. I don't know if we could have done all this without you.
+MEMORY LAB POLICY
+Eric Button, Deputy Director, presented the following.
+Library Administration is seeking approval of a new policy to govern the use of the Memory Lab at the Clark Family Branch. The Memory Lab is a new space located within the Emerson History and Genealogy Center. It features two rooms, each with a distinct purpose.  The Personal History Recording Studio offers patrons the opportunity to record a family history or personal story using a webcam and embedded microphone. The second space, the Scanning and Digitization Studio, provides the equipment and technology for patrons to be able to convert photos, documents, and videos into a digital format.
+The policy aims to define the scope of services available in the Memory Lab while also addressing permissible and prohibited activities within the spaces. At the same time, the policy requires that all use of the Memory Lab be lawful, avoiding violations of intellectual property, and avoiding the creation or conversion of content that is obscene or offensive. The policy also absolves the Library of any loss or destruction of data or damage to personal property. Those patrons wishing to use the Memory Lab spaces must first acknowledge acceptance of this policy.
+A copy of the proposed Memory Lab Policy has been provided. The policy was reviewed by legal counsel.
+Library Administration recommends that the Board approve the proposed Memory Lab Policy. The Library Board approved (Patterson/Sanditz).
+ADJOURNMENT
+Joan Barry made a motion to adjourn the meeting. A second was made by Deborah Patterson. All approved with voice vote. Aye: Lynn Beckwith, Ted Sanditz, Joan Barry, Deborah Patterson.
+Meeting adjourned at 4:38 p.m. Respectfully submitted by,
+Joan Barry                                                                   Date
+Secretary

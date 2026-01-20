@@ -1,0 +1,187 @@
+{
+  "name": "Regular Meeting via Zoom",
+  "description": "Library Board",
+  "unique": "BL3MFY5ABD7D",
+  "date": "2020-06-15T00:00:00Z"
+}
+
+---
+
+ST. LOUIS COUNTY LIBRARY DISTRICT
+MEETING OF THE BOARD
+HEADQUARTERS BRANCH
+1640 SOUTH LINDBERGH BLVD.
+MONDAY, JUNE 15, 2020
+3:30 p.m.
+The regular meeting of the Board of the St. Louis County Library District was held through Zoom telecommunications, Monday, June 15, 2020. The agenda was posted via SLCL website at least 24 hours before the meeting.
+ATTENDANCE: Members present:
+ Dr. Lynn Beckwith, President
+ Johnny Wang, Vice President
+ Laura Horwitz, Secretary
+ Ted Sanditz, Treasurer
+ Joan Barry, Member
+ADMINISTRATORS AND GUESTS ATTENDING: Kristen Sorth, Director; Eric Button, Deputy Director; Barbara Turkington, Assistant Director, Development; Gib Van Cleve, Assistant Director, ITS; Steve Hunter, Assistant Director, Operations; and Lisa Stump, Lashly and Baer.
+OTHERS ATTENDING: Library Planner Marie Conlin and Executive Assistant Sandy Williams.
+APPROVAL OF MINUTES
+The Library Board approved of the May 18, 2020 minutes (Wang/Sanditz).
+PUBLIC COMMENTS
+There were no questions submitted by patrons to the Board.
+TREASURER'S REPORT
+Kristen Sorth, Library Director and CEO, reported the following.
+Maintenance and Operating Fund Financial Statements:
+Revenues
+	Athletes & Entertainers Tax — The Library District received $23,500 in April from St Louis County's distribution of the Athletes and Entertainers Tax. This is the last of two payments for St. Louis County's 2020 fiscal year.
+	State Aid — In April, the Library District received a Missouri state aid payment in the amount of $214,787. This is the last of two payments for St. Louis County's 2020 fiscal year. The Library District budgeted $429,574 in 2020 for Missouri State Aid.
+Expenses
+	Pension Fund — The Library District made the annual contribution to the Employee Pension Plan. The contributed amount was $2,390,389 and was approved by the Board at the April 2020 Meeting.
+	Insurance — In April, the Library District incurred $390,190 in insurance expenses. This is the annual renewal of the District's property insurance and was approved by the Board at the March meeting.
+Capital Projects Fund Financial Statements
+Balance Sheet — 2016 Debt Issuance
+		Construction in Progress — Total construction in progress for April 2020 was $84,427. The expenses included payments for:
+	Construction costs for Mid-County — $18,478
+	Furniture & Fixtures for Grand Glaize— $17,245
+	Furniture & Fixtures for Meramec Valley — $16,026
+	Furniture & Fixtures for Thornhill — $14,989
+	Furniture & Fixtures for Mid-County — $14,543
+	Site preparation costs for Administration Building —$579
+The Library Board approved the Treasurer’s Report, subject to audit (Sanditz/Wang).
+Kristen Sorth, Library Director and CEO, delivered the CEO and Director's Report.
+Library Update
+	Ms. Sorth said the administration continues to work on a phased approach for reopening to the public.  There are many details that are still in progress.  The staff members are making plans to announce the Phase 2 plans in coordination with St. Charles City-County Library and the Municipal Library Consortium in St. Louis County.
+As you know, the Reopening Team has been leading 13 different work groups that are engaging more than 60 employees in their discussions.  These teams have made significant progress in determining the process and plans for a gradual reopening of the Library.  Topics include:  building capacity, signage needs, workplace modification plans, book drop procedures, curbside procedures (in addition to providing materials, we will also print items for patrons), phone procedures, collection management approaches, and virtual programming.  Detailed plans will be shared when they are finalized.  I am very grateful for the reopening team and workgroups.  We are also soliciting input from employees and managers. This team effort has resulted in creative, safe, efficient and detailed reopening plans for the Library. (Plan: Maximize Access and Impact)
+            Phase 2 includes:
+		Limited patron access to library buildings for browsing collections and accessing PCs.
+		Visits will be limited to 60 minutes or less.
+		Capacity of buildings will be strictly monitored and limited in accordance with guidelines established by the State of Missouri and St. Louis County.
+		No seating (other than at computers) will be available for the public.
+		Library hours and services may be limited.
+	Ms. Sorth said Phase One began at the end of May. Book drops opened on May 26, and we started offering curbside pickup of materials on June 3.  It was very challenging to accommodate the number of returns received during the first few days the book drops were open.  At some locations, the Library did not have enough tables or bins to support the massive amount of returned materials that had to be quarantined. Operation Food Search loaned us 160 donation barrels to assist with the storage of materials.  This month, the Dashboard reflects just how busy we have been since moving to Phase One.  On the first day of curbside, our employees checked out 18,548 items in a five-hour period, which is 3,710 items per hour.  On a regular day in June when we are open from 9:00 a.m. – 9:00 p.m., we typically circulate 2,000 items per hour.  Between June 3 and June 8, 55,340 items were checked out curbside and personally delivered to 9,082 vehicles.  The Dashboard also compares May/June statistics from 2020 with an average from the same time period in 2018 & 2019.
+			May 29 - June 8, 2020
+			Average
+			%
+			Holds Placed by Patrons
+			64,007
+			57,914
+			+11%
+			Holds Added to Holdshelf
+			93,762
+			75,933
+			+23%
+			Holds Picked up
+			55,346
+			41,793
+			+32%
+			Items on the Holdshelf
+			73,176
+			18,694
+			+291%
+			Items Checked In
+			128,862
+			189,947
+			-32%
+			*Average based on same period of time in 2018 & 2019
+Both the phones and chat service were also extremely busy on the first day of curbside.  On June 3, the Library responded to more chats than we did in all of 2019.  We far exceeded our busiest phone day, which took place in March on the AARP tax appointment scheduling day.  On June 3, we received 3,294 calls, compared to 2,752 calls in the month of March.  The Library’s eMedia circulation continues to increase with another month of record circulation and an 8% increase over last month.  In addition, 10,640 patrons viewed the Library’s virtual author events.  Ms. Sorth said she is so incredibly proud of the managers and employees for providing amazing assistance, programs and materials to library patrons while managing several challenging circumstances, including oppressive heat. (Plan: Maximize Access and Impact 1 and 3)
+	The Library continues to provide vital services to the region.  Ms. Sorth provided a chart that showed library accomplishments as of June 11th.  The Library added Art Snacks (STEM kits), produce boxes, PrepareSTL kits which include PPE items, and family meals at our ten drive-thru distribution sites.  Cliff Cave began drive-thru meal service on June 1.  Administration is so thankful to the many community partners who have reached out to the Library to provide additional items to be distributed through the drive-thru meal sites.  (Plan: Sense of Community 2.1)
+	She announced that the Library will partner with Eye Thrive once again this summer to offer free vision screenings and eye exams for children age 4 through grade 12.  Screenings will be conducted under a tent in the parking lot and the exams will happen aboard the Mobile Vision Clinic, which is a large RVstyle vehicle.  Children who need glasses will have a free pair made within 30 minutes of their exam.  The original schedule, which was to begin in June, will now begin on July 8 at Lewis & Clark.  The service will be offered at a total of seven locations (FV, IT, JB, LC, NB, RR, WR) in July and August.  All visits will be conducted from Wednesday through Friday.  Eye Thrive has implemented COVID-19 safety procedures. This marks the second year of offering this service to the community.  During drive thru meals, Library employees have distributed flyers promoting other services offered by Eye Thrive.  This promotion has already resulted in more than 175 pairs of glasses being produced and mailed directly to children's homes. (Plan: Sense of Community 2.1)
+	OASIS Tutoring proposed a virtual tutoring program to replace the in-person tutoring program that was to be offered at nine branches this summer.  The virtual tutoring will allow students to meet with tutors using Zoom, and to conduct the tutoring sessions in a similar manner to the in-person experience.  Tutoring sessions, which will be offered each Tuesday and Thursday from 9-11
+a.m., will still be presented one-on-one.  As a safety precaution, an OASIS employee will monitor the sessions. Library employees will be working through the details of scheduling students for 30-minute sessions.  This program is open to any child, kindergarten through third grade.  We are also exploring options to make the virtual tutoring available to students who may not have a suitable device or internet access in their home.  Virtual tutoring sessions are projected to begin on July 7. (Plan: Promote Literacy 2.3)
+	Ms. Sorth remains an active member of the COVID-19 Regional Response Team.  The Regional Response Team’s mission is to create a centralized system of response to meet the social needs of residents during the COVID-19 pandemic in the St. Louis region.  The region is defined as St. Louis and St. Charles counties in Missouri, Madison and St. Clair counties in Illinois, and the city of St. Louis.  St. Louis County Library was designated as the Lead Agency with responsibility in the area of Remote Learning and Technology.  I continue to have conversations with St. Louis County and various groups to discuss options for the region. (Plan: Maximize Access 1)
+	The Library has been selected to pilot the learning circle practice for the Propagating Promising Practices (P3) project through the American Library Association. This pilot program seeks to expand opportunities for adults to increase their literacy and workforce development skills. By participating in the project and piloting a new practice through monthly programs, St. Louis County Library can expect to increase services, resources and mentoring assistance to adults in our community. (Plan: Promote Literacy 3.2)
+	The MetroMarket will be visiting Indian Trails, Natural Bridge and Rock Road in June and July for a total of six visits.  They are also visiting Lewis & Clark each week.  The Lewis & Clark stops are funded by a grant received by the MetroMarket.  The other branch stops were made possible through an Alison Grant awarded by the St. Louis County Library Foundation.  The St. Louis MetroMarket is a non-profit mobile farmers’ market whose goal is to restore access to healthy, affordable food to St. Louis food deserts. Launched in 2013, the organization converted a donated city bus into a grocery store on wheels with a goal of bridging the physical, financial, and educational barriers in food deserts by supplying healthy foods in low-income, high need communities. As expected, they have implemented safety procedures related to COVID-19.  (Plan: Sense of Community 2.1)
+	The Library has been asked to partner with several organizations that are submitting three separate grant requests for CARES Act dollars.  Those include UMSL, St. Louis Zoo, Missouri Foundation for Health and others.  In addition, the Reference Department will be assisting small business owners who are applying for the County Cares Act dollars that have been designated for child care providers. (Plan: Sense of Community 2.1)
+	The issue of absentee and mail-in voting has been discussed as a way to keep elections safe in 2020. We have developed a plan to offer these services at various branches with a mix of volunteers and library employees. In addition, Ms. Sorth has been asked by the St. Louis County Board of Elections to assist with the process by designating the Mid-County Branch as an absentee voting site.  She will update the Board as we work through the details for both options.    (Plan: Maximize Access 1)
+Library Administrative and Construction Updates
+	The Library’s website now features a diversity and inclusion information page, containing links, information, resources, reading recommendations and databases that may be of interest to our patrons. St. Louis County Library is committed to promoting racial equity in our region. Our work in this area is outlined by our strategic plan, as well as by the Urban Libraries Council’s Statement on Race and Social Equity (adopted by the Library Board in 2017). In a strong act of commitment to a more equitable society, 169 public libraries across North America signed the Urban Libraries Council’s Statement on Race and Social Equity. This statement serves as a baseline upon which libraries can build policies and actions that make their communities more inclusive and just. The statement reads as follows:
+As leaders of North America’s public libraries, we are committed to achieving racial and social equity by contributing to a more just society in which all community members can realize their full potential. Our libraries can help achieve true and sustained equity through an intentional, systemic and transformative library-community partnership. Our library systems are working to achieve equity in the communities we serve by:
+			Eliminating racial and social equity barriers in library programs, services, policies and practices
+			Creating and maintaining an environment of diversity, inclusion and respect both in our library systems and in all aspects of our community role
+			Ensuring that we are reaching and engaging disenfranchised people in the community and helping them express their voice
+			Serving as a convener and facilitator of conversations and partnerships to address community challenges
+			Being forthright on tough issues that are important to our communities
+Libraries are trusted, venerable and enduring institutions, central to their communities   and an essential participant in the movement for racial and social equity. (Plan: Sense of Community 1)
+	She said the Library is reviewing candidates for the vacant CFO position.  We may recommend the use of a search firm for this position.  In addition, we have selected Ronna Alaniz as the independent contractor that will work with the Library during the search.  Ronna was highly recommended by the Library’s auditor. She started last week, and plans to come in a few hours a week to assist the Finance Department.
+	The St. Louis County Library has been nominated for a Moonshot Award in the Collaboration category for our work during COVID with Operation Food Search and the St. Louis Area Diaper Bank.  Launch Code presents these awards each year.  She said they will not know if we were selected as the recipient until the event on July 10th. (Plan: Maximize Access and Impact 1.3)
+	Eric Button has been selected to serve on the Missouri State University Customer Experience Advisory Board.  The Board meets three times per year in St. Louis to discuss the curriculum of Missouri State’s Customer Experience Program, and to assign mentorships for future class participants.
+	Ms. Sorth has been selected to participate on the Urban Libraries Council’s Digital Inclusion action team.  I will join colleagues from ULC libraries across North America to create innovative and impactful solutions that will help move our communities forward from the pandemic. The first meeting took place last week.  Topics discussed were:
+	The scope of the digital inclusion challenge in the communities your library serves.
+	Has the pandemic and its impact on daily life changed your thinking about library roles and responsibilities in digital inclusion?
+	Is your library viewed as a leader/go-to resource in the community for digital inclusion?
+	Is digital inclusion a priority for elected leaders in the communities your library serves?
+	Library employees will be participating in wellness screenings in July. Employees who do not participate will pay $50 each month toward the cost of their health insurance.
+	We have been notified that Anthem, the Library’s health insurance carrier, will be issuing premium credits to employer groups based on our April 2020 invoices.  The credit, which will be 10% of our medical plan premium, will be received in August.
+	We continue to receive donations of PPE for employees as well as cleaning supplies from various organizations.  We recently received a donation of 400 face shields.
+	Steve Hunter has been working with the Mid-County project architect (Christner) and mechanical engineer (Ross & Baruzzini) to address the noise being generated by the rooftop HVAC unit. We have received their recommendations and will issue an RFP this month.  The Library Board will review the responses at the July Board Meeting. (Plan: Maximize Access 2)
+	Ms. Sorth announced that the Library has re-engaged BatesForum and staff are actively working through the design changes for the new Administration Building as agreed to in the settlement with Frontenac. The current schedule indicates construction documents will be released on July 31. It is anticipated that we will bring a recommendation for a construction contract to the Board in September or October.  The county parcel viewer aggregated the Frontenac parcels and assigned an address of 1412 S. Spoede Road, St. Louis MO 63131. (Plan: Maximize Access 2)
+	The groundbreaking for the new Eureka Hills Branch will take place on June 24th.  More details will be shared as they develop. (Plan: Maximize Access 2)
+Library Foundation
+	The Foundation’s new website is almost complete and will be launched later this month.
+	The Library has been asked to submit a grant for CARES Act money that will be distributed through the State Library.  Their intent is to reserve funds for communities that have been impacted the most by COVID-19.  The State Library will consider offering additional funds if necessary to fulfill grant requests if they exceed the CARES Act fund. Marie has completed the grant application which focuses on efforts to increase digital inclusion in St. Louis County. (Plan: Sense of Community 2)
+	We were recently notified of the following grant award:
+	First Bank, $3,600 for STEM kits to be distributed at drive-thru meal sites.
+Author Events for May (Plan: Promote Literacy 1.2)
+We have Livestream author events and recordings with the following authors. They are posted on our website as well as the HEC Facebook link - facebook.com/hectv and then archived at hecmedia.org. We are promoting on our social media and sending eblasts that direct patrons to the HEC sites.
+	Julia Alvarez, author of "Afterlife"
+Live event: Wednesday, June 17, 7:00 p.m., facebook.com/hectv
+	Tom Clavin, author of "Tombstone: The Earp Brothers, Doc Holliday, and the Vendetta Ride From Hell."
+Video premiere: Friday, June 19, 7:00 p.m., facebook.com/hectv
+	Jennifer Steinhauer, author of "The Firsts: The Inside Story of the Women Reshaping Congress." Video premiere: Tuesday, June 23, 7:00 p.m., facebook.com/hectv
+	Roddy Doyle, author of "Love."
+Video premiere: Thursday, June 25, 7:00 p.m., facebook.com/hectv
+	Bonnie Tsui, author of "Why We Swim."
+Video premiere: Monday, June 29, 7:00 p.m., facebook.com/hectv
+	J. Courtney Sullivan, author of “Friends and Strangers.” Livestream event: Thursday, July 2, 7:00 p.m., facebook.com/hectv
+	Camilla Lackberg, author of “The Golden Cage.”
+Video premiere: Thursday, July 9, 7:00 p.m., facebook.com/hectv
+	Christian Robinson, author of “You Matter,” Monday, July 13, 2020 2:00 p.m. Video Premier: Monday, July 13, 2:00 p.m., facebook.com/hectv
+OLD BUSINESS
+None
+NEW BUSINESS
+2019-2022 Strategic Plan Update
+Marie Conlin, Library Planner, shared the plans going forward into 2022. She shared the Library’s plans for going forward.
+Employee Benefits - Health Insurance
+Mary Arnhart, Manager of Human Resources, delivered the report.
+The Library received the renewal for employee health insurance from our current carrier, Anthem Blue Cross Blue Shield.  Anthem’s renewal was a 0% increase in premiums for 1 year.  With the Library Board’s approval, the employee rate will remain the same effective August 1, 2020.  This amount is $704.46/month.  The dependent coverage will remain at $797.68/month.  Dependent coverage is for the entire family. The employee is responsible for this amount if they elect to have dependent coverage.  The rates will also remain the same for the pre-65 insurance plan for retirees.  The pre-65 insurance benefit is strictly voluntary and does not result in any cost to the Library.
+We will continue to have employees contribute $15 a month toward the cost of their individual health insurance. In addition, we will continue to have the Health Reimbursement Arrangement (HRA) as defined by the IRS, which was approved by the Library Board in 2008. Through the arrangement, the Library’s insurance costs are reduced by combining a higher deductible plan with an HRA. Employees are reimbursed for the deductible and also benefit from the lower premiums.  Paylocity administers the Library’s HRA and Flexible Spending Account plan. There will be no additional administrative costs with the exception of a renewal fee for each plan of $200 each.
+RECOMMENDATION: The Library Administration in consultation with Daniel and Henry is recommending that we remain with Anthem.  Daniel and Henry has reported that the average health insurance renewal this year is trending 10-13%. The 0% renewal from Anthem is below trend and under budget as the budgeted amount for the health insurance renewal was 10%.
+The Library Board approved the recommendation (Wang/Horwitz).
+Employee Benefits - Dental Insurance
+Mary Arnhart, Manager of Human Resources, delivered the report.
+The Library received the August 1, 2020 renewal for employee dental insurance from our current carrier, Delta Dental.  There will be a 0% increase in employee and dependent rates with a 2-year rate guarantee   Dependent coverage is for the entire family.  The employee rate will remain at $35.48 per month.  The Library pays for this portion of the dental insurance.  The dependent rate remains at $62.82 per month.  The employee is responsible for this amount if they elect to have dependent coverage.
+RECOMMENDATION: The Library Administration in consultation with Daniel and Henry is recommending that we remain with Delta Dental.  The budgeted amount for the dental insurance renewal was 10%.  The Library Board approved the recommendation (Sanditz/Barry).
+Employee Benefits - Vision Insurance
+Mary Arnhart, Manager of Human Resources, delivered the report.
+The Library has a rate hold on the vision insurance.  There will be a 0% increase for the Library’s vision insurance through VSP.  This benefit is voluntary and does not result in any cost to the Library. The employee rate will remain at $8.13/month and dependent coverage will remain at $17.47/month.
+RECOMMENDATION: The Library Administration in consultation with Daniel and Henry is recommending that we remain with VSP for the Library’s optional vision insurance.
+The Library Board approved the recommendation (Wang/Horwitz).
+Employee Benefits - Life Insurance
+Mary Arnhart, Manager of Human Resources, delivered the report.
+The Library received the renewal for life, AD&D, long term disability, and voluntary life insurance from our current carrier, The Harford.  The Library has a rate hold on these lines of coverage.  There is a 0% increase for the Library’s basic life, and accidental death and dismemberment, and long term disability.  The rates for the life and AD&D will remain at $0.27/$1/$1000.  The rates will remain at $0.20/$100 for long-term disability.  The average yearly benefit the Library pays per full-time employee is $250.  There were no changes to the voluntary life insurance rates.
+RECOMMENDATION: The Library Administration in consultation with Daniel and Henry is recommending that we remain with The Hartford for life, AD&D, LTD, and voluntary life insurance.
+The Library Board approved the recommendation (Barry/Sanditz).
+Employee Benefits - Short Term Disability
+Mary Arnhart, Manager of Human Resources, delivered the report.
+The Library received the August 1, 2020 renewal for short term disability from our current carrier, The Hartford.  The Library has a rate hold on this line of coverage.  There is a 0% increase for the Library’s short term disability insurance.  This benefit is voluntary and does not result in any cost to the Library.
+RECOMMENDATION: The Library Administration in consultation with Daniel and Henry is recommending that we remain with The Hartford for the Library’s optional short term disability insurance.
+The Library Board approved the recommendation (Barry/Sanditz).
+Google G-Suite and Vault Services
+Gib Van Cleve, Assistant Director of ITS, delivered the report.
+The Library’s current contract for Google G Suite Email and Vault archive and discovery services with Cumulus Global expires on June 30, 2020.
+An RFP (Request for Proposal) was issued seeking proposals from qualified resellers for 3 years of G Suite and Vault services.  The document detailed the Library’s specific needs for cloud-based email along with archive and discovery services. Lashly Baer was involved in this process. The RFP was published on May 6, 2020.  It was posted on the Library’s website and an ad was placed in the Post-Dispatch. Responses were due June 5, 2020. An email alert about the RFP was also sent to 3 separate resellers of G Suite services.
+The District requested pricing for 735 seats of Google G Suite Basic and 95 seats of Google Vault.  We received one response from Cumulus Global.  Cumulus’ quote for annual pricing of G Suite was $67.68 per seat, which is below Google’s list price of $72 per year.  Cumulus’ quote for Vault was $48.50 per seat, which is also below Google’s list price of $50 per year.
+			Company
+			Location
+			Annual Cost
+			36 Month Cost
+			       Cumulus Global
+			    Westborough, MA
+			$54,352
+			$163,056
+RECOMMENDATION: Library Administration recommends the lowest and best proposal of Horizon Info Services, doing business as Cumulus Global for Google G Suite Basic and Vault Services for the annual cost of $54,352 with a 36-month total of $163,056 and that the Board authorize the Director to enter into and execute a contract to that effect. This expense will be paid for with funds from the technology budget.
+The Library Board approved the recommendation (Wang/Sanditz).
+ADJOURNMENT FOR EXECUTIVE SESSION
+The motion to adjourn open meeting and to convene Executive Session to discuss legal matters (Section 610.021(1)) was made by Laura Horwitz and seconded by Johnny Wang.  All approved with voice vote. Aye: Lynn Beckwith, Ted Sanditz, Laura Horwitz, Joan Barry, Johnny Wang
+The meeting adjourned at 4:42 p.m.
+Respectfully submitted by,
+________________________                                                _____________
+Laura Horwitz,                                                                        Date
+Board Secretary

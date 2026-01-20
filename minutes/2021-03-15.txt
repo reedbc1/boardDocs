@@ -1,0 +1,257 @@
+{
+  "name": "Regular Meeting",
+  "description": "Library Board",
+  "unique": "BX2UBT7B48DC",
+  "date": "2021-03-15T00:00:00Z"
+}
+
+---
+
+ST. LOUIS COUNTY LIBRARY DISTRICT
+MEETING OF THE BOARD via ZOOM
+1640 SOUTH LINDBERGH BLVD.
+MONDAY, MARCH 21, 2021
+ 3:30 p.m.
+ATTENDANCE:
+Members present:
+Lynn Beckwith, Ed.D., President
+Johnny Wang, Vice-President
+Ted Sanditz, Treasurer
+Joan Barry, Member
+Laura Horwitz, Secretary
+ADMINISTRATORS AND GUESTS ATTENDING: Kristen Sorth, Director and CEO; Eric Button, Deputy Director; Barbara Turkington, Assistant Director, Administration; Laura Taylor, CFO; Gib Van Cleve, Assistant Director, ITS; Steve Hunter, Assistant Director, Operations; and Lisa Stump, Lashly and Baer.
+OTHERS ATTENDING: Marie Conlin, Library Planner, Sandra Williams, Executive Assistant.
+MINUTES
+The Library Board approved the February 1, 2021 minutes (Barry/Horwitz).
+PUBLIC COMMENTS
+There were no public comments.
+Treasurer's Report
+Laura Taylor, CFO, reported the following.
+Maintenance and Operating Fund Financial Statements:
+Revenue
+	District Taxes – In February, the Library District received tax revenue in the amount of $1,006,296.  Combined with January, these payments account for 83% of the 2021 budgeted $59.7 million in tax revenue.
+	CARES Act Grant – In February, the Library District received an unbudgeted $1,160,000 in CARES Act funding from St. Louis County.  $1,000,000 will be used towards the purchase of GrandPads – tablets designed with seniors in mind. The GrandPads feature large buttons and an intuitive interface to simplify video chatting and sharing.  $160,000 will be used towards additional Miriam Online Tutoring services.  The Library District and the Miriam Learning Center have partnered to provide free, in-person and virtual tutoring for children.
+Expense
+· Technology – Software & Licenses – In February, the Library District incurred $33,138 in Technology – Software & Licenses expenses.  Notable expenses are as follows:
+o $20,625 for Deep Freeze system restore licenses. Dell Marketing LP is the vendor and this was done through a cooperative purchasing agreement.
+o $7,000 for BoardDocs Pro renewal – Amigos Library Services
+· Capital Improvements - In February, the Library District incurred $524,440 in Capital Improvements expenses.  Notable expenses are as follows:
+o $460,766 for construction performed through January 2021 at Eureka Hills – Interior Construction Services
+o $119,998 for water installation at Eureka Hills – Missouri American Water
+Capital Projects Fund Financial Statements
+Balance Sheet – 2016 Debt Issuance
+	Construction in Progress – Total Construction in Progress for February 2021 was $869,964.  The expenses included payments for:
+		Pay Application from Interior Construction Services for the construction performed through January 2021, at the Lynn Beckwith Jr. Administrative Building for $600,891.
+		Professional Services performed by the Lamar Johnson Collaborative through January 2021, at the Lynn Beckwith Jr. Administrative Building for $166,946.
+		Facilities Master Plan Administrator payment of $16,500.
+The Library Board approved the February 2021 Financial Statement subject to audit (Wang/Horwitz).
+Maintenance and Operating Fund Financial Statements:
+Revenue
+	District Taxes – In January, the Library District received tax revenue in the amount of $48,384,099.  These payments account for 81% of the 2021 budgeted $59.7 million in tax revenue.
+	Miscellaneous Income – In January, the Library District received $19,926 in Miscellaneous Income.  This payment was made by Citizens Insurance Company for repairs related to damages in the HQ main reading room from the broken water line.
+Expense
+	Collection Maintenance Software – In January, the Library District incurred $286,880 in Collection Maintenance Software expenses.  Notable expenses are as follows:
+		$240,263 for Sierra Public Access Bundle – Innovative Interfaces, Inc.
+		$46,617 for Sierra Cloud Hosting Bundle - Innovative Interfaces, Inc.
+Expense
+· Technology – Maintenance Agreements – In January, the Library District incurred $107,798 in Technology – Maintenance Agreements expenses.  Notable expenses are as follows:
+o $69,137 for the RFID workstations and security gate’s hardware and software support – Bibliotheca
+o $14,679 for the Automated Material Handling System service agreement renewal at Grant’s View branch – Lyngsoe Systems Inc.
+o $14,679 for the Automated Material Handling System service agreement renewal at Daniel Boone branch – Lyngsoe Systems Inc.
+Capital Projects Fund Financial Statements
+Balance Sheet – 2016 Debt Issuance
+	Construction in Progress – Total Construction in Progress for January 2021 was $753,467.  The expenses included payments for:
+		Pay Application from Interior Construction Services for the construction performed through December 2020, at the Lynn Beckwith Jr. Administrative Building for $610,415.
+		Pay Application from Kolb Grading, LLC for the Site Preparation construction at the Lynn Beckwith Jr. Administrative Building for $89,938.
+		Facilities Master Plan Administrator payment of $12,625.
+The Library Board approved the January 2021 Financial Statement subject to audit (Sanditz/Barry).
+DIRECTOR'S REPORT
+Director and CEO Kristen Sorth delivered the following report.
+Library Update
+	Ms. Sorth said last month, the Dashboard included information on the Library’s 2020 statistics.  She shared the 2020 Year in Review document that was created by Communication and includes those statistics and more detail.  Past Years in Review are available on th SLCL website. The Dashboard report for March was also shared.  Total circulation for February, 2021 was 48% lower than February, 2020.  The Dashboard contains several other interesting statistics including curbside transactions.  In February, library employees completed 49,247 curbside transactions.  Daniel Boone was the busiest location for curbside.  Additional information includes data on programming attendance, new patron registrations and GrandPad applications. (Plan: Promote Literacy 1.1)
+	She said one year ago tomorrow, on March 16, 2020, it was announced that the Library was closing due to COVID-19.  A year later, we are thrilled to announce plans to reopen the facilities to patrons for browsing and computer appointments.  Library managers and employees are working hard to prepare for the reopening on March 23rd when the inside of our branches and HQ will once again be available to patrons.  In Phase 1, visits take place by appointment-only. Appointments will be available on the hour at 9:00 a.m., 10:00 a.m., 11:00 a.m. and 12:00 p.m. Monday-Saturday. Patrons will have a 45-minute window to access the Library for browsing collections and using computers, scanning, faxing, copying and printing. Appointments may be scheduled online through the appointment system or by calling the Library. The number of appointments will vary by branch, but most locations will schedule five per hour. An appointment is for a household and up to two adults plus children will be admitted.  We continue to consult with the St. Louis County Public Health Department on the reopening plans and COVID Safety Procedures to protect the safety of employees and patrons.  According to St. Louis County’s latest guidelines, the library could admit up to 50% of the maximum occupancy. The attached chart shows the library will be admitting far fewer patrons than what is allowed.
+			Branch
+			50%
+			Capacity
+			Appt. Slots
+			BT
+			95
+			5
+			CC
+			99
+			5
+			DB
+			400
+			10
+			EH
+			75
+			2
+			NEW EH
+			87
+			TBD
+			FV
+			182
+			10
+			GG
+			136
+			5
+			GV
+			235
+			8
+			HQ
+			502
+			10
+			IT
+			92
+			5
+			JB
+			92
+			5
+			LC
+			93
+			8
+			MC
+			124
+			5
+			MV
+			154
+			5
+			NB
+			113
+			8
+			OB
+			97
+			5
+			PC
+			96
+			5
+			RR
+			119
+			5
+			SS
+			89
+			5
+			TH
+			140
+			5
+			WR
+			102
+			5
+She said the library will continue to provide curbside delivery of materials for patrons who are not yet comfortable coming inside.  We will also continue to provide drive-thru meals and other items for those in need.  This has been an incredibly challenging year but also one of incredible innovation at St. Louis County Library.  I am so proud of how we have served the region during this challenging time.  Our employees are amazing.  (Plan: Maximize Access 2.4)
+	Ms. Sorth said that last month the Library Board approved the Third Amendment to the Funding Agreement for the St. Louis County COVID-19 Digital Equity Initiative. The Digital Equity Initiative is a multi-faceted project through which St. Louis County Library, as the recipient of $4 million of CARES Act funds received from St. Louis County, has provided resources to school districts and private, parochial, and independent schools in St. Louis County, to achieve greater equity and access for students who are engaging in remote learning during the 2020-2021 school year.  The Third Amendment increased the funds for the Digital Equity Initiative by $1,160,000. The additional funds will be used for new sessions of in-person tutoring for students with special needs through the Miriam Learning Center at a cost of $160,000. The Amendment also includes $1 million for the purchase of tablets (GrandPads) for seniors in St. Louis County.  In addition to our efforts to promote the application process for GrandPads directly to our patrons, the announcement was covered by every local media outlet.  When applications closed for GrandPads on February 28, more than 2,100 applications had been submitted. Staff reviewed the submissions, removed ineligible applicants and duplicate entries. In the end, more than 80% of eligible applicants were approved to receive a GrandPad. In addition to requirements like being a resident of St. Louis County and having an SLCL library card, applicants were ranked to prioritize the recipients based on factors such as income level, lack of access, zip codes specifically in the Promise Zones, isolation levels and age. I have included data on the recipients.  As part of this process, 677 people signed up for a library card!  We are so happy to have met the goals of the Digital Equity Initiative.  All applicants have now been notified of their status and distribution is tentatively scheduled for Sunday, March 28 at HQ.  We are preparing for multiple large shipments of the tablets.  Cataloging and Processing have created bibliographic and item records in preparation for the delivery of 1,485 GrandPad devices which will be cataloged and checked out to the recipients.  Our employees will be working to get the devices into patrons’ hands in the next few weeks. She thanked Eric Button was her coordination of the distribution. (Plan: Promote Literacy 3.3)
+	All of our Zoom accounts have live automatic transcription services available. This accessibility feature is now activated during all meetings and webinars.  Participants have the option of viewing subtitles. We’ve already heard positive feedback about this. For instance, a book group member with hearing loss who previously enjoyed in-person meetings at HQ, will now be coming back to the monthly virtual book discussions thanks to the subtitles. (Plan: Maximize Access 1.1)
+	Starting on May 1, Ms. Sorth said the Library is hosting a 21-Day Racial Equity and Social Justice Challenge in partnership with the YWCA. The theme will be Racism Is a Health Crisis with a focus on health-related topics like the COVID-19 pandemic, mental health, women’s health, food insecurity, etc. This challenge asks participants to make daily time and space for 21 days to foster understanding and identify ways to dismantle racism and discrimination. Each Saturday starting on May 1, all registrants will receive a list of daily tasks like articles, podcasts, videos and journaling.  On the following Friday, there will be facilitated discussions of the weekly topics. I learned of a similar program and asked Adult Services to explore the concept.  We are very excited to embark on this program. (Plan: Sense of Community 1.1)
+	Library Assistant, Sarah Jones, at Meramec Valley and Assistant Branch Manager, Michelle Hawkins, at Rock Road are collaborating with Adult Services to create a month-long virtual art exhibit to celebrate and showcase the creativity of our community. All attendees of art programs hosted over Zoom during the past year will be invited to submit pictures of their finished works from (or inspired by) different Library virtual programs. The virtual art show will be created using artsteps.com then posted to the Library’s website during the month of May. The Library will also virtually host a special Art Show Opening Reception on May 1st where contributing artists will receive a special invitation and all registrants will receive a mocktail recipe and appetizer suggestions for an “at home” reception.: (Plan: Promote Literacy 3.4 and Maximize Access 1.4)
+	She announced that the library is again partnering with Women’s Voices Raised for Social Justice to provide gun locks to our community. Gun locks will be available to patrons by request, through curbside service at Weber Road, Natural Bridge, Florissant Valley, and Lewis & Clark. Members of the group brought a supply of gun locks to each location the week of March 8th, and they are currently available to the public. The Library partnered with Women’s Voices Raised for Social Justice during the summer of 2020 and distributed 827 gun locks to the community. (Plan: Sense of Community 2.1)
+	The library continues to provide vital services to the region.  Here is a chart that shows our accomplishments as of March 11.  Ms. Sorth said she is so thankful to the many community partners who have reached out to us to provide additional items to be distributed through our drive-thru meal sites. (Plan: Sense of Community 2.1)
+	A significant amount of the print reference collection at HQ has been weeded. These materials were out of date, contained information that is available online through our databases, were in poor condition, or were very rarely used. We continue to evaluate the collection as we begin to prepare for when HQ will be closed during construction.
+	She announced that reference employees have been making database tutorial videos. They are listed on our website in the database description. So far, they have made 16 video tutorials that have been viewed 815 times. By far the most popular is the tutorial for Consumer Reports. (Plan: Promote Literacy 3.3)
+	Several contacts have been made to further the services we provide by mail to people who are incarcerated in Missouri correctional facilities. Reference employees and Administration met with the Library Coordinator for the MO Department of Corrections to discuss our service and how to promote them in all 19 of the libraries inside correctional facilities.  The Reference Department receives a significant amount of research requests from individuals residing within correctional facilities.  As seen from the chart, the requests for this service has grown considerably in recent years:
+			2017: 80
+			2018: 352
+			2019: 653
+			2020: 919
+			2021: already nearly 200
+(Plan: Maximize Access 1.2)
+	Ms. Sorth said this month, the Library is celebrating Women’s History Month with over a dozen book and film discussions, art programs, historical lectures and more. For instance, over 200 were in attendance for the RBG Dissents program earlier this month.  Kids learned about Ruth Bader Ginsberg and made their own dissent collars. Other events include a storytelling program called Portraits of Black Women in Missouri, a performance of Women in Ragtime, a Feminist Zine-Making Workshop, and a lecture about the first woman candidate for President, Victoria Woodhull. You can tune in tonight at 7:00 p.m. for the special presentation called What Would She Read? During this time library employees will share what they think important women from history would read if they were alive today.  (Plan: Promote Literacy 3.4 and Sense of Community 2.1)
+	St. Louis County Library, HEC Media and the Novel Neighbor bookstore are presenting the St. Louis Teen Book Festival taking place online April 8-18, 2021. The event will feature 39 of the hottest writers in young adult literature and eleven days of programming dedicated to teen readers. The Festival’s mission is to support, promote and celebrate teen reading by connecting readers with a diverse group of popular writers.  Events will include author interviews and panel discussions broadcasted simultaneously on the St. Louis County Library, Novel Neighbor, and HEC Media Facebook pages and YouTube accounts. Videos will be archived and available for additional views on HEC Media’s website. All festival events are free and open to readers of all ages.  The Festival kicks-off on April 8 with keynote speaker, Marissa Meyer—#1 bestselling author of The Lunar Chronicles fantasy series and the novel “Instant Karma.” Panel events will feature top fantasy, thriller and contemporary fiction writers and include topics like body image, family relationships, mental health, identity and diversity in YA literature. Featured panel authors include Zoraida Cordova, David Levithan, Holly Jackson, L.L. McKinney, Yamile Saied Mendez, Adib Khorram, and many others. HEC Media, St. Louis’ online and cable access home for arts, education and cultural programming, will produce the author videos. HEC Media's sister-site, Educate Today, will promote the Festival to 2,500 local and national middle- and high-schools. All teen festival authors’ books will be available for purchase from the Novel Neighbor. Signed bookplates will be available for many authors. (Plan: Promote Literacy 1.2)
+	She said the Tap in Center continues to be very successful.  To date, we have helped over 100 people.  The vast majority have come in for help with recalling active warrants.  Other services have included requesting new court dates, getting updates on cases, applying for a public defender, etc.  Those working at the Center have helped to recall over 100 warrants at the felony, misdemeanor and municipal levels.  This unique partnership brings together the St. Louis County Library, the Missouri State Public Defender’s Office, The Bail Project, MacArthur Foundation Safety & Justice Challenge, University of Missouri-St. Louis, the St. Louis County Prosecuting Attorney’s Office and the St. Louis County Department of Justice Services. Eric and I recently met with the Chief and Deputy Chief U.S. Probation Officer for the U.S. District Court of Eastern Missouri to discuss opportunities to provide services to those that are returning to our community from Federal prison.  Managers from the Reference and Adults Services Departments presented on Library services to the supervisors of the Probation Office.  We look forward to expanding this partnership to include library cards for those returning to the region. (Plan: Maximize Access 1.2)
+	Eric and Ms. Sorth met with the Director of Child Protective Services with the St. Louis County Juvenile Office to discuss providing bags similar to the Born to Read bags for children who are being adopted in St. Louis County.  The bags would include a book and a variety of Library-related information for different age groups. (Plan: Promote Literacy 2.1)
+	Pictures were shown from various events that have taken place over the last month including Curbside Service, Virtual Programs and Black History Celebration Events. (Plan: Promote Literacy 3.4 and Sense of Community 2.1)
+Library Administrative Updates
+	Ms. Sorth said that March 4th, the final session was held for Understanding Trauma and Self-Care Training by Alive & Well. There were a total of 16 sessions (one for Managers and Administrators; 15 for employees). This was an introductory training into understanding trauma and taking steps to self-care during a pandemic. The emphasis was on experiencing a shared trauma: the pandemic. Sessions were scheduled on Tuesdays, Wednesdays, and Thursdays for 3 weeks. On most days, there were concurrent sessions. All Library employees participated in the training.  We have received excellent feedback from employees. (Plan: Sense of Community 1.3)
+	The Employee Engagement Committee is celebrating National Nutrition Month by having employees submit healthful recipes to a shared document. In addition to recipes, some have shared cooking tips and tricks and links to various recipes. The Committee has organized weekly challenges and will be sharing this with employees each week. The challenge for the first week was to participate in Meatless Mondays. The second week challenge is to replace a go-to snack with a healthier alternative, preferably a fresh fruit or vegetable. The Committee is also gathering local restaurant reviews near Library branches. The complete list will be shared with all employees at the end of the month. (Plan: Sense of Community 1.3)
+	The annual investment RFQ was sent out on January 29, 2021. The purpose of the RFQ is to obtain the highest yield for investing our excess cash from the 2020 tax levy. The Library District receives most of the cash from taxes early in the year. Unfortunately, the rate environment is very low right now, and no banks were able to offer a rate higher than our current nightly sweep rate. Therefore, we will continue to let Commerce Bank sweep our account nightly.  Laura will monitor the market rates during the year to see if another RFQ should be issued.
+	This year, Library Advocacy Day was held virtually during the last week of February. Eric Button and several other managers met via Zoom with our elected officials. (Plan: Maximize Access 3.2)
+	Ms. Sorth reported that the Library embarked on a much more involved and transparent financial reporting process last year by creating a Comprehensive Annual Financial Report. Our work has been acknowledged by the Government Finance Officers Association (GFOA).  The Library has received a Certificate of Achievement for Excellence in Financial Reporting. The GFOA established the Certificate of Achievement for Excellence in Financial Reporting Program in 1945 to encourage and assist state and local governments to go beyond the minimum requirements of generally accepted accounting principles to prepare comprehensive annual financial reports that evidence the spirit of transparency and full disclosure and then to recognize individual governments that succeed in achieving that goal. The Certificate of Achievement is the highest form of recognition in governmental accounting and financial reporting. It is both unusual for a Library to receive this honor as well as to receive it for a first time submission.  Congrats to the Finance Department!
+	As Ms. Sorth mentioned previously, and in the 2021 Library Budget, we have been looking at staffing levels and branch/HQ Circulation "busyness" models both prior to and during COVID.  Administration has also been thinking about what staffing looks like post COVID.  For years, we have staffed our branches and HQ circulation with mostly part-time employees.  There were really good reasons to do so in the past and we are certainly not the only library that follows a scheduling model based on part-time employees.  However, there are some extremely meaningful benefits that come from switching that percentage around and having a higher percentage of full-time employees to staff the branches and HQ Circulation than part time-employees.  Those include, first and foremost, that we will be providing full time jobs with benefits for more people in the region.  Other benefits include higher retention rates, better career paths for current employees, a stronger connection with both the mission of the library and the work of the branch, more meaningful work, flexibility with scheduling and an increased interest in Library employment from a diverse candidate pool.   This does not mean that we plan to move completely away from hiring part-time employees, but we do plan to place an emphasis on hiring full-time employees.  This will be a gradual shift as we start to fill vacancies in 2021. We believe this is a transformational shift for St. Louis County Library.  When we presented this information at the February Board Meeting, an inquiry about the cost to do so was presented to Library Administration.  She said the cost associated with this change was included in the 2021 Library Budget. Salary expenses were calculated based on the salary budget pre-pandemic when we were at almost full staffing levels. Benefits were increased by 16% to cover insurance renewals and additional benefit expenses as we add full-time employees throughout the year.  (Plan: Sense of Community 1)
+Library Construction and Facility Updates
+	In February, the Board was made aware of the damage to the air handler at HQ.  This was the event that set off the fire alarms and required a full building evacuation. That repair has been completed. The Board was notified of the use of the emergency purchasing clause. Total cost of the repair was $10,500. (Plan: Maximize Access 2.4)
+	On February 16, Ms. Sorth said a frozen pipe burst inside the Sachs Branch overnight.  A routine police patrol happened to be driving by and noticed water coming out of the branch’s front door. Library employees and the fire department were notified. The fire department was first to arrive and managed to get the water turned off.  Over the next 48 hours, repairs were made and the wet, damaged drywall was removed.  The total cost of the plumbing repair, cleanup, and drywall repair is anticipated to be less than $5,000. (Plan: Maximize Access 2.4)
+	Administration has been working with the City of Clayton to retain more than one parking space for curbside services.  Ms. Sorth said she was happy to announce that the request has been granted and we will retain two parking spots in front of the building on a temporary basis. (Plan: Maximize Access 2.4)
+	The Library’s architects for the new Ladue Branch, Lamar Johnson Collaborative, met with representatives from the City of Ladue for a kick-off meeting and to discuss very preliminary building considerations. (Plan: Maximize Access 2)
+Library Foundation
+	She said the Foundation will host its third annual Sip and Swap on March 17 from 6:30-7:30 p.m. for Friends of the Foundation. This event is a collaboration between several Library departments including Adult Services and Acquisitions and includes book recommendations from Library employees.
+	The Foundation’s Annual Appeal will kick off in mid-April with the spring portion of the event. The Spring Appeal focuses on the acquisition of new members as Friends of the Foundation.  The Fall Appeal focused on current Friends and raised $17,906.
+Author Events (Plan: Promote Literacy 1.2)
+Ms. Sorth said the library hosts Livestream author events and recordings with the following authors. They are posted on our website as well as the HEC Facebook link - facebook.com/hectv and then archived at hecmedia.org. We are promoting on our social media and sending eblasts that direct patrons to the HEC sites. HEC has also started simultaneously premiering the virtual author events on their TV channel to expand access to those individuals who do not have reliable internet access. (Plan: Promote Literacy 1.3)
+	Dr. Jason Karlawish, author of "The Problem of Alzheimer’s: How Science, Culture, and Politics Turned a Rare Disease into a Crisis and What We Can Do About It,” Monday, March 8, 2021, 7:00 p.m. Video premiere: www.facebook.com/STLCoLibrary
+	Dr. Michele Borba, author of "Thrivers: The Surprising Reasons Why Some Kids Struggle and Others Shine," Wednesday, March 10, 2021, 7:00 p.m. Virtual: www.facebook.com/STLCoLibrary
+	Stacy McAnulty, author of "Mars! Earthlings Welcome," Saturday, March 13, 2021, 2:00 p.m., Video premiere: www.facebook.com/STLCoLibrary
+	John A. Wright, Sr. and John A. Wright, Jr., authors of "Extraordinary Black Missourians: Pioneers, Leaders, Performers, Athletes, and Other Notables - 2nd Edition," Tuesday, March 16, 2021, 7:00 p.m. Video premiere: www.facebook.com/STLCoLibrary
+	Ioan Grillo, author of "Blood Gun Money: How America Arms Gangs and Cartels," in conversation with award-winning investigative journalist Ben Westhoff, Thursday, March 18, 2021, 7:00 p.m. Video premiere: on www.facebook.com/STLCoLibrary
+	Juliet Menéndez, author of "Latinitas: Celebrating 40 Big Dreamers," Saturday, March 20, 2021, 2:00 p.m. Video premiere: www.facebook.com/STLCoLibrary
+	Emily St. John Mandel, author of “The Glass Hotel,” Tuesday, March 23, 2021, 7:00 p.m. In conversation with Ryan Krull, Interviews Editor - Boulevard Magazine. Video premiere: www.facebook.com/STLCoLibrary
+	Lisa Scottoline, author of "Eternal," Friday, March 26, 2021, 7:00 p.m. Livestream event: www.facebook.com/STLCoLibrary
+	Michael G. Long, author of "Kids on the March: 15 Stories of Speaking Out, Protesting and Fighting for Justice," Saturday, March 27, 2021, 2:00 p.m. Virtual: www.facebook.com/STLCoLibrary
+	Andrew Steele, author of "Ageless: The New Science of Getting Older Without Getting Old," Monday, March 29, 2021, 7:00 p.m. Virtual: www.facebook.com/STLCoLibrary
+	Larry Olmsted, author of "Fans: How Watching Sports Makes Us Happier, Healthier, and More Understanding," Thursday, April 1, 2021, 7:00 p.m. Virtual on www.facebook.com/STLCoLibrary.
+	Martha Hall Kelly, author of “Sunflower Sisters,” an interview moderated by Ashley Hasty, creator of the book review website HastyBookList.com, Monday, April 5, 2021, 7:00 p.m., www.facebook.com/STLCoLibrary.
+	Kareem Rosser, author of “Crossing the Line: A Fearless Team of Brothers and the Sport That Changed Their Lives Forever,” Tuesday, April 6, 2021, 7:00 p.m. Video premiere: www.facebook.com/STLCoLibrary
+	St. Louis County Library, HEC Media and the Novel Neighbor bookstore are excited to announce the St. Louis Teen Book Festival taking place online, April 8-18, 2021. The event will feature 39 of the hottest writers in YA literature and 11 days of programming dedicated to teen readers.
+Dr. Beckwith asked about the increase in salaries for workers going from part time to full time.  Ms. Sorth supplied data and stated that it was approved in the budget. Laura Horwitz asked for additional information on the number of positions being added.  Discussion ensued.
+NEW BUSINESS
+CONSTRUCTION UPDATE
+Steve Hunter, Assistant Director of Operations, reported that Eureka Hills is nearing completion. He also displayed updates of the construction and design inside the building.   An opening date will be discussed at the April meeting.
+Architects are completing the schematic design for the Ladue Branch.
+ST. LOUIS COUNTY EASEMENT REQUESTS AT SAMUEL SACHS BRANCH
+Steve Hunter, Assistant Director of Operations, reported the following.
+St. Louis County is planning road and sidewalk improvements near the Samuel Sachs Branch in preparation for a set of mixed-use developments adjacent to the branch. The planned enhancements include signalizing the intersection of West Chesterfield Parkway at Burkhardt Place and installing ADA-compliant pedestrian street crossings. St Louis County is requesting both a permanent and a temporary (construction) easement from the Library District for the work. The easement documents are attached.
+The permanent easement requests 505 sq.ft. at the extreme northeast corner of the Sachs Branch property. The temporary construction easement is 674 sq.ft. and gives the County the right to access the property in order to conduct the improvements. At the end of the project, the temporary easement will terminate.
+Administration has thoroughly reviewed these easement documents. The traffic signal and upgrades to pedestrian accessibility are welcome additions to the site. Construction activities should cause no disruption to regular library service at the branch.
+Administration recommends the Library Board authorize the Director to execute the two easement agreements with St. Louis County related to proposed road and sidewalk improvements at the Samuel Sachs Branch. The Library Board approved the recommendation (Wang/Horwitz).
+LANDSCAPE MAINTENANCE
+Steve Hunter, Assistant Director of Operations, reported the following.
+The Library District has historically held a service contract for lawn and landscape maintenance at all facilities. In 2020, Administration decided to separate that work into two contracts – one for Lawn Maintenance (primarily lawn mowing) and one for Landscape Maintenance which includes all other plants, trees, and shrubs as well as the irrigation systems.
+In December 2020, the Board approved a three-year contract with Loyet Landscape Maintenance for Lawn Maintenance at all library locations.
+A Request for Proposal (RFP) for Landscape Maintenance was posted on the SLCL website on February 10, 2021. An advertisement was placed in the Post-Dispatch. Fifteen local contractors, including four W/MBE firms, were notified directly. An addendum to the RFP, which answered questions from prospective responders, was posted on February 25, 2021.
+Responses were due on March 4, 2021. Five firms responded.
+Pricing is based on a set selection of landscape services per branch. Actual expenditures may change due to the actual work required. Rate sheets were included as part of the RFP response.
+The approved 2021 Library budget contains $340,000 for Grounds, of which $100,465 has already been allocated to Lawn Care. Focal Pointe’s first year landscaping expenditures will be $104,427, which compares very favorably with the remaining Grounds budget of $239,535.
+Library Administration recommends that the Library Board select Focal Pointe Outdoor Solutions to provide Landscape Maintenance Services and that the Board authorize the Director to enter into and execute a contract to that effect.  The Board approved the recommendation (Wang/Horwitz).
+BRANCH WI-FI INTERNET SERVICES
+Gib Van Cleve, Assistant Director of ITS, reported the following.
+Library Administration is seeking approval of a 36-month Branch Wi-Fi Internet Services contract.  The District’s current 36-month contract with Spectrum Enterprise expires on June 30, 2021.  A Request For Proposal (RFP) was issued for Branch Wi-Fi Internet Services to solicit competitive bids as required by E-Rate.  Lashly Baer was involved in this process.  On January 27, 2021, the RFP was posted on both the Library’s website and the Universal Services Administrative Corporation (USAC) website.  It was also advertised in the St. Louis Post-Dispatch.  Responses were due on February 23, 2021.  Edsel Barrios, Holly Che, Erin Dominguez and Laura Taylor were also part of the RFP effort.  The Library’s Branch Wi-Fi Internet Services provide wireless Internet access at 19 branches.
+RFP responses were received from Spectrum Enterprise and AT&T. Spectrum Enterprise’s proposal is less than AT&T’s and meets the Library’s Internet speed requirements.  However, Spectrum increased the price of web filtering services from the current rate of $90 per branch per month to $315.  The Library would incur $215,460 fees over the 36-month term using Spectrum’s web filtering services.  Instead, the Library will purchase web filters for $28,500 through a cooperative purchasing agreement and save $186,960 over 36 months.
+The District can continue to meet its Branch Wi-Fi Internet bandwidth demands by accepting the proposal from Spectrum Enterprise.
+Library Administration recommends the lowest and best proposal for Branch Wi-Fi Internet Services from Spectrum Enterprise at a cost of $41,033 for 36 months, which will provide wireless Internet for public Wi-Fi enabled devices across the District, and that the Board authorize the Director to enter into and execute a contract to that effect. An anticipated E-Rate refund of 20% would reduce the three-year total to $32,826. Branch Wi-Fi Internet services are included in the 2021 Telecommunications budget.  The Library Board approved the recommendation (Horwitz/Wang).
+FIBER INTERNET SERVICES
+Gib Van Cleve, Assistant Director of ITS, reported the following.
+Library Administration is seeking approval of a new 36-month Fiber Internet Services contract.  The current contract with Spectrum Enterprise expires on June 31, 2021.  A Request for Proposal (RFP) was issued for Fiber Internet Services to solicit competitive bids as required by E-Rate.  Lashly Baer was involved in this process.  The RFP was posted on both the Library’s website and the Universal Services Administrative Corporation (USAC) website.  It was also advertised in the St. Louis Post-Dispatch.  Edsel Barrios, Holly Che, Erin Dominguez and Laura Taylor were also part of the RFP effort.
+The Fiber Internet Service connections provide Internet access for public PCs and staff PCs across the District.  The RFP requested pricing for a circuit at Library headquarters and for the disaster recovery site at Hostirian.
+The RFP was posted on January 27, 2021, and responses were due on February 23, 2021.  We received responses from AT&T and Spectrum Enterprise. Spectrum’s price is the lowest and meets both the Library’s technical and flexibility requirements.
+The District can continue to meet its Internet bandwidth needs for public access PCs and staff PCs by accepting the proposal from Spectrum Enterprise.  This rate will also be applied to the Fiber Internet circuit at our Hostirian disaster recovery colocation site.
+Library Administration recommends the lowest and best proposal for Fiber Internet Services from Spectrum at a cost of $79,200 for 36 months, which will provide Internet connectivity for the District’s public and staff PCs, and that the Board authorize the Director to enter into and execute a contract to that effect. An anticipated E-Rate refund of 20% would reduce the 36 month total to $63,360. Internet services are included in the 2021 Telecommunications budget. The Library Board approved the recommendation (Wang/Horwitz).
+CONSULTANT FOR COMMUNITY CONVERSATIONS
+Marie Conlin, Library Planner, presented the following.
+To continue the work of staying connected to the communities we serve, the Library plans to host a series of Community Conversations re­garding diversity, equity, and inclusion in library programs and services. The Library will hire a consultant to assist us with the community engagement work. We budgeted $50,000 for this professional service.
+A Request of Qualifications (RFQ) for Diversity, Equity and Inclusion Community Engagement Facilitation was posted on December 22, 2020. The RFQ was placed on our website. Thirteen local firms, including eight W/MBE companies, were notified directly. Responses were due on January 22, 2021. Five proposals were received.
+In accordance with Library policy, Kristen Sorth and Marie Conlin independently reviewed and ranked the proposals based on the responses given to the proposal requirements.  Once ranked, fee envelopes were opened.  The three top-ranked firms were selected for interviews.
+In accordance with the Library District’s Policy II for Professional Services, the following evaluation factors were used to select Hicks-Carter-Hicks, LLC:
+(a) the specialized experience and technical competence of the firm with respect to the type of services required;
+(b) the capacity and capability of the firm to perform the work in question, including specialized services, within the time required;
+(c) the past experience with references for comparable work; and
+(d) insurance required such as professional liability.
+Local clients include: Municipal Library Consortium, The University of Missouri-St. Louis (School of Continuing Education and Outreach), Washington University (Brown School of Social Work), St. Louis Symphony, Fort Zumwalt School District, Hazelwood School District, St. Louis Community College, and SSM Health.
+For transparence sake, Dr. Beckwith requested that the record show that in early 2000, he worked with Gloria Carter as co-independent consultants for the Francis Howell School District.  The work was not in connection with her firm.
+Library Administration recommends that the Library Board select Hicks-Carter-Hicks, LLC to provide Diversity, Equity and Inclusion Community Engagement Facilitation for $35,300 and that the Board authorize the Director to enter into and execute a contract to that effect (Wang/Horwitz).
+POLLING PLACES
+Eric Button, Deputy Director, presented the following.
+Library Administration is seeking approval to close the library locations that are serving as polling places on April 6, 2021.  With current concerns for employee and patron safety, and capacity limitations in all library buildings, it would be very challenging to offer library services at the same time as voting is taking place.  Library closure during these election days will protect employees and the public and allow for smooth operation of the polling places.  Not every location will serve as a polling place.  The Library has been informed that all library locations except Bridgeton Trails, Eureka Hills, Rock Road and Thornhill will be used as polling places on April 6.  While the public spaces at Headquarters would be closed, all other departments at Headquarters would remain open on election days and those employees will report to work.
+Library Administration recommends the closure of 16 library locations that will serve as a polling place on April 6, 2021. The branches to be closed include: Cliff Cave, Daniel Boone, Florissant Valley, Grand Glaize, Grant’s View, Headquarters, Indian Trails, Jamestown Bluffs, Lewis & Clark, Meramec Valley, Mid-County, Natural Bridge, Oak Bend, Prairie Commons, Samuel C. Sachs, and Weber Road.  The Library Board approved the recommendation (Horwitz/Wang).
+JUNETEENTH HOLIDAY
+Kristen Sorth, Director and CEO, presented the following
+Juneteenth is the oldest nationally celebrated commemoration of the ending of slavery in the United States. Library Administration is recommending the St. Louis County Library add Juneteenth to the list of observed holidays.  The Library will remain open on June 19th.  All full-time employees will receive a comp day.  Employees can choose to be off from work that day or have the option of using the comp day at another time during the year.
+The Library Administration recommends that the Library Board approve adding Juneteenth to the Library’s list of observed holidays.
+The Board approved the recommendation (Wang/Sanditz)
+INSURANCE RENEWALS
+Laura Taylor, CFO, presented the following.
+All lines of the Library’s insurance policies renew each year on April 1. Last year, Daniel & Henry did a full remarketing of all coverage lines and moved the primary package from The Hartford to Hanover. This year Daniel & Henry did not remarket the account, and the plan was to renew with the incumbent carriers.
+Attached please find a summary of the April 1, 2021 renewal quote from this year compared to the prior year cost. All of the insurance carriers remain the same for all lines of coverage. The total cost to the Library District for continuing coverage will be $451,110 compared to $418,264 from last year, an increase of 7.9%, which is under the budgeted amount of 10% for 2021. This increase is in line with the current marketplace.
+The Library Administration, in consultation with The Daniel and Henry Company, recommends that the Library Board accept the quotes from the insurance carriers, which include The Hanover Insurance Group, Travelers Casualty & Surety Company of America, Chubb Insurance Company, and One Beacon Insurance Group for a total cost of $451,110. The Library Board approved the recommendation (Horwitz/Wang).
+ADJOURNMENT
+Dr. Beckwith recommended to Ms. Sorth that future Board meetings be held on site, since we are reopening. Johnny Wang made a motion to adjourn the meeting.  It was seconded by Laura Horwitz.  All approved with a voice vote.  Aye: Beckwith, Sanditz, Horwitz, Barry and Wang.
+Respectfully submitted,
+___________________________                                                                  ________
+Laura Horwitz                                                                                                 Date
+Secretary

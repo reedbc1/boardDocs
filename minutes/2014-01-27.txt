@@ -1,0 +1,123 @@
+{
+  "name": "Regular Meeting",
+  "description": "Library Board",
+  "unique": "9DE4PX75D1E4",
+  "date": "2014-01-27T00:00:00Z"
+}
+
+---
+
+ST. LOUIS COUNTY LIBRARY DISTRICT
+	MEETING OF THE BOARD
+	HEADQUARTERS BRANCH
+	MONDAY, JANUARY 27, 2014
+	The monthly meeting of the Board of the St. Louis County Library District was held at
+	Headquarters, 1640 S. Lindbergh Blvd. St. Louis, MO 63131 on Monday, January 27, 2014
+	at 3:30 p.m. The agenda had been posted in all branches of the Library District at least 24 hours
+	before the meeting.
+	Attendance:
+	Library Board Members:
+	 Dr. Lynn Beckwith, President
+	 Edith Cunnane, Vice President
+	 Elena Kenyon, Treasurer
+	 Dr. Chingling Tai, Secretary
+	 Steve Sachs, Member
+	Administrators and Guests Attending:
+	Barbara Brain, Assistant Director, Adult and Support Services; Barbara Turkington, Assistant Director, Advancement; Gib Van Cleve, Assistant Director, ITS; Eric Button, Assistant Director, Branch Services; Lisa Stump, Attorney, Lashly & Baer; Gloria Lloyd, Call Newspapers; and Gwen Knight, Colliers.
+	Others attending:
+	Anna Strackeljahn, Natalia Catlett, Roz Kohen, Megan Coyle, Donna Spaulding, Erin Chapman , Gina Sheridan, Conrad Rader, Roshanda Chamberlain, Melessi Vighi, Marsha Ramey, Jennifer, Jung, Edith Isele, Tracy Fletcher, Cindy A. Miller, Colleen Hall, Laura Kasak, Marie Conlin, Ed Clark, Paul Bayless, Robbin Oehler, Anne Arthur, Stephanie Nordmann, Joyce Loving,  Jennifer Alexander, Kathy Wiese, Scott Holl, Christel Maassen, Dottie Wobbe, Alaina Culbertson, Matt Lakin, Michael Cohen, Erin Magner, Susie Bushnell, Parkie Peck, Stacy Berger, Trudy Williams, Aaron Eller, Lorraine Budke, Nicole Clawson, Emily Althoff, Anna Schurk, Kimberly Clark,  Lori Boschert, Mary Arnhart, Barb Reale, Julia Mangner and Sandy Williams.
+	Dr. Beckwith called the meeting to order and asked for a moment of silence in memory of Kristen Sorth's grandmother, Celeste Catherine (Mermis) Vonfeldt.
+	Minutes
+	The Library Board approved the December 16, 2013 minutes as presented (Cunnane/Kenyon).
+	Public Comment
+	There were no public comments.
+	Dr. Tai joined the meeting.
+	Treasurer's Report
+	Kris Mooney reported that, in December, the Library District received in excess of $20
+	million dollars in tax revenue for the 2014 operating year. The Library projects to receive approximately $48 million in total tax revenue for 2014 and will collect a majority of the remaining $28 million to be received in January, 2014.
+	The Library District received three grants from the Library Foundation in December.  The grants were for 2013 teen programming ($7,500), 2013 Summer Reading Club ($4,500), and various radio advertisements in 2013 ($2,500). In addition, the Library was reimbursed $22,181 by the Foundation for 2013 expenses incurred for the purchase of flip kits, and expenses associated with a financial literacy program for parents and teens. The Library Foundation received grant funds in late 2012 and early 2013, and will continue to support the Library District in 2014 for like expenses.
+	The Library paid Centrex Strategies $14,000 for four months of consulting services. Centrex is the Library District’s Public Relations consultant for the Phase I Construction plan.
+	The Library paid $20,000 to Automated Solutions as a down payment on HVAC work at the Sachs branch. The work will be completed in January and final payment made in February. This project was approved by the Board in January 2013.
+	In December, the Library spent $8,250 to put in a walkway for the Community Garden at the Cliff Cave Branch. Also at Cliff Cave, the handicap ramps were replaced at a cost of $2,400. The Library installed an air conditioning unit in the Call Center at Headquarters at a cost of $3,475. At the request of the Fire Marshal, the fire/burglar alarms were replaced at the Daniel Boone Branch for $2,258.
+	$126,154 was paid in December for three months, October through December, of Security services.
+	The Library District spent $38,714 for the purchase of several pieces of technology equipment in December. For ongoing network support, the Library District purchased a new server for continued network virtualization work at a cost of $13,227, and a new Cisco powered Switch at a cost of $6,830 that will provide more network connections at branch locations. The Library also replaced the aging receipt printers at each branch with new Epson printers at a cost of $5,574.
+	The server was purchased through a cooperating purchase contract.
+	Capital Projects Fund Balance
+	A $5,000,000 certificate in the Capital Projects Fund Investment Portfolio matured on 12/31/2013.  These funds, along with the $3,061 interest, were deposited in the Capital Projects Fund general cash account to be used for future building construction.
+	Total Construction in Progress increased in December by $53,140.  Costs incurred were for legal fees from Lashly & Baer, management fees incurred by Landmark, and appraisal services by McReynolds-Von Trapp.
+	Steve Sachs requested a written response concerning the technology actual to the budget variance on page 5.  Dr. Beckwith stated that the Library is spending half a million dollars on security but the cost is well worth it.
+	The Library Board approved the January 2014 Treasurer's Report subject to audit (Cunnane/Tai).
+	Director's Report
+	Barbara Brain delivered the Director's report in the absence of Kristen Sorth.
+	Meramec Valley
+	The Board of Aldermen held a public meeting on December 19, 2013 to consider the Planning and Zoning Commission’s recommendation to approve the Library’s Special Use Permit to operate a Public Library at the two properties we are under contract to purchase. The Board of Aldermen conducted two readings of the permit and delayed the third reading until the January 23, 2013 Fenton Board Of Aldermen meeting. Ms. Brain reported that the third reading failed by a five to two vote.
+	Tesson Ferry
+	On December 17, 2013, the St. Louis County Council gave final approval for the Library’s request to change the zoning on the property for the future site of Tesson Ferry. County Executive Charlie Dooley signed the ordinance on December 18, 2013. Legislation to allow the County to enter into an agreement with the St. Louis County Library and McBride Berra in connection with road improvements on Musick Ave. was introduced on December 23, 2013 and passed by the St. Louis County Council on January 14, 2014. There have been meetings between the Library and representatives from St. Louis County to draft an agreement.
+	Library Update
+	 Ms. Sorth has been working with Stephanie Nordmann, Gib Van Cleve and Marie Conlin to develop a monthly report for the Library Board with various statistics. The design is now complete. The “dashboard” report for January contains circulation, computer use, programming and social media statistics for 2013.   It also has information on the most popular items in our collection.
+	 The Library’s 2013 circulation reached 15,073,462. This is a record high exceeding the previous record set in 2012 by nearly 5%. Library visits surpassed the 6 million mark in 2013, reaching 6,177,833.
+	 Expanded Sunday hours began in January. The Library is now open at seven locations on Sundays including Headquarters, Tesson Ferry, Florissant Valley, Daniel Boone, Thornhill, Natural Bridge and Cliff Cave. We have received positive feedback from the public on this expansion of hours.
+	 Ms. Sorth attended a meeting on January 17, 2014 at the St. Louis American with representatives from Oasis, the Urban League, St. Louis Public Library and Dr. Suggs from the St. Louis American. Oasis has received a grant to conduct diabetes self management workshops. The meeting was to discuss efforts to promote these workshops in the community. The workshops are currently offered at Natural Bridge Branch and Tesson Ferry. They will be offered at additional Library locations in 2014.
+	 The Outreach Department was contacted by the Library Coordinator for Parkway Schools. One of their elementary schools, Shenandoah Elementary, had pipes burst due to the cold weather. The library at their school was severely damaged. Colleen Hall, Manager of Outreach Services is working with the school to provide them with materials until the library is renovated. Teachers will be placing holds on St. Louis County Library materials and library staff will be delivering the materials directly to the school.
+	 In October, the Library Board approved using Thrift Books to process and sell discarded Library materials and donations. We have received many comments regarding this change. The major concern is the elimination of the sale table at the branches. Eric Button has been responding to phone calls and letters. Administrative staff is discussing the concerns internally and Ms. Sorth will update the Library Board on this topic at the March Board Meeting.
+	 Library Advocacy Day at the Missouri State Capitol takes place on February 4, 2014. Ms.Sorth will be attending along with Assistant Director Eric Button and eight other Library managers. They will be meeting with the elected officials that represent the Library District. The Communications Department is developing informational packets as well.
+	 The Library’s annual Black History Month events are scheduled throughout February. Ayana Mathis is the featured speaker Saturday, February 15 at 7 p.m. in the Headquarters auditorium. She is the author of “The Twelve Tribes of Hattie” which was featured as a New York Times Bestseller and an Oprah book club choice. We will also feature the Black Rep on Friday, February 7 at 7 p.m at Headquarters.; a gospel music celebration on Saturday, Feb. 22 at 1 p.m. at Lewis and Clark Branch and a Jazz night performance on Friday, Feb. 28th at 7:00 p.m. at Florissant Valley Branch. The celebration also includes a variety of children’s craft programs, book discussions, film series, trivia nights and folktales. All events are free and open to the public.
+	Library Employee Update
+	 The Library’s auditors Kerber Eck and Braeckel will be at the Library this week conducting the Library’s audit.
+	 The Staff Development Committee is planning for the 2014 In-Service Day that will be held on October 13, 2014.
+	 Vector Communications has conducted Strategic Planning focus groups with Library employees. Community focus groups will be held in the first half of 2014.
+	Library Facility Update
+	 The Cliff Cave Branch continues to experience structural settling in one area of the branch. We are working with our engineers to determine the issue.
+	 The column at the Sachs Branch which was damaged by a car has been fixed and bollards were installed to prevent this from happening in the future.
+	 Construction to repair the damage caused by the cracked sprinkler pipe at Indian Trails is underway.
+	 Several branches experienced roof leaks from the melting snow including Jamestown Bluffs, Eureka Hills, Thornhill, Headquarters and Sachs.
+	Author Events
+	There are several notable author events coming up in 2014.
+	January
+	 Steven Watts is coming Wednesday, January 29, 7:00 p.m., Library Headquarters-Auditorium. He is author of “Self Help Messiah: Dale Carnegie and Success in Modern America”.
+	February
+	 Greg Kot, author of “I'll Take You There: Mavis Staples, the Staples Singer and the March Up
+	Freedom's Highway” is coming Monday, February 3, 7:00 p.m., Library Headquarters – Auditorium.
+	 Philipp Meyer, author of “The Son”, will be here Wednesday, February 5, 7:00 p.m., Library
+	Headquarters-Auditorium.
+	 David Kertzer, “The Pope and Mussolini: The Secret History of Pius XI and the Rise of Fascism in Europe” will be here Thursday, February 6, 7:00 p.m., Library Headquarters – Auditorium.
+	 Ridley Pearson will present his new book “Starcatchers on Broadway”, Monday, February 10, 7:00 p.m., Library Headquarters-Auditorium
+	 Ayana Mathis, featured speaker for the Black History Month Celebration and author of “The Twelve Tribes of Hattie”, will be here Saturday, February 15, 7:00 p.m., Library Headquarters – Auditorium.
+	This book is also the Read St. Louis 2014 Book Club Fiction Selection. Her book was featured in the Oprah Book Club.
+	 Michael Hainey, will present “After Visiting Friends: A Son’s Story” on Tuesday, February 18, 7:00 p.m., Library Headquarters-Auditorium.
+	 Geoff Dyer, will present his book “The Contest of the Century: The New Era of Competition with China—and How America Can Win” on Monday, February 24, 7:00 p.m., Library Headquarters – Auditorium.
+	March
+	 Lee Sandlin, author of “Storm Kings: The Untold History of America’s First Tornado Chasers”, will be here Tuesday, March 4, 7:00 p.m., Library Headquarters – Auditorium.
+	 Alice Hoffman, author of “The Museum of Extraordinary Things”, will be here Wednesday, March 5, 7:00 p.m., Library Headquarters-Auditorium.
+	 Chimamanda Ngozi Adichie, an acclaimed Nigerian writer, an author of “Americanah” will be here Tuesday, March 11, 7:00 p.m., Library Headquarters – Auditorium.
+	 J.A. Jance, will present her new book “Moving Target” on March 17, 7:00 p.m. Library Headquarters.
+	 C.J. Box, will present his new book “Stone Cold” on Tuesday, March 18, 7:00 p.m. Library
+	Headquarters.
+	 Edith Cunnane commented that the Black History Committee is doing a terrific job with Black History events.  Ms. Cunnane said the programs seem to get better each year.   She also stated that she is glad for the increase in locations for Sunday hours.  She said that there are likely to be more people, in addition to those we have heard from, who are unhappy with the elimination of the sale tables.
+	Steve Sachs asked about the impact of Sunday hours on circulation.  He would like this added to the dashboard.
+	New Business
+	Hoopla
+	Barbara Brain discussed the library’s intention to begin offering access in March to a new digital media service called Hoopla, a cloud-based platform developed by Midwest Tapes, a vendor who currently supplies many of the library’s DVDs, audiobooks and music CDs.
+	Using Hoopla, customers will be able to stream or temporarily download movies, television shows, audiobooks and entire music albums to their smartphones, tablets or computers.  Hoopla offers simultaneous access meaning there will be no waiting to borrow titles. It is a pay per circ model with an average cost per circulation of $1.72.  Midwest Tape requires that we place $75,000 in an advance or escrow account, an amount determined by population served.  Once that amount has been spent, we can decide whether to add more funds to the account or be billed on a monthly basis.  We will impose a ten circulation limit per customer per month.  If necessary, we will also add a monthly monetary cap to ensure that we remain within budget.  $250,000 was included in the 2014 collection development budget specifically for this type of service.  This is being presented as an Information rather than an Action item since the library’s procurement policy exempts library materials, including electronic resources, from the need for Board approval.
+	Unique Management Services
+	Kris Mooney recommended entering into an agreement with Unique Management Services to pursue past due accounts.  He also recommended the purchase of software that would facilitate the collection of outstanding fines and fees.
+	Mr. Mooney explained that outstanding fines and fees have risen in recent years due primarily to the Library’s significant growth in circulation.  Unique Management Services specializes in helping Libraries collect overdue fines and fees with a greater emphasis on collection of materials. Unique works with many large libraries across the country including Brooklyn Public Library, Dayton Metro Library and Seattle Public Library.
+	Innovative Interfaces Incorporated (III), our Integrated Library System vendor, provides a software module called Collection Agency Interface for $17,000. The software provides streamlined account updates nightly, giving staff current information regarding payments. No other quotes on software were obtained due to Unique being the only Collection Agency to accept files in III’s format. Innovative’s Collection Agency Interface is a single-source product.
+	Additional costs include an $8.95 fee for each account submitted to Unique Management Services to pursue collection. Unique recommends the past due amount be at least $50.00 before collection attempt is made. Based on conversations with Unique, Library Administration believes the fines and fees, or materials collected will, at a minimum, offset the total cost of the collection effort. Additionally, tougher collection efforts will be a deterrent to those who check out items without the intent of returning them. The contract with Unique is currently being reviewed by our legal counsel.
+	The Library board approved the purchase of the collection software from Innovative Interfaces Incorporated for a total of $17,000. The Library Board also approved the contract with Unique Management Services to pursue past due accounts at a cost of $8.95 for each account submitted. The cost of the software is included in the 2014 Library budget (Cunnane/Kenyon).
+	Sachs Reading Garden
+	Lisa Stump, the Library Board’s attorney, stated that the original date for the completion of the Sachs Reading Garden was May 31, 2014 and that a resolution and amendment to the development agreement with Central Park Square Inc. (CPS) extends that date to May 31, 2015.  The resolution also authorizes the Library Director to sign the Amendment with CPS in order to carry out the terms and provisions of the agreement.
+	The Library Board approved the Resolution (Cunnane/Tai).  Steve Sachs abstained.
+	Barbara Turkington then presented a Memorandum of Understanding (MOU) to the Board outlining the partnership between the St. Louis County Library and the St. Louis County Library Foundation to construct the Sachs Reading Garden. By approving the MOU, the Library Board would grant the Director the authority to insert the appropriate dates and make other non substantive changes. The MOU was drafted by Lisa Stump at Lashly & Baer.
+	The Library Board approved the Memorandum of Understanding (Cunnane/Tai).  Steve Sachs abstained.
+	Investments
+	St. Louis County Library’s Request for Investment Rates was mailed to ten St. Louis area banks and one Kansas City area bank on January 14, 2014.  Results were received January 23, 2014. Library Administration recommended the selection of Commerce Bank which offered the highest total rate of return for the entire portfolio of $32 million of 2014 operating funds.
+	The Library Board approved the selection of Commerce Bank (Sachs/Cunnane).
+	Adjourn
+	The meeting adjourned at 4:15p.m.
+	There was a motion by Steve Sachs to adjourn the meeting and convene Executive Session to discuss real estate (Section §610.021(2). Elena Kenyon seconded.
+	Each approved by voice vote:   Dr. Lynn Beckwith, Steve Sachs, Dr. Chingling Tai, Edith Cunnane, Elena G Kenyon.
+	Respectfully submitted,
+	____________________                                                        _________________
+	Dr. Chingling Tai,                                                                   Date
+	Secretary

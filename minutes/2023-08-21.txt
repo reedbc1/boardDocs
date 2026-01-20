@@ -1,0 +1,268 @@
+{
+  "name": "Regular Meeting",
+  "description": "Library Board",
+  "unique": "CL9Q6E653E45",
+  "date": "2023-08-21T00:00:00Z"
+}
+
+---
+
+ST. LOUIS COUNTY LIBRARY DISTRICT
+MEETING OF THE BOARD
+THORNHILL BRANCH
+TUESDAY, AUGUST 21, 2023
+The monthly meeting of the Board of the St. Louis County Library District was held at Thornhill Branch, 12863 Willowyck, Dr., St. Louis, MO 63146 on Tuesday, August 21, 2023 at 3:30 p.m. The agenda had been posted in all branches of the Library District at least 24 hours before the meeting.
+ATTENDANCE:
+Library Board Members:
+Dr. Lynn Beckwith, President
+Johnny Wang, Vice-President
+Ted Sanditz, Treasurer
+Deborah Patterson, Member
+Dr. Beckwith announced that Joan Barry had an excused absence.
+ADMINISTRATORS AND GUESTS ATTENDING:
+Kristen Sorth, Library Director & CEO; Eric Button, Deputy Director; Laura Taylor, CFO; Steve Hunter, Assistant Director, Operations; Gib Van Cleve, Assistant Director, ITS; Jackie Hamilton, Assistant Director, Advancement; Attorney Lisa Stump, Lashly Baer; Christine Macarthy, patron; and Dr. Monica Stewart, St. Louis County.
+OTHERS ATTENDING:
+Andrew Freshwater, Rachel Dippel, Dany Nenninger, Lori Boschert, Andrea Johnson, Deanna Davis, Stacey Berger, Brent Trout, Emily Althoff, Nicole Walsh Chris Goodman, Katie Keeven, Anne Arthur, Amy Hanaway, Naima Chibitty, Jennifer Gibson, Sarah Wood, Stephanie Nordmann, Allison Wisniewski, Melissa Albers, Lindsey Piech, Becky Maue, Nina Johnston, Alaina Culbertson, Dan Lucas and Sandy Williams.
+MINUTES
+The Library Board approved of the July 17, 2023 minutes (Sanditz/Wang).
+Adjourn for Tax Hearing
+Deborah Patterson moved to adjourn the regular meeting to convene the tax hearing. It was seconded by Johnny Wang.  Aye: Lynn Beckwith, Ted Sanditz, Johnny Wang, Deborah Patterson
+TAX HEARING
+This tax hearing will begin at 3:30 p.m. The Library Board will resume the Regular meeting following the hearing.
+Dr. Beckwith asked if anyone had any statement to make regarding the tax hearing.  No one came forward to speak to the Board.
+Library CFO Laura Taylor reported the following information.
+Missouri State Statute requires that a public hearing be held prior to the Library Board setting the 2023 tax rates. The four subclasses of property are residential, agricultural, commercial, and personal property. As in prior years, the required legal notice must be published in one newspaper or in a minimum of three branch locations at least seven days prior to the date of the hearing. The attached notice appeared at all the branches on August 11, 2023.
+The tax hearing gives the public the opportunity to present their comments about the Library’s tax rates. The agenda for the meeting is attached.
+The setting of the 2023 tax rates will take place at the September Library Board meeting.  Updated post Board of Equalization assessments for 2023 will be used to set the tax rates and will be available in September. Tax rates must be set prior to October 1, 2023.
+This was an informational session.
+Deborah Patterson made a motion to adjourn the Tax Hearing and resume regular meeting. Johnny Wang seconded the motion.  Aye: Lynn Beckwith, Ted Sanditz, Johnny Wang, Deborah Patterson
+PUBLIC COMMENTS
+Dr. Beckwith asked for any patrons desiring to speak to come forward. Then he called for Christine Macarthy, a patron who requested to speak.
+Ms. Macarthy said that she was disappointed that the library had ran out of money for the Grandpads program.  She mentioned that we continue to give diapers to those who request it.  She also mentioned Left Bank Books and J. K. Rowling.  Dr. Beckwith responded that she would receive a response from the Library within the next few weeks.
+REPORTS
+TREASURER'S REPORT
+CFO Laura Taylor, delivered the report.
+Maintenance and Operating Fund Financial Statements:
+Revenue
+	District Taxes - The total tax revenue for 2023 is $59.4 million which is 99% of the total budgeted amount of $60.1 million.
+	Current Year Interest - In July, the Library District received $295,207 in interest. The total interest revenue is $1,811,751 which is 213% of the total budgeted amount of $850,000. The Library budgeted conservatively during the 2023 Budget discussions in late 2022. Market conditions have improved considerably in 2023.
+Expense
+	Grant Expense - In July, the Library District incurred a total of $67,543 in grant expense. Of this amount, $63,851 was paid to Epworth for social worker services through June. There are social workers at five branches: Florissant Valley, Lewis and Clark, Natural Bridge, Rock Road, and Weber Road.
+	Building Repair-HVAC - In July, the Library District incurred a total of $130,717 in building repair-HVAC expense. Of this amount, $127,248 was paid to American Boiler & Mechanical for the following: payment of $63,825 to install two boilers at Weber Road; payment of $52,500 to replace the boiler at Jamestown Bluffs; and payment of $10,923 to replace the air conditioning unit at Grand Glaize. The Weber Road and Jamestown contracts were approved by the Board in December and May respectively. The Grand Glaize contract did not exceed the threshold for Board approval.
+	Capital Improvements - In July, the Library District incurred a total of $1,565,593 in capital improvements expense. Of this amount, $1,519,031 was paid to Interior Construction Services for services performed at the Clark Family Branch in June.
+The Library Board approved the August 2023 Treasurer's Report subject to audit (Patterson/Wang).
+DIRECTOR AND CEO'S REPORT
+Kristen Sorth, Director and CEO, delivered the following report.
+Library Update
+	Ms. Sorth shared the Dashboard report for July.  Circulation approached the one million mark in July with almost 970,000 items circulating for the month. This is an increase of 2% over total circulation in July, 2022.  A number of branches saw notable growth in circulation including Parkview with an 11% increase and Rock Road with an 8% increase over July of 2022.  eMedia circulation had another large increase this month with an increase of 11% compared to this time last year.  Also, this figure is 50% higher than eMedia circulation levels in 2019.  Currently, eMedia constitutes about 30% of the total circulation at the Library. This month, the Dashboard also includes circulation trends for five Missouri libraries:  St. Louis County Library, St. Louis Public Library, St. Charles City-County Library, Mid-Continent Public Library (suburban Kansas City) and Kansas City Public Library from 2018 – 2022 with SLCL leading in circulation.  Another interesting chart this month includes daily averages for June and July.  Statistics on programming, new patrons and services delivered to patrons are also included.  (Plan: Promote Literacy 1a, 3b; Increase Access 1c)
+	The people counters, which were approved by the Library Board in May, are expected to be installed in the weeks ahead.  Building Systems has already completed the cabling work required to connect them to a network.  These people counters will provide more accurate statistics than in the past.  The detailed reporting can provide day-by-day or hour-by-hour breakdowns allowing the Library to carefully analyze patron usage patterns. (Plan: Increase Access 1a, 1c)
+	The first meeting of the Small Business Ambassadors was Friday, August 4th at Thornhill. This program is to educate employees on how to assist small business owners with the library resources. There are 19 employees participating in the program. The group will meet monthly and will assist the Reference Department during the Small Business and Nonprofit Conference in October. (Plan: Promote Literacy 3c, Sense of Community 1d)
+	Summer School bookmobile service began on June 5, 2023. Service was provided to 23 schools with the last school receiving service on July 15th. Districts that were open for summer service included Afton, Ferguson-Florissant, Hancock Place, Hazelwood, Mehlville, Ritenour and Riverview Gardens as well as two private schools. The School Bookmobiles provided weekly visits to 23 schools for a combined total of 66 visits.  They assisted 9,113 students and checked out 21,414 books. (Plan: Promote Literacy 1a, 1b, 2b; Sense of Community 2a)
+	Ms. Sorth said the GrandPad project has reached its final phase for the Library.  The final list of participants in the Aging Ahead CHOICE program ended up at approximately 730 users.  These individuals will retain their Library-issued GrandPad and partake in virtual programs using the GrandPad.  Participants will also have meals delivered to their homes on the day of the programs.  Responsibility for the GrandPads shifted over to Aging Ahead in June.  All GrandPad users who are not enrolled in the Aging Ahead program have been notified that their GrandPad device must be returned to the Library.  The deadline for returns was August 15, 2023.  Any outstanding devices triggered a bill to the GrandPad user. (Plan: Promote Literacy 3b; Sense of Community 3a, 3c)
+	Full access to the New York Times is now available with a St. Louis County Library Card. Patrons will receive free access to the online version of the newspaper, plus games, New York Times Cooking and sports coverage through The Athletic. (Plan: Promote Literacy 2d, 3d)
+	She announced that starting next month, patrons can ride a shuttle from a Library branch to the Soldiers Memorial Military Museum in downtown St. Louis to explore the exhibition “Vietnam: At War and At Home” with the Museum’s Director. To reach as many patrons as possible, the shuttle will depart from three different branches in 2023 – September 20th at Grant’s View, October 18th at Prairie Commons and November 15th at Sachs. Shuttle tickets are $15 per passenger.  The shuttle will depart at 9:30 a.m. and return by 12:30 p.m. (Plan: Sense of Community 3a, 3c)
+	Ms. Sorth said the impact of social workers at five branches has been profound.  Employees have expressed great appreciation for the support.  The social workers have been so busy engaging with clients that they need to be intentional about setting aside time for reporting, training, and communicating with one another.  The need in our community is great, and the social workers are an incredible resource.  Social workers have served 215 people from 45 zip codes throughout our region since launch and received 103 Book a Social Worker requests. This chart shows the breakdown of what branches those requesting a social worker visit most (Plan: Sense of Community 3a, 3b, and 3c; Increase Access 1c)
+	For Library Card Signup Month in September, Adult Services has put together a newsletter, Beyond Books: A Daily Dive into the Library, that explores many of the things St. Louis County Library has to offer beyond its collection of books and other materials. Patrons can register to receive the newsletter, which will arrive in their inboxes each weekday during the month, and discover their next favorite thing about the Library! (Plan: Promote Literacy 1a, 1b, 3d; Sense of Community 2d)
+	Ms. Sorth said that Washington University’s University College is offering a free Healthcare Certificate program to assist the Library’s adult high school graduates start their careers. The online training will prepare them for jobs as Patient Care Techs, Medical Assistants, Medical Coders, Call Center Reps, Medical Secretaries, and Medical Scribes. The first cohort of graduates will begin on September 5th and the program culminates with a WashU Certificate and an interview with the Washington University School of Medicine. The next cohort is scheduled to begin in January 2024.  The Gateway Apprenticeship Hub is also offering apprenticeship opportunities for our graduates. The Gateway Hub was created with a $5.8 million grant from the US Department of Labor with the goal of developing apprenticeships for careers in the healthcare, bioscience, and education fields. Informational sessions were held earlier this month for the graduates to learn more about the program and potential employers. (Plan: Promote Literacy 3a, 3c; Sense of Community 3a, 3c)
+	She said that Welcoming Week is a global campaign that connects neighbors of all backgrounds in their communities.  The Library will again celebrate Welcoming Week from September 8-17, 2023. During this annual series of events, branches will raise awareness of the benefits of welcoming everyone with interactive workshops, a film screening, multicultural art exhibitions, and book discussions. (Plan: Sense of Community 1a, 1b, 3b, 3c; Increase Access 2c)
+	The Library will expand the partnership with the Repertory Theatre St. Louis.  Currently, the Adult Services Department provides resource lists to accompany their shows. The expanded partnership will include a shuttle department from select Library branches to several of the shows.  This program will be similar to the one we had with the Symphony. (Plan: Promote Literacy 3d; Sense of Community 3a, 3c)
+	The 2023 Summer Reading Club ended on Saturday, August 5. This was an exciting and very busy summer. Books were given to everyone as they signed up for the club this year instead of waiting until they completed the halfway point. Registrations soared early on and additional books had to be purchased to meet the demand. Final statistics show 41,515 participants which is a 26.6% increase over summer 2022. Final completions were 23,241. This is a 10.5% increase over 2022 with 56% of participants completing the club this year.  In 2024, the St. Louis County Library and St. Louis Public Library will be partnering on one Summer Reading Club for both organizations. (Plan: Promote Literacy 1a, 1b, 2a, 2b, 3d; Sense of Community 3a; Increase Access 2c)
+	PNC Bank awarded the Library with a grant to provide eight school districts with early literacy kits for their Parents as Teachers organizations (Bayless, Ferguson-Florissant, Hancock Place, Hazelwood, Jennings, Mehlville, Ritenour, Riverview Gardens). The kits are themed and contain picture books, a toy and a sheet with early literacy extension activity ideas. Parents as Teachers educators will take the kits on their home visits to help develop early literacy skills. Examples of themes are: nutrition, emotions, opposites and colors and shapes. Each school district will receive 25 different kits. (Plan: Promote Literacy 2a, 3d; Sense of Community 3a, 3c; Increase Access 2c)
+	There were 498 entrants for the 2023 bookmark contest. The theme for this year was Safari. Winners were selected in four age categories:  Ages 6-8, 9-11, 12-14, and 15-17. (Plan: Promote Literacy 1b, 3d; Sense of Community 1a)
+	The Oak Bend Branch hosted a very successful Lego program.  They planned for 200-300 attendees but almost 800 people attended the 90-minute program!  Attendees were able to enjoy a celebration of all things LEGO, including The Minifig Shop’s build-your-own minifigure station, incredible displays by Gateway LUG, crafts, interactive activities and giveaways. (Plan: Promote Literacy 3d; Increase Access 1a)
+	The Library will be offering HyperTile kits for patrons to check out. Ms. Sorth shared samples with the Library Board. Based on a mathematical shape called a hyperbolic paraboloid, HyperTiles are simple, super-versatile shapes that can be linked together in an infinite number of combinations. Unlike traditional building sets, HyperTiles connect in nonlinear and unpredictable ways.  The HyperTiles were donated to the Library by the creator, who is from St. Louis and ran a successful Kickstarter campaign in 2021. The kits include 64 tiles, 108 connectors, and a laminated instruction guide. (Plan: Promote Literacy 2d, 3d; Sense of Community 3a)
+	The Library and Operation Food Search are partnering to provide after school meals to children at five branches starting August 21, 2023. Participating branches include Florissant Valley, Lewis & Clark, Natural Bridge, Prairie Commons and Weber Road.  They will serve a healthy, light meal along with activities for kids and teens Monday–Friday during the school year. (Plan: Sense of Community 3c)
+	The St. Louis County Library Foundation has funded the first two cohorts of Genealogy University. Genealogy University is a program that the St. Louis County Library History & Genealogy Department is offering patrons beginning in 2024. Genealogy University will mimic a traditional university degree path by encouraging students/patrons to attend a series of events held by Library departments. The patrons, while progressing through these classes, will have a form of documentation that identifies the classes/programs that they have attended and can use this to show progress toward graduation. Graduation from the program provides patrons with a certificate of completion and a DNA kit purchased from MyHeritage. The patron is then welcome to take the DNA test and visit the History & Genealogy Department to analyze the results and continue their family history search. (Plan: Promote Literacy 2d, 3b, 3d; Sense of Community 3c)
+	She said the Library continues to provide vital services to the region shown on the chart below. (Plan: Sense of Community 3a, 3b, 3c, Increase Access 1, 1c)
+	There were mentions of the St. Louis County Library in the local media in print, radio and television.  Those articles were shared. (Plan: Increase Access 2)
+	Pictures were shown from various events and programs that have taken place over the last month including: Author Steenz at Grand Glaize, Authors Anupam Jena and Christopher Worsham at Daniel Boone, Author Dr. Shields at the St. Louis Science Center, Community Art with STL City soccer players at Mid-County, Artist Todd Tevlin at Meramec Valley, Produce Pickup at Florissant Valley, Writing Fiction Workshop at Thornhill, Jazz Jam at Lewis & Clark, Summer Reading Wrap Up at Rock Road, STEAM Programs at Weber Road, Small Business Launchpad at Natural Bridge, Birdwatching at Sachs, All Styles Hip Hop Dance, and Author Michael Finkel at the St. Louis Art Museum. (Plan: Promote Literacy 1b, 1c, 3d; Sense of Community 1b, 3a, 3b, 3c)
+Library Administrative Updates
+	The 2023 Holiday Schedule was shared. The schedule was established and approved many years
+ago and is included in the Library’s Personnel Manual.  We have made the decision to close at 5:00 p.m. on the Wednesday before Thanksgiving due to very low patron activity in the branches. (Plan: Sense of Community) Deborah Patterson inquired about population ratios for the Dashboard.
+	Jennifer Gibson recently attended the Research Institute in Public Libraries conference. In addition to exploring qualitative research methods in public libraries, she learned about data storytelling, culturally responsive equitable evaluation, conducting community needs assessments, and analyzing long-term trends and peer libraries. (Plan: Sense of Community 1a; Increase Access)
+	Hicks-Carter-Hicks conducted employee focus groups in July and they are now using that information along with employee survey and interview feedback to prepare their final report and recommendations for the diversity, equity, inclusion, and belonging assessment. They will share their findings at the September Library Board meeting. (Plan: Sense of Community 1a, 1c)
+	Ms. Sorth announced that the St. Louis Cardinals generously provided 300 pairs of tickets for two upcoming games for Library employees. (Plan: Sense of Community 1c, 3a)
+	On August 3rd, the Library officially launched Stacks, the new intranet. The strategic use of Stacks is to strengthen and continue to support all Library employees. Stacks enables employees to connect, collaborate, and access information in a fast and effective way. All branches and departments have a private workspace where they can share ideas and communicate important information.  Stacks serves as a central destination to find procedures and other general information. (Plan: Sense of Community 1d)
+	In June, interested employees participated in the Design a Bookmark Contest: Employee
+Edition. Employees submitted two original bookmark designs throughout the month based on the Summer Reading Club theme, "All Together Now." Winning bookmarks were professionally printed and distributed in time for Book Lovers Day on August 9. Pictures of the bookmarks were shown to the Board. (Plan: Sense of Community 1c, 2d)
+	She said that Communications is working on a project to help re-engage patrons. The department has created a direct mail piece that will be sent to approximately 75,000 residents within ten zip codes that have the lowest number of library cards. Jennifer Gibson, Assistant Director of Strategic Initiatiaves, helped compile this data, which has been very useful. (Plan: Increase Access 2a, 2b)
+	As part of their scope of services, the Epworth social workers will begin to offer training to Library employees on a variety of topics, kicking off with de-escalation training in September.  Additional training topics include Mental Health First Aid, Trauma Informed Care, and training that helps our employees recognize signs of food and housing insecurity, human trafficking, and neglect.  Training sessions will be offered at locations throughout the District, not just the branches at which social workers are based. (Plan: Sense of Community 1b, 1d, 3a, 3b, 3c; Increase Access 1c)
+	In partnership with St. Louis County, the Library will host a press conference on August 31 at 10 a.m. at the Weber Road Branch for Opioid Awareness Day, which will include the announcement of the Narcan Kit partnership with the St. Louis County Department of Public Health. We have 20 kits available at each of the five branches with social workers – Florissant Valley, Lewis & Clark, Natural Bridge, Rock Road and Weber Road.  Employees will only distribute the kits, along with educational information and materials, to patrons requesting the kits.  Library employees will not administer Narcan.  (Plan: Sense of Community 3a, 3b, and 3c; Increase Access 1c)
+	Communications is planning a series of short videos for social media around National Library Card Sign-up Month. The videos will promote services at the library that can save users money thru services such as Kanopy and Hoopla (streaming content); apps like NYTimes, NYTimes Cooking and Headspace; gaming (video games and board games); and try before you buy hobbies (musical instruments, pickleball kits, disc golf, etc.). (Plan: Promote Literacy 2d, 3d; Sense of Community 2d; Increase Access 2c, 2d)
+	The Employee Training Department continues to offer employee development training for all employees. The trainers have scheduled several sessions at various branches. Excel Essentials and Gmail:  Tips and Tricks are offered this month.  The Trainers have also created several (3-10 minutes) Polaris refresher modules on the topics of Renewals, Card Creation, Magazine holds, Library Card Replacement, and Holds.  These short refresher courses are available for staff to view at their convenience. (Plan: Sense of Community 1d)
+	The Library is hosting a Flu Shot Clinic for all employees on September 21 and 22.  The Visiting Nurses Association (VNA) will be administering the shots.  VNA will file the claim for the vaccinations under the employee’s' insurance plan.  If an employee is not covered under one of the insurance plans accepted, the employee will pay $5.00 and the Library will pay the remaining cost. (Plan: Sense of Community 1c)
+	Ms. Sorth congratulated Adult Literacy Coordinator, Ricqui Brooks, who was selected to participate in the fall cohort of the FOCUS Women in Leadership, which “offers the opportunity to refine your personal, professional and civic leadership competencies, learn about the St. Louis community, and connect with other women from diverse backgrounds. (Plan: Sense of Community 1d, 2d; Increase Access 2c)
+Library Construction and Facility Update
+	The Library’s first electric vehicle charger has been installed at the Beck. The SemaConnect unit will charge two vehicles at once and is solely for employee use. Over the next few years, the Library will install chargers at all branch locations starting with the Clark Family Branch. All future locations will be open to public and employee use. (Plan: Sense of Community 3c; Increase Access 1)
+	System-wide Workplace Violence Prevention training started August 7th. Over the next two months over 60 sessions will be held, ensuring that every staff member will be able to attend. We thank Tarza Tawfiq and Dan Lucas for their sensitivity and careful planning of this training for employees. (Plan: Sense of Community 1d)
+	The water main into Thornhill has deteriorated and needs replacing. This work is all inside the building and is expected to take a couple of hours. (Plan: Increase Access 1c)
+Library Foundation
+	Ms. Sorth said that she was thrilled to announce that Post Holdings will make a $200,000 donation to the Foundation for the naming rights of the event space and outdoor patio at the Clark Family Branch.  Foundation Board Member, Lisa Hanley, is an employee at Post and worked with the Library on a presentation and ask of the CEO of Post. (Plan: Increase Access 1b)
+	Multiple grants were awarded to the Library Foundation:
+		The Missouri Arts Council awarded $24,433 in support of the St. Louis Storytelling Festival
+		The Bellwether Foundation awarded $10,000 for WiFi Hotspots
+		The Josh Seidel Memorial Foundation awarded $10,000 to support Coding 101
+		The Boeing Employee Community Fund provided $5,000 (Plan: Promote Literacy 3a, 3b, 3d; Sense of Community 3a)
+	Nine Alison Grants have been approved in 2023, totaling $15,000.  Since the inception of the program in 2014, 67 grants have been approved totaling over $102,000.  The following nine programs have been approved in 2023.
+		Books & Cooks at Jamestown Bluffs- $500
+		Book Mobile Outreach Day - $1500
+		Children program expansion at Mid-County - $2020.04
+		Teen Afterschool space at Prairie Commons - $3548.57
+		Teen Video Games at Parkview - $947
+		Lego event at Oak Bend - $817.97
+		Imagination Stations at Grant’s View - $1821.42
+		Genealogy University for History and Genealogy - $2045
+		Game Changers at Florissant Valley - $1800 (Plan: Promote Literacy 1b, 2d, 3c, 3d; Sense of Community 2c, 2d, 3c)
+	She said the St. Louis County Library Foundation will host a gala on August 26th, the first since 2019. It will be held at The Reverie in Chesterfield. The night will feature entertainment, a unique dining experience, exciting raffles, a live auction and other ways for attendees to make an impact.  The theme is The Gatsby Extravaganza!  The VIP Reception will be from 6:00-6:55 p.m.  The main event is from 7:00-9:00 p.m. (Plan: Increase Access 2a, 2c)
+Author Events
+She mentioned the following Author Events (Plan: Promote Literacy 1c)
+	Bobby Bostic, author of “Humbled to the Dust,” Monday, August 21, 2023, 7:00 p.m.-8:00 p.m., Florissant Valley Branch, 195 New Florissant Road, S. 63031.
+	Ed Wheatley, author of "The St. Louis Cardinals: Everything you Need to Know!" Thursday, August 24, 2023, 7:00 p.m.-8:00 p.m., Grant's View Branch, 9700 Musick Road, 63123.
+	Karin Slaughter, author of “After that Night,” Friday, August 25, 2023, 7:00 p.m.-8:00 p.m., Daniel Boone Branch, 300 Clarkson Road, 63011.
+	Doan Phuong Nguyen, author of “MEO and BE,” Tuesday, August 29, 2023, 6:30 p.m.-7:30 p.m., Grand Glaize Branch, 1010 Meramec Station Road, 63021.
+	Alice Feeney, author of “Good Bad Girl,” Wednesday, August 30, 2023, 7:00 p.m., Grant's View Branch, 9700 Musick Road, 63123.
+	Ticketed Event - Ann Cleeves, author of “The Raging Storm,” Tuesday, September 5, 7:00 p.m.-8:00 p.m., The J, 2 Millstone Campus Dr., St. Louis, MO 63146.
+	Dr. Jovita Oruwari, author of “Black Girls in White Coats,” Wednesday, September 6, 7:00 p.m., Florissant Valley Branch, 195 New Florissant Rd., S., 63031.
+	Ticketed Event -Joe Posnanski, author of “Why We Love Baseball:  A History in 50 Moments,” Thursday, September 7, 2023, 7:00 p.m.-8:00 p.m., The J, 2 Millstone Campus Dr., St. Louis, MO 63146.  Fred Bird will make an appearance and there will be St. Louis Cardinal ticket giveaways.
+	Amina Luqman-Dawson, author of “Freewater,” Tuesday, September 12, 6:30 p.m.-7:30 p.m., Florissant Valley Branch, 195 New Florissant Rd., S., 63031.
+	Craig Johnson, author of “The Longmire Defense,” Tuesday, September 12, 2023, 7:00 p.m., The J, 2 Millstone Campus Dr., St. Louis, MO 63146.
+	David Lange, author of "Soccer Made in St. Louis," Wednesday, September 13, 7:00 p.m., Daniel Boone Branch, 300 Clarkson Road, 63011.
+	Stephanie Malia Krauss, author of “Whole Child, Whole Life,” Saturday, September 16, 2023, 2:00 p.m., Grant's View Branch, 9700 Musick Road, 63123.
+NEW BUSINESS
+CONSTRUCTION UPDATE
+Steve Hunter, Assistant director of Operations, reported that work continues at the Clark Family Branch. Comparison pictures of the old building and the new construction were shown. The stairs are in place. Mr. Hunter said the event center will have four distinct spaces.  When not separated, the room will hold 800 people. HVAC units were lifted to the roof this week. Fire hydrants are being installed. Completion date is estimated for late May.
+LIBRARY BOARD ORGANIZATION
+The Library Board’s ByLaws Article 1, Section 5 states as follows: “The officers of the Board of Trustees shall be a President, Vice-President, Secretary and Treasurer who shall be elected annually at the August meeting of the Board and shall hold office for a period of one year.”
+The current officers and members of the Board are as follows:
+President                         Lynn Beckwith, Jr.
+Vice-President                Johnny Wang
+Secretary                        Joan Barry
+Treasurer                        Ted Sanditz
+Member                          Deborah Patterson
+Per the Library Board's ByLaws, officers of the Board will need to be elected to serve for the next twelve months.
+Dr. Beckwith acknowledged the agenda item and turned it over to Director Sorth. Ms. Sorth called for nominations. Deborah Patterson moved that the President and all other office holders maintain their positions. Johnny Wang seconded. All voted affirmatively to maintain their positions (Patterson/Wang).
+LIBRARY BOARD MEETING DATES FOR 2024
+For many years the Library Board has not held a January meeting.  Kristen Sorth proposed holding a January meeting and not having a March meeting in 2024.  September’s meeting is always held the last Monday due to the setting of the tax rate.
+The Library Board approves meeting dates for the subsequent year each August.
+Library Board                                        Pension Board
+January 22                                            January 22
+*February 20- Tuesday                         April 15
+March– No meeting                             July 15
+April 15                                               October 21
+May 20
+June 17
+July 15
+August 19
+September 23
+October 21
+November 18
+December 16
+Unless otherwise stated, all meetings will be held at Thornhill Branch until the opening of Clark Family Branch and will start at 3:30 p.m. The Tax Hearing is generally held in August each year. The Pension Board is scheduled to meet at 2:45 p.m. unless otherwise noted.
+*This is a change from Monday to Tuesday due to Presidents’ Day.
+The Library Board approved of the 2024 Board meeting dates and locations as presented (Wang/Sanditz).
+BOARD BYLAWS - CODE OF ETHICS
+Kristen Sorth presented the following. State Statute provides that the Board must approve an ethics policy governing the filing of disclosure reports every two years. The approved policy must be sent to the Missouri Ethics Commission by September 1st. The attached resolution outlines the Library Board’s commitment to the proper operation of the Library District through a Code of Ethics, including the filing of financial disclosure reports.
+The Library Board approved of the attached resolution as reviewed by the attorneys at Lashly & Baer (Patterson/Wang).
+QUARTERLY BRANCH CARPET CLEANING
+Steve Hunter, Assistant Director of Operations, presented the carpet bids. On July 12, 2023, Library Administration issued an Invitation for Bid (IFB) for a three-year contract for quarterly carpet cleaning at all branch locations. The bid was posted on the Library’s website and direct mailed to eighteen local companies. Responses were due August 2, 2023. Three firms replied:
+			Company
+			Year 1
+			Year 2
+			Year 3
+			Total 3-Year
+			Cost
+			Woodard Cleaning & Restoration
+			$102,229.08
+			$112,168.02
+			$123,526.81
+			$337,923.91
+			St. Louis Cleaning & Restoration
+			$129,479.12
+			$129,479.12
+			$129,479.12
+			$388,437.36
+			Hatfield Cleaning Services LLC
+			$167,642.04
+			$167,642.04
+			$167,642.04
+			$502,926.12
+The responses were reviewed by a selection team consisting of Steve Hunter, Kelli Reeves, and Brett Boling. The team agreed Woodard Cleaning & Restoration provided the lowest and best bid response.
+Woodard Cleaning and Restoration is the current provider of this service. Administration is satisfied with Woodard’s responsiveness and quality of work.
+Library Administration recommends that the Library Board select Woodard Cleaning & Restoration to provide Quarterly Carpet Cleaning services to the Library District at all locations for their proposed year 1, 2 and 3 amounts and that the Board authorize the Director and CEO to enter into and execute a three-year contract to that effect. The Library Board approved the recommendation (Patterson/Wang).
+PARKING LOT SEAL AND STRIPE
+Steve Hunter, Assistant Director of Operations, presented.
+On July 12, 2023, Library Administration issued an Invitation for Bid (IFB) for parking lot sealcoating and/or re-striping at five branch locations. The bid was posted on the Library’s website and direct mailed to ten local companies, including the five local W/MBE firms that were identified as providing this service.
+The approved 2023 budget included $30,000 for seal & stripe services at three branches (Bridgeton Trails, Natural Bridge, and Weber Road). During the year, it was determined that parking lots at two other branches (Daniel Boone and Mid-County) were in need of re-striping. These additional two branches were included in the IFB as separate line items.
+Responses were due August 2, 2023. Two firms replied:
+			Company
+			(3) Seal / Stripe
+			(2) Stripe Only
+			Total
+			Asphalt Services
+			$48,450.00
+			$4,100.00
+			$52,550.00
+			Byrne & Jones Construction
+			$50,817.08
+			$8,971.43
+			$59,788.51
+The responses were reviewed by a selection team consisting of Steve Hunter, Matt Manwarring, and Drew Schulze. After checking references, the selection team agreed Asphalt Services provided the lowest and best bid response.
+Administration will resolve this budget difference during Budget Revision in September.
+Library Administration recommends that the Library Board select Asphalt Services to provide Seal & Stripe and re-striping services to the Library District at five locations for the amount of $52,550 and that the Board authorize the Director and CEO to enter into and execute a contract to that effect. The Library Board approved the recommendation (Sanditz/Wang).
+ADDITIONAL CONTINGENCY - ARCHITECTURAL SERVICES FOR THE CLARK FAMILY BRANCH
+Steve Hunter, Assistant Director of Operations, presented.
+On July 17, 2017, the Board selected what is now Lamar Johnson Collaborative (previously named Forum Studio and BatesForum) to provide Architectural and Engineering Services for a new Headquarters building for $4,019,570. On June 17, 2019 the Board approved Amendment 1 with what is now Lamar Johnson Collaborative to address the costs of a scope change from one new building to two buildings, which became The Lynn Beckwith, Jr. Administrative Building and the Clark Family Branch. Amendment 1 increased the contract fee to $4,499,281. On November 16, 2020 the Board approved Amendment 2 with Lamar Johnson Collaborative to address the costs of a scope change imposed by the court-approved settlement with the City of Frontenac, increasing the contract fee to $4,953,609.
+Lamar Johnson is requesting $86,385 for additional work at the Clark Family Branch. This includes additional design elements resulting from conversations with new donors for the children’s play village and design considerations for future art exhibitions. Significant layout changes in the Genealogy and Reference Departments were also made to accommodate new programs and services. Additionally, Administration believes adding a small Time + Material, not-to-exceed amount of $23,615 will cover additional charges that may arise during the remainder of the project. The total request is $110,000. Library purchasing policy permits a contingency fund of 5% of the approved $4,953,609, or $244,964.05. Approved change orders to date equal $170,292.
+Administration recommends the Board approve change order #9 with Lamar Johnson Collaborative for $110,000.  The Library Board approved the recommendation (Patterson/Wang)
+AMEREN EASEMENT AT CLARK FAMILY BRANCH
+Steve Hunter, Assistant Director of Operations, presented.
+As part of the construction of the new Clark Family Branch, Ameren is bringing new electrical service onto the site. A new transformer will be located near the south property line. Ameren recently contacted Administration with a request for a permanent easement covering the new transformer and the power lines that feed it
+The cover letter, easement agreement, and supporting drawings are attached. Lashly Baer has reviewed the documents.
+Administration recommends the Library Board approve the Utility Easement Agreement with Ameren for the installation of new power service at the Clark Family Branch, and authorize the Director and CEO to execute the agreement.  The Library Board approved the recommendation (Sanditz/Wang).
+DIGITAL ARCHIVE COLLECTION MANAGEMENT SYSTEM
+Eric Button, Assistant Director of Operations, presented.
+Library Administration is seeking approval to purchase a Digital Archive Collection Management System.  This system in the form of software will provide a means to store, search, and retrieve digital content that is included in History and Genealogy’s collection.
+A Request for Proposals was issued on June 1, 2023 and four responses were received.  A review team consisting of Gib Van Cleve, Emily Althoff, Amy Hanaway, Brent Trout, Jake Eubanks, and myself independently ranked the proposals. The top three ranked companies were invited to present a demonstration of their product to the review team.  The review team felt that Recollect offered the best product with the most modern and user-friendly search interface for patrons and employees alike.  Recollect is designed as a web-based platform making it easy to access for any user, and the searching experience is similar to what patrons expect from platforms like Google and Amazon.  Recollect also offers collaborative features for patrons, such as the ability to identify and tag individuals and locations in historic images.  Recollect has a high customer retention rate.  Many other entities are moving away from the products offered in the other three proposals in favor of the cutting-edge platform offered by Recollect.  The review team felt that the solutions proposed in the other RFP responses did not offer as strong of a product.  Upon review of the proposals, the team determined that Recollect offered the lowest and best proposal.
+Significant U.S. customers for Recollect include Dallas Public Library and Denver Public Library.  Having not done work in the State of Missouri, they do not yet have a Certificate of Good Standing with the State of Missouri; however, they have committed to obtaining this certification within five days of notice of award.  Recollect is also currently pursuing its registration with the Federal Work Authorization Program.  Both of these conditional terms were considered and approved by legal counsel and will be a required contingency of the contract.
+References were contacted for Recollect, and they expressed great satisfaction with the product.  Although it is not the lowest total cost for year one, Recollect offered the lowest ongoing cost beyond the first year, and a very minimal charge for additional storage if needed.
+			Company
+			Implementation/Training
+			Storage Cost
+			Total Cost for Year One
+			Ongoing Annual Cost
+			Autographics
+			$11,500
+			$21,000
+			$31,500
+			$21,000
+			OCLC
+			$10,000
+			$29,216.85
+			$39,216.85
+			$29,216.85
+			Recollect
+			$21,500
+			$19,500
+			$41,000
+			$19,500
+			TanDev
+			-
+			-
+			$62,000
+			Undetermined
+The Library applied for and received a Library Services and Technology Act (LSTA) Digital Imaging Grant, which will cover a portion of the cost for this system.  The $49,602 grant covers a broad range of expenses, one of which is $31,717 for the creation of and online platform for digitized records.
+Library Administration recommends that the Board authorize the Library Director to enter into and execute a contract with Recollect for the provision of a Digital Archive Collection Management System at an initial year one cost of $41,000, contingent upon Recollect’s successful acquisition of a Certificate of Good Standing with the State of Missouri and completion of its successful registration in the Federal Work Authorization Program. The LSTA grant will provide $31,717 in funding for the Recollect Digital Archive Collection Management System. The Library Board approved the recommendation (Patterson/Wang).
+GOOGLE CHROME MANAGEMENT LICENSE PURCHASE RATIFICATION
+Gib Van Cleve, Assistant Director of ITS, presented.
+Library Administration is seeking ratification for the purchase of Google Chrome Management licenses.  The Library uses Google Chrome Management Licenses to maintain 508 Chromebooks used by staff and patrons.  The Library’s Chrome Management License expired on August 7, 2023.  The Library purchases these licenses through the Missouri Statewide Contract.  Following a discussion with legal counsel, the Library Director found that an emergency exists in order to retain management of the licenses without a gap in coverage and authorized the renewal of the support.
+Cumulus Global provides Google Chrome Management License pricing through Carahsoft under the
+Missouri Statewide Contract.  The Board’s Policy I Procurement Procedures, states that the Library District may make purchases directly from federal, state, county, or other cooperative purchasing agreements.
+Library Administration recommends ratifying the purchase of Chrome Management
+Licenses made in accordance with Purchasing Procedures Policy I, for 12 months of Google Chrome Management Support at a total cost of $25,146, which commenced on August 8, 2023.  Google Chrome Management Licenses are included in the 2023 ITS budget.
+Library Administration recommends ratifying the purchase of Chrome Management Licenses made in accordance with Purchasing Procedures Policy I, for 12 months of Google Chrome Management Support at a total cost of $25,146, which commenced on August 8, 2023. Google Chrome Management Licenses are included in the 2023 ITS budget. The Library Board approved the recommendation (Patterson/Sanditz).
+ADJOURNMENT AND EXECUTIVE SESSION
+Deborah Patterson motioned to adjourn the open meeting for Executive Session and to discuss legal matters (Section 610.021(1)) and personnel (Section 610.021) (3) and (13)). Johnny Wang seconded. Aye: Lynn Beckwith, Ted Sanditz, Johnny Wang, Deborah Patterson
+The Board Meeting adjourned at 4:42 p.m.
+Respectfully submitted by,
+______________________________________                    ____________________________
+Joan Barry, Board Secretary                                                   Date

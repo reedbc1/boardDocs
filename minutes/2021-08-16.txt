@@ -1,0 +1,185 @@
+{
+  "name": "Regular Meeting",
+  "description": "Library Board",
+  "unique": "BX323X7C6B21",
+  "date": "2021-08-16T00:00:00Z"
+}
+
+---
+
+ST. LOUIS COUNTY LIBRARY
+MEETING OF THE BOARD via ZOOM
+1640 SOUTH LINDBERGH BLVD.
+MONDAY, AUGUST 16, 2021
+ 3:30 p.m.
+ATTENDANCE:
+Members present:
+Lynn Beckwith, Ed.D., President
+Johnny Wang, Vice-President
+Ted Sanditz, Treasurer
+Joan Barry, Secretary
+Deborah Patterson, Member
+ADMINISTRATORS AND GUESTS ATTENDING: Kristen Sorth, Director & CEO,  Eric Button, Deputy Director; Barbara Turkington, Assistant Director, Advancement; Laura Taylor, CFO, Gib Van Cleve, Assistant Director, ITS; Steve Hunter, Assistant Director, Operations; Paul Hampel, St. Louis County, and Lisa Stump, Lashly and Baer.
+OTHERS ATTENDING: Amy Gibbons, Anna Schurk, Alaina Culbertson, Donna Spaulding Michelle Hawkins, Laura Kasak, Aaron Seidel, Mary Arnhart, Emily Althoff, Cheri Remington, Marie Conlin, Allison Wisnewski, Stacy Berger, Emma Figuera, Crystal Harris, Jennifer McBride, Nora Marino, Heather Neill, Will LaChance, Ross Brand, Aaron Loste, Stephanie Nordmann and Sandra Williams.
+APPROVAL OF MINUTES
+The Library Board approved the July 19, 2021 minutes (Sanditz/Barry).
+Dr. Beckwith requested a motion to open the Tax Hearing.  Ms. Patterson moved to open the hearing and it was seconded by Ms. Barry.
+TAX HEARING
+Laura Taylor presented the following.
+Missouri State Statute requires that a public hearing be held prior to the Library Board setting the 2021 tax rates. The four subclasses of property are residential, agricultural, commercial, and personal property. As in prior years, the required legal notice must be published in one newspaper or in a minimum of three branch locations at least seven days prior to the date of the hearing. The attached notice appeared at all the branches on August 9, 2021.
+The tax hearing gives the public the opportunity to present their comments about the Library’s tax rates. The agenda for the meeting is attached.
+The setting of the 2021 tax rates will take place at the September Library Board meeting.  Updated post Board of Equalization assessments for 2021 will be used to set the tax rates and will be available in September. Tax rates must be set prior to October 1, 2021.
+There were no public comments for the Tax Hearing.
+ADJOURN FOR TAX HEARING
+Joan Barry made a motion to adjourn the Tax Hearing and resume regular meeting. Ted Sanditz seconded. Board members unanimously voted to approve the motion.
+REGULAR MEETING RESUMED
+PUBLIC COMMENTS
+There were no patrons with comments to bring before the Board.
+TREASURER'S REPORT
+Laura Taylor presented the July Treasurer's Report.
+Maintenance and Operating Fund Financial Statements:
+Revenue
+	Fines & Fees – In July, the Library District received Fines & Fees revenue in the amount of $9,296.  This includes charges for lost materials, damaged items, and fees paid for non-resident cards.
+Expense
+· Memberships – In July, the Library District incurred $32,846 in Memberships expenses.  This includes $29,652 paid to Mobius for annual membership & assessment fees.  This membership provides Library patrons with access to over 60 million items through a shared catalog with academic, special and public libraries.
+Expense
+· Capital Improvements – In July, the Library District incurred $276,553 in Capital Improvements expenses.  Notable expenses are as follows:
+o $266,657 for furniture at Eureka Hills – CI Select
+o $6,660 for administrative professional services at Eureka Hills – Landmark Contract Management, Inc.
+Capital Projects Fund Financial Statements
+Balance Sheet – 2016 Debt Issuance
+	Construction in Progress – Total Construction in Progress for July 2021 was $1,321,380.  The expenses included payments for:
+		Pay Application from Interior Construction Services for the construction performed through June 2021, at the Lynn Beckwith Jr. Administrative Building for $1,128,529.
+		Architectural professional services performed by the Lamar Johnson Collaborative through June 2021, at the Lynn Beckwith Jr. Administrative Building and Ladue Branch for $150,849.
+		Facilities Master Plan Administrator payment of $25,290.
+		Engineering professional services performed by Geotechnology at the Lynn Beckwith Jr. Administrative Building for $14,582.
+The Library Board approved the August Treasurer's Report subject to audit (Sanditz/Wang).
+DIRECTOR'S and CEO’S REPORT
+Ms. Sorth reported the following.
+Library Update
+	Ms. Sorth shared the Dashboard report for July. Total circulation in July, 2021 was 70% higher than July, 2020; however, circulation continues to be 21% lower this month than July of 2019, pre-pandemic.  The Library continues to see increases in patron visits.  July of 2021 had the highest number of visitors since February of 2020.  Meal distribution has increased by 51% over last month with Florissant Valley distributing the highest number of meals with 15,737 meals distributed.  Information on PC usage, new patron registrations, virtual programming attendance and the most popular titles for the month are also included.  (Plan: Promote Literacy 1.1 and 1.2)
+	She said Administration continues to evaluate our programs and services during the pandemic.  We have returned to "Masks Recommended" signage for the public. Employees are still required to wear masks. We have kept the "Masks Required" signs in storage and will reinstate them if something changes in St. Louis County. We have made a decision that we will not be moving forward with in-person programming in September. In-person programs presented by outside organizations or individuals will not take place for the rest of 2021. There may be exceptions made for author visits or other events at HQ-only but those will be evaluated and planned on a case by case basis. Unfortunately, as part of this decision, we are delaying the Career Online High School graduation that was planned for October.  We feel that this is in the best interest of the students and their families.  At this time, in-person programs presented by Library employees are also on hold indefinitely but could resume later this year. We will not open at additional branches on Sundays. The original plan, which is now on hold, was to return to Sunday hours at all of the branches that were previously open on Sundays pre-pandemic by October 1 at the latest. Also, we have no immediate plans to allow outside groups to start reserving meeting rooms. (Plan: Maximize Access 2.4)
+	Ms. Sorth said September will bring some enhancements to the Library’s partnership with the St. Louis Area Diaper Bank.  Grand Glaize will be added as a fifth branch that can distribute diapers, joining Florissant Valley, Lewis & Clark, Natural Bridge, and Weber Road.  This addition will help us better address the need for diapers by families throughout St. Louis County.  The second important change in the partnership with the Diaper Bank is that we will now become a monthly distributor of diapers to families who need them.  Prior to this, branches could only provide a one-time emergency supply of diapers to a family.  Under the new arrangement, the Library will be able to provide a supply of diapers each month for families.  These changes, along with the announcement of a diaper drive at all 20 SLCL locations, will be publicized at the beginning of September in recognition of Diaper Need Awareness Week.  Also, the Library will be honored as one of the Diaper Bank’s Champion of Change awardees during their Gala in October.  We are thrilled to be recognized. (Plan: Sense of Community 2.1)
+	She said the Request for Qualifications (RFQ) for social workers will be posted in the next few weeks.  The Library submitted the “Community Resource Initiative” proposal to the Children’s Services Fund earlier this year and it was accepted for funding.  The goal of the initiative is to better meet the needs of the community and patrons who visit the Library.  Funding for this project, which will span two years, comes largely from the Children’s Services Fund; however, the Library and the Foundation are also supporting this program.  Through the RFQ process, we will contract with a behavioral health case management and social work organization to provide five professional social workers who will serve primarily at Florissant Valley, Lewis & Clark, Natural Bridge, Rock Road, and Weber Road.  Patrons from other branches may also utilize this service. (Plan: Sense of Community 1.4)
+	As mentioned previously, Ms. Sorth said the Library has agreed to be the organizer of the St. Louis Storytelling Festival starting in 2022.  The Festival was previously organized and sponsored by the University of Missouri Extension.  They were seeking a new home for the Festival and reached out to us and we accepted.  The Library and the Foundation will work together to financially support the Festival.  We recently met with representatives of the St. Louis Storytelling Festival to learn more about the program and its history.  In recent years (pre-COVID), the Festival, featured more than 100 events at 50 or more sites annually.  It has been presented in the St. Louis region for more than 40 years.  Library employees have developed and discussed many new ideas to infuse into the programs while honoring the traditional roots of the Festival.  The team will have support from the University of Missouri Extension and other organizations during the transitional time.  It is projected that the first iteration of the Storytelling Festival under the care of SLCL will be offered in October 2022. (Plan: Promote Literacy 1.2)
+	Grant’s View and Florissant Valley branches hosted school readiness vaccination events on July 27 and July 29.  The event presented an opportunity for school aged children and teens to get the vaccinations required for the grade they were entering in school.  Most children and teens were eligible for these services at no cost.  SLCL worked with the Visiting Nurses Association to offer the clinics.  Unfortunately, despite considerable promotion, very few children attended. (Plan: Sense of Community 2.1)
+	Ms. Sorth said the new round of promotions for the Tap In Center at Florissant Valley will launch on September 6.  Administration plans to focus on a transit advertising campaign with placements at Metro bus shelters and Metrolink Stations.  Promotional information will also be displayed inside Metro buses. The ads will be placed across north and south routes to ensure a broad range of coverage.  Ms. Sorth visited the Tap In Center last week.  The Center, which focuses on St. Louis County residents, often assists individuals from the City and St. Charles County as well, with warrant recalls, other legal matters and referrals to social service organizations.  Kim Gardner, the Prosecuting Attorney for the City of St. Louis and Sarah Phillips, the Pretrial Services Coordinator, for the City visited the Center.  They had many questions about how this could work with the 22nd Judicial Court in the City of St. Louis.  We were also honored that Lee Lawless, the recently retired and legendary Head Federal Public Defender, visited the Center.   (Plan: Maximize Access 3.2)
+	The Library is working with the St. Louis County Election Board to promote the I Voted Sticker Design Contest. The Communications Department has created a website and entry form, as well as flyers and other graphics to promote the contest, which runs September 27-October 15. Several SLCL staff members will be helping to judge the contest. (Plan: Maximize Access 1.4)
+	Drive-thru Meal service ends on August 20 when the federal waiver granted during the pandemic ends as in person school resumes.  A modified version of After School Meals will begin on August 23 at eight branches (Florissant Valley, Indian Trails, Lewis & Clark, Natural Bridge, Prairie Commons, Rock Road and Weber Road).  Shelf stable “Grab and Go” meals, provided by Operation Food Search, will be offered to patrons as they leave the building.  Because of the pandemic, we worked with OFS on a process that limits the instances of people eating the meals inside our branches. (Plan: Sense of Community 2.1)
+	She reported that staff have been working hard to support the unhoused in our branches including working with a non-profit to create more Comfort Kits that contain personal care items and socks.  She said she also reached out to the Regional Response Team for advice because the Library has seen an increase in both the numbers and severity of the unhoused patrons.  Branch Managers, Public Service Administrators, Eric and I had a very informative call with several representatives that support these efforts in the City and the County.  As a result, we are now a member of the St. Louis County Continuum of Care (CoC).  The mission of the CoC is to promote a collaborative community-wide response to prevent, respond and end homelessness in St. Louis County by offering a full array of housing and support services to persons experiencing a housing crisis.  Alaina Culbertson, the Library’s Neighborhood Branch Administrator, will represent the Library on the CoC. (Plan: Sense of Community 2.2)
+	The summer series of Virtual Book Buddies ended July 14. It was expanded to three sessions to accommodate more participants. Seventy-eight kids and 61 teens participated in the six-week program, held on Zoom. Pairs were placed in breakout rooms for read aloud practice, and teens earned volunteer hours. (Plan: Promote Literacy 2.1)
+		Parent/Caregiver survey feedback:
+			Kylie is starting to read chapter books now due to book buddies. She is very excited to participate every week.
+			My 7-year-old has really enjoyed this program as her first year using it. It has given her more confidence in her reading ability and her book buddy has been fantastic with her.
+		Teen survey comments:
+			I would totally recommend this program to my friends. Getting to know a little kid and their family was really exciting. I really enjoyed when my buddy and I would read a book and his whole family was listening. It was really fun when we would laugh and enjoy the books. I enjoyed playing games and helping enhance my little buddy's knowledge. The time I spent reading and helping my little buddy read was really great and I hope that more people would get an experience like that.
+			It was very exciting to speak to little kids every week. They just have the most infectious positivity; it really makes my day.
+			I definitely would because it's a fun and rewarding way to obtain service hours, but also an impactful volunteer opportunity because you are helping out kids with reading.
+	Ms. Sorth announced that winners for the 2021 Bookmark Contest have been selected in the four age categories. The winning designs will be printed and distributed at the branches sometime this fall. The Library received 469 total entries for the contest this year. (Plan: Sense of Community 2.3)
+	The Youth Services and Adult Services Departments will be hosting a Bicentennial Challenge for the month of August. As of August 9, we had 933 registrants. All ages can participate. Participants will need to complete at least five activities to be entered in an electronic prize raffle. Example activities include: Read a book about a famous Missourian, Visit the Missouri History Museum, Listen to an episode of the Our Missouri podcast, presented by The State Historical Society of Missouri, Visit an SLCL Library Location and find the Missouri History Section to Find the Secret Code.  Adult Services is hosting two virtual programs during the month of August to recognize Missouri’s Bicentennial. About 150 people attended the Virtual Program: Revisiting the Missouri Compromise 200 Years Later on August 5 presented by the National Park Service. Tonight, library employees from Adult Services, Indian Trails and Meramec Valley will also present the Virtual Program: Mark Twain’s Literary Legacy. That virtual program has almost 300 registrants. (Plan: Promote Literacy 3.4)
+	Virtual chess instruction will be presented by the St. Louis Chess Club. Sessions will be held for seven weeks starting the week of October 4 and run through the week of November 15. These sessions are for ages 8-14.  This was funded by a donation from Citi. (Plan: Maximize Access 1.4)
+	The Virtual Little Readers Festival is scheduled for Saturday, September 25. There are three virtual programs scheduled throughout the day. Families with children aged 0-5 can also visit their branch to pick up a free book that day. (Plan: Promote Literacy 1.2)
+	The 3-D Design Challenge will be held in October with submissions being accepted September 1 through September 30. Designers ages 10 and up can use their favorite software to create a 3-D model of an animal. The top design in each age group will receive a 3-D print of their design. (Plan: Promote Literacy 3.4)
+	She said Headspace will be available to Library patrons starting today. We are the only library in Missouri offering public access to Headspace, the meditation and sleep app. The Headspace app provides guided meditations, playlists, video workouts and more to help navigate daily stress. There are also tools to help with sleep, focus and mindfulness. (Plan: Promote Literacy 1.1)
+	Starting on September 10 in celebration of Welcoming Week, adults 18 and older will be invited to submit their original video or audio stories for inclusion in the St. Louis County Library immigration story collection. The collection will appear in the Library’s eMedia collection within Biblioboard, an online collection of works available to all participating Missouri libraries. (Plan: Sense of Community 1.1)
+	The Library will have a booth at Pride is Alive.  The event will take place on August 28 and 29 in the parking lot of Ballpark Village.  Library employees will hand out information about library programs and services. (Plan: Maximize Access 3)
+	She said the Library continues to provide vital services to the region.  Here is a chart that shows our accomplishments as of July 16.  We are so thankful to the many community partners who have reached out to us to provide additional items to be distributed through our drive-thru meal sites. We have added Rental Assistance and COVID testing and vaccinations to the chart.  (Plan: Sense of Community 2.1)
+	There were many mentions of the St. Louis County Library in the local media in print, radio and television.  Those articles were shared. (Plan: Maximize Access 3)
+	Pictures from various events and programs that have taken place over the last month were shared with the Board including: Born to Read Bag Assembly, the MetroMarket at Lewis & Clark, In the Branch Highlights, Drive-Thru Meals Finale at Weber Road.  (Plan: Promote Literacy 3.4 and Sense of Community 2.1)
+Library Administrative Updates
+	Ms. Sorth said Hicks-Carter-Hicks has completed the ten Community Conversations focus groups as of July 28. They will be using information gathered from the meetings to inform the development of a survey tool to be distributed to 500 community members within the next month. After the information from the survey has been tabulated, they will begin to write up their findings.  (Plan: Sense of Community 1.1)
+	The Black History Celebration committee will sponsor “Get the Scoop” from 6 -7 p.m. on Thursdays, September 2 at Florissant Valley, September 9 at Natural Bridge, September 16 at Lewis & Clark and September 23 at Indian Trails. Free scoops of ice cream will be distributed to the first 100 patrons. Magnets reminding attendees of the Black History Celebration in 2022 and books from the St. Louis Black Authors of Children’s Literature will also be distributed to attendees. (Plan: Sense of Community 2.3)
+	Ms. Sorth said she is thrilled to be joining the Board of the University City Children’s Center/LUME.  The mission of UCCC/LUME is to partner with families of diverse backgrounds to nurture the growth and development of their children through inclusive, innovative, high quality care and education. In addition, they have a growing reputation as a thought-leader in early childhood education and human development. UCCC’s innovation and creative thinking in the classroom drive the continuous improvement of their program, evolving into the LUME Approach.
+	Ms. Sorth said the Missouri Chapter of the International Women's Forum has extended an invitation for her to join their chapter. She said she has enthusiastically accepted.  The St. Louis Chapter of the International Women's Forum has approximately 70 members who serve or have served in significant leadership positions across the region.  IWF is truly an international organization with chapters on almost every continent and a roster of accomplished corporate, government and non-profit women leaders.
+	The 2022 Holiday Schedule was shared with the Board. The schedule was established and approved many years ago and is included in the Library’s Personnel Manual.  The Library has added the Juneteenth Holiday as a permanent holiday.  The Library Board approved adding Juneteenth as a holiday at the March 2021 Board Meeting.
+Library Construction and Facility Updates
+	Ms. Sorth said that Ameren Electric will replace their pad transformer at Florissant Valley. The work will take place after hours and at no cost to the Library. (Plan: Maximize Access 2.4)
+	On Friday August 20, the final walk-through and handover of keys will take place at the old Eureka Hills building. The actual lease expires on August 25.
+	Administration is discussing the steps involved with moving the people and the centralized library functions that they support out of Headquarters and into the Lynn Beckwith Jr. Administration Building in the Spring of 2022.   This will be an organized, coordinated and staged move that will attempt to limit the amount of disruption to the system.  However, we are very realistic and know that some disruption will take place.
+	Efforts are underway in ITS to place an early order for the networking equipment which will be installed in the new server room at the Lynn Beckwith Jr. Administrative Building.  Due to chip shortages, the lead-time on networking equipment orders are extensive. (Plan: Promote Literacy 3.3)
+	ITS held a preliminary planning meeting with the Library’s network integrator.  ITS is working on a detailed plan to aid in moving the Library’s network backbone and server room to The Beck. (Plan: Promote Literacy 3.3)
+Library Foundation
+	Ms. Sorth announced that the Gala will be a Fund-The-Need event this year as it was last year.  The virtual event will run August 23-27, 2021.  The event will culminate with a parking lot food truck event at HQ.  The Food Truck event will start at 5:00 pm on August 27.  There will be six food trucks participating in the event.
+Author Events (Plan: Promote Literacy 1.2)
+The Library has Livestream author events and recordings with the following authors. They are posted on our website as well as the HEC Facebook link - facebook.com/hectv and then archived at hecmedia.org. We are promoting on our social media and sending eblasts that direct patrons to the HEC sites. HEC has also started simultaneously premiering the virtual author events on their TV channel to expand access to those individuals who do not have reliable internet access. (Plan: Promote Literacy 1.3)
+	Brittany K. Barnett, author of "A Knock at Midnight: A Story of Hope, Justice, and Freedom," Monday, August 16, 2021 7:00 p.m. Virtual on www.facebook.com/STLCoLibrary.  In conversation with Beth Huebner, University of Missouri-St. Louis - Professor of Criminology and Criminal Justice
+	 Martha Ackmann. author of “These Fevered Days,” Wednesday, August 18, 2021, 7:00 p.m., Virtual on Facebook.com/STLCoLibrary
+	Jean Becker, author of “The Man I Knew: The Amazing Story of George H.W. Bush’s Post-Presidency,” - Westfall Politics & History Series - Wednesday, August 25, 7:00 p.m. Video premiere:  www.facebook.com/STLCoLibrary.  Books available for purchase from Left Bank Books.
+	Leonard Slatkin, the Grammy Award-winning, Conductor Laureate and former Music Director for St. Louis Symphony Orchestra, will discuss the release of his third book, “Classical Crossroads: The Path Forward for Music in the 21st Century” with CEO and General Manager at Classic 107.3, John Clare, Monday, September 13, 2021, 7:00 p.m.
+		Guests will enjoy a live performance by Leonard Slatkin of Leroy Anderson - "The Typewriter" (arr. Woehr), a pre-recorded performance of Charles Ives "Variations on America" (arr. McCall) and a live string quartet performance by Chamber Music Society of St. Louis. The proceeds from this event will benefit the St. Louis County Library Foundation and the Chamber Music Society of St. Louis.
+	Peter Baker and Susan Glasser, authors of “The Man Who Ran Washington: The Life and Times of James A Baker, III” - in conversation with Senator John Danforth - Westfall Politics & History Series - Wednesday, September 8,. 7:00 p.m. - Virtual on Facebook.com/STLCoLibrary
+	David Nasaw, author of “The Last Millions: Europe’s Displaced Persons from World War to Cold War” - in conversation with historian John C. McManus - Westfall Politics & History Series -Wednesday, Sept. 15, 7:00 p.m. - Virtual on Facebook.com/STLCoLibrary
+	Children’s Virtual Event: Amy Timberlake, author of “Egg Marks the Spot: Skunk and Badger #2” - Sunday, September 19, 2:00 p.m. - Virtual on Facebook.com/STLCoLibrary
+	Teen Children’s Event: Adrienne Young, author of “The Last Legacy” - Sunday, September 26, 2:00 pm - Virtual on Facebook.com/STLCoLibrary
+	Bill Schutt, author of “Pump: A Natural History of the Heart’ - Medical Arts Series - Thursday, September 30, 7:00 p.m. - Virtual on Facebook.com/STLCoLibrary
+Deborah Patterson asked how the social workers would work in the library system. Kristen Sorth responded that we will have a case manager and it will be advertised. Discussion ensued. Ms. Sorth said we currently don't offer COVID testing.
+OLD BUSINESS
+NONE
+NEW BUSINESS
+CONSTRUCTION UPDATE
+Steve Hunter, Assistant Director of Operations, reported that framing is taking place at the Beck Building. Completion of the roof is temporarily delayed due to a backorder of some materials. Brick has arrived. Windows are in.
+Ladue City Council is meeting today and will review the presentation on replacing the Ladue building.
+SNOW REMOVAL & LOT TREATMENT
+On July 19, 2021, Library Administration issued an RFP for Snow Removal and Lot Treatment at all Library locations. The RFP was directly emailed to sixteen companies including the only W/MBE firm providing the service, posted on the SLCL website, and advertised in the St. Louis Post-Dispatch. Responses were due August 5, 2021. One firm, BSR Services Inc., responded.
+BSR is the current contract holder for this work. Building Systems has been satisfied with their communication, responsiveness, and quality of work. As part of their response to the RFP, BSR included a rate sheet that includes pricing for manpower, equipment, and materials.
+Snow removal services are performed as-needed and payments are made only when services are completed. This work is included in the approved 2021 Library budget for $170,000. Actual expenditures year-to-date total $133,555, with $36,445 remaining for the calendar year.
+Library Administration recommends that the Library Board select BSR Services Inc. to provide the service of Snow Removal and Lot Treatment to the Library District, and that it authorize the Director to enter into and execute a 3-year contract to that effect. The Board approved the recommendation (Patterson/Sanditz).
+BOILER REPLACEMENT AT FLORISSANT VALLEY BRANCH
+Steve Hunter, Assistant Director of Operations, reported the following.  On July 19, 2021, Library Administration issued an RFP for Boiler Replacement at the Florissant Valley Branch. The RFP was directly emailed to thirteen companies, posted on the SLCL website, and advertised in the St. Louis Post-Dispatch. At least two online plan rooms picked up the RFP and posted it for their members. Responses were due August 5, 2021. Three firms responded:
+			Company
+			Boiler
+			Exhaust
+			Total
+			American Boiler & Mechanical
+			$89,675
+			$11,986
+			$101,661
+			Integrated Facility Services
+			$98,975
+			$17,780
+			$116,755
+			Rock Hill Mechanical
+			$111,791
+			(incl.)
+			$111,791
+Replacing the exhaust was included in the RFP as an alternate bid item, since it will not be known until the work begins if a complete replacement is necessary.
+Administration and Building Systems have thoroughly reviewed the proposals and agree that American Boiler & Mechanical has provided the lowest and best response to the RFP.
+This work is included in the approved 2021 Library budget for the amount of $100,000.
+Library Administration recommends that the Library Board select American Boiler and Mechanical to provide the service of Boiler Replacement at the Florissant Valley Branch. The Library Board approved the recommendation (Wang/Sanditz).
+LIBRARY BOARD ORGANIZATION
+Kristen Sorth said that per the Library Board's Bylaws, officers of the Board will need to be elected to serve for the next twelve months. She asked for nominations.
+Johnny Wang moved that all office holders retain their positions for another year.  Deborah Patterson seconded.  All voted for approval.  The Library Board officers will retain their current positions through August 2022 (Wang/Patterson).
+LIBRARY BOARD MEETING DATES 2022
+Kristen Sorth reported that the Library Board approves meeting dates for the subsequent year each August. The following dates were submitted.
+Library Board                                   Pension Board
+January – No meeting                         January 24
+February 7                                           April 18
+March 21                                             July 18
+April 18                                               October 17
+May 16
+*June 21
+July 18
+August 15
+**September 26
+October 17
+November 21
+December 19
+Unless otherwise stated, all meetings will be held at Headquarters per the Library Board Bylaws and will start at 3:30 p.m. Due to the COVID-19 Pandemic, Board meetings may be held virtually. The Tax Hearing is held in August each year. The Pension Board is scheduled to meet at 2:45 p.m. unless otherwise noted.
+*This is a change from Monday to Tuesday.
+**This is a change from the 3rd Monday to the 4th Monday.
+The Administration recommends approval of the 2022 Board meeting dates and locations as presented. The Library Board approved the dates (Barry/Sanditz).
+BOARD BYLAWS (CODE OF ETHICS)
+Kristen presented. State Statute provides that the Board may approve an ethics policy governing the filing of disclosure reports every two years. The approved policy must be sent to the Missouri Ethics Commission by September 1st. The attached resolution outlines the Library Board’s commitment to the proper operation of the Library District through a Code of Ethics, including the filing of financial disclosure reports.
+Library Administration recommends approval of the attached resolution as reviewed by the attorneys at Lashly & Baer. The Library Board approved the Bylaws (Sanditz/Barry).
+RECIPROCAL BORROWING AGREEMENT
+We would like to expand the benefits of reciprocal lending to additional counties that closely border St. Louis County.  I have recently talked with the library directors from the Jefferson County Library, Scenic Regional Library and the Washington Public Library about creating a reciprocal lending agreement with each of their library districts.  Currently, those residing within these library districts must purchase a $50 non-resident card (per household) to check out materials at the St. Louis County Library.  Likewise, residents of St. Louis County must purchase a non-resident card with these districts to receive library services. There are currently 1,608 individual library cards issued in these three districts.  Some of the card holders reside in the same household and only pay for one card.  The total revenue received from the residents in these three library districts is $16,034, which is only .026% of the Library’s Budget.  We believe that the benefits of reciprocal lending far outweigh the loss of revenue.
+All three directors have agreed to bring this proposal to their library boards in August.   Three separate agreements are attached.  These include one for the Jefferson County Library, one for Scenic Regional Library and one for Washington Public Library.  The counties covered by this agreement include Jefferson, Franklin, Gasconade, and Warren.  The City of Washington, MO has their own library district that operates within Franklin County.  This is a similar arrangement to ours with the Municipal Library Consortium in St. Louis County.  The agreements were drafted by Lashly Baer.
+The effective date of agreement is September 1, 2021, which will allow each Library to present the document to their board of directors at their August Board Meetings and to inform their residents.
+Library Administration recommends approval of separate Reciprocal Lending Agreements with the Jefferson County Library, Scenic Regional Library and the Washington Public Library with an effective date of September 1, 2021. The Library Board approved the recommendation (Patterson/Barry).
+ADJOURNMENT
+Ted Sanditz moved to adjourn the meeting.  Deborah Patterson seconded.  All voted with voice approval.  Aye: Lynn Beckwith, Ted Sanditz, Joan Barry, Johnny Wang, Deborah Patterson
+The meeting adjourned at 4:18 p.m.
+Respectfully submitted,
+_____________________                                                      ______________________
+Joan Barry                                                                               Date
+Board Secretary

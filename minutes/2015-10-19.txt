@@ -1,0 +1,139 @@
+{
+  "name": "Regular Meeting",
+  "description": "Library Board",
+  "unique": "9SGRZZ6FEA21",
+  "date": "2015-10-19T00:00:00Z"
+}
+
+---
+
+ST. LOUIS COUNTY LIBRARY DISTRICT
+	MEETING OF THE BOARD
+	HEADQUARTERS BRANCH
+	MONDAY, OCTOBER 19, 2015
+	The monthly meeting of the Board of the St. Louis County Library District was held at Headquarters, 1640 S. Lindbergh Blvd., St. Louis, MO 63131 on Monday, October 19, 2015 at 3:30 p.m. The agenda had been posted in all branches of the Library District at least 24 hours before the meeting.
+	ATTENDANCE:
+	Library Board Members:
+	Dr. Lynn Beckwith, President
+	Edith Cunnane, Vice President
+	Elena Kenyon, Treasurer
+	Steve Sachs, Member
+	Dr. Chingling Tai had an excused absence.
+	ADMINISTRATORS AND GUESTS ATTENDING:
+	Kristen Sorth, Library Director; Barbara Brain, Assistant Director, Adult & Support Services; Barbara Turkington, Assistant Director, Advancement; Gib Van Cleve, Assistant Director, ITS; Eric Button, Assistant Director, Branch Services; Tom Curran, St. Louis County; Scott Kolath, Landmark Construction Management; Kort Cove, S.M. Wilson; Brian Mee, SM Wilson and  Lisa Stump, Attorney, Lashly Baer.
+	Others attending:
+	Amy Hanaway, Anna Schurk, Sarah Wood, Stacey Lewis, Jake Eubanks, Keir Haug, Michael Cohen, Matt Lakin, Hannah Komasinsky, Lisa Haddox, Kris Mooney, Alaina Culbertson, Emily Althoff, Steve Hunter, Tracy Fletcher, Jennifer McBride, Tiffany Davis, Julia Mangner, Scott Holl, Anna Huckeby, Cindy Schultz, Aaron Ellis, Cindy A. Miller, Paul Bayless, Gina Sheridan, Marsha Ramey, Marie Conlin, Barb Reale, Nicole Clawson, Stephanie Nordmann, Kathy Wiese, Susan Bushnell, Rachel Nowell, Anne Arthur, Donna Spaulding, Erin Magner, Maureen Willmann, Megan Coyle, Natalia Catlett, Deanna Dedeke  and Sandy Williams.
+	MINUTES
+	The Library Board approved the minutes from the September 21, 2015 meeting (Cunnane/Kenyon).
+	PUBLIC COMMENT
+	There were no public comments.
+	TREASURER'S REPORT
+	Kris Mooney reported that the Library District received $36,837 for E-Rate rebates in September. The rebates are the first to be received for the funding year 2014/2015. Most rebates will be received by the end of October and are expected to be equal to, or exceed, the budgeted amount of $266,991.
+	The project to repair the walls of the brick staircase near the Mid-County Branch entrance was completed in September. The cost for the repairs included new hand rails and totaled $44,290. The Board approved this project at the December, 2014 meeting.
+	The Library District incurred $24,127 in IT equipment expense in September. The purchases were primarily to replenish the inventory of staff and public computers.
+	The Library District made the second of two annual interest payments on the Certificates of Participation issued in April of 2013. The interest payment totaled $913,826.
+	Capital Projects Fund Balance Sheet
+	Total Construction in Progress for September 2015 was $3,947,915. The expenses included payments for:
+	·         Grant’s View construction (payable to many sub-contractors) - $1,065,215
+	·         Lewis and Clark construction (payable to many sub-contractors) – $578,403
+	·         Building renovation construction expenses - $1,153,477
+	·         Professional services of the Construction Manager - $217,485
+	·         Technology for all Phase I buildings - $146,545
+	·         Furniture for all Phase 1 buildings - $203,510
+	·         The remaining dollars were largely spent for the services of the Facilities Master Plan Administrator, storage expenses, Architect fees, and environmental professional services.
+	The Library Board approved the Treasurer's Report subject to audit (Sachs/Cunnane).
+	DIRECTOR'S REPORT
+	Kristen Sorth mentioned that, at Marie Conlin’s suggestion, she will begin listing the strategic plan item that coincides with the actions detailed in her Director’s Report.
+	Library update
+	·         Ms. Sorth said that the dashboard report for October contains a variety of statistical information for the Library. This month the report includes information about circulation and visits. With five branches closed, circulation dropped 9% over September 2014. This month, the report also includes information about programming and visits. Two branches, Daniel Boone and Tesson Ferry, reached the 1 million circulation mark for 2015. Tesson Ferry has seen a dramatic increase in circulation and program attendance so far this year. Ms. Sorth said that there are some interesting statistics listed on the dashboard that give a glimpse into the work involved in opening a new or renovated branch. The most popular items in the collection are also included on the dashboard. The dashboard report was shared with the Board.
+	·         Although not an official partner in the White House ConnectED Library Challenge, Hancock Place School District moved quickly to ensure that every student in the district of approximately 1,500 children had a library card. Hancock Place joins Parkway and Jennings School Districts in the Library Challenge to place a library card in the hands of every student. Six hundred fifteen new cards were created for Hancock Place and delivered to the school last week. Cards will be distributed at parent teacher conferences next week. Student information was imported electronically from school data directly into the Library's patron database greatly streamlining the card creation process. Parkway School District recently submitted more than 16,000 records, with an expected 10,000 cards to be issued to students. The Library staff are still working with the Jennings School District on implementation. After examining our experiences this school year, we plan to approach additional school districts for the 2016/2017 school year. (Plan: Strengthen Sense of Community 3.3.2).
+	·         SELF-e is a collaboration between Library Journal and BiblioBoard that gives local authors an avenue for getting their eBook(s) into the St. Louis County Library's eBook collection. We will officially launch SELF-e on October 24, just in time for National Novel Writing Month (NaNoWriMo) but it is available now via a link on our Books, eMedia and More web page. Authors can submit their eBook for inclusion into one of two collections: Library Journal's SELF-e Select collection or the Indie Missouri collection. LJ's SELF-e Select submissions go through a rigorous curation process by Library Journal. Titles accepted into LJ's SELF-e Select collection are available to libraries nationwide. If not chosen for LJ's SELF-e Select collection, the eBook can be included in the Indie Missouri collection, available to all participating Missouri libraries. The Library will be offering writing workshops at many branches to celebrate NaNoWriMo. (Plan: Increase Literacy 1.2.3 and 1.2.4).
+	·         During the summer, the Library began offering emergent literacy books as part of the Library’s strategic plan. This collection of 127 titles contains books for adult new readers or adults with limited reading skills. Often these individuals have a difficult time finding adult reading material in public libraries. We will track statistics on the usage. (Plan: Increase Literacy 2.3.3).
+	·         The History & Genealogy Department has been offering genealogy classes for the public at HQ for some time and, in September, began offering monthly classes at Thornhill, Florissant Valley, and Grand Glaize. Topics include Beginning a Genealogical Research Project and classes on specific genealogy databases. The response has been very positive, especially at Florissant Valley where 28 people were on a waiting list for the September 19 Introduction to Ancestry database class. An extra class was scheduled for October 10 to accommodate the demand. So far 11 classes have been offered with a total attendance of 98. (Plan: Strengthen Sense of Community 2.3.3).
+	·         The Library is partnering with Washington University on a Science in St. Louis series that is starting this month. Local researchers will be discussing their work at these programs. Seventy people attended the first event at Florissant Valley on October 13th. The topic was Engineering Biology and Energy from the Sun. There are two more events in the series: Ancient Lesson for Modern Times: An Environmental History of the Yellow River, China will take place at Mid County on November 10th and An Introduction to Carbon Capture, Utilization , and Storage will be presented at Jamestown Bluffs on December 8th . (Plan: Strengthen Sense of Community 2.3).
+	·         The Library has 20 Finch Robots on loan from Birdbrain Technologies. The Finch is a robot used for computer science education. Its design is the result of a four year study at Carnegie Mellon's CREATE lab. The Finch is designed to support an engaging introduction to the art of computer programming. It has support for over a dozen programming languages and environments including several environments appropriate for students as young as eight years old. The Finch was designed to allow students to write richly interactive programs. The loan program originally started for schools and this year was expanded to libraries. The developers believe “libraries play a crucial role in bridging the learning gap between home and school and providing broad access to innovative resources.” Emily McIlvoy, Teen Services Coordinator, demonstrated some of the functions of the Finch for Board members. Each branch will have a robot that will be used for STArt at Your Library programs and other teen events. (Plan: Increase Literacy 3.1.3).
+	·         In December, the Library will host a discussion and author event in partnership with the St. Louis Chapter of the Alzheimer’s Association. Exploring Alzheimer’s: Views from Daughters and Sons will feature local authors who have turned their experiences into books about the subject. The Vice President of Programs for the Alzheimer’s Association will join the panel moderated by Robyn Boyce from Magic 108 and KETC Channel 9. The event will take place at HQ. (Plan: Increase Literacy 3.4).
+	·         Author Rick Riordan was at the Library on Tuesday, October 13th. There were 900 very happy young fans to listen to his presentation. He also answered questions from the audience and talked about his upcoming books. (Plan: Increase Literacy 1.2).
+	·         We will start sending “We Miss You” emails to patrons who have not used their library cards in three months or more. Ms. Sorth said that she recently read an article about another library’s experience with doing this and the emails brought 13,000 people back to the library. Their statistics show that many of the patrons checked out material when they visited. Communications is working on content and a graphic for the email. (Strengthen Sense of Community 1.1 and 1.2).
+	·         Ms. Sorth said that there were many mentions of the St. Louis County Library in the local media in print, radio and television. Several articles were shared with the Board. Ms. Sorth also said that Jennifer McBride did a fantastic job promoting the opening of Lewis and Clark. (Plan: Strengthen Sense of Community 1.2).
+	·         Photographs from several programs and events were shared with the Board including: Rick Riordan, Dr. Damon Tweedy and Senator Danforth at HQ, STArt Arrt Attack at HQ, Toddler Drive In at Cliff Cave and Teen Reading Month Stop Animation at OB.
+	Library Employee Update
+	·         Ms. Sorth stated that branch and department managers and assistant managers are working on performance appraisals for library employees.
+	·         265 employees received a flu shot on October 8 and 9.
+	·         Kelly Bono and Joe Rice were elected by Library employees to serve a four year term on the Library’s Grievance Committee.
+	Library Facility Update
+	·         Ms. Sorth said that Lewis and Clark’s soft opening to the public on Wednesday, October 14th was fantastic. There were people waiting at the door when it opened. Invitations have been mailed for the grand opening on October 30, 2015. (Plan: Create Gathering Spaces).
+	·         There is a massive team effort involved in preparing the branches to open to the public. As the next five branches open over the next several months, staff will be repeating their efforts at each location. We will also begin to close the next round of branches beginning in December.
+	 Library Foundation
+	·         The Sachs Reading Garden opened on Friday, October 9, 2015. Ms. Sorth said that the garden is beautiful and patrons are already beginning to spend time there. The shade structure is scheduled to be installed in November. (Plan: Create Gathering Spaces 3).
+	·         Ms. Sorth also noted that the Library Foundation gala was a huge success with 375 attendees.
+	Author Events
+	·         St. Louis County Library Foundation presents Theresa Brown, author of “The Shift: One Nurse, Twelve Hours, Four Patients’ Lives,” Wednesday, October 28, 7:00 p.m., Library Headquarters – Auditorium.
+	·         St. Louis County Library Foundation presents Elizabeth George, author of “A Banquet of Consequences,” Wednesday, November 4, 7:00 p.m., Library Headquarters – Auditorium.
+	·         St. Louis County Library Foundation presents Charlotte DeCroes Jacobs, author of “Jonas Salk: A Life,” Thursday, November 5, 7:00 p.m., Library Headquarters – Auditorium.
+	·         St. Louis County Library Foundation presents Betty Caroli, Author of “Lady Bird and Lyndon: The Hidden Story of a Marriage that Made a President,” Monday, November 9, 7:00 p.m., Library Headquarters – Auditorium.
+	·         St. Louis County Library Foundation presents Garry Kasparov, author of “Winter is Coming: Why Vladimir Putin and the Enemies of the Free World Must Be Stopped,” Tuesday, November 10, 7:00 p.m., Library Headquarters – Auditorium.
+	·         St. Louis County Library Foundation presents T.J. Stiles, author of “Custer’s Trials: A Life on the Frontier of a New America,” Thursday, November 12, 7:00 p.m., Library Headquarters – Auditorium.
+	OLD BUSINESS
+	NONE
+	NEW BUSINESS
+	CONSTRUCTION UPDATE
+	Steve Hunter reported that shelving has been installed at Jamestown Bluffs and the branch should be ready to reopen to the public in a couple of weeks. Shelving is also being installed at Indian Trails and Grant’s View and those branches should reopen in November and December respectively. Mr. Hunter showed photographs of the interiors and exteriors of the current construction projects and indicated that he would present the bid packages for the five Phase 1B(B) branch renovation projects later in the meeting.
+	DIVERSITY GOALS - BRANCH RENOVATIONS AT SACHS, OAK BEND, NATURAL BRIDGE, PRAIRIE COMMONS AND CLIFF CAVE
+	Kristen Sorth reported that 14 work packages would be presented to the Library Board for renovations at five branches – Samuel Sachs, Oak Bend, Natural Bridge, Prairie Commons, and Cliff Cave. Ms. Sorth explained that the bid process involved a review by the Library, Landmark, and S.M. Wilson, as to whether the packages meet the diversity goals of 15% for minority owned businesses and 5% for women owned businesses outlined in the Library’s Diversity Statement. Good faith efforts went beyond those required in the Library’s policy and included advertisements, notifications, conversations, meetings and outreach that began in summer and continued to the day of the public bid opening. A letter from S.M. Wilson describing these efforts in more detail was shared with the Board.
+	Ms. Sorth stated that the work packages, including minority goals, were released on September 16, 2015 with responses due on October 8, 2015. A summary of the responses received as well as the minority percentages indicated for each low bidder was shared with the Board. All bidders were required to submit a Good Faith Effort Statement detailing their attempts to include diversity in their bid proposals. An analysis of the bids was shared with the Board detailing the total construction amount for each work package as well as the percent and the amount of construction dollars paid to a minority or woman owned business for each work package.
+	 The total percent of construction awarded to minority owned businesses is 4.9% and the total amount for women owned businesses is 5.3%. Ms. Sorth said that, although the Administration is disappointed that the goal for minority owned businesses was not reached, a significant Good Faith Effort was made by all involved to encourage minority participation. There are several contributing factors to the percentage of minority participation on this project including the construction environment in the region with several very large projects that have their own diversity requirements combined with a limited number of minority owned businesses in certain construction areas.
+	Ms. Sorth said that she, along with Dr. Beckwith and Steve Hunter, has attended several meetings to discuss the diversity goals and that the Library, Landmark and S.M. Wilson will continue to emphasize the Library’s Diversity Statement and will monitor and encourage minority workforce participation which goes above and beyond the goals of the Library’s policy on this and all future projects.
+	CONTRACTS AND CONTINGENCY FOR CONSTRUCTION OF FIVE 1B(B) BRANCH RENOVATIONS
+	Steve Hunter recommended that the Library Board approve the lowest and best bid on 14 work packages for the five Phase 1B(B) construction projects. Mr. Hunter presented the responses for each individual work package for the Board’s approval and also explained that there would be a separate recommendation for a project contingency.
+	Work Package #1 – Demolition / Abatement
+	The Library Board approved the selection of the lowest and best bid from Demien Construction at $452,765(Sachs/Kenyon).
+	Work Package #2 – Cast-in-Place Concrete & Flatwork
+	The Library Board approved the selection of the lowest and best bid from Vee-Jay Cement at $298,910(Cunnane/Sachs).
+	Work Package #3 – Masonry
+	The Library Board approved the selection of the lowest and best bid from John Smith Masonry at $208,744(Sachs/Kenyon).
+	Work Package #4 – General Works
+	The Library Board approved the selection of the lowest and best bid from Kozeny Wagner at $2,965,000 (Sachs/Kenyon).
+	Work Package #5 – Roofing & Sheet Metal
+	The Library Board approved the selection of the lowest and best bid from Lakeside Roofing at $171,942(Sachs/Cunnane).
+	Work Package #6 – Glass & Glazing
+	The Library Board approved the selection of the lowest and best bid from Budget Glass at $940,740 (Kenyon/Sachs).
+	Work Package #7 – Drywall, Framing, Fireproofing, Insulation, EIFS
+	The Library Board approved the selection of the lowest and best bid from Wies Drywall at $1,137,000 (Cunnane/Kenyon).
+	Work Package #8 – Tile & Flooring
+	The Library Board approved the selection of the lowest and best bid from Flooring Systems Inc. at $545,835(Cunnane/Kenyon).
+	Work Package #9 – Acoustical Ceilings
+	The Library Board approved the selection of the lowest and best bid from Friend Acoustical Ceilings at $202,646(Cunnane/Kenyon).
+	Work Package #10 – Painting
+	The Library Board approved the selection of the lowest and best bid from Dannix at $97,629(Sachs/Cunnane).
+	Work Package #11 – Fire Protection
+	The Library Board approved the selection of the lowest and best bid from Bi-State at $223,500 (Kenyon/Cunnane).
+	Work Package #12 – Plumbing
+	The Library Board approved the selection of the lowest and best bid from Gateway Mechanical at $455,800(Cunnane/Sachs).
+	Work Package #13 – HVAC
+	The Library Board approved the selection of the lowest and best bid from MCI at $849,230(Sachs/Kenyon).
+	Work Package #14 – Electrical
+	The Library Board approved the selection of the lowest and best bid from Briner at $2,270,237 (Kenyon/Cunnane).
+	Contingency
+	Mr. Hunter presented Administration’s request for approval of a contingency fund for this project with a total value of $1,691,254. This includes $91,254 for permitting and $1,600,000 for unforeseen conditions, design errors and owner requested changes. The spending of this contingency fund will be approved by Kristen Sorth, Library Director or Steve Hunter, Manager of Construction & Facilities as needed during the execution of the project. The accounting of the expenditures against the contingency fund will be regularly reported back to the Library Board.
+	The Library Board approved the project contingency fund totaling $1,691,254(Cunnane/Kenyon).
+	SMOKING POLICY
+	Barbara Brain presented a revised Smoking policy for the Board’s approval. Ms. Brain reported that the policy has been expanded to specify that the Library’s ban on smoking extends to the use of electronic cigarettes and smokeless tobacco. This language is consistent with the smoking statement in the Library Code of Conduct. Ms. Brain also mentioned that the revised policy had been reviewed by legal counsel. A copy of the policy statement with all changes tracked and also a clean copy were shared with the Board.
+	The Library Board approved the revised Smoking Policy (Sachs/Cunnane).
+	COLLECTION DEVELOPMENT POLICY
+	Barbara Brain also presented a revised Collection Development policy for the Library Board’s approval. Ms. Brain stated that the Collection Development policy as a whole was last reviewed and approved by the Library Board on April 19, 2009.
+	Ms. Brain explained that the revised policy is a streamlined version of the existing policy and that emphasis has been placed on the philosophy and scope of the collection as well as on our selection criteria. The policy emphasizes the fact that collection development supports the priorities of the Library's strategic plan and that patron use is a powerful influence on the collection. The revised policy also states that collection development facilitates access to electronic resources and original electronic content. Specific details such as the minimum number of copies we purchase, the list of selection tools or sources, and the language referring to the various collections (adult fiction, adult non-fiction, etc.) have been removed. Procedural information of this nature will be included in a Collection Development Guidelines document. Ms. Brain stated that the revised policy had been reviewed by legal counsel and the existing and revised policy statements were shared with the Board.
+	The Library Board approved the revised Collection Development Policy (Sachs/Cunnane).
+	INSURANCE BROKERAGE SERVICES
+	Kris Mooney presented the Library Administration’s recommendation for approval of the selection of The Daniel and Henry Company to provide insurance brokerage services for the Library District.
+	Mr. Mooney explained that the Insurance Broker is responsible for seeking insurance coverage for the Library District in many areas including Property and Casualty, Earthquake, Directors and Officers, and Worker’s Compensation. The Library District has contracted with its current Insurance Broker, A.J. Gallagher & Company, since 2004. A Request for Qualifications was sent to twenty area Insurance Brokerage firms, including two from the Missouri Minority/Women Business Enterprise Program. Responses were received from five Brokers. Kristen Sorth, Mary Arnhart, and Kris Mooney independently reviewed and ranked all five proposals. Fees were reviewed after the ranking per the Library’s policy. A list of the firms that submitted bids along with their corresponding fees was shared with the Board.
+	Dr. Beckwith requested that future selections for services that are not the lowest bid should include a detailed written explanation for the record.
+	The Library Board approved the selection of The Daniel and Henry Company to provide insurance brokerage services at a cost of $20,000. This is in accordance with the Library District’s Policy II for Professional Services. (Cunnane/Kenyon).
+	DIVERSITY AND INCLUSION TRAINING
+	Mary Arnhart presented the Administration’s recommendation to select United Way to provide diversity and inclusion training services for Library District employees.
+	Ms. Arnhart reported that the Library had received a grant to assist with the funding for diversity and inclusion training and the Administration requested the submission of qualifications from qualified firms to provide this training. A Request for Qualifications (RFQ) was issued on August 28, 2015 with responses due on September 14, 2015. Five firms responded and their proposals were independently reviewed and ranked by Kristen Sorth, Mary Arnhart, and Matt Lakin. Fees were reviewed after the ranking per the Library’s policy. A list of the firms that submitted bids along with their corresponding fees was shared with the Library Board.
+	The Library Board approved the Administration’s recommendation to select United Way to provide diversity and inclusion training to the Library District at a cost of $14,900. This is in accordance with the Library District’s Policy II for Professional Services. The 2016 Library Budget includes $15,000 for diversity and inclusion training. The grant was for $11,250. The Library will pay $3650 for the training which is the difference between the fee and the grant (Kenyon/Cunnane).   Dr. Beckwith abstained.
+	ADJOURN
+	Edith Cunnane moved that the meeting be adjourned.  Steve Sachs seconded the motion.  All agreed with voice approval.  The meeting adjourned at 4:46 p.m.
+	Respectfully submitted by,                                                                 Date
+	__________________________                                                        ___________________                      Chingling Tai

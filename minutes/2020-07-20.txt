@@ -1,0 +1,254 @@
+{
+  "name": "Regular Meeting via Zoom",
+  "description": "Library Board",
+  "unique": "BL3MGZ5AC7C0",
+  "date": "2020-07-20T00:00:00Z"
+}
+
+---
+
+ST. LOUIS COUNTY LIBRARY DISTRICT
+MEETING OF THE BOARD via ZOOM
+1640 SOUTH LINDBERGH BLVD.
+MONDAY, JULY 20, 2020
+3:30 p.m.
+ATTENDANCE:
+Members present:
+Dr. Lynn Beckwith, President
+Johnny Wang, Vice President
+Laura Horwitz, Secretary
+Ted Sanditz, Treasurer
+Joan Barry, Member
+ADMINISTRATORS AND GUESTS ATTENDING: Kristen Sorth, Director and CEO; Eric Button, Deputy Director; Barbara Turkington, Assistant Director, Administration; Gib Van Cleve, Assistant Director, ITS; Steve Hunter, Assistant Director, Operations; Lisa Stump, Lashly and Baer.
+OTHERS ATTENDING: Sandra Williams, Executive Assistant.
+MINUTES
+The Library Board approved the June 15, 2020 minutes (Barry/Horwitz).
+PUBLIC COMMENTS
+Executive Assistant Sandra Williams was asked to read the comments submitted from patrons. She read for the 30 minutes allowed by the Board. Comments were received from the following people:  Asim Thakore, Kelly Willis, Julia Singley, Aimee Ubriaco, Alexa Drouin, Andrew Bono, Anette Martison, Artemis Burkemper, Briget Zarrick, Celeste Schilly, Clifton Henderson, Danny Sallis, Tara Dolan, Elyse Mack, Eric Alexy, Erica Garcia, Geneva Lee, Gianna Metzger, Grace Tedder, Isabella Bamnolker, Joe Dill, Kelly Bono, Michelle Chicoineau, Monica Millien, Nick Puleo, Olivia Fair, Ruby Mae, Reid Ellerbrake, Sarah Eisenman, Sarah Staebell, Scott Woods, Ulaa Kuziez, Xander Lunte, Heidi Budd, and Claire Koster.
+REPORTS
+TREASURER'S REPORT
+Director and CEO Kristen Sorth, delivered the Treasurer's report.
+Maintenance and Operating Fund Financial Statements:
+Revenues
+	State Grants – In June, the Library District received a grant payment of $1,602 from the State of Missouri.  This is the final payment of the $5,340 Spotlight on Literacy Grant used to disseminate early literacy kits to Parents as Teachers educators.
+	Other Grants – In June, the Library District received $2,775 from ProLiteracy for the Job Skills for ALL project.  The project aims to conduct learning groups with ProLiteracy using their courses.  This is the first of two payments anticipated.
+Expenses
+	Other Library Supplies – In June, the Library District incurred $18,252 in Other Library Supplies expenses.  Notable expenses were as follows:
+		$4,731 for floor signage to enhance COVID-19 distancing practices at branches – Insite Solutions LLC
+		$4,151 for bags used at drive-through meals book giveaway – Halo Branded Solutions
+		$2,668 for curbside pickup bags – ULINE
+		$2,600 for face masks for employees – KDK Technology
+Expenses
+	Building Repair – Other – In June, the Library District paid Kozeny-Wagner, Inc.  $67,844 as part of the Teen Area Renovation at the Natural Bridge branch.  This project is jointly funded by the Library and Emerson.  It is included in the 2020 budget at an estimated cost of $150,000.
+Capital Projects Fund Financial Statements
+Balance Sheet – 2016 Debt Issuance
+	Construction in Progress – Total Construction in Progress for June 2020 was $76,761. The expenses included payments for:
+		Construction costs for Mid County - $70,386
+		Facilities Master Plan Administrator - $6,375
+The Library Board approved of the July 20, 2020 Treasurer's Report subject to audit (Barry/Sanditz).
+DIRECTOR'S REPORT
+Director and CEO Kristen Sorth, delivered the Director’s report.
+Library Update
+	Ms. Sorth reported that on June 19th, the Library opened all 20 branches with limited capacity and services.  Hours of operation are Monday - Thursday 9:00 a.m. - 6:00 p.m. and Friday - Saturday 9:00 a.m.-5:00 p.m.  Visits are limited to 60 minutes per patron.  Patrons 9 years and older are required to wear a mask.  Free masks are available for patrons who need one.  Additional safety measures include:
+	Maximum occupancy is restricted per location (see table below).
+	All library usage will be limited to a maximum of 60 minutes.
+	Limited numbers of computers available (see table below).
+	Computer usage will be limited to a maximum of 45 minutes.
+	Other than chairs at computer tables, there will be no seating for patrons.
+	Copying, scanning, faxing, and retrieval of printouts will be performed by employees on behalf of patrons.
+	Public restroom access will be limited to one patron at a time.
+	Discovery Zones will remain closed.
+	In-person History and Genealogy services will be offered by appointment only. Other History and Genealogy services will be offered via email, phone, and virtually.
+She said in accordance with recommendations from St. Louis County, and in recognition of best practices established by other public libraries, we have set our maximum occupancy numbers for each building at a level that ensures adequate social distancing and provides a reasonable ability for employees to assist patrons during their visits.
+			Building Capacity Limits
+			Public
+			Computer
+			Limits
+			Bridgeton Trails
+			15
+			8
+			Cliff Cave
+			15
+			8
+			Daniel Boone
+			20
+			10
+			Eureka Hills
+			6
+			2
+			Florissant Valley
+			20
+			10
+			Grand Glaize
+			15
+			8
+			Grant’s View
+			20
+			8
+			Headquarters
+			20
+			10
+			Indian Trails
+			15
+			8
+			Jamestown Bluffs
+			15
+			8
+			Lewis & Clark
+			20
+			20
+			Mid-County
+			15
+			8
+			Meramec Valley
+			15
+			6
+			Natural Bridge
+			20
+			20
+			Oak Bend
+			15
+			8
+			Prairie Commons
+			15
+			8
+			Rock Road
+			15
+			8
+			Samuel C. Sachs
+			15
+			8
+			Thornhill
+			15
+			8
+			Weber Road
+			15
+			8
+Ms. Sorth said curbside service continues to be available. This contact-free service allows patrons to reserve and pick up materials at all 20 locations. Curbside hours are: Monday through Thursday from 1:00-6:00 p.m.; Friday and Saturday from 1:00-5:00 p.m.  Library employees have approached reopening with grace, kindness and a focus on service to the community.  They are fantastic!  We remain in close contact with the County Health Department and are prepared to roll back services in the event that the guidelines become more restrictive.  (Plan: Maximize Access 2.4)
+	She said the Library continues to provide vital services to the region.  Here is a chart that shows our accomplishments as of July 16th.  We are so thankful to the many community partners who have reached out to us to provide additional items to be distributed through our drive-thru meal sites.  Since the June Library Board meeting, we have added gun locks, outdoor kits and masks.  (Plan: Sense of Community 2.1)
+	This month, Ms. Sorth said the Dashboard reflects several interesting statistics including the top branches for curbside, a breakdown of the circulation methods used by patrons, and views for our virtual author events.  Total circulation for June 2020 reached 793,291. That is almost 45% lower than June 2019.  eMedia circulation in contrast was 34% higher than eMedia circulation in June 2019.  Other interesting statistics include a 7% increase in holds placed by patrons and a 33% increase in holds picked up by patrons.  Virtual programming continues to be extremely popular.    (Plan: Promote Literacy 1.1)
+			Top Program Views for Adult and Youth Services
+			Date posted
+			Department
+			Title
+			People Reached
+			April 4
+			Youth Services
+			Virtual Story Time with Jess
+			5284
+			June 5
+			Adult Services
+			Native St. Louis Plants
+			6459
+			Virtual Programming Views by Platform
+			April 13 - July 16
+			Facebook views
+			47058
+			74.09%
+			Instagram views
+			15548
+			24.48%
+			Zoom attendees
+			912
+			1.44%
+			Total people reached
+			63518
+			100.00%
+			Virtual Program Count by Platform
+			April 13 - July 16
+			Facebook
+			41
+			Instagram
+			30
+			Zoom sessions
+			75
+			Total
+			146
+			Virtual Programs - Monthly Reach
+			April
+			16047
+			May
+			17512
+			June
+			19696
+			July 1-16
+			10263
+			Total people reached
+			63518
+	Administration made the decision to cancel all in-person programs presented by outside performers through the end of 2020.  We have also made the decision to cancel all in-person programs presented by Library employees through the end of October.  When possible, the Youth and Adult Services Departments will work with both external performers and employees to present virtual programs as an alternative. (Plan: Maximize Access 2.4)
+	The Bookmobile Department has been working hard to safely support the region by providing materials for several assisted living and senior centers, summer camps and preschools who have requested service.  On July 31 and August 1, attendees of Florissant’s Valley of the Flowers event will see SLCL Bookmobile staff at their first community outreach event since reopening. Visitors can browse carts stocked with all types of books that can be taken home for free as the material will come from the Sweet Reads collection. Display tables will provide patrons with helpful information about library services and library cards will be made onsite. Staff will be practicing social distancing and have all the necessary cleaning essentials on hand. On August 22, Bethesda Temple Church is hosting a drive-thru event. Bookmobile staff will bundle Sweet Read materials for kids, teens, and adults and will be placing the bundles in attendees' vehicle trunks. (Plan: Promote Literacy 1.1)
+	Art Snacks, which are art and activity kits, will be distributed at Florissant Valley, Lewis & Clark and Weber Road.  The kits will be distributed along with the meals. The kits were made possible with support from First Bank in the amount of $3600. The distribution of 16,000 kits will begin July 20 and continue through at least August 7. (Promote Literacy 3.4)
+	Ms. Sorth said the Library is partnering with the Women’s Voices Raised for Social Justice “Lock it for Love” program to provide gun safety information and gun locks at several branches.  Florissant Valley, Lewis & Clark, Natural Bridge and Weber Road will have the gun locks available every Monday in July from 10:00 a.m.-12:00 p.m. The distribution will be completely managed by the organization. (Plan: Sense of Community 2.1)
+	The Missouri Environmental Education Association is spearheading a collaboration to pilot the inclusion of outdoor, nature-based learning kits with COVID-19 food relief efforts. Missouri Foundation for Health facilitated this project by connecting MEEA with Operation Food Search and the Library.  Including outdoor learning kits alongside food distribution will provide opportunities for kids to connect with nature in ways that support mental and physical health and provide opportunities for learning.  The project will consist of 6300 learning kits distributed at all ten of our branches that provide drive-thru meals.  Partners from across Missouri and beyond are curating three different themed kits --2100 of each-– to be distributed on July 13, July 27 and August 10. Children and families will receive activity ideas and materials in each kit related to one of the themes: Outdoor Play, Food & Pollinators, and Observing & Nature-Journaling.  The St. Louis County Library Foundation is providing a book to be included on the final day of distribution.  (Plan: Sense of Community 2.1 and Promote Literacy 3.4)
+	She said the issue of absentee and mail-in voting has been discussed as a way to keep elections safe in 2020.  We have developed a plan to offer these services at various branches by utilizing volunteers.  In addition, we have been asked by the St. Louis County Board of Elections to assist with the process by designating the Mid-County Branch as an Absentee Voting Site which will open Thursday, July 23, 2020 and close August 3, 2020 at 5:00 p.m. The voting site will also be open two Saturdays prior to the election, July 25 and August 1, 2020, 9:00 a.m. - 1:00 p.m. Free notary services will be available at select St. Louis County Library branches in July as part of a partnership between the Library, the Jewish Community Relations Council of St. Louis and the National Council of Jewish Women, St. Louis.  Individuals using an absentee or mail in ballot for the August 4 election can bring their ballot, along with a photo ID to the library for free notary services. A complete schedule follows.  (Plan: Maximize Access 1)
+HQ - July 20 and 27, 9:00 a.m. - 6:00 p.m.
+WR - July 21 and 28, 9:00 a.m. - 6:00 p.m.
+NB - July 22 and 29, 9:00 a.m. - 6:00 p.m.
+LC - July 23, 9:00 a.m. - 6:00 p.m.
+HQ - July 24, 9:00 a.m. - 5:00 p.m.
+NB - July 25, 9:00 a.m. - 5:00 p.m.
+	She reported that all but one participating hospital in St. Louis County has requested that we resume providing Born to Read bags for new families.  We paused due to COVID concerns in March.  Employees from the Youth Services Department are assembling bags and making the deliveries curbside at six hospitals:  DePaul, Mercy, Mercy South, St. Clare, St. Luke’s, St. Mary’s. (Plan: Promote Literacy 2.1)
+	Ms. Sorth said that all St. Louis County Department of Public Health contacted us about providing free masks at all twenty of our branches.  This request coincided with the mask requirement that was implemented by St. Louis County and St. Louis City.  We began distribution on July 6.  To date, we have distributed over 80,000 masks. (Plan: Sense of Community 2.1)
+Library Administrative and Construction Updates
+	Ms. Sorth announced that Laura Taylor, the Library’s new Chief Financial Officer will start on Monday, August 10. Most recently, Laura was the Managing Director of Finance and Controller for the St. Louis Science Center.
+	Sixteen library locations will serve as polling sites for the August 4th primary and will likely also serve as polling sites for the November general election. We have been discussing how to approach this in a way that keeps both voters and employees safe.  The Library Board will review a recommendation later in the meeting. (Plan: Maximize Access 2.4)
+	We are placing an order for additional Plexiglas shields that will be installed in the branches and HQ at public service stations. (Plan: Maximize Access 2.4)
+	Ms. Sorth reported that two branches, Natural Bridge and Weber Road, have employees that tested positive for COVID.  We are following County guidelines and are quickly notifying employees and the public.  The branches have closed to allow time for all employees to be tested and for an outside company to clean and disinfect the building. (Plan: Maximize Access 2.4)
+	The Library purchases wide area network and internet services from Charter Spectrum. Over the course of the past 4 years, several billing discrepancies arose between the Library and Charter. This complicated billing environment occurred for several reasons. Charter acquired Time Warner and migrated their customers to a new billing system. At the same time, the Library was stopping and restarting various Charter services due to the “Your Library Renewed” renovation efforts. The Library protested several billings and working closely with our Charter representative withheld several payments. Several efforts by Charter to identify refunds owed to the Library started and stalled during the past 4 years. Recently the reconciliation effort was completed. The Library received credits of over $11,000 and paid past due billings of over $86,000.
+	Ms. Sorth will be hosting four town hall meetings to give employees an opportunity to discuss having police officers in our branches.  I am also hosting a town hall meeting with managers.  Currently, officer hours have been reduced dramatically due to a decrease in the hours we are open to the public.  Additional reductions in hours have been discussed with managers at branches with off duty officers due to the relatively small amount of patrons that are coming inside our buildings.
+	The St. Louis County Library received a Moonshot Award in the Collaboration category for our work during COVID with Operation Food Search and the St. Louis Area Diaper Bank.  Launch Code presents these awards each year. (Plan: Maximize Access and Impact 1.3)
+Library Foundation
+	Citi, who regularly supports the Foundation, reached out with an opportunity for the Foundation to widen its profile to the readers of the St. Louis Business Journal. Normally, the Business Journal specifically targets small businesses. However, due to COVID-19 there are non-profits experiencing a downshift in revenue streams. Randy Weller, a Senior Vice President at Citi, recognized this lapse and thought exposure in the St. Louis Business Journal would be beneficial for the Foundation.
+	She said the Library was recently notified of the following grant awards from Citi:
+		Partnership with Oasis for Tutoring.  This year it has shifted online - $10,000
+		Partnership with Eye Thrive to provide a mobile vision clinic at several branches - $10,000
+	The Foundation’s annual Gala will take place online this year during a Fund the Need Week taking place from August 29 – September 4.  The Advancement Team is working with the Foundation Board on creatively hosting this major fundraising initiative.
+Author Events for July and August (Plan: Promote Literacy 1.2)
+We have Livestream author events and recordings with the following authors. They are posted on our website as well as the HEC Facebook link - facebook.com/hectv and then archived at hecmedia.org. We are promoting on our social media and sending eblasts that direct patrons to the HEC sites.
+	Hilary Davidson, author of “Don’t Look Down,” Wednesday, July 22, 2020, 7:00 p.m. on Facebook.com/hectv
+	Anne Applebaum, author of “Twilight of Democracy,” Friday, July 24, 2020, 7:00 p.m. on Facebook.com/hectv
+	Alice Wong, author of “Disability Visibility,” Tuesday, July 28, 2020, 7:00 p.m. on Facebook.com/hectv
+	Karin Slaughter, author of “The Silent Wife,” Wednesday, August 5, 2020, 7:00 p.m. on Facebook.com/hectv.
+	Lisa Woodruff, author of the “Paper Solution: what to shred, what to save, and how to stop it from taking over your life.” Virtual Video premiere: August 6, 7:00 p.m. on Facebook.com/hectv
+	Fiona Davis, author of “The Lions of Fifth Avenue,” Video premiere: Monday, August 10, 2020, 7:00 p.m. on Facebook.com/hectv
+	Jill Orr, author of “The Full Scoop,” Thursday, August 13, 2020, 7:00 p.m. on - Facebook.com/hectv.
+	Aimee Bender, author of “The Butterfly Lampshade,” Monday, August 17, 2020, 7:00 p.m. on Facebook.com/hectv
+OLD BUSINESS
+NONE
+NEW BUSINESS
+CONSTRUCTION UPDATE
+Steve Hunter, Assistant Director of Operations, reported on the ongoing construction of Eureka Hills. Mr. Hunter anticipates the completion of the building in the spring of 2021. Plans for the Admin Building on Spoede Road continue to evolve. Mr. Hunter anticipates appearing before the Board with a recommendation to start construction in the fall of this year. The architects have been in contact with the City of Frontenac on a regular basis. The Architecture Review Board met on July 16. The Library’s architects are presenting to the Planning and Zoning Committee on July 28.  Mr. Hunter showed renderings of the Eureka Hills Branch. He also reported that the foundation walls and the conduits are in place. They are ready to pour concrete soon. He also showed renderings of the Admin Building.
+POLLING PLACES
+Deputy Director Eric Button reported that Administration is recommending the closure of the library locations that are serving as polling places on August 4, 2020 and November 3, 2020.  With current concerns for employee and patron safety, and capacity limitations in all library buildings, it will be very challenging to offer library services at the same time voting is taking place.  Library closure on these election days will protect employees and public safety and allow for smooth operation of the polling places.  Not every location will serve as a polling place.  The Library has been informed that all locations except Eureka Hills, Rock Road, Samuel C. Sachs, and Thornhill branches will be used as polling places on August 4.  No confirmation from the St. Louis County Board of Elections has been received regarding polling places for the November 3 election.  While the public spaces at Headquarters will be closed, all other departments at Headquarters will remain open on election days and those employees will report to work.
+Library Administration recommends the closure of 16 library locations that will serve as a polling place on August 4, 2020. The branches to be closed include: Bridgeton Trails, Cliff Cave, Daniel Boone, Florissant Valley, Grand Glaize, Grant’s View, Headquarters, Indian Trails, Jamestown Bluffs, Lewis and Clark, Meramec Valley, Mid-County, Natural Bridge, Oak Bend, Prairie Commons and Weber Road.
+Library Administration is also recommending the closure of branches serving as polling places for November 3, 2020, to be determined by the Board of Elections.
+The Library Board approved both closures (Horwitz/Wang).
+CARPET CLEANING
+On June 29, 2020, Library Administration issued an IFB for quarterly carpet cleaning at all branches. The information was placed on our website and seventeen local companies, including 13 W/MBE firms, were notified directly. Bids were due on July 13, 2020. Due to restrictions placed on in-person meetings, Lashly Baer confirmed it was appropriate to conduct the public bid opening via videoconferencing. The link to the meeting was placed in the IFB. Two firms responded:
+			Firm
+			Annual Cost
+			Woodard Cleaning and Restoration
+			$91,584
+			Invisible Cleaning Services
+			$236,800
+Woodard Cleaning and Restoration currently has the contract for this service, which terminates at the end of July. Administration is satisfied with Woodard’s responsiveness and quality of work.
+Library Administration recommends the Library Board select the lowest and best bid from Woodard Cleaning and Restoration to provide carpet cleaning services to the Library District at all 20 branches for the amount of $91,584 per year, and that it authorize the Director to enter into and execute a 3-year contract to that effect. The Board approved the Woodard contract (Sanditz/Wang).
+SOUND ATTENUATION AT MID-COUNTY
+Steve Hunter, reported that the rooftop HVAC unit at the Mid-County Branch emits noise that, at times, exceeds the St. Louis County maximum allowable level of 60 decibels. Administration enlisted the assistance of the Mid-County architect (Christner, Inc.) and engineer (Ross & Baruzzini) to determine a permanent solution.
+An RFP for a Sound Attenuation Retrofit was issued on July 2, 2020. An ad was placed in the Post-Dispatch, the RFP was placed on our website and several local mechanical engineering contractors were notified directly. A pre-bid walk-through was conducted on the roof of Mid-County on July 8, 2020.
+Responses were due on July 15, 2020. One firm responded:
+			Firm
+			Cost
+			Integrated Facility Services
+			$43,140
+Integrated Facility Services (IFS) currently does work for the library district, and has worked on many branch renovation projects. Administration is satisfied with IFS’ level of service.
+Administration consulted with the project engineer regarding IFS’ proposal. Ross & Baruzzini suggested IFS provide a written guarantee that the work will meet St. Louis County sound requirements. IFS has provided that guarantee.
+Library Administration recommends that the Library Board select IFS to
+provide a Sound Attenuation Retrofit to the rooftop unit at the Mid-County Branch for $43,140
+and that the Board authorize the Director to enter into and execute a contract to that effect.  The Library Board approved Integrated Facility Services for $43,140 (Wang/Barry).
+ADJOURNMENT
+Mrs. Barry moved that the Library Board adjourn.  Mr. Wang seconded.  All approved by voice vote.  The meeting adjourned at 5:01 p.m.
+Respectfully submitted by,
+___________________________                                          _______________
+Laura Horwitz                                                                                     Date
+Board Secretary

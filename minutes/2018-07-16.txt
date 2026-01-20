@@ -1,0 +1,108 @@
+{
+  "name": "Regular Meeting",
+  "description": "Library Board",
+  "unique": "AV3QVZ66A8ED",
+  "date": "2018-07-16T00:00:00Z"
+}
+
+---
+
+ST. LOUIS COUNTY LIBRARY DISTRICT
+MEETING OF THE BOARD
+HEADQUARTERS
+1640 SOUTH LINDBERGH BLVD.
+MONDAY, JULY 16, 2018
+The monthly meeting of the Board of the St. Louis County Library District was held at the Headquarters Branch, 1640 South Lindbergh Blvd., St. Louis, MO 63131 on Monday, July 16, 2018 at 3:30 p.m. The agenda was posted in all branches of the Library District at least 24 hours before the meeting.
+ATTENDANCE:
+Library Board Members:
+Dr. Lynn Beckwith, President
+Michael Mulligan, Vice President
+Elena Kenyon, Treasurer
+Dr. Chingling Tai, Secretary
+Edith Cunnane was present via telephone
+ADMINISTRATORS AND GUESTS ATTENDING:
+Kristen Sorth, Library Director; Eric Button, Deputy Director; Barbara Turkington, Assistant Director, Advancement; Steve Hunter, Assistant Director, Operations; Kris Mooney, Assistant Director, Administration; Gib Van Cleve, Assistant Director, ITS; Tom Curran, St. Louis County; and Lisa Stump, Attorney, Lashly & Baer.
+OTHERS ATTENDING:
+Andrea Johnson, Lindsey Piech, Julie Cruise, Stephanie Nordmann, Stacey Lewis, Lauren Striebel, Marie Conlin, Katie Keeven, Sarah Brown, Jacob Eubanks, Scott Holl, Michael Cohen, Will LaChance, Nicole Higginbotham, Paul Bayless, Courtney Wood, Barb Reale, Stacy Berger, Tracy Fletcher, Lori Boschert, Chris Goodman, Kelli Reeves, Laura Kasak, Kat Van Arsdale, Cheri Remington, Deanna Davis and Sandra Williams.
+APPROVAL OF MINUTES
+The Board approved the June 18, 2018 minutes (Mulligan/Kenyon).
+PUBLIC COMMENTS
+There were no public comments.
+TREASURER'S REPORT
+Kris Mooney reported that, in June, the Library District paid Royal Gate Dodge $34,734 for the purchase of two 2018 Dodge Ram cargo vans. These vehicles are the Library District’s new senior vans. The District also purchased a wheel chair lift for each van for a total cost of $13,460. The wheel chair lifts are for loading and unloading the book carts. The Board approved the vehicle purchase at the March, 2018 meeting and both purchases were included in the 2018 Library Budget. The Library District also paid Cumulus Global $36,036 for the renewal of the District’s Google email services and support. This is the second year of a three-year contract approved by the Board at the June 2017 meeting.
+In June, the Library District received a refund check from World Wide Technology (WWT) for $33,076. The refund was for the purchase of Microsoft License upgrades to maintain and manage the Library’s Microsoft server. The state contract, from which the licenses were purchased, changed the vendor from WWT to Software House International (SHI) after the Library had purchased the licenses.  Due to the vendor change, Microsoft would not allow the Library to continue with WWT. The Library District will proceed with the purchase of these licenses as soon as possible with SHI.
+Capital Projects Fund Balance Sheet
+Total Construction in Progress for June 2018 was $1,212,640. The expenses included payments for:
+		Construction costs for Mid-County - $646,419
+		Construction costs for Meramec Valley - $71,114
+		Construction Management services for Phase 2 buildings - $185,080
+		Facilities Master Plan Administrator - $37,400
+The Library Board approved the July Treasurer's Report (Cunnane/Mulligan).
+DIRECTOR'S REPORT
+Kristen Sorth gave the following report.
+	Ms. Sorth stated that the dashboard report for July contains a variety of statistical information about circulation, visits, programming and PC usage. Ms. Sorth shared the report with the Board. With three branches closed for construction, circulation is down just 1.7%.  Daniel Boone’s circulation reached a record high of 174,171 in June. This is the highest monthly circulation total at any branch - ever! This month the report includes information about summer lunches. In June, the Library served 9,421 summer lunches, which is a 29% increase from last year. Florissant Valley has served the most children this summer. (Plan: Sense of Community 2.2)
+	The Library will be adding a new eMedia service (Kanopy) in the next several months. With the addition of Kanopy, Library patrons can stream more than 30,000 documentaries and classic and indie movies using their electronic devices.  (Plan: Increase Literacy 1.2)
+	The Library began lending musical instruments to the public on June 25. There were kickoff concerts to celebrate at Grant’s View and Florissant Valley. The addition of musical instruments to the Library’s collection has been wildly popular. All of the instruments are currently checked out and were checked out by noon on the first day they were offered. Currently, the Library has 421 patron holds on musical instruments. The ukuleles have seen the most demand followed by the acoustic guitars. The Library will be purchasing more instruments to keep up with the demand and still plan to expand the program in the fall with additional types of musical instruments. (Plan: Increase Literacy 3.4)
+	In the continuing effort to simplify procedures and remove barriers to access for our patrons, we have made several loan rule changes. The changes include raising the number of holds a patron can have from 25 to 50 and increasing check out limits from 20 to 25 for DVDs, music CDs, and audiobooks. (Plan: Sense of Community 3.1)
+	Ms. Sorth shared that the work with the Urban Libraries Council’s Libraries and Entrepreneurship Learning Cohort is progressing. SLCL submitted a work plan in June.  The plan includes the following Statement of Work: St. Louis County Library is embarking on a long-term objective to strengthen our local economy by supporting entrepreneurs in several specific populations within our community: immigrants, students, veterans, women, and minorities. To build this program strategically, the Library will begin by reaching out to our immigrant and student populations. By focusing on these relatively smaller groups, we hope to identify key elements of a successful model for approaching discrete populations within our entrepreneurial ecosystem. Building this expertise will help us refine future iterations as we continue to expand business services to our other target populations. (Plan: Increase Literacy 3.2)
+	Curbside service continues to be valuable to Library patrons, particularly to seniors and caregivers with young children. The Library has piloted the service at several branches (Grand Glaize, Daniel Boone and Cliff Cave) including both regional and neighborhood branches. In the next several months, we are planning to expand the service to more branches including Bridgeton Trails, Grant’s View, Indian Trails, Jamestown Bluffs, Oak Bend, Prairie Commons, Sachs and Weber Road. (Plan: Create Gathering Spaces 1.3)
+	Ms. Sorth announced that the Library will begin circulating strategy games for patron check out in the next several months. The Library plans to purchase around 50 games including titles such as Risk and Settlers of Catan. This service was based on a suggestion from several branches but will be implemented system-wide. (Plan: Increase Literacy 1.2)
+	Book Buddies will launch as a new initiative in the fall. The program pairs older teen volunteers with younger children who may be struggling with reading. The "book buddies" will meet weekly for 30 minutes a week for a period of six weeks. The program is designed to build confidence in the young readers and help them develop their reading abilities. The pilot program will launch at Cliff Cave and Prairie Commons. Reading sessions will be offered in the evening and on Saturdays during the six-week period. (Plan: Increase Literacy 2.3)
+	The Born to Read program has expanded to the Mercy Birthing Center for Midwifery Care. In addition, we are talking with Mercy about offering Born to Read in the main hospital. Currently, Born to Read is only offered at their pediatric clinics. (Plan: Increase Literacy 2.1)
+	There were mentions of the St. Louis County Library in the local media in print, radio and television. Those articles were shared with the Board. (Plan: Sense of Community 1.2)
+	A number of great photos were shown to the Board from several programs and events in June and July including:  Bookmobile Outreach at Kennedy Recreation Complex, Paint with Bob Ross at Daniel Boone, Sing-Along Move Party at Daniel Boone, Music and Movement at Grant’s View, Born to Be Wild at Florissant Valley, author Dr. Mona-Attisha at HQ, APA Adoption and Puppy Playtime at HQ, and Community Gardens.  (Plan: Increase Literacy 3.4 and Sense of Community 2.3)
+Library Administrative Updates
+	For the fifth year in a row, the St. Louis County Library was named a Top Workplace for 2018 by the St. Louis Post-Dispatch. The announcement appeared in the Sunday, June 24th edition of the paper. The Library was ranked 9th out of 25 "Large" companies. Staff were thrilled to receive this honor. The designation was made after Library employees were surveyed by an independent research organization. Library employees responded to questions about job satisfaction, benefits, management, training opportunities and leadership. Eighty-two percent of Library employees responded to the survey. A spotlight article about the Library will be included in the July 22 edition of the St. Louis Post Dispatch. (Plan: Strengthen Sense of Community 1)
+	The Library has reached out to employees to find those that are fluent in non-English Languages as well as Sign Language. Once identified, employees may voluntarily identify themselves to patrons as being fluent through an addition to their name badge.  (Plan: Sense of Community 1.1)
+	Ms. Sorth explained that the Library is using a vacant full-time position to add an additional position to the complement of management at Lewis & Clark. The volume of patrons as well as an increase in incidents at the branch has necessitated this addition.  Administration decided to post this position without the Master’s Degree in Library Science requirement to broaden the applicant pool. (Plan: Sense of Community 1)
+	In August, Eric Button and Ms. Sorth will be presenting a webinar about the Library’s partnership with We Stories to the Provincial and Territorial Partnership of Canada. The Partnership is Canada's national network of provincial and territorial library associations. (Plan: Sense of Community 1.2)
+	Operation Food Search and the Library submitted a proposal to present at the Library Marketing and Communications Conference that will be held in St. Louis in November.  The Library’s proposal entitled “Navigating Community Partnerships” was accepted.  Sunny Schaefer, Executive Director of Operation Food Search and Ms. Sorth will present. (Plan: Sense of Community 1.2)
+Library Construction and Facility Update
+	Ms. Sorth announced that the Grand Glaize Branch will re-open to the public at 9:00 a.m. on Thursday, September 13. The ribbon cutting will take place at 8:45 a.m. Invitations will be sent as we get closer to the date. (Plan: Create Gathering Spaces)
+	As mentioned in the 2018 Library Budget, Administration is working to add photography, which includes photos from Library programs as well as photos of St. Louis landmarks, and art to the walls of the branches that have been renovated or replaced. We have a schedule of branches and Oak Bend is the first on the list. Jennifer McBride, Kara Smith and Kelli Reeves have done a great job with this project. (Plan: Create Gathering Spaces 2.1)
+	Mother Nature provided some significant challenges for our branches and HQ in late June. Two trees came down at HQ, one of which damaged an employee’s car. In addition, several strong storms affected many of our branches from water in the Discovery Zone at Daniel Boone to power outages at Lewis & Clark and Jamestown Bluffs. The severe weather also meant that staff assisted patrons in sheltering in place at many of our branches. One pretty amazing and bright spot was the determined group of patrons hoping to attend the Library’s Slide Dancing program at Lewis & Clark. Even though the Branch was closed because the electricity was out, the group exercised outside of the branch.
+	Five red maple trees have been planted near Lewis & Clark to provide screening from cars on Highway 367 next to the branch. (Plan: Create Gathering Spaces 2.3)
+Library Foundation
+	The Library was contacted by Electrical Components International about supporting the Summer Lunch program. They will be sending an ice cream truck to all nine locations offering Summer Lunch on August 3, which is the final Pizza Friday.
+	The following grant notifications have been received since the last Board Meeting.  Congrats to all those that worked on these. It was a team effort!
+	The Dana Brown Foundation is funding Born to Read with a $20,000 grant.
+	The Opus Foundation is funding Career Online High School with a $28,550 grant.
+	The St. Louis Delta Foundation is funding Pizza Fridays/Operation Backpack for Summer Lunch with a $1,500 grant.
+Author Events
+	Scholastic Summer Reading Road Trip, Monday, July 16, 2018 5:00 p.m., Headquarters Parking Lot.
+	Jim DeFelice, author of West Like Lightning, The Brief Legendary Ride of the Pony Express, Tuesday, July 17, 2018 7:00 p.m., Headquarters.
+	Kate DiCamillo, author of Raymie Nightingale, Friday, July 20, 2018 6:30 p.m.,
+Headquarters.
+	Jill Orr, author of The Bad Break, Monday, July 23, 2018, 7:00 p.m.,
+Headquarters.
+	Lynn Vincent and Sara Vladic, authors of  Indianapolis, Wednesday, July 25, 2018, 7:00 p.m., Headquarters. Presented by the ‘Buzz’ Westfall Favorite Author Series.
+	Linwood Barclay, author of A Noise Downstairs, Tuesday, July 31, 2018, 7:00 p.m., Headquarters.
+	Sandra Thompson Williams, author of The Last Three Tickets to Heaven, Saturday, August 04, 2018, 2:00 p.m., Florissant Valley Branch.
+	Dr. Eboni January, author of Educational Athlete, Monday, August 06, 2018, 7:00 p.m., Headquarters.
+	Nancy Pearl, author of George & Lizzie, Thursday, August 09, 2018, 7:00 p.m., Headquarters.
+	Fiona Davis, author of The Masterpiece, Monday, August 13, 2018, 7:00 p.m., Headquarters.
+	Karin Slaughter, author of Pieces of Her, Monday, August 27, 2018, 7:00 p.m., Headquarters.
+NEW BUSINESS
+CONSTRUCTION UPDATE
+Steve Hunter gave a report on the progress of the branches under reconstruction. Grand Glaize is scheduled to open September 13, 2018. The renovated branch includes a 5,500 square foot expansion for children. Mr. Hunter shared that the steel has arrived at Meramec Valley, and a tremendous amount of work has been done since the groundbreaking. A “coming soon” sign will be placed at the site in the near future.
+SLCL INTERN PRESENTATION
+Intern Bri’Yana Merrell presented to the Library Board. She is an all-honors student at Hazelwood Central High School and was selected out of several hundreds of applicants for the PLA Inclusive Internship program. As part of her internship with the Library, she created a teen program that connected the Library and the community. Bri’Yana developed a program for adults and teens to better understand each other. To accomplish this goal, Bri’Yana created a workshop where teens will have one-on-one conversations with adults. The adults will come to the library to see what teen stories are available and then the teen and adult will have a conversation. Each teen would also recommend books to the adults.
+In June, Bri’Yana visited Washington D.C. and met with several other students that are also interns in the program. Elena Kenyon asked her to keep up her excellent work. Dr. Beckwith said he was pleased with her presentation.
+STRATEGIC PLAN UPDATE
+Marie Conlin gave highlights of the 2015-2018 Strategic Plan. The Strategic Plan was approved  by the Board in 2014. Ms. Conlin plans to present a draft of the new plan at the September 2018 Board meeting.
+MEMORANDUM OF UNDERSTANDING FOR MID-COUNTY AND THE GATHERING
+Steve Hunter presented the Administration’s recommendation for the Memorandum of Understanding with The Gathering.
+The new Mid-County branch is currently under construction. The Board was informed of the situation regarding Ameren’s high-voltage lines during the March 2018 meeting. Those lines are in the process of being removed and re-routed underground.
+A consequence of this re-routing is the need for new power distribution and HVAC equipment at The Gathering, a church occupying adjacent property on the east side of the branch. This will replace old equipment powered by a discontinued Ameren service. Administration consulted with Lashly & Baer and our construction partners Landmark and Brinkmann. Administration supports this equipment change and views it as the solution that is the quickest, least expensive, and least disruptive to all parties.
+It is in the Library’s best interest to ensure that once the installation is complete, the Church assumes full responsibility for the equipment and its maintenance. Lashly & Baer created a Memorandum of Understanding for this purpose. If approved, Administration plans to present the MOU to The Gathering this week.
+The Library Board approved Administration’s recommendation to authorize the Director to negotiate and execute a Memorandum of Understanding with The Gathering related to the replacement of power distribution and HVAC equipment at the church (Tai/Mulligan).
+MEETING ROOM POLICY
+Eric Button presented the Administration’s recommendation for the approval of the revisions to the Auditorium and Meeting Place policy.
+Mr. Button shared that in the May 2018 Board meeting, Kristen Sorth informed the Board of the intention to make meeting rooms available for booking to the public during normal open hours at branches that are open on Sunday. The current policy states, “Meeting rooms are not available on Sundays.” By simply removing this statement, the policy will be brought into line with the new practice. The Administration is also seeking approval to rename the policy to Meeting Room Policy. Mr. Button shared the proposed new policy with the Board.
+The Library Board approved the Administration’s recommendation for the approval of the revisions to the Auditorium and Meeting Place and approval of renaming the policy as “Meeting Room Policy.” (Cunnane/Tai)
+ADJOURNMENT FOR CLOSED SESSION
+Motion to adjourn open meeting and to convene Executive Session to discuss real estate (Section 610.021(2)); (Mulligan/Kenyon)
+The meeting adjourned at 4:21 p.m.
+Respectfully submitted,
+----------------------------------------------                        --------------------------------------
+Chingling Tai, Secretary                                                         Date

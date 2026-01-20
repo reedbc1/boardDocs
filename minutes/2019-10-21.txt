@@ -1,0 +1,98 @@
+{
+  "name": "Regular Meeting",
+  "description": "Library Board",
+  "unique": "B8HRBV659309",
+  "date": "2019-10-21T00:00:00Z"
+}
+
+---
+
+ST. LOUIS COUNTY LIBRARY DISTRICT
+MEETING OF THE BOARD
+HEADQUARTERS
+1640 SOUTH LINDBERGH BLVD.
+MONDAY, OCTOBER 21, 2019
+The monthly meeting of the Board of the St. Louis County Library District was held at the Headquarters Branch, 1640 South Lindbergh Blvd., St. Louis, MO 63131 on Monday, October 21, 2019. The agenda was posted in all branches of the Library District at least 24 hours before the meeting.
+ATTENDANCE:
+Members present:
+Dr. Lynn Beckwith, President
+Michael Mulligan, Vice President
+Elena Kenyon, Treasurer
+Dr. Chingling Tai, Secretary
+Edith Cunnane, Member
+ADMINISTRATORS AND GUESTS ATTENDING:
+Kristen Sorth, Library Director; Eric Button, Deputy Director; Barbara Turkington, Assistant Director, Development; Kris Mooney, Assistant Director, Administration; Gib Van Cleve, Assistant Director, ITS; Steve Hunter, Assistant Director, Operations; Bill Docker, Arcturis, and  David Wolff, Arcturis.
+OTHERS ATTENDING:
+Kim Ford, Tiffany Davis, Bill Docker, Nicole Clawson, Matt Lakin, Laura Kasak, Emily Althoff, Nikole Brown, Lorraine Budke, Carrie Robb, Terence McCoy, Deanna Davis, Heather Neill, Andrea Carter, Lindsey Piech, Emma Figueroa, Jennifer McBride, Julie Cruise, Jennifer Alexander, Chris Goodman, Jackie Hamilton, Mary Arnhart, Lauren Striebel, Anna Schurk, Lori Boschert, Nora Marino, Paul Bayless, Jake Beard, Rebecca Clarke, Anna Bradley, Terra Baca, Stephanie Nordmann, Marie Conlin, Erin Magner, Lisa Haddox, Jennifer Gibson, Lauren Hoerr and Sandra Williams.
+APPROVAL OF MINUTES
+The Library Board approved of the September 23, 2019 minutes (Mulligan/Cunnane).
+PUBLIC COMMENTS
+There were no public comments.
+TREASURER’S REPORT
+Kris Mooney reported that, in September, the Library District received $3,738 in grant funds from the State of Missouri. The grant funds were for the purchase of two-way radios at Cliff Cave, Grand Glaize, Indian Trails, Jamestown Bluffs, and Prairie Commons. The Library District also received $19,184 in proceeds from the sale of two Library vehicles by Enterprise Fleet Management (EFM). At the November 2018 Board meeting, the Library Board approved shifting from Library owned vehicles to leased vehicles from EFM. As the Library District converts current vehicles to leased vehicles, EFM will sell the vehicle and give the proceeds to the Library District minus a small commission.
+In September, the Library District made the second annual interest payment on the Certificates of Participation issued in April of 2013 and September of 2016. The payment amount totaled $1,956,906.
+Capital Projects Fund Balance Sheet
+Total Construction in Progress for September 2019 was $812,137. The expenses included payments for:
+		Construction costs for Mid-County - $488,185
+		Demolition and tree removal costs for the H&G and Administrative Library building - $190,066
+		Facilities Master Plan Administrator - $38,660
+The Library Board approved the September 2019 Treasurer's Report subject to audit (Mulligan/Kenyon).
+DIRECTOR’S REPORT
+Library Director Kristen Sorth gave the following report.
+Library Update
+	Ms. Sorth stated that the Dashboard Report for September contains a variety of statistical information about circulation, visits, programming and PC usage. Ms. Sorth shared the report with the Board. All of the branches are now open for the first time in over five years. Circulation is up 31% from this same time last year. Visits, PC usage, and program attendance all increased in September. This month, the Dashboard focuses on statistics for the recently opened Mid-County branch. The circulation breakdown at the branch has changed dramatically over the last several years.  In 2016, juvenile material made up 31% of Mid-County’s circulation and in 2017 that number increased to 36%. In September 2019, juvenile material made up 50% of Mid-County’s circulation which is clearly due to the enhanced children’s space and collection at the new branch. (Plan: Maximize Access 2)
+	The Library is starting a new partnership with Operation Hope to offer Lunch and Learn Workshops on topics pertaining to personal finance such as credit and money management. Operation Hope is a not-for-profit organization working to disrupt poverty and empower inclusion for low and moderate income youth and adults. The pilot for this series will be offered at Florissant Valley. In the first workshop, participants will learn about what credit is, how to create a budget, and how to read and dispute possible errors on a credit report. The first two sessions begin in December and January.
+	With the financial support of the Foundation, the Library expanded youth chess instruction to several additional locations in 2019. We currently have youth chess instruction at ten branches: Daniel Boone, Florissant Valley, Grant’s View, Jamestown Bluffs, Lewis & Clark, Natural Bridge, Prairie Commons, Rock Road, Thornhill and Weber Road.  During the first few months of the 2019-2020 school year, 415 children and teens attended.  Daniel Boone and Natural Bridge have the highest attendance. In addition, the library hosted chess instruction for adults at three branches: Daniel Boone, Cliff Cave, and Florissant Valley.
+	The Gift of Reading program is expanding both at schools and at the library. Ritenour Middle School has been added to the program so that all middle schools in the Ritenour School District will be served. Adjustments are being made to the Gift of Reading program at Normandy in response to the restructuring of school buildings in the District. As a result of these changes, the program is now offered to both preschool and kindergarten students in Normandy. Finally, the Jamestown Bluffs Branch will be added to the monthly program starting in 2020.
+	The Library has comfort kits available at every branch for patrons that are experiencing homelessness or who are in transition. The Library is partnering with a local non-profit, Helping Hand Me Downs, to provide these kits, which include a toothbrush and toothpaste, soap, deodorant, shampoo and a blanket. The Library also offers kits for children and those will include the same items and a stuffed animal.  (Plan: Sense of Community 2.1 and 2.2)
+	The new partnership with the St. Louis Area Diaper Bank has been very successful.  We hosted a diaper drive at all 20 branches during September. In total, we collected more than 28,000 diapers that were donated by Library employees and patrons. (Plan: Sense of Community 2.1)
+	The Little Readers Festival took place at HQ on Saturday, September 28 from 10:00 a.m.–1:00 p.m. Over 1,500 people attended this free event that featured a variety of activities for families. Children ages 5 and under received two free books at the event. (Plan: Promote Literacy 3)
+	Ms. Sorth shared that the Library offered a limited edition St. Louis Cardinals Library Card in September for National Library Card sign up month. We issued 3,599 new patron cards in the month of September. Of those, 1,251 selected a Cardinals card.  (Plan: Maximize Access 3)
+	The Library hosted the Savvy Senior Expo at HQ on October 11. There were 164 attendees at the event, which brought together a wide variety of nonprofit and government organizations, that provide free or very low cost services to older adults in the community. Various library departments also had tables to promote library services and programs, and employees made new library cards for attendees. History & Genealogy promoted their collection, services and programs and Library trainers had a very busy table showing off a variety of gadgets and how to use the Library's eMedia. The Library also hosted classes about consumer protection, entrepreneurship, and genealogy.
+	October is TEENtober at the Library. We are celebrating teens with special programs at all branches and HQ this month. Activities include laser tag, virtual reality yoga, escape challenges, dancing, poetry and crafts.
+	Ms. Sorth announced that the Library received a $40,000 grant from the Opus Foundation for Career Online High School. This grant funds a strategy consultant and program expenses necessary to grow the COHS program. The strategy consultant position was advertised and an individual was hired. Wendy Todd started on October 3 and will be working closely with the Adult Services Department on this project.
+	The Library’s mobile app, found in the Play Store for Android phone users and App Store for Apple phone users, has been updated in response to staff and patron feedback. There is a new feature which allows patrons to generate their library card barcode for scanning. Patrons can use this at the self-check stations at HQ and the branches. The barcode will not be scanable at the circulation desk but staff can type in the library card number appearing right below the barcode.
+	There were mentions of the St. Louis County Library in the local media in print, radio and television. Those articles were shared. (Plan: Maximize Access 3)
+	There were a number of great photos shown to the Board from several programs and events in September and October, including:  Born to Read birthday party at Prairie Commons, After School Meals at Weber Road, Pasta Patterns at Meramec Valley, Coding 101 at Prairie Commons, Book Group Speed Dating at HQ, Bollywood Zumba at Thornhill, Author Liz Phair at HQ, and Explore Outer Space at HQ. (Plan: Promote Literacy 3.4 and Sense of Community 2.3)
+Library Administrative Updates
+	In August, the Library Board selected Practical Diversity Solutions to provide diversity and inclusion training for Library employees. This training is required for all employees and will begin in November and continue through the first part of 2020.
+	The Missouri State Library is offering free access to The Homeless Training Institute (HTI) for all Missouri public and academic libraries. HTI is an online training, which instructs librarians on how to confidently and compassionately manage problem behaviors of homeless, addicted, mentally ill and traumatized individuals through empathy-driven enforcement. This approach uses psychology and empathy to increase the likelihood of patron compliance and staff effectiveness.
+	Ms. Sorth said that for many years, libraries have been charged significantly more for eBook copies than individual customers would pay. In addition, many of these titles are available to libraries with only limited access - after 24 months or after a certain number of checkouts, licenses expire and the copy must be repurchased. This summer, Macmillan Publishers escalated the struggle over library eBook purchases when they announced an eBook purchasing embargo on libraries. Beginning on November 1, 2019, libraries may purchase only one single copy of each new Macmillan title in eBook format for the first eight weeks after its release. That means that every library, big or small, will be able to offer only one eBook copy of new titles to patrons for two months. Libraries are committed to promoting literacy and a love of reading with diverse collections of materials. Macmillan’s embargo limits libraries’ ability to provide access to information for all. There is much discussion in the field about the embargo. SLCL, St. Louis Public Library and St. Charles City-County Library are collectively discussing our options and approach.
+	The Library's Employee Engagement Committee is launching a new staff recognition initiative. The objective of the “Employee of the Quarter” program is to encourage and increase staff acknowledgement through a nomination process. Over the course of a quarter, all employees have the option to nominate any employee within their branch or designated department group by filling out a simple form. At the end of the quarter, all of the nomination forms for each individual branch and department group will be gathered for a drawing. The "Employee of the Quarter" will be randomly selected from the nominations. The Manager from each branch and designated department group will draw one person to be the "Employee of the Quarter". The chosen employee will receive a button designating them as "Employee of the Quarter". This button can be worn on the employee's name badge lanyard. The chosen employee will also receive a $25 gift card or they can select a Library Logo apparel item. Employees can be nominated more than once but will only be eligible to win one time per year.
+Library Construction and Facility Update
+	With all branches now open to the public after five years of construction, Ms. Sorth said the need for a warehouse to store books and other items from branches that were closed for construction is no longer needed.  The Library is actively clearing out any remaining materials and shelving from the warehouse and will vacate the space in the next month or so.  In addition, the library is amending the agreement with “Warehouse of Stuff” to include items in the warehouse as well as the Eureka Hills Branch that are no longer needed for the Library’s purposes. As you know, the Library may dispose of surplus property and has contracted with Warehouse of Stuff throughout construction to sell surplus property at the highest price possible.
+	The stairs at Mid-County were installed incorrectly. They will be completely replaced in the next several weeks. Steve Hunter will discuss this in more detail during the construction update.
+Library Foundation
+	The Library was recently notified of the following grant award:  $3,000 from the Delta Dental Community Foundation to supplement afterschool programming during National Children’s Dental Health Month.
+	The St. Louis County Library Foundation’s annual gala took place in September. The gala raised $236,823.
+Author Events (Plan: Promote Literacy 1.2)
+	Kwame Mbalia, author of “Tristan Strong Punches a Hole in the Sky,” Monday, October 21, 2019, 6:30 p.m., Florissant Valley Branch. Doors open at 5:30 p.m.
+	Elizabeth Strout, author of “Olive, Again,” Thursday, October 24, 2019, 7:00 p.m., Headquarters. Doors open at 6:00 p.m.
+	Author Eva Chen and illustrator Derek Desierto, present “Juno Valentine and the Fantastic Fashion Adventure,” Wednesday, October 30, 2019, 6:30 p.m. Headquarters, Doors open at 6:00 p.m.
+	Ann Cleeves, author of “The Long Call,” Monday, November 4, 2019, 7:00 p.m.,
+Headquarters. Doors open at 6:00 p.m.
+	Melanie Mitchell, author of “Artificial Intelligence: A Guide for Thinking Humans,” Wednesday, November 6, 2019, 7:00 p.m., Headquarters. Doors open at 6:00 p.m.
+	Ridley Pearson and Meg Cabot, authors of graphic novels “Super Sons,” and “Black Canary: Ignite,” respectively. Event takes place Monday, November 11, 2019, 6:30 p.m., Headquarters. Doors open at 5:30 p.m.
+	Paul Hendrickson, author of “Plagued by Fire: The Dreams and Furies of Frank Lloyd Wright,” on Tuesday, November 12, 2019, 7:00 p.m., Headquarters. Doors open at 6:00 p.m.
+	Peter Caddick-Adams, author of “Sand and Steel: The D-Day Invasion and the Liberation of France,” Wednesday, November 13, 2019, 7:00 p.m., Headquarters. Doors open at 6:00 p.m.
+Dr. Beckwith received clarification that the Library engagement process was based on random selection and not quality of work.
+NEW BUSINESS
+CONSTRUCTION UPDATE
+Steve Hunter presented aerial photographs of the location of the History & Genealogy Library and Administration Building.
+The steps at Mid-County were incorrectly installed during construction.  They will be replaced in the next several weeks. This process will not cost the library anything because it was the fault of the contractor. He said Arcturis will present the designs for the Eureka Hills Branch later today in the Board meeting.  The Grant’s View entrance is now open.
+EUREKA HILLS BRANCH DESIGNS
+David Wolff, architect with Arcturis, gave a presentation on the design and landscape site plan for the Eureka Hills Branch. The building is located at the intersection of Brewster Road and Workman Road. The library will be located in the center of the property. Parking will be designed for 97 vehicles. The building is facing north and south to pull in good light. There is a large detention basin for storm water management. Floor plans of the branch were also shown. Mr. Wolff explained some challenges with the narrowness of the site, but said he felt comfortable that they were dealt with properly.
+ETSY CRAFT ENTREPRENEURSHIP PROGRAM
+Reference Manager Jennifer Gibson gave a presentation on the recent Etsy program series held at the Library.
+MEETING ROOM POLICY
+Eric Button presented Administration’s recommendation for revisions to the Meeting Room Policy.
+Administration gathered feedback from patrons, managers, and Customer Connect staff who handle many of the meeting room requests from the public. Interpretation and application of the meeting room policy can be difficult for both patrons and staff. This feedback pointed to a need to simplify the policy because of the ambiguity of certain statements. The revision eliminates unnecessary and redundant statements. The most significant change pertains to the section in the current policy, which states:
+“Businesses located within St. Louis County may use Library meeting rooms as long as no sales of products or services and no solicitations occur. The rooms are not available for informational or educational events related to the business activities of the user such as investment seminars, health seminars and retirement planning seminars.”
+Ultimately, the Library’s concern is to prevent financial transactions from happening on Library property.  The proposed change to the policy allows business persons to hold informational seminars on health, investments, and retirement planning, or any other business related activities that otherwise comply with the policy as long as no financial transactions take place on library property.
+Another feature of the proposed policy is that statements have been rearranged and grouped in sections labeled “Eligibility” and “Use and Responsibility” to make it easier for the public and staff to find particular statements.  Legal counsel has reviewed the proposed policy.
+The Library Board approved of the revisions to the Meeting Room Policy (Cunnane/Mulligan).
+ADJOURNMENT
+Motion to adjourn open meeting and to convene Executive Session to discuss real estate (Section 610.021(2)); and to discuss legal matters (Section 610.021(1)) was made by Elena Kenyon and seconded by Chingling Tai.  All others agreed by voice vote.  The meeting adjourned at 4:27 pm.
+Respectfully submitted by,
+______________________________                                    ________________
+Chingling Tai, Secretary                                                         Date

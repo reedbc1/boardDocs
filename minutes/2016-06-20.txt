@@ -1,0 +1,157 @@
+{
+  "name": "Regular Meeting",
+  "description": "Library Board",
+  "unique": "A9V24H75BD7E",
+  "date": "2016-06-20T00:00:00Z"
+}
+
+---
+
+ST. LOUIS COUNTY LIBRARY DISTRICT
+MEETING OF THE BOARD
+HEADQUARTERS
+1640 SOUTH LINDBERGH BLVD.
+MONDAY, JUNE 20, 2016
+The monthly meeting of the Board of the St. Louis County Library District was held at the Headquarters Branch, 1640 South Lindbergh Blvd., St. Louis, MO 63131 on Monday, June 20, 2016 at 3:30 p.m. The agenda had been posted in all branches of the Library District at least 24 hours before the meeting.
+ATTENDANCE:
+Library Board Members:
+Dr. Lynn Beckwith, President
+Edith Cunnane, Vice President, via telephone
+Elena Kenyon, Treasurer
+Dr. Chingling Tai, Secretary
+Michael Mulligan, Member
+ADMINISTRATORS AND GUESTS ATTENDING:
+Kristen Sorth, Library Director; Barbara Brain, Assistant Director of Adult and Support Services; Gib Van Cleve, Assistant Director, ITS; Joe Duncan, Daniel and Henry; Tom Diggs, Bond Architects; Ted Sanditz, Library Foundation Board; Lisa Stump, Attorney, Lashly Baer.
+OTHERS ATTENDING:
+Donna Spaulding, Sarah Wood, Scott Kolath, Tiffany Davis, Lisa Haddox, Roz Kohen, Natalia Catlett, Jana Byington-Smith, Steve Hibbler, Michelle Bock, Andrea Johnson, Sri Upadhya, Stephanie Nordmann, Barb Reale, Annie Fuller, Kris Mooney, Kathy Wiese, Rachel Nowell, Stacey Lewis, Cindy A. Miller, Trudy Williams Robyn Frankel, Anna Gonzalez, Anne Arthur,  Aaron Ellis, Marsha Ramey, Edith Isele, Michael Cohen, Marie Conlin, Alaina Culbertson, Keir Haug, Jen Messmer, Crystal Harris, Gina Sheridan, Jake Eubanks, Catherine Hill, Erin Magner, Maureen Willmann, Susie Bushnell, Julie Cruise, Rebecca Clarke, Paul Bayless, Scott Holl, Michelle Sawicki, Conrad Rader, Laura Kasak, Lauren Benson, Tracy Fletcher, Michael Hanson, Stacy Berger and Sandy Williams.
+MINUTES
+The Library Board approved the May 16, 2016 Board minutes (Cunnane/Mulligan).
+PUBLIC COMMENTS
+There were no public comments.
+TREASURER'S REPORT
+Kris Mooney reported that the Collector of Revenue’s office released the 2015 taxes paid under protest and the Library District received just under $5.9 million in revenue. The Library District has reached 98% of the budgeted current year tax revenue for 2016.
+$88,590 was received in May from the Highway 370 Missouri Bottom TIF District for the Redevelopment Project in the City of Hazelwood.
+Radio-Frequency Identification (RFID) tags were purchased for $30,300 from Bayscan Technologies. These supplies are generally replenished semi-annually and are placed on library materials for inventory and anti-theft purposes.
+The Library District purchased the annual maintenance for the Library’s RFID equipment for a total cost of $44,389.
+Capital Projects Fund Balance Sheet
+Total Construction in Progress for May 2016 was $1,877,716.   The expenses included payments for:
+	Branch renovation construction expenses (Samuel Sachs, Oak Bend, Natural
+            Bridge, Prairie Commons, Cliff Cave) - $1,514,032
+	Technology - $209,250
+	Branch renovation construction expenses (Rock Road, Jamestown Bluffs, Indian
+            Trails, Weber Road) - $73,055
+	The remaining dollars were largely spent for the services of the Facilities Master
+            Plan Administrator, architect fees, and environmental professional services.
+The Library Board approved the Treasurer's Report subject to audit (Tai/Kenyon).
+DIRECTOR'S REPORT
+Kristen Sorth gave the following report. She indicated that some information on the construction projects would be included in her report since Steve Hunter was unable to be present. Ms. Sorth also informed the Board that Tom Diggs from Bond architects would also report on the Phase 2 projects later in the meeting.
+	Ms. Sorth shared the monthly dashboard report with the Board. The report contains a variety of statistical information including circulation, number of visits, and programming in May.  With five branches closed for construction, May circulation is down only 3.7%. This month, the report also includes statistics about the Library’s social media and the Library app and contains a comparison of circulation trends with our peer libraries in Missouri.  It also lists the top five Missouri libraries by visits with St. Louis County Library having the most visits.
+	The summer free lunch program, in partnership with Operation Food Search, started on June 6th at Florissant Valley, Indian Trails, Jamestown Bluffs, Lewis & Clark, Rock Road and Weber Road.  From June 6 – August 12, these branches will offer a nutritious free lunch along with activities for kids from 12:00-1:00 p.m. Monday - Friday. On Fridays, kids will get pizza as a special treat.  Pizza Fridays are sponsored by the Foundation and several other donors.  So far, we have served 2260 lunches.  The first pizza day was a great success with 432 children attending.  There have been some issues with the Monday-Thursday meals that Operation Food Search is working through, including late or no delivery and an issue with their produce supplier.  (Plan: Strengthen Sense of Community 2)
+	The Summer Reading Club is underway with 32,745 registrations. Kick-off parties were held at HQ, Daniel Boone, Florissant Valley and Grant’s View.  The event at each location included an outdoor climbing wall from Upper Limits and other fun activities for families. These parties were a tremendous success with overwhelmingly positive comments from patrons.  5,056 people attended the four parties:  Grant’s View had 2000 attendees, Daniel Boone had 1910 attendees, Florissant Valley had 708 attendees and HQ had 438 attendees.  Ms. Sorth offered congratulations to all of the Library staff that made these events a success. (Plan: Increase Literacy 1.3 and 2.1)
+	Ms. Sorth said that several years ago, a patron donated a 2-volume set of Jefferson Davis's The Rise and Fall of the Confederate Government with inscriptions signed by the author. We were unsure if the inscriptions were really signed by Jefferson Davis but they have now been authenticated by Rice University, an institution that owns a large collection of Jefferson Davis papers. The set has also been appraised at $3,000.
+	The Reference Department hosted a booth at the Welcome Home Warrior Summit on May 13 and 14. The event was held at the St. Louis Community College - Forest Park Campus. The goal of the summit was to bring together and showcase a variety of community resources that can benefit veterans and their families, with an emphasis on helping veterans transition to civilian life. The Reference Department promoted library services, computer classes and resources for employment seekers to 190 people at this event. (Plan: Strengthen Sense of Community 1.2 and 2.2 and 3)
+	As mentioned previously, Ms. Sorth said the Library is working with a new non-profit called We Stories.  We Stories offers a literature-based program to help parents initiate discussions with their children about race and racism. The Library is supporting this initiative by having multiple copies of We Stories titles available in the collection.  The Library currently has 64 core and companion titles in the collection. These are identified in the Library catalog as “We Stories” to assist patrons with locating the books. The circulation statistics for these books is impressive.  The We Stories Kits will be available for patrons to check out around the second week of July.  These kits will contain a book, discussion questions and an activity for caregivers and children to work on together. (Increase Literacy 1.3 and 2.1)
+	Preparations for the 1,000 Books Before Kindergarten program is progressing.  We aim to launch the program in the middle of August to coincide with the start of the school year and immediately follow the conclusion of the Summer Reading Club.  This program, which encourages children to read 1000 books before kindergarten, is sponsored by PNC Bank.  Participants will receive prizes along the way to reading 1000 books. (Plan: Increase Literacy 2.1)
+	There were mentions of the St. Louis County Library in the local media in print, radio and television.  Ms. Sorth shared those articles with the Board. (Plan: Strengthen Sense of Community 1.2)
+	The Board was also shown a number of photographs from several programs and events including: Earn-A-Bike at Indian Trails, Born to Read Birthday Party at Bridgeton Trails, author Sherman Alexie at HQ, Gift of Reading at Rock Road, Street Drumming at Lewis and Clark, author Sidney Blumenthal at HQ, Family Concert Series; Babaloo at HQ and H20-Yeah at Grand Glaize. (Plan: Increase Literacy 1 and Sense of Community 2.3)
+Library Employee Update
+	Ms. Sorth announced that informational meetings for employees on the Deferred Compensation Plan were held in February.  At those meetings, employees expressed an interest in having additional meetings to discuss investing as retirement approaches.  That meeting will take place in August.
+	All lines of insurance for library employees will renew on August 1.  Open enrollment will take place from June 27 – July 8.  The renewals will be discussed later in the meeting.
+Library Construction and Facility Update
+	As the re-opening of the five branches currently closed for construction approaches, staff is developing plans to move materials and supplies back in to the branches and making plans for staff training.  In addition, we are working on communication plans for the public.  Ms. Sorth said that Sachs will be the first branch to re-open in July followed by Oak Bend and Natural Bridge in August, and Prairie Commons and Cliff Cave in September.  All of these projects are on schedule.  The following activities are taking place at these branches:
+	Sachs - The work is 95% complete.  The permits are imminent. Shelving and furniture will arrive in early July.
+	Oak Bend – The new entrance and parking were paved last week.
+	Natural Bridge – The lighting is installed and the contractors are starting the finishes.
+	Prairie Commons – The contractors are finishing the drywall and installing the ceiling grid.
+	Cliff Cave – The children's feature wall is mostly complete.  The large window has been installed. (Plan:  Create Gathering Spaces)
+	Ms. Sorth said that plans for the debt issuance for Phase 2 are underway.  The Library will issue the Certificates of Participation for Phase 2 of the Your Library Renewed capital improvement plan on September 19th at 10:00 a.m.  Phase 2 includes construction of one operation center, three new branches (Meramec Valley, Mid-County and Thornhill), two renovations (Bridgeton Trails and Florissant Valley), and two branches with additions (Daniel Boone and Grand Glaize).  As that date approaches, we will be engaged in document preparation and will be submitting credit packages to the rating agencies.  The July and August Board Meetings will include updates on the process as well as documents for the Board to review and approve.  The process will be similar to the debt issuance for Phase 1 that took place in April of 2013.
+	Designs for the first three construction projects in Phase 2, Bridgeton Trails, Daniel Boone and Florissant Valley, are being finalized.  Ms. Sorth said that Tom Diggs from Bond Architects will give a brief update of the plans later in the meeting. (Plan:  Create Gathering Spaces)
+Library Foundation
+	As mentioned in a previous meeting, Ms. Sorth said that the St. Louis County Library Foundation and Big Brothers Big Sisters of Eastern Missouri are joining forces to raise funds by collecting clothes and small household goods. Collection bins have been placed on the parking lots of ten branches where patrons may drop off used items. The items will be sold and a percentage of the money collected will be shared by the Library Foundation and Big Brothers Big Sisters of Eastern Missouri. The bins are located on the parking lots of the following branches. Daniel Boone, Florissant Valley, Grand Glaize, Grant's View, Indian Trails, Jamestown Bluffs, Lewis and Clark, Rock Road, Thornhill and Weber Road. (Plan:  Sense of Community)
+	On June 14th, the Foundation Board approved an updated Affiliation Agreement between the Library and the Foundation.  The Library Board will review this agreement later in the meeting.
+Author Events.
+	Jane Smiley, “Golden Age”, Monday, June 27, 7:00 p.m., Library Headquarters – Auditorium.
+	Diana Nyad, “Find a Way”, Tuesday, June 28, 7:00 p.m., Library Headquarters – Auditorium.
+	Larry Watson, “As Good As Gone”, Thursday, June 30, 7:00 p.m., Library Headquarters – Auditorium.
+	Emily Giffin, “First Comes Love”, Tuesday, July 5, 7:00 p.m., Library Headquarters – Auditorium.
+	Ace Atkins, “The Innocents: A Quinn Colson Novel”, Thursday, July 14, 7:00 p.m., Library Headquarters – Auditorium.
+	Daniel Silva, “The Black Widow”, TICKETED EVENT, Saturday, July 16, 7:00 p.m. Library Headquarters – Main Reading Room.
+OLD BUSINESS
+None
+NEW BUSINESS
+PHASE 2 CONSTRUCTION UPDATE
+Ms. Sorth introduced Tom Diggs, an architect with Bond Architects who gave a brief presentation on the designs for the first three branches in Phase 2 of the construction projects, Bridgeton Trails, Florissant Valley and Daniel Boone.
+In answer to Dr.Tai’s question about moving the Asian collection from Daniel Boone to Thornhill where there is a large Asian population, Ms. Sorth said that this could be considered during the design phase for Thornhill.
+MUSICK ROAD IMPROVEMENTS – GENERAL WARRANTY DEED
+Kristen Sorth presented information on St. Louis County Transportation’s plan to upgrade Musick Road and the Musick Road - Gravois Road intersection and requested Board approval of a General Warranty Deed outlining details of a permanent right of way as well as a temporary easement needed in order to proceed with the necessary construction.
+Ms. Sorth stated that all of the proposed changes were considered in the original Grant’s View design and will not negatively affect the branch or the parking lot. In order to complete the work, St. Louis County is requesting 6,312 sq. ft. of additional, permanent right-of-way in the form of a 10 ft. wide strip along Musick, and 7,863 sq. ft. of a temporary easement for the construction work. The General Warranty Deed showing details of these acquisitions was shared with the Board. Ms. Sorth emphasized that there will be no additional cost to the Library.
+The Library Board approved the General Warranty Deed and authorized the Director to enter into and execute the agreement (Cunnane/Mulligan).
+PHASE 2 ENGINEERING TESTING SERVICES
+Kristen Sorth presented a recommendation to approve the selection of a firm to provide Engineering Testing Services for the Phase 2 Construction projects (Daniel Boone, Florissant Valley, Bridgeton Trails, Meramec Valley, Thornhill, Grand Glaize, Mid-County, and
+Operations).
+An RFQ was published on April 28, 2016 with responses due May 18, 2016. The RFQ was posted on the Library’s website and an ad was placed in the Post-Dispatch. In addition, forty-five M/WBE firms were contacted directly and invited to submit proposals. Responses were received from five firms.
+In accordance with the Library District’s Policy II for Professional Services, Administration and representatives from Landmark Contract Management independently reviewed and ranked the proposals based on the responses given to the proposal requirements. Administration determined that TSi Geotechnical, Inc. (TSi) was the best qualified firm. TSi was then asked to submit a rate sheet, which was shared with the Board.  Ms. Sorth explained that testing firms are generally engaged on a “unit of service” basis and TSi’s unit prices were in line with administration’s expectations for the work specified. As each individual scope of work is defined, not-to exceed values will be negotiated for each project.
+The Library Board approved the Library Administration’s recommendation to select TSi to provide engineering testing services to the Library District for the Phase 2 construction projects and authorized the Director to enter into a contract to that effect (Kenyon/Tai).
+GASB 54 FUND BALANCE POLICY
+Kris Mooney presented a recommendation to approve minor revisions to the GASB 54 fund balance policy that was previously approved by the Board in October, 2011.
+Mr. Mooney explained that the Governmental Accounting Standards Board (GASB) issued statement number 54 in February, 2009 to clearly define the different types of fund balances a governmental entity may have. Additionally, the policy states the person who is authorized to commit, or assign, Library funds, and indicates the percentage range of the Library District’s unassigned fund balance. During the 2015 audit performed by the Library Auditors Kerber, Eck, and Braeckel (KEB), it was noticed the policy needed to be updated to reflect the following:
+ 1. Policy states the Board has extended authority to the Associate Director & Comptroller to assign funds. That position has since been eliminated and the policy updated to reflect the authority given to the Manager, Finance.
+2. Update with the most recent approval of the percentage range of the unassigned fund balance which was last approved by the Board in September, 2014. That percentage range in the old GASB 54 policy was between 10% and 15%. The approved range in 2014 was between 15% and 20%.
+Mr. Mooney stated that KEB had reviewed the updated policy and both the old and new policies highlighting the proposed changes were shared with the Board.
+The Library Board approved the administration’s recommendation to update the GASB 54 fund balance policy to reflect the change in title from Associate Director & Comptroller to Manager, Finance and the percentage range of unassigned fund balance from 10% - 15% to 15% - 20%. (Cunnane/Mulligan).
+PETITIONS & ELECTIONEERING POLICY
+Barbara Brain presented a recommendation to approve revisions to the Petitions and Electioneering Policy that was last reviewed and approved by the Board on May 21, 2012.
+Ms. Brain stated that the Library supports the right of individuals and organizations to petition on its property but reserves the right to impose reasonable restrictions on that activity in order to ensure that it does not interfere with the public’s access to facilities or disrupt Library activities. The policy has been updated to address some of the issues patrons and staff have experienced with overly persistent petitioners.
+Additions to the policy include a statement that petitioners may stand on the Library’s sidewalks at a distance of 25 feet from entrances and exits but may not confront patrons in the parking lot, follow them to or from their vehicles, obstruct, intimidate or harass patrons. The revised policy also makes it clear that there may be no more than three petitioners at an entrance or exit at one time and they may not set up tables, chairs and other items that could impede patron access to the building.
+Ms. Brain shared a clean copy of the policy with the Board as well as a red lined copy with changes tracked.
+The Library Board approved the revised Petitions and Electioneering Policy (Tai/Kenyon).
+LIBRARY CODE OF CONDUCT
+Barbara Brain presented revisions to the Library Code of Conduct that was last reviewed and approved by the Board on September 21, 2015.
+Ms. Brain explained that, on the advice of legal counsel, information had been added regarding the process whereby patrons may appeal the revocation of their Library privileges. The revised policy states explicitly that failure to observe the Code of Conduct may result in the revocation of Library privileges for a specified period of time. The revision also details the appeal process which consists of a written appeal to the Library Director and an opportunity to participate in a telephone conference with the Director to present his or her case. For revocations of more than six months, the Code provides for an additional appeal in writing to the President of the Library Board.
+A red lined copy of the policy indicating the changes and also a clean copy were shared with the Board.
+The Library Board approved the revised Library Code of Conduct (Tai/Cunnane).
+WEBSITE RFQ
+Gib Van Cleve presented the Administration’s recommendation to select Interpersonal Frequency to provide website redesign services for the Library.
+Mr. Van Cleve reported that the redesign of the Library’s website was included in the 2016 Budget and it is also an important component of the 2016 Strategic Plan activities that were presented to the Library Board at the December Board Meeting. The current website was implemented in 2011 and is in need of a complete redesign.
+Mr. Van Cleve explained that a team consisting of himself, Jennifer McBride, Jen Messmer, and Kristen Sorth with the assistance of Lashly Baer, developed a comprehensive Request for Qualifications (RFQ) for the website redesign and development project. The RFQ was published on March 26, 2016 with responses due May 4, 2016. It was posted on the Library’s website and an ad placed in the Post-Dispatch. Nine responses were received. The team independently reviewed each organization's qualifications and selected the three highest ranked firms to be interviewed.
+Interpersonal Frequency was determined to be the best qualified firm in accordance with the Library District’s Policy II for Professional Services. Their project cost is $93,000. Mr. Van Cleve said that the 2016 technology budget included $75,000 for the redesign project and the Library also received a $29,760 technology grant from the State of Missouri for the website redesign.
+The Library Board approved Administration’s recommendation for the selection of Interpersonal Frequency for website design services at a cost of $93,000 and authorized the Director to enter into and execute a contract to that effect (Kenyon/Mulligan).
+FOUNDATION AFFILIATION AGREEMENT
+Jim Bogart presented an updated Affiliation Agreement for the Board’s approval.
+Mr. Bogart explained that, with the establishment of the Foundation as a separate 501(c) (3) in June of 2010, the Library and the Foundation entered into an Affiliation Agreement and a Shared Services Agreement to describe the relationship between the two entities. He stated that the Affiliation Agreement had been updated to reflect changes in the Foundation Board’s ByLaws that were approved in 2015. The revisions were reviewed by Lashly Baer and include:
+	A reduction in the duration of the agreement from five years to three years.
+	A change in the term served by Review Committee members from two to three years, except for Directors whose term will be coincident with their respective terms of office.
+	A change in the Review Committee’s meeting schedule from twice a year to at least once a year.
+Mr. Bogart reported that the Foundation Board had approved the revised Affiliation Agreement on June 14, 2016. A clean copy of the revised Affiliation Agreement was shared with the Board as well as a copy with all changes tracked.
+The Library Board approved the revisions to the Affiliation Agreement dated June 14, 2016 (Cunnane/Mulligan).
+EMPLOYEE BENEFITS - HEALTH INSURANCE
+Kristen Sorth presented Administration’s recommendation, in consultation with Daniel and Henry, to remain with Aetna as the Library’s employee health insurance provider
+Ms. Sorth reported that the renewal received from the Library’s current carrier, Aetna was initially 18.40%. The market trend for health insurance renewals is 14%. Because of the high rate, Daniel & Henry was asked to approach the market and sent proposals to four carriers in addition to Aetna.
+Ms. Sorth explained that, with the advice and assistance of Daniel & Henry, the Library has made changes to the current plan to further reduce costs. This year, employees will have an option of choosing the current PPO or the Carelink Network plan which does not include BJC doctors or hospitals. The Library is also introducing a major change in the plan by reducing coinsurance from 100% to 90%. Introducing the 10% employee coinsurance will save the Library a minimum of $40,000 in medical premiums. Other changes include a lower out-of pocket maximum and additional wellness services for Library employees as part of offering the Dual Choice Option.
+The final negotiated rate for the PPO plan is 7.5%. Rates for the new Carelink Network plan option are 4.5% higher than the expiring rates for the current plan. These percentages include the required fee under the Affordable Care Act. These rates will be effective August 1, 2016. The employee rate for the PPO plan will increase from $562.41 to $604.94 a month and dependent coverage will increase from $635.52 to $683.56. Dependent coverage is for the entire family and the employee is responsible for this entire amount if they elect to have this coverage. The employee rate under the Carelink option will be $589.51 and the dependent coverage amount will be $646.23. This increase will also affect the rates for the pre-65 insurance plan for retirees. The pre-65 insurance benefit is strictly voluntary and does not result in any cost to the Library.
+Ms. Sorth said that employees who participated in the Wellness Screenings would continue to pay the preferred rate of $15 a month toward the cost of their individual health insurance.
+Employees who did not participate will pay $50 a month toward the cost of their health insurance. The Health Reimbursement Arrangement (HRA) approved by the Library Board in 2008 will also remain in place. BeneFlex administers the Library’s HRA and Flexible Spending Account plan. There will be no additional administrative costs with the exception of a renewal fee for each plan of $200 each. A 10% increase for health insurance was included in the Library’s 2016 Budget. Ms. Sorth also mentioned that it is important to note that the Library received a -9.16% decrease in rates in 2015 from Aetna
+The Library Board approved Administration’s recommendation in consultation with Daniel and Henry to remain with Aetna as the Library’s employee health insurance provider with an increase of 7.5% for the PPO plan and 4.5% for the Carelink plan from the Library’s current rates (Tai/Kenyon).
+EMPLOYEE BENEFITS - DENTAL INSURANCE
+Kristen Sorth presented the Administration’s recommendation, in consultation with Daniel and Henry, to remain with Delta Dental for the Library’s dental insurance.
+Ms. Sorth reported that the August 1, 2016 renewal for employee dental insurance was received from the Library’s current carrier, Delta Dental. There will be a 0% increase in employee and dependent rates. The employee rate will remain at $35.48 per month. The Library pays for this portion of the dental insurance. The dependent rate remains at $62.82 per month. Dependent coverage is for the entire family and the employee is responsible for this amount if they elect to have dependent coverage. Ms. Sorth also mentioned that the Library has received a two-year rate hold from Delta Dental.
+The Library Board approved the recommendation to remain with Delta Dental (Cunnane/Tai). The budgeted amount for the dental insurance renewal was 10%.
+EMPLOYEE BENEFITS - LIFE INSURANCE
+Ms. Sorth presented a recommendation regarding the Library’s life insurance.
+She reported that the Library has a rate hold on the life insurance. There will be a 0% increase for the Library’s basic life, accidental death and dismemberment (AD&D) and long-term disability (LTD) insurance through Reliance Standard. The rates for this year will continue to be $.32/$.010/$1000 for basic life/AD&D and $.20/$100 for long-term disability. There were no changes to the voluntary life insurance rates.
+The Library Board approved Administration’s recommendation in consultation with Daniel and Henry to remain with Reliance Standard for life, AD&D, LTD, and voluntary life insurance
+(Kenyon/Mulligan).
+EMPLOYEE BENEFITS - VISION INSURANCE
+Kristen Sorth presented the Administration’s recommendation, in consultation with Daniel and Henry, to remain with VSP for the Library’s optional vision insurance.
+Ms. Sorth reported that the Library has a rate hold on the vision insurance and there will be a 0% increase for that insurance through VSP. Ms. Sorth also explained that this is a voluntary benefit and does not result in any cost to the Library. The employee rate will remain at $8.35/month and dependent coverage will remain at $17.96/month.
+The Library Board approved remaining with VSP for the Library’s optional vision insurance (Cunnane/Kenyon).
+SEXUAL ABUSE AND MISCONDUCT PREVENTION POLICY
+Kristen Sorth presented a Sexual Abuse and Misconduct Prevention Policy for the Board’s approval.
+Ms. Sorth reported that, as part of the 2016 insurance renewal in April, Daniel and Henry Company recommended that the Library add a sexual abuse/molestation insurance policy. As part of the provisions for adding this insurance coverage, the Library was required to create a policy that covered this topic. The Library created a Sexual Abuse and Misconduct Prevention Policy that was reviewed by McMahon Berger, the Library’s HR counsel. Once approved, this policy will be added to the employee’s Personnel Manual and all new employees will receive training on it. The policy statement was shared with the Board.
+The Library Board approved the Sexual Abuse and Misconduct Prevention Policy (Tai/ Kenyon).
+ADJOURNMENT
+A motion to adjourn the open meeting and to convene Executive Session to discuss real estate (Section 610.021(2)) was made by Mrs. Cunnane and seconded by Mrs. Kenyon).
+The meeting adjourned at 4:43 p.m.
+Respectfully submitted,
+__________________________________                            _________________________
+Chingling Tai, Secretary                                                         Date
