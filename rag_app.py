@@ -54,8 +54,10 @@ with st.sidebar:
     st.markdown("""
     This AI assistant uses:
     - **OpenAI GPT-4o-mini** for intelligent responses
-    - **OpenAI Embeddings** for semantic search
-    - **FAISS** vector database
+    - **Hybrid Search** combining:
+      - **Semantic search** (OpenAI embeddings + ChromaDB)
+      - **Keyword search** (BM25)
+    - **Cross-encoder reranking** for best results
     - **RAG** (Retrieval Augmented Generation)
     
     Ask questions like:

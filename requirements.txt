@@ -1,9 +1,11 @@
 langchain
 langchain-community
 langchain-openai
+langchain-chroma
 streamlit
-faiss-cpu
 python-dotenv
 openai
 tiktoken
 sentence-transformers
+chromadb
+rank-bm25

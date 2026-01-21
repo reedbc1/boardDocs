@@ -1,21 +1,30 @@
 import os
 import json
 import re
+import pickle
 from datetime import datetime
 from dotenv import load_dotenv
 from langchain_community.document_loaders import DirectoryLoader, TextLoader
 from langchain_text_splitters import RecursiveCharacterTextSplitter
-from langchain_community.vectorstores import FAISS
+from langchain_chroma import Chroma
 from langchain_openai import OpenAIEmbeddings, ChatOpenAI
 from sentence_transformers import CrossEncoder
+from rank_bm25 import BM25Okapi
+import chromadb
 
 load_dotenv()
 
 # Configuration
 MINUTES_DIR = "minutes"
-INDEX_PATH = "faiss_index"
+INDEX_PATH = "chroma_db"
+COLLECTION_NAME = "board_minutes"
+BM25_INDEX_PATH = "bm25_index.pkl"
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 reranker = CrossEncoder("BAAI/bge-reranker-large")
+
+# Global BM25 retriever
+bm25_retriever = None
+bm25_documents = None
 
 def extract_date_from_document(doc):
     """Extract date from document metadata/content and add to metadata."""
@@ -50,8 +59,31 @@ def extract_date_from_document(doc):
     
     return doc
 
+def create_bm25_index(chunks):
+    """Create BM25 index from document chunks."""
+    print("Creating BM25 index...")
+    
+    # Tokenize documents for BM25
+    tokenized_corpus = [doc.page_content.lower().split() for doc in chunks]
+    
+    # Create BM25 index
+    bm25 = BM25Okapi(tokenized_corpus)
+    
+    # Save BM25 index and documents
+    with open(BM25_INDEX_PATH, 'wb') as f:
+        pickle.dump({'bm25': bm25, 'documents': chunks}, f)
+    
+    print(f"BM25 index saved to {BM25_INDEX_PATH}")
+    return bm25, chunks
+
+def load_bm25_index():
+    """Load existing BM25 index."""
+    with open(BM25_INDEX_PATH, 'rb') as f:
+        data = pickle.load(f)
+    return data['bm25'], data['documents']
+
 def create_vectorstore():
-    """Load documents, split into chunks, and create FAISS vector store."""
+    """Load documents, split into chunks, and create ChromaDB vector store and BM25 index."""
     print("Loading documents...")
     loader = DirectoryLoader(MINUTES_DIR, glob="*.txt", loader_cls=lambda path: TextLoader(path, encoding='utf-8'))
     documents = loader.load()
@@ -70,18 +102,38 @@ def create_vectorstore():
 
     # Create embeddings and vector store
     embeddings = OpenAIEmbeddings(api_key=OPENAI_API_KEY)
-    vectorstore = FAISS.from_documents(chunks, embeddings)
-
-    # Save the vector store
-    vectorstore.save_local(INDEX_PATH)
+    
+    # Create ChromaDB client and collection
+    client = chromadb.PersistentClient(path=INDEX_PATH)
+    
+    # Delete existing collection if it exists
+    try:
+        client.delete_collection(name=COLLECTION_NAME)
+    except:
+        pass
+    
+    vectorstore = Chroma.from_documents(
+        documents=chunks,
+        embedding=embeddings,
+        persist_directory=INDEX_PATH,
+        collection_name=COLLECTION_NAME
+    )
+    
     print(f"Vector store saved to {INDEX_PATH}")
+    
+    # Create BM25 index
+    create_bm25_index(chunks)
 
     return vectorstore
 
 def load_vectorstore():
-    """Load existing FAISS vector store."""
+    """Load existing ChromaDB vector store."""
     embeddings = OpenAIEmbeddings(api_key=OPENAI_API_KEY)
-    vectorstore = FAISS.load_local(INDEX_PATH, embeddings, allow_dangerous_deserialization=True)
+    vectorstore = Chroma(
+        persist_directory=INDEX_PATH,
+        embedding_function=embeddings,
+        collection_name=COLLECTION_NAME
+    )
     return vectorstore
 
 def create_llm():
@@ -108,6 +160,36 @@ def get_llm():
     if llm is None:
         llm = create_llm()
     return llm
+
+def reciprocal_rank_fusion(results_list, k=60):
+    """Combine multiple ranked result lists using Reciprocal Rank Fusion.
+    
+    Args:
+        results_list: List of lists containing (document, score) tuples
+        k: Constant for RRF formula (default 60)
+    
+    Returns:
+        List of documents sorted by fused score
+    """
+    fused_scores = {}
+    
+    for results in results_list:
+        for rank, (doc, score) in enumerate(results, start=1):
+            # Use document content as key to identify unique documents
+            doc_key = doc.page_content
+            if doc_key not in fused_scores:
+                fused_scores[doc_key] = {'doc': doc, 'score': 0}
+            # RRF formula: 1 / (k + rank)
+            fused_scores[doc_key]['score'] += 1 / (k + rank)
+    
+    # Sort by fused score
+    sorted_results = sorted(
+        fused_scores.values(),
+        key=lambda x: x['score'],
+        reverse=True
+    )
+    
+    return [item['doc'] for item in sorted_results]
 
 def extract_date_filter_from_query(question):
     """Use LLM to extract date or date range from the user's question."""
@@ -164,14 +246,58 @@ def query_documents(question, verbose=False):
     if verbose:
         print(f"Date filter: {date_filter}")
 
-    # Retrieve more documents initially (we'll filter after)
-    # FAISS doesn't support metadata filtering during search
-    candidate_docs = vectorstore.similarity_search(question, k=200)
-    if verbose:
-        print(f"Retrieved {len(candidate_docs)} candidate documents from vectorstore")
+    # Load BM25 retriever if not already loaded
+    global bm25_retriever, bm25_documents
+    if bm25_retriever is None:
+        if verbose:
+            print("Loading BM25 index...")
+        bm25_retriever, bm25_documents = load_bm25_index()
     
-    # Apply date filtering if applicable
-    if date_filter['type'] != 'none':
+    # Build ChromaDB filter based on date requirements
+    # ChromaDB uses exact string matching for equality, so we can use date strings directly
+    chroma_filter = None
+    if date_filter['type'] == 'single':
+        chroma_filter = {"date": date_filter['date']}
+    elif date_filter['type'] == 'range':
+        # For range queries, we need to filter manually after retrieval
+        # because ChromaDB doesn't support string comparison operators
+        pass
+    
+    if verbose:
+        print(f"ChromaDB filter: {chroma_filter}")
+    
+    # HYBRID SEARCH: Combine BM25 and semantic search
+    
+    # 1. Semantic search with ChromaDB (no filter - ChromaDB has bug with query+filter)
+    try:
+        semantic_docs = vectorstore.similarity_search_with_score(question, k=100)
+        
+        if verbose:
+            print(f"Semantic search: Retrieved {len(semantic_docs)} documents")
+    except Exception as e:
+        print(f"Error querying ChromaDB: {e}")
+        semantic_docs = []
+    
+    # 2. BM25 keyword search
+    tokenized_query = question.lower().split()
+    bm25_scores = bm25_retriever.get_scores(tokenized_query)
+    
+    # Get top BM25 results
+    bm25_top_indices = sorted(range(len(bm25_scores)), key=lambda i: bm25_scores[i], reverse=True)[:100]
+    bm25_docs = [(bm25_documents[i], bm25_scores[i]) for i in bm25_top_indices]
+    
+    if verbose:
+        print(f"BM25 search: Retrieved {len(bm25_docs)} documents")
+    
+    # 3. Combine results using Reciprocal Rank Fusion
+    candidate_docs = reciprocal_rank_fusion([semantic_docs, bm25_docs])
+    
+    if verbose:
+        print(f"Hybrid search: Combined to {len(candidate_docs)} unique documents")
+    
+    # Apply date filtering manually after hybrid search
+    # (ChromaDB has a bug with query+filter, so we filter post-retrieval)
+    if date_filter['type'] in ['single', 'range'] and len(candidate_docs) > 0:
         if verbose:
             print(f"Filtering documents by date...")
         filtered_docs = []
@@ -182,21 +308,15 @@ def query_documents(question, verbose=False):
                 continue
                 
             try:
-                doc_date = datetime.strptime(doc_date_str, '%Y-%m-%d')
-                
                 if date_filter['type'] == 'single':
-                    target_date = datetime.strptime(date_filter['date'], '%Y-%m-%d')
-                    if doc_date == target_date:
+                    if doc_date_str == date_filter['date']:
                         filtered_docs.append(doc)
-                        
                 elif date_filter['type'] == 'range':
-                    start_date = datetime.strptime(date_filter['start_date'], '%Y-%m-%d')
-                    end_date = datetime.strptime(date_filter['end_date'], '%Y-%m-%d')
-                    if start_date <= doc_date <= end_date:
+                    # Simple string comparison works for YYYY-MM-DD format
+                    if date_filter['start_date'] <= doc_date_str <= date_filter['end_date']:
                         filtered_docs.append(doc)
-                        
             except Exception as e:
-                print(f"Error parsing date for document: {e}")
+                print(f"Error filtering date for document: {e}")
                 continue
         
         candidate_docs = filtered_docs
@@ -220,7 +340,7 @@ def query_documents(question, verbose=False):
         reverse=True
     )
 
-    docs = [doc for doc, score in reranked_docs[:20]]
+    docs = [doc for doc, score in reranked_docs[:50]]
 
     context = "\n\n".join(
         [f"Source: {doc.metadata['source']}\n{doc.page_content}" for doc in docs]
