@@ -362,7 +362,7 @@ def query_documents(question, verbose=False):
         reverse=True
     )
 
-    docs = [doc for doc, score in reranked_docs[:50]]
+    docs = [doc for doc, score in reranked_docs[:20]]
     t1 = time.perf_counter()
     
     if verbose:
