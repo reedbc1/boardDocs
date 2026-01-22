@@ -2,6 +2,7 @@ import os
 import json
 import re
 import pickle
+import time
 from datetime import datetime
 from dotenv import load_dotenv
 from langchain_community.document_loaders import DirectoryLoader, TextLoader
@@ -20,7 +21,7 @@ INDEX_PATH = "chroma_db"
 COLLECTION_NAME = "board_minutes"
 BM25_INDEX_PATH = "bm25_index.pkl"
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
-reranker = CrossEncoder("BAAI/bge-reranker-large")
+reranker = CrossEncoder("cross-encoder/ms-marco-TinyBERT-L2")
 
 # Global BM25 retriever
 bm25_retriever = None
@@ -242,16 +243,23 @@ def query_documents(question, verbose=False):
     # Extract date filter from question
     if verbose:
         print("Extracting date filter from query...")
+    t0 = time.perf_counter()
     date_filter = extract_date_filter_from_query(question)
+    t1 = time.perf_counter()
     if verbose:
         print(f"Date filter: {date_filter}")
+        print(f"  ⏱️  Date extraction time: {t1-t0:.4f}s")
 
     # Load BM25 retriever if not already loaded
     global bm25_retriever, bm25_documents
     if bm25_retriever is None:
         if verbose:
             print("Loading BM25 index...")
+        t0 = time.perf_counter()
         bm25_retriever, bm25_documents = load_bm25_index()
+        t1 = time.perf_counter()
+        if verbose:
+            print(f"  ⏱️  BM25 loading time: {t1-t0:.4f}s")
     
     # Build ChromaDB filter based on date requirements
     # ChromaDB uses exact string matching for equality, so we can use date strings directly
@@ -269,37 +277,48 @@ def query_documents(question, verbose=False):
     # HYBRID SEARCH: Combine BM25 and semantic search
     
     # 1. Semantic search with ChromaDB (no filter - ChromaDB has bug with query+filter)
+    t0 = time.perf_counter()
     try:
         semantic_docs = vectorstore.similarity_search_with_score(question, k=100)
+        t1 = time.perf_counter()
         
         if verbose:
             print(f"Semantic search: Retrieved {len(semantic_docs)} documents")
+            print(f"  ⏱️  Semantic search time: {t1-t0:.4f}s")
     except Exception as e:
         print(f"Error querying ChromaDB: {e}")
         semantic_docs = []
+        t1 = time.perf_counter()
     
     # 2. BM25 keyword search
+    t0 = time.perf_counter()
     tokenized_query = question.lower().split()
     bm25_scores = bm25_retriever.get_scores(tokenized_query)
     
     # Get top BM25 results
     bm25_top_indices = sorted(range(len(bm25_scores)), key=lambda i: bm25_scores[i], reverse=True)[:100]
     bm25_docs = [(bm25_documents[i], bm25_scores[i]) for i in bm25_top_indices]
+    t1 = time.perf_counter()
     
     if verbose:
         print(f"BM25 search: Retrieved {len(bm25_docs)} documents")
+        print(f"  ⏱️  BM25 search time: {t1-t0:.4f}s")
     
     # 3. Combine results using Reciprocal Rank Fusion
+    t0 = time.perf_counter()
     candidate_docs = reciprocal_rank_fusion([semantic_docs, bm25_docs])
+    t1 = time.perf_counter()
     
     if verbose:
         print(f"Hybrid search: Combined to {len(candidate_docs)} unique documents")
+        print(f"  ⏱️  RRF fusion time: {t1-t0:.4f}s")
     
     # Apply date filtering manually after hybrid search
     # (ChromaDB has a bug with query+filter, so we filter post-retrieval)
     if date_filter['type'] in ['single', 'range'] and len(candidate_docs) > 0:
         if verbose:
             print(f"Filtering documents by date...")
+        t0 = time.perf_counter()
         filtered_docs = []
         
         for doc in candidate_docs:
@@ -320,8 +339,10 @@ def query_documents(question, verbose=False):
                 continue
         
         candidate_docs = filtered_docs
+        t1 = time.perf_counter()
         if verbose:
             print(f"After date filtering: {len(candidate_docs)} documents")
+            print(f"  ⏱️  Date filtering time: {t1-t0:.4f}s")
     
     # If no documents match the date filter, inform the user
     if len(candidate_docs) == 0:
@@ -331,6 +352,7 @@ def query_documents(question, verbose=False):
         return "No relevant documents found for your query.", []
 
     # Rerank
+    t0 = time.perf_counter()
     pairs = [(question, doc.page_content) for doc in candidate_docs]
     scores = reranker.predict(pairs)
 
@@ -341,7 +363,12 @@ def query_documents(question, verbose=False):
     )
 
     docs = [doc for doc, score in reranked_docs[:50]]
+    t1 = time.perf_counter()
+    
+    if verbose:
+        print(f"  ⏱️  Reranking time: {t1-t0:.4f}s")
 
+    t0 = time.perf_counter()
     context = "\n\n".join(
         [f"Source: {doc.metadata['source']}\n{doc.page_content}" for doc in docs]
     )
@@ -356,16 +383,37 @@ Question: {question}
 
 Please provide a detailed answer based on the context above. If the context doesn't contain enough information to fully answer the question, say so and provide what information is available.
 """
+    t1 = time.perf_counter()
+    if verbose:
+        print(f"  ⏱️  Context preparation time: {t1-t0:.4f}s")
 
+    t0 = time.perf_counter()
     llm = get_llm()
     response = llm.invoke(prompt)
+    t1 = time.perf_counter()
+    if verbose:
+        print(f"  ⏱️  LLM generation time: {t1-t0:.4f}s")
+    
     return response.content, docs
 
 if __name__ == "__main__":
     # Test query
-    question = "Summarize the year 2014."
+    question = "Any mentions of someone named Laura Thomas?"
+    start_time = time.perf_counter()
     response, docs = query_documents(question, verbose=True)
+    end_time = time.perf_counter()
+    elapsed_time = end_time - start_time
+
+    print(f"\nElapsed time: {elapsed_time:.4f} seconds")
     print(f"\nQuestion: {question}")
     print(f"\nAnswer: {response}")
     print(f"\nSources: {[doc.metadata['source'] for doc in docs]}")
-    print(f"\nSources: {[doc.metadata['source'] for doc in docs]}")
+    
+
+
+    
+
+    
+    
+
+    
