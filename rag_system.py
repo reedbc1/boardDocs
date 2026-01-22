@@ -340,7 +340,7 @@ def query_documents(question, verbose=False):
         reverse=True
     )
 
-    docs = [doc for doc, score in reranked_docs[:50]]
+    docs = [doc for doc, score in reranked_docs[:10]]
 
     context = "\n\n".join(
         [f"Source: {doc.metadata['source']}\n{doc.page_content}" for doc in docs]
