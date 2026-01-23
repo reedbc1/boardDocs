@@ -1,21 +1,23 @@
 import streamlit as st
 from rag_system import query_documents
 
-st.set_page_config(page_title="Board Minutes AI Assistant", page_icon="📋", layout="wide")
+st.set_page_config(page_title="Board Minutes AI Assistant", page_icon="📋", layout="centered")
 
-st.title("📋 Board Minutes AI Assistant")
-st.markdown("Ask questions about board meeting minutes and get AI-powered answers with source citations.")
+st.title("SLCL Board Minutes AI Assistant")
+st.markdown("Ask questions about SLCL board meeting minutes and get AI-powered answers with source citations.")
 
+container = st.container()
+    
 # Initialize chat history
 if "messages" not in st.session_state:
     st.session_state.messages = []
 
 # Display chat messages from history
 for message in st.session_state.messages:
-    with st.chat_message(message["role"]):
+    with container.chat_message(message["role"]):
         st.markdown(message["content"])
         if message["role"] == "assistant" and "sources" in message:
-            with st.expander("📄 View Source Documents"):
+            with container.expander("📄 View Source Documents"):
                 for doc in message["sources"]:
                     st.markdown(f"**{doc.metadata['source']}**")
                     st.text(doc.page_content[:300] + "..." if len(doc.page_content) > 300 else doc.page_content)
@@ -27,11 +29,10 @@ if prompt := st.chat_input("Ask a question about the board meetings..."):
     st.session_state.messages.append({"role": "user", "content": prompt})
     
     # Get response from RAG system
-    with st.spinner("🤔 Analyzing board meeting documents..."):
+    with container.spinner("🤔 Analyzing board meeting documents..."):
         try:
             response, docs = query_documents(prompt)
             
-            # Add assistant response to history
             st.session_state.messages.append({
                 "role": "assistant", 
                 "content": response,
@@ -61,10 +62,10 @@ with st.sidebar:
     - **RAG** (Retrieval Augmented Generation)
     
     Ask questions like:
-    - What decisions were made about the budget?
-    - Summarize discussions on strategic planning
-    - What policies were reviewed?
-    - Tell me about recent board actions
+    - Describe circulation trends from 2015 through 2025.
+    - Any mentions of the Weber Road Branch?
+    - How have new federal and state laws impacted the library?
+    - What is the timeline for the Samuel C. Sachs branch reconstruction?
     """)
     
     if st.button("🔄 Clear Chat History"):
