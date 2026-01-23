@@ -51,4 +51,13 @@ If `verbose=True`, additional details will be printed to the console, including 
 - request response
 
 ### Fetching Documents
-...
+#### When `main` is run:
+<b>1. Retrieve board meeting IDs</b>
+- check previously processed meeting IDs.
+- retrieve board meeting metadata from website
+- process board meeting metadata
+
+<b>2. Retrieve meeting documents for every ID that hasn't been previously processed</b>
+- Download agenda (not currently used in RAG)
+- Download minutes (used in RAG)
+- Update retrieved IDs
