@@ -3,8 +3,8 @@ from rag_system import query_documents
 
 st.set_page_config(page_title="Board Minutes AI Assistant", page_icon="📋", layout="centered")
 
-st.title("SLCL Board Minutes AI Assistant")
-st.markdown("Ask questions about SLCL board meeting minutes and get AI-powered answers with source citations.")
+with st.container():
+    st.image("Picture1.png")
 
 container = st.container()
     
