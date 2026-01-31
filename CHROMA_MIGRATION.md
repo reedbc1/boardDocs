@@ -42,7 +42,7 @@ Successfully migrated from FAISS to ChromaDB for the RAG system. The main benefi
 
 Your RAG system is ready to use! To run:
 ```bash
-streamlit run python_files/rag_app.py
+streamlit run rag_app.py
 ```
 
 The system will now efficiently filter by date metadata using ChromaDB's native capabilities.

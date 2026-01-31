@@ -21,7 +21,7 @@ This is a Retrieval-Augmented Generation (RAG) system designed to answer questio
    - Reranks results using CrossEncoder
    - Generates final answer using GPT-4o-mini
 
-3. **User Interface** ([python_files/rag_app.py](python_files/rag_app.py))
+3. **User Interface** ([rag_app.py](rag_app.py))
    - Streamlit-based chat interface
    - Maintains conversation history
    - Displays source documents with citations

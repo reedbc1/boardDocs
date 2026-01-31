@@ -6,7 +6,7 @@
 - Uses RAG to retrieve relevant parts of SLCL meeting minutes and uses AI to answer a query based on the documents.
 
 ## Quick Start:
-- run `streamlit run python_files/rag_app.py` to open an interactive web UI (recommended for general use)
+- run `streamlit run rag_app.py` to open an interactive web UI (recommended for general use)
 
 ## Usage:
 - run `python python_files/rag_system.py` to run the single query at the bottom of the file (best used for testing)
