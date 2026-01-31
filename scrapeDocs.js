@@ -44,46 +44,12 @@ async function writeFile(fileName, jsonData) {
 function readFile(filename) {
     const fs = require('node:fs');
     try {
-    const data = fs.readFileSync(filename, 'utf8');
-    return data;
+        const data = fs.readFileSync(filename, 'utf8');
+        return data;
     } catch (err) {
-    console.error(err);
+        console.error(`${filename} not found.`);
     }
 
-}
-
-
-async function downloadAgenda(id) {
-    // fetch request for agenda with id
-    const response = await fetch("https://go.boarddocs.com/mo/slcl/Board.nsf/Download-AgendaDetailed?open&%22%20+%20Math.random()", {
-    "headers": {
-        "accept": "*/*",
-        "accept-language": "en-US,en;q=0.9",
-        "content-type": "application/x-www-form-urlencoded; charset=UTF-8",
-        "sec-ch-ua": "\"Not(A:Brand\";v=\"8\", \"Chromium\";v=\"144\", \"Google Chrome\";v=\"144\"",
-        "sec-ch-ua-mobile": "?0",
-        "sec-ch-ua-platform": "\"Windows\"",
-        "sec-fetch-dest": "empty",
-        "sec-fetch-mode": "cors",
-        "sec-fetch-site": "same-origin",
-        "x-requested-with": "XMLHttpRequest",
-        "cookie": "SessionID=A475F12D893932AE307737759F211C77DEC93127",
-        "Referer": "https://go.boarddocs.com/mo/slcl/Board.nsf/Public"
-    },
-    "body": `id=${id}&current_committee_id=AAUJEW4CE322`,
-    "method": "POST"
-    });
-
-    try {
-        if (!response.ok) {
-            throw new Error(`Response status: ${response.status}`);
-        }
-        const html = await response.text();
-        return html;
-    } catch (error) {
-        console.error(`Failed to download agenda for ${id}: ${error.message}`);
-        return null;
-    }
 }
 
 
@@ -135,46 +101,15 @@ async function main() {
 
     // Extract all IDs
     const allIds = meetingData.map(arr => {
-        console.log(typeof arr.Date);
-        return {
-            'name': arr.Name, 
-            'description': arr.Description,
-            'unique': arr.Unique,
-            'date': arr.Date
-        }
+        return arr.Unique;
     });
 
     // Filter to only new IDs
-    const newIds = allIds.filter(dict => !processedIds.includes(dict.date));
+    const newIds = allIds.filter(id => !processedIds.includes(id));
 
     // Process new IDs
     for (let id of newIds) {
-        console.log(`Processing id: ${id.unique}`);
-
-        // Download agenda
-        const agendaHtml = await downloadAgenda(id.unique);
-        if (agendaHtml) {
-            const text = extractText(agendaHtml);
-
-            console.log(typeof id.date);
-            date = new Date(id.date);
-
-            if (text.trim()) {
-                const sanitizedDate = id.date.split('T')[0]; // Gets '2025-12-18'
-                const metadata = JSON.stringify({
-                    name: id.name,
-                    description: id.description,
-                    unique: id.unique,
-                    date: id.date
-                }, null, 2);
-                const contentWithMetadata = `${metadata}\n\n---\n\n${text}`;
-                const textPath = `agendas\\${sanitizedDate}.txt`;
-                await writeFile(textPath, contentWithMetadata);
-                console.log(`Saved agenda text for ${id.date}`);
-            } else {
-                console.log(`No text in agenda for ${id.date}`);
-            }
-        }
+        console.log(`Processing id: ${id}`);
 
         // Download minutes
         const minutesHtml = await downloadMinutes(id.unique);
