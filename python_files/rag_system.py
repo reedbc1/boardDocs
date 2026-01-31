@@ -205,7 +205,8 @@ If the question mentions:
 - A date range, return both start and end dates in YYYY-MM-DD format
 - A month/year, return the start and end of that month
 - A year, return the start and end of that year
-- Relative dates ("last month", "this year", "recent"), convert to actual dates (today is {datetime.now().strftime('%Y-%m-%d')})
+- Relative dates ("last month", "this year"), convert to actual dates (today is {datetime.now().strftime('%Y-%m-%d')})
+- "Recent" or "recently", return the date 4 months ago and today
 - No date mentioned, return "NONE"
 
 Respond ONLY with a JSON object in one of these formats:
@@ -398,7 +399,7 @@ Please provide a detailed answer based on the context above. If the context does
 
 if __name__ == "__main__":
     # Test query
-    question = "Any mentions of someone named Laura Thomas?"
+    question = "What has happened recently?"
     start_time = time.perf_counter()
     response, docs = query_documents(question, verbose=True)
     end_time = time.perf_counter()
