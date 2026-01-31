@@ -1,10 +1,11 @@
 import streamlit as st
 from rag_system import query_documents
 
-st.set_page_config(page_title="Board Minutes AI Assistant", page_icon="📋", layout="centered")
+st.set_page_config(page_title="Board Minutes AI Assistant", page_icon=":material/borg:", layout="centered")
 
-with st.container():
-    st.image("Picture1.png")
+with st.container(vertical_alignment = "top", horizontal_alignment = "center", gap=None):
+    st.image("boarddocs.svg", width=1000)
+    st.image("bd_subtext.svg", width=1000)
 
 container = st.container()
     
