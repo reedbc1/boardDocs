@@ -10,14 +10,14 @@ Successfully migrated from FAISS to ChromaDB for the RAG system. The main benefi
 - **No manual post-processing** needed for single dates - ChromaDB handles it natively
 
 ### 2. **Files Modified**
-- `rag_system.py`: 
+- `python_files/rag_system.py`: 
   - Changed from `langchain_community.vectorstores.FAISS` to `langchain_chroma.Chroma`
   - Updated `create_vectorstore()` to use ChromaDB persistent storage
   - Updated `load_vectorstore()` to load from ChromaDB
   - Modified `query_documents()` to use ChromaDB's native filtering for single dates
   - Simplified date range filtering (no need for datetime parsing, just string comparison)
   
-- `rebuild_index.py`: Updated documentation to reflect ChromaDB usage
+- `python_files/rebuild_index.py`: Updated documentation to reflect ChromaDB usage
 
 - `requirements.txt`: 
   - Removed: `faiss-cpu`
@@ -42,7 +42,7 @@ Successfully migrated from FAISS to ChromaDB for the RAG system. The main benefi
 
 Your RAG system is ready to use! To run:
 ```bash
-streamlit run rag_app.py
+streamlit run python_files/rag_app.py
 ```
 
 The system will now efficiently filter by date metadata using ChromaDB's native capabilities.

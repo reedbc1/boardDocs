@@ -6,18 +6,18 @@
 - Uses RAG to retrieve relevant parts of SLCL meeting minutes and uses AI to answer a query based on the documents.
 
 ## Quick Start:
-- run `streamlit rag_system.py` to open an interactive web UI (recommended for general use)
+- run `streamlit run python_files/rag_app.py` to open an interactive web UI (recommended for general use)
 
 ## Usage:
-- run `python rag_system.py` to run the single query at the bottom of the file (best used for testing)
-- run `python rebuild_index.py` to rebuild FAISS and BM25 indexes (only necessary if new documents are added)
+- run `python python_files/rag_system.py` to run the single query at the bottom of the file (best used for testing)
+- run `python python_files/rebuild_index.py` to rebuild FAISS and BM25 indexes (only necessary if new documents are added)
 - run `node scrapeDocs.js` to fetch more recent board docs. If new documents are fetched, rebuild indexes.
 
 ## How It Works:
 ### Rebuilding Indexes
-run `python rebuild_index.py`
+run `python python_files/rebuild_index.py`
 - removes ChromaDB index if exists
-- calls `create_vectorstore` from rag_system.py
+- calls `create_vectorstore` from python_files/rag_system.py
 
 `create_vectorstore` does the following:
 - Loads documents and extracts meeting dates as metadata
@@ -26,7 +26,7 @@ run `python rebuild_index.py`
 - Creates BM25 index
 
 ### Querying Documents
-The main function to query documents is `query_documents` in rag_system.py.
+The main function to query documents is `query_documents` in python_files/rag_system.py.
 The arguments are `question, verbose=False`.
 If `verbose=True`, additional details will be printed to the console, including when certain parts of the function run and times each section takes to run.
 

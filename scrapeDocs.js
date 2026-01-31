@@ -23,7 +23,7 @@ async function getBoardIds() {
 
     const data = await response.json();
     const jsonData = JSON.stringify(data);
-    await writeFile('meetingIds.json', jsonData);
+    await writeFile('json_files/meetingIds.json', jsonData);
     return data;
 }
 
@@ -124,7 +124,7 @@ async function main() {
     // Load processed IDs
     let processedIds = [];
     try {
-        const data = readFile('processedIds.json');
+        const data = readFile('json_files/processedIds.json');
         processedIds = JSON.parse(data);
     } catch (e) {
         // File doesn't exist, start with empty array
@@ -200,7 +200,7 @@ async function main() {
 
     // Update processed IDs
     processedIds.push(...newIds);
-    await writeFile('processedIds.json', JSON.stringify(processedIds));
+    await writeFile('json_files/processedIds.json', JSON.stringify(processedIds));
 }
 
 main().catch(console.error);

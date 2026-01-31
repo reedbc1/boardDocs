@@ -8,20 +8,20 @@ This is a Retrieval-Augmented Generation (RAG) system designed to answer questio
 
 ### Core Components
 
-1. **Document Processing** ([rag_system.py](rag_system.py))
+1. **Document Processing** ([python_files/rag_system.py](python_files/rag_system.py))
    - Loads board meeting minutes from text files
    - Extracts date metadata from JSON headers and filenames
    - Splits documents into chunks for vector storage
    - Creates and manages FAISS vector store
 
-2. **Query Processing** ([rag_system.py](rag_system.py))
+2. **Query Processing** ([python_files/rag_system.py](python_files/rag_system.py))
    - Extracts date filters from natural language queries using LLM
    - Retrieves candidate documents via vector similarity search
    - Filters documents by date metadata
    - Reranks results using CrossEncoder
    - Generates final answer using GPT-4o-mini
 
-3. **User Interface** ([rag_app.py](rag_app.py))
+3. **User Interface** ([python_files/rag_app.py](python_files/rag_app.py))
    - Streamlit-based chat interface
    - Maintains conversation history
    - Displays source documents with citations
