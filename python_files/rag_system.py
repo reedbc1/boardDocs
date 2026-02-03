@@ -207,7 +207,13 @@ If the question mentions:
 - A year, return the start and end of that year
 - Relative dates ("last month", "this year"), convert to actual dates (today is {datetime.now().strftime('%Y-%m-%d')})
 - "Recent" or "recently", return the date 4 months ago and today
+- "Most recent", return the date 2 months ago and today.
 - No date mentioned, return "NONE"
+- "In a particular month" return the first date of that month and the last date of that month.
+- If the user does not mention a year and only mentions a month, assume that the year is this year 
+  (this year is {datetime.now().strftime('%Y')}), unless the month has not occured yet.
+- If the month has not occured yet this year (ex. December, 2026-12 and todays date is 2025-01), assume the year is last year 
+  (ex. 2025-12)
 
 Respond ONLY with a JSON object in one of these formats:
 1. For a specific date: {{"type": "single", "date": "YYYY-MM-DD"}}
@@ -318,7 +324,7 @@ def query_documents(question, verbose=False):
     # (ChromaDB has a bug with query+filter, so we filter post-retrieval)
     if date_filter['type'] in ['single', 'range'] and len(candidate_docs) > 0:
         if verbose:
-            print(f"Filtering documents by date...")
+            print("Filtering documents by date...")
         t0 = time.perf_counter()
         filtered_docs = []
         
@@ -399,7 +405,7 @@ Please provide a detailed answer based on the context above. If the context does
 
 if __name__ == "__main__":
     # Test query
-    question = "What has happened recently?"
+    question = "Summarize the board docs for December."
     start_time = time.perf_counter()
     response, docs = query_documents(question, verbose=True)
     end_time = time.perf_counter()
@@ -409,12 +415,3 @@ if __name__ == "__main__":
     print(f"\nQuestion: {question}")
     print(f"\nAnswer: {response}")
     print(f"\nSources: {[doc.metadata['source'] for doc in docs]}")
-    
-
-
-    
-
-    
-    
-
-    
